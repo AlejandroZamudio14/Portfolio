@@ -1,0 +1,379 @@
+"game_id","team","opponent","player","ip","ha","er","bb","hb","so","bf","hr_a","go","fo","season"
+2189774,"Texas","FGCU","Dolcini, Hailey",6,2,2,3,0,12,23,0,2,4,2022
+2190079,"Texas","Boston College","Hulon, Logan",7,2,0,1,0,5,24,0,9,6,2022
+2190216,"Texas","Boston College","O'Leary, Shealyn",2,1,0,0,0,2,7,0,4,0,2022
+2190216,"Texas","Boston College","Czech, Estelle",5,1,0,0,0,0,17,0,7,7,2022
+2190408,"Texas","McNeese","Hulon, Logan",2,1,0,0,0,0,6,0,1,3,2022
+2190408,"Texas","McNeese","Czech, Estelle",0.2,2,0,0,1,0,5,0,1,1,2022
+2190408,"Texas","McNeese","Simpson, Sophia",4.1,6,1,2,0,9,21,0,3,1,2022
+2190555,"Texas","Florida St.","Hulon, Logan",1.1,5,5,1,0,2,10,1,2,0,2022
+2190555,"Texas","Florida St.","Czech, Estelle",2.2,1,0,2,0,3,10,0,2,2,2022
+2190555,"Texas","Florida St.","O'Leary, Shealyn",2,5,3,2,0,3,12,0,0,2,2022
+2190556,"Texas","Auburn","Simpson, Sophia",1.2,0,0,1,0,4,7,0,1,0,2022
+2190556,"Texas","Auburn","Dolcini, Hailey",5.1,6,4,2,0,5,25,2,4,6,2022
+2190897,"Texas","UCF","Czech, Estelle",1.1,3,2,0,0,1,6,0,1,1,2022
+2190897,"Texas","UCF","O'Leary, Shealyn",1,2,3,2,0,2,8,0,1,0,2022
+2190897,"Texas","UCF","Hulon, Logan",2,1,1,1,0,2,7,0,1,2,2022
+2190897,"Texas","UCF","Dolcini, Hailey",2.2,5,3,3,0,1,20,1,7,0,2022
+2190898,"Texas","UCLA","Czech, Estelle",1,2,0,0,0,1,5,0,2,0,2022
+2190898,"Texas","UCLA","Simpson, Sophia",5,6,2,1,0,3,22,1,8,3,2022
+2191313,"Texas","Notre Dame","Dolcini, Hailey",0.2,0,4,2,2,0,6,0,1,1,2022
+2191313,"Texas","Notre Dame","Czech, Estelle",6.1,8,3,2,0,5,29,1,8,6,2022
+2191590,"Texas","UTSA","Simpson, Sophia",6,0,0,4,0,12,21,0,3,2,2022
+2191635,"Texas","Arizona St.","Czech, Estelle",1.2,1,0,0,0,3,6,0,0,2,2022
+2191635,"Texas","Arizona St.","Dolcini, Hailey",5.1,1,2,4,1,2,24,0,7,7,2022
+2191997,"Texas","Texas St.","Simpson, Sophia",4,5,0,1,0,3,19,0,7,2,2022
+2191997,"Texas","Texas St.","O'Leary, Shealyn",3,3,1,2,0,1,14,0,5,2,2022
+2192238,"Texas","Tulsa","O'Leary, Shealyn",1,0,0,0,0,1,3,0,1,1,2022
+2192238,"Texas","Tulsa","Czech, Estelle",4,3,1,1,1,4,16,0,4,3,2022
+2192870,"Texas","Sam Houston","Dolcini, Hailey",7,2,0,2,1,14,26,0,6,2,2022
+2193049,"Texas","Alabama","Simpson, Sophia",6,7,4,3,0,5,27,1,7,5,2022
+2193394,"Texas","Alabama","Hulon, Logan",0.1,0,0,0,0,0,1,0,0,1,2022
+2193394,"Texas","Alabama","Dolcini, Hailey",5.2,4,3,6,0,4,27,0,8,5,2022
+2193667,"Texas","Miami (OH)","O'Leary, Shealyn",1.1,1,0,1,0,3,6,0,1,0,2022
+2193667,"Texas","Miami (OH)","Czech, Estelle",3.2,5,1,1,0,3,19,0,1,7,2022
+2194014,"Texas","Miami (OH)","Hulon, Logan",0.1,2,2,0,0,1,3,2,0,0,2022
+2194014,"Texas","Miami (OH)","O'Leary, Shealyn",2.2,2,1,1,0,3,11,1,3,2,2022
+2194014,"Texas","Miami (OH)","Simpson, Sophia",4,5,3,1,0,4,18,2,4,4,2022
+2194853,"Texas","Minnesota","Czech, Estelle",2.1,3,2,1,0,2,12,0,1,4,2022
+2194853,"Texas","Minnesota","Dolcini, Hailey",1,2,4,2,0,1,6,2,0,1,2022
+2194853,"Texas","Minnesota","O'Leary, Shealyn",1.2,1,0,0,0,2,6,0,1,2,2022
+2194853,"Texas","Minnesota","Simpson, Sophia",1,1,4,4,0,2,8,1,0,1,2022
+2195212,"Texas","Minnesota","O'Leary, Shealyn",1,2,1,0,0,1,5,1,2,0,2022
+2195212,"Texas","Minnesota","Dolcini, Hailey",4,5,2,3,1,8,21,1,0,4,2022
+2195214,"Texas","Nicholls","O'Leary, Shealyn",1,0,0,0,0,2,3,0,0,1,2022
+2195214,"Texas","Nicholls","Simpson, Sophia",4,3,0,1,0,7,16,0,2,3,2022
+2195626,"Texas","Drake","O'Leary, Shealyn",1,1,0,0,0,2,4,0,1,0,2022
+2195626,"Texas","Drake","Czech, Estelle",6,1,0,0,0,8,19,0,7,3,2022
+2196200,"Texas","Louisiana","Czech, Estelle",5.1,3,1,0,0,7,19,0,4,5,2022
+2196200,"Texas","Louisiana","Simpson, Sophia",1.2,1,0,3,0,3,8,0,0,1,2022
+2196569,"Texas","LSU","Czech, Estelle",7,3,0,1,0,5,25,0,8,8,2022
+2196935,"Texas","LSU","Dolcini, Hailey",7,1,0,3,1,6,25,0,6,8,2022
+2197535,"Texas","Lamar University","O'Leary, Shealyn",1,2,0,0,0,2,5,0,1,0,2022
+2197535,"Texas","Lamar University","Dolcini, Hailey",4,0,0,1,1,8,15,0,2,2,2022
+2197666,"Texas","Texas St.","Dolcini, Hailey",5,1,0,2,0,9,18,0,3,3,2022
+2197666,"Texas","Texas St.","Czech, Estelle",2,3,2,1,0,1,10,1,1,4,2022
+2197921,"Texas","Kansas","Dolcini, Hailey",3.1,2,1,1,0,7,13,1,1,2,2022
+2197921,"Texas","Kansas","Czech, Estelle",3.2,7,5,2,0,3,20,1,2,6,2022
+2198123,"Texas","Kansas","Simpson, Sophia",0.1,0,0,0,0,0,1,0,1,0,2022
+2198123,"Texas","Kansas","Dolcini, Hailey",6.2,1,0,2,0,10,23,1,2,8,2022
+2198526,"Texas","Kansas","Simpson, Sophia",5,6,1,1,0,6,22,1,5,3,2022
+2198904,"Texas","Louisiana","Dolcini, Hailey",8,6,2,1,0,5,34,1,10,9,2022
+2199141,"Texas","Iowa St.","Simpson, Sophia",3.1,1,0,1,1,6,14,0,2,1,2022
+2199141,"Texas","Iowa St.","Dolcini, Hailey",3.1,0,0,1,1,6,12,0,2,2,2022
+2199141,"Texas","Iowa St.","Czech, Estelle",0.1,4,3,0,0,0,5,1,0,1,2022
+2199320,"Texas","Iowa St.","Simpson, Sophia",2.1,3,3,0,0,2,11,0,3,2,2022
+2199320,"Texas","Iowa St.","O'Leary, Shealyn",0.1,2,2,0,0,0,3,1,0,1,2022
+2199320,"Texas","Iowa St.","Dolcini, Hailey",5.1,7,5,2,0,9,25,2,3,4,2022
+2199766,"Texas","Iowa St.","Dolcini, Hailey",2,1,0,1,0,2,8,0,2,2,2022
+2199766,"Texas","Iowa St.","Czech, Estelle",5,6,2,3,1,5,24,0,2,7,2022
+2200149,"Texas","UT Arlington","Simpson, Sophia",5,7,4,5,0,7,27,0,7,1,2022
+2201559,"Texas","Oklahoma","Dolcini, Hailey",7,3,2,1,0,4,28,2,7,9,2022
+2201693,"Texas","Oklahoma","Czech, Estelle",1,4,3,1,0,1,8,0,0,2,2022
+2201693,"Texas","Oklahoma","Simpson, Sophia",4,4,4,2,1,4,20,2,5,3,2022
+2201989,"Texas","Oklahoma","Dolcini, Hailey",7,2,2,0,2,3,25,1,6,12,2022
+2202572,"Texas","Houston","Czech, Estelle",2.1,2,0,0,1,1,10,0,3,2,2022
+2202572,"Texas","Houston","Dolcini, Hailey",2,1,0,1,0,3,8,0,1,2,2022
+2202572,"Texas","Houston","Simpson, Sophia",2.2,4,4,1,1,3,14,0,2,3,2022
+2202790,"Texas","Oklahoma St.","Dolcini, Hailey",8.1,6,3,2,0,6,32,2,9,8,2022
+2202966,"Texas","Oklahoma St.","Simpson, Sophia",6,3,3,2,1,5,24,1,6,6,2022
+2203422,"Texas","Oklahoma St.","Dolcini, Hailey",6,2,1,1,0,7,21,1,6,4,2022
+2203861,"Texas","Texas Tech","Dolcini, Hailey",7,3,3,1,0,14,26,2,3,4,2022
+2204049,"Texas","Texas Tech","Hulon, Logan",1,1,0,0,0,1,4,0,1,1,2022
+2204049,"Texas","Texas Tech","Simpson, Sophia",4,2,1,1,0,5,15,1,4,3,2022
+2204444,"Texas","Texas Tech","Dolcini, Hailey",4.1,5,3,1,2,3,23,1,3,7,2022
+2204444,"Texas","Texas Tech","Simpson, Sophia",0.2,0,0,0,0,0,2,0,2,0,2022
+2204444,"Texas","Texas Tech","Czech, Estelle",2,3,2,1,0,3,10,1,1,1,2022
+2204756,"Texas","Baylor","Day, Courtney",1,2,0,0,0,0,5,0,0,3,2022
+2204756,"Texas","Baylor","Czech, Estelle",2,9,5,0,0,0,15,2,3,3,2022
+2204756,"Texas","Baylor","Dolcini, Hailey",4,2,0,1,0,6,15,0,2,4,2022
+2204878,"Texas","Baylor","O'Leary, Shealyn",0.1,2,1,0,1,0,3,0,0,0,2022
+2204878,"Texas","Baylor","Day, Courtney",1,2,1,3,0,1,9,0,2,0,2022
+2204878,"Texas","Baylor","Hulon, Logan",2.1,1,2,3,0,2,11,0,4,1,2022
+2204878,"Texas","Baylor","Czech, Estelle",1,7,6,2,0,1,11,0,0,1,2022
+2204878,"Texas","Baylor","Simpson, Sophia",2.1,4,6,7,0,2,17,0,2,2,2022
+2204958,"Texas","Baylor","Dolcini, Hailey",7,3,0,1,0,6,24,0,3,11,2022
+2206476,"Texas","Louisiana","Dolcini, Hailey",5.2,5,2,0,0,8,22,1,5,3,2022
+2206476,"Texas","Louisiana","O'Leary, Shealyn",1.1,2,0,1,0,0,6,0,3,0,2022
+2206934,"Texas","LSU","Day, Courtney",4.1,4,1,1,1,1,19,1,5,6,2022
+2206934,"Texas","LSU","Czech, Estelle",2,5,3,0,1,1,12,0,3,2,2022
+2206934,"Texas","LSU","O'Leary, Shealyn",0.2,4,3,0,0,0,6,1,1,1,2022
+2259282,"Texas","Tulsa","Hulon, Logan",1,0,0,0,0,0,3,0,2,1,2022
+2259282,"Texas","Tulsa","Dolcini, Hailey",6,2,1,1,1,7,22,0,6,5,2022
+2269070,"Texas","Oklahoma St.","Simpson, Sophia",1,3,1,1,0,1,7,0,0,2,2022
+2269070,"Texas","Oklahoma St.","Dolcini, Hailey",5,7,4,1,1,2,24,0,3,9,2022
+2269072,"Texas","Texas Tech","Simpson, Sophia",1,1,0,1,0,0,4,0,1,1,2022
+2269072,"Texas","Texas Tech","Dolcini, Hailey",4,3,1,1,0,7,15,0,2,2,2022
+2274785,"Texas","Arkansas","Simpson, Sophia",0.2,1,0,0,0,2,3,0,0,0,2022
+2274785,"Texas","Arkansas","Hulon, Logan",1,4,2,0,0,1,8,0,0,2,2022
+2274785,"Texas","Arkansas","Dolcini, Hailey",4.1,7,2,4,0,4,25,0,5,4,2022
+2274846,"Texas","Weber St.","Czech, Estelle",7,5,0,1,0,6,25,0,5,8,2022
+2274848,"Texas","Washington","Dolcini, Hailey",7,3,2,0,1,7,25,1,8,6,2022
+2274851,"Texas","Washington","Dolcini, Hailey",7,4,2,1,0,4,26,1,10,7,2022
+2275561,"Texas","Washington","Dolcini, Hailey",7,7,0,1,1,4,28,0,10,4,2022
+2275621,"Texas","Arkansas","Dolcini, Hailey",7,5,1,1,0,2,27,0,6,13,2022
+2275622,"Texas","Arkansas","Simpson, Sophia",7,5,0,4,0,7,30,0,7,7,2022
+2275981,"Texas","UCLA","Dolcini, Hailey",7,6,2,2,0,2,27,1,8,9,2022
+2275991,"Texas","Arizona","Czech, Estelle",3.2,1,0,0,0,4,11,0,3,3,2022
+2275991,"Texas","Arizona","Dolcini, Hailey",3.1,3,2,1,1,1,15,0,3,6,2022
+2275992,"Texas","Oklahoma St.","Czech, Estelle",7,4,0,3,1,3,27,0,11,5,2022
+2276171,"Texas","Oklahoma","Hulon, Logan",2,5,5,0,1,1,12,2,3,2,2022
+2276171,"Texas","Oklahoma","O'Leary, Shealyn",3.1,7,4,3,0,2,21,2,7,1,2022
+2276171,"Texas","Oklahoma","Dolcini, Hailey",0.2,4,2,0,0,0,7,2,1,1,2022
+2276200,"Texas","Oklahoma St.","Dolcini, Hailey",5,1,2,0,3,3,17,1,4,6,2022
+2276200,"Texas","Oklahoma St.","Czech, Estelle",2,3,2,0,0,0,10,1,0,6,2022
+2366299,"Texas","Northwestern","Simpson, Sophia",0.2,0,2,2,1,1,5,0,1,0,2023
+2366299,"Texas","Northwestern","Czech, Estelle",1,1,3,4,0,1,8,0,0,2,2023
+2366299,"Texas","Northwestern","Gutierrez, Citlaly",3.2,4,4,2,2,2,21,1,4,5,2023
+2366299,"Texas","Northwestern","Morgan, Mac",0.2,0,0,0,1,1,3,0,1,0,2023
+2366301,"Texas","Missouri","Morgan, Mac",5,5,1,1,1,2,22,0,8,5,2023
+2366301,"Texas","Missouri","Czech, Estelle",2,0,0,0,1,4,7,0,1,1,2023
+2366648,"Texas","Illinois","Czech, Estelle",7,4,0,0,1,4,28,0,8,9,2023
+2367000,"Texas","Kentucky","Morgan, Mac",7,7,2,0,1,3,29,0,11,6,2023
+2367208,"Texas","Lamar University","Simpson, Sophia",3.2,4,2,2,0,5,18,1,4,2,2023
+2367208,"Texas","Lamar University","Gutierrez, Citlaly",3.1,1,0,1,1,2,13,0,7,1,2023
+2367284,"Texas","Loyola Chicago","Czech, Estelle",5,5,0,2,0,7,26,0,4,5,2023
+2367284,"Texas","Loyola Chicago","Gutierrez, Citlaly",2,2,0,0,0,2,8,0,1,3,2023
+2367285,"Texas","Omaha","Morgan, Mac",6.1,9,3,1,1,6,31,0,9,3,2023
+2367285,"Texas","Omaha","Gutierrez, Citlaly",0.2,0,0,2,0,1,4,0,1,0,2023
+2367628,"Texas","Omaha","Czech, Estelle",5,6,1,1,0,5,21,0,3,6,2023
+2367629,"Texas","Loyola Chicago","Gutierrez, Citlaly",3.1,3,1,0,0,3,13,0,3,4,2023
+2367629,"Texas","Loyola Chicago","Simpson, Sophia",3.2,5,1,0,0,4,19,0,5,3,2023
+2368038,"Texas","UIW","Morgan, Mac",5,1,0,0,0,4,17,0,10,1,2023
+2368462,"Texas","Virginia Tech","Gutierrez, Citlaly",1.1,1,0,0,0,0,5,0,3,1,2023
+2368462,"Texas","Virginia Tech","Czech, Estelle",6.2,6,3,0,0,5,27,3,4,10,2023
+2368796,"Texas","Virginia Tech","Morgan, Mac",7,7,2,1,1,1,29,1,12,7,2023
+2368797,"Texas","Abilene Christian","Simpson, Sophia",4.1,2,0,3,1,8,18,0,3,1,2023
+2368797,"Texas","Abilene Christian","Gutierrez, Citlaly",0.2,0,0,0,0,0,2,0,1,1,2023
+2369278,"Texas","Texas Southern","Gutierrez, Citlaly",5,0,0,0,0,9,16,0,5,2,2023
+2369663,"Texas","North Texas","Morgan, Mac",2,3,1,1,0,0,10,1,5,1,2023
+2369663,"Texas","North Texas","Czech, Estelle",5,2,1,0,0,7,17,1,2,8,2023
+2369824,"Texas","Tennessee St.","Gutierrez, Citlaly",2.1,0,0,0,0,4,7,0,3,0,2023
+2369824,"Texas","Tennessee St.","Simpson, Sophia",4.2,6,2,2,0,8,22,0,3,3,2023
+2369825,"Texas","Louisiana","Gutierrez, Citlaly",2.2,2,0,0,0,2,10,0,5,1,2023
+2369825,"Texas","Louisiana","Morgan, Mac",4.1,4,1,2,1,2,20,0,6,4,2023
+2370180,"Texas","McNeese","Czech, Estelle",7,2,0,0,0,3,22,0,7,10,2023
+2370181,"Texas","Princeton","Morgan, Mac",3.2,2,1,1,0,3,13,0,7,0,2023
+2370181,"Texas","Princeton","Simpson, Sophia",3.1,2,0,1,0,6,12,0,0,3,2023
+2370633,"Texas","Louisiana","Gutierrez, Citlaly",7,7,3,3,0,3,30,2,8,8,2023
+2371386,"Texas","UT Arlington","Morgan, Mac",4,2,2,2,0,2,16,0,6,4,2023
+2371386,"Texas","UT Arlington","Czech, Estelle",1,0,0,0,0,2,4,0,1,0,2023
+2371386,"Texas","UT Arlington","Simpson, Sophia",2,1,1,0,0,4,7,1,2,0,2023
+2371600,"Texas","Alabama","Morgan, Mac",4.2,3,3,1,1,2,21,1,6,6,2023
+2371600,"Texas","Alabama","Czech, Estelle",2.1,2,0,0,0,4,9,0,1,2,2023
+2371811,"Texas","Wisconsin","Gutierrez, Citlaly",7,2,1,1,0,7,24,0,8,5,2023
+2371965,"Texas","Alabama","Gutierrez, Citlaly",1.1,6,3,0,0,0,10,0,1,3,2023
+2371965,"Texas","Alabama","Simpson, Sophia",3.1,4,0,1,1,5,15,0,3,1,2023
+2371965,"Texas","Alabama","Morgan, Mac",6.1,1,1,0,1,3,23,0,11,5,2023
+2372320,"Texas","Wisconsin","Simpson, Sophia",3,1,0,0,1,6,11,0,1,2,2023
+2372320,"Texas","Wisconsin","Czech, Estelle",4,5,4,3,2,4,22,1,4,4,2023
+2372400,"Texas","Texas St.","Simpson, Sophia",5,4,1,1,0,3,19,0,8,4,2023
+2372400,"Texas","Texas St.","Gutierrez, Citlaly",3.2,7,2,1,0,6,20,0,3,2,2023
+2372400,"Texas","Texas St.","Morgan, Mac",0.1,0,0,0,0,1,1,0,0,0,2023
+2372821,"Texas","Sam Houston","Gutierrez, Citlaly",1,0,0,0,0,2,3,0,1,0,2023
+2372821,"Texas","Sam Houston","Morgan, Mac",4,3,0,1,0,3,17,0,7,2,2023
+2372821,"Texas","Sam Houston","Simpson, Sophia",2,1,0,2,1,3,10,0,1,2,2023
+2373548,"Texas","Marist","Simpson, Sophia",1.1,1,1,3,0,0,8,0,2,2,2023
+2373548,"Texas","Marist","Gutierrez, Citlaly",3.2,4,0,2,0,2,16,0,7,1,2023
+2373706,"Texas","South Fla.","Czech, Estelle",2,1,1,0,0,3,8,1,1,2,2023
+2373706,"Texas","South Fla.","Morgan, Mac",4,5,1,0,1,2,18,0,6,3,2023
+2373910,"Texas","Iowa","Gutierrez, Citlaly",2.1,0,0,0,0,2,7,0,2,3,2023
+2373910,"Texas","Iowa","Morgan, Mac",4.2,6,1,0,1,4,20,0,6,3,2023
+2373911,"Texas","Lehigh","Morgan, Mac",1,0,0,1,0,2,4,0,1,0,2023
+2373911,"Texas","Lehigh","Gutierrez, Citlaly",6,6,0,0,1,3,27,0,13,2,2023
+2374290,"Texas","South Fla.","Czech, Estelle",7,2,1,1,0,5,24,1,8,9,2023
+2374563,"Texas","SFA","Morgan, Mac",4,2,2,0,1,3,14,1,4,4,2023
+2374563,"Texas","SFA","Simpson, Sophia",1,0,0,1,0,1,3,0,0,1,2023
+2374814,"Texas","Texas Tech","Czech, Estelle",6,4,2,0,0,6,23,1,8,4,2023
+2374814,"Texas","Texas Tech","Gutierrez, Citlaly",1,1,0,0,0,1,4,0,0,2,2023
+2375002,"Texas","Texas Tech","Simpson, Sophia",2,1,0,1,0,4,8,0,1,1,2023
+2375002,"Texas","Texas Tech","Morgan, Mac",5,5,3,0,0,3,20,1,10,2,2023
+2375404,"Texas","Texas Tech","Gutierrez, Citlaly",6,7,2,2,0,2,27,1,6,10,2023
+2375404,"Texas","Texas Tech","Simpson, Sophia",1,1,0,0,0,1,4,0,1,1,2023
+2376127,"Texas","Oklahoma","Simpson, Sophia",4.2,5,3,2,0,2,20,1,6,5,2023
+2376127,"Texas","Oklahoma","Czech, Estelle",1.1,7,4,0,0,1,12,2,0,3,2023
+2376564,"Texas","Oklahoma","Morgan, Mac",6,7,2,2,0,1,28,1,11,6,2023
+2376564,"Texas","Oklahoma","Gutierrez, Citlaly",0.1,2,1,2,0,0,5,0,1,0,2023
+2376773,"Texas","Oklahoma","Morgan, Mac",1.2,3,3,3,0,0,10,1,1,3,2023
+2376773,"Texas","Oklahoma","Gutierrez, Citlaly",4,8,1,0,1,0,22,1,6,5,2023
+2377198,"Texas","Iowa St.","Morgan, Mac",5,2,0,0,0,3,17,0,4,8,2023
+2377330,"Texas","Iowa St.","Czech, Estelle",7,2,0,2,2,5,28,0,8,7,2023
+2377638,"Texas","Iowa St.","Gutierrez, Citlaly",6,5,1,0,0,3,23,0,9,6,2023
+2377638,"Texas","Iowa St.","Simpson, Sophia",1,1,0,0,0,4,5,0,0,0,2023
+2378213,"Texas","Texas St.","Morgan, Mac",7,5,0,3,0,6,29,0,12,2,2023
+2378453,"Texas","Kansas","Czech, Estelle",2.1,4,4,1,0,1,13,2,4,2,2023
+2378453,"Texas","Kansas","Simpson, Sophia",4.2,3,3,3,0,3,21,1,6,4,2023
+2378641,"Texas","Kansas","Morgan, Mac",5,1,0,1,0,4,17,0,6,5,2023
+2379130,"Texas","Kansas","Gutierrez, Citlaly",4,2,2,1,0,2,15,0,6,4,2023
+2379130,"Texas","Kansas","Morgan, Mac",3,1,0,1,0,1,10,0,4,3,2023
+2379736,"Texas","Oklahoma St.","Morgan, Mac",8,6,0,1,1,2,32,0,16,6,2023
+2379911,"Texas","Oklahoma St.","Morgan, Mac",1.2,1,0,0,0,1,6,0,1,2,2023
+2379911,"Texas","Oklahoma St.","Czech, Estelle",5.1,5,0,3,0,5,24,0,3,8,2023
+2380366,"Texas","Oklahoma St.","Simpson, Sophia",1,0,0,0,0,1,3,0,2,0,2023
+2380366,"Texas","Oklahoma St.","Gutierrez, Citlaly",6,6,2,3,0,2,27,0,11,5,2023
+2381653,"Texas","Sam Houston","Czech, Estelle",1,3,2,0,0,0,6,0,0,3,2023
+2381653,"Texas","Sam Houston","Gutierrez, Citlaly",2,0,0,0,0,2,6,0,1,3,2023
+2381653,"Texas","Sam Houston","Morgan, Mac",2,1,0,0,0,2,6,0,3,0,2023
+2381836,"Texas","Baylor","Czech, Estelle",1.2,5,4,2,0,2,11,0,0,2,2023
+2381836,"Texas","Baylor","Simpson, Sophia",3.1,1,0,5,0,6,17,0,1,3,2023
+2382037,"Texas","Baylor","Morgan, Mac",3,3,2,1,0,1,13,0,7,1,2023
+2382037,"Texas","Baylor","Gutierrez, Citlaly",2.1,3,1,4,0,2,15,0,3,2,2023
+2382037,"Texas","Baylor","Simpson, Sophia",0.2,0,0,1,0,1,3,0,0,1,2023
+2382122,"Texas","Baylor","Gutierrez, Citlaly",2,2,0,1,0,1,9,0,2,2,2023
+2382122,"Texas","Baylor","Morgan, Mac",4.2,3,0,0,0,1,17,0,10,3,2023
+2429895,"Texas","Texas Tech","Simpson, Sophia",1,2,3,1,0,2,6,1,1,0,2023
+2429895,"Texas","Texas Tech","Czech, Estelle",2.1,1,0,0,0,2,8,0,0,5,2023
+2429895,"Texas","Texas Tech","Gutierrez, Citlaly",1.2,1,0,1,0,1,7,0,4,0,2023
+2429895,"Texas","Texas Tech","Morgan, Mac",3,5,3,1,0,1,14,0,2,5,2023
+2429878,"Texas","Kansas","Gutierrez, Citlaly",2,0,0,0,0,3,6,0,2,1,2023
+2429878,"Texas","Kansas","Morgan, Mac",3,6,1,1,0,1,16,0,3,5,2023
+2429893,"Texas","Oklahoma","Czech, Estelle",2.1,2,2,1,0,2,10,0,3,2,2023
+2429893,"Texas","Oklahoma","Gutierrez, Citlaly",3.2,5,4,2,0,0,18,1,7,4,2023
+2435299,"Texas","Seton Hall","Czech, Estelle",1,0,0,0,0,0,3,0,1,2,2023
+2435299,"Texas","Seton Hall","Morgan, Mac",4,0,0,1,0,1,12,0,10,0,2023
+2435301,"Texas","Texas A&M","Simpson, Sophia",2,0,0,0,0,3,5,0,0,2,2023
+2435301,"Texas","Texas A&M","Gutierrez, Citlaly",5,3,1,3,0,4,20,0,6,4,2023
+2435304,"Texas","Texas A&M","Simpson, Sophia",2,1,0,3,0,4,10,0,0,2,2023
+2435304,"Texas","Texas A&M","Morgan, Mac",5,6,5,1,1,2,23,1,7,5,2023
+4496759,"Texas","UCLA","Kavan, Teagan",5,2,2,2,3,5,23,0,4,6,2024
+4496759,"Texas","UCLA","Gutierrez, Citlaly",2,0,0,0,0,0,6,0,5,1,2024
+4496869,"Texas","San Diego","Morgan, Mac",5,0,0,1,0,5,17,0,9,1,2024
+4497191,"Texas","UCLA","Gutierrez, Citlaly",5,4,0,0,0,4,18,0,7,3,2024
+4497192,"Texas","San Diego","Simpson, Sophia",1,1,0,1,0,1,7,0,2,0,2024
+4497192,"Texas","San Diego","Czech, Estelle",4,2,0,0,0,3,13,0,3,5,2024
+4497463,"Texas","LMU (CA)","Kavan, Teagan",4,4,2,1,1,4,18,1,2,6,2024
+4497463,"Texas","LMU (CA)","Simpson, Sophia",2,1,0,2,0,4,9,0,0,2,2024
+4497810,"Texas","Stanford","Simpson, Sophia",2,1,0,1,0,4,8,0,2,0,2024
+4497810,"Texas","Stanford","Morgan, Mac",1,0,0,1,0,0,4,0,3,0,2024
+4497810,"Texas","Stanford","Kavan, Teagan",4,2,2,0,0,9,14,1,0,3,2024
+4497814,"Texas","Tennessee","Gutierrez, Citlaly",7,8,1,0,0,6,28,0,11,2,2024
+4498715,"Texas","Houston Christian","Simpson, Sophia",1,1,0,1,0,1,6,0,2,0,2024
+4498715,"Texas","Houston Christian","Morgan, Mac",1,0,0,0,0,1,3,0,2,0,2024
+4498715,"Texas","Houston Christian","Czech, Estelle",3,1,0,0,0,2,10,0,2,5,2024
+4498841,"Texas","Louisiana","Kavan, Teagan",7,2,0,0,0,6,23,0,3,12,2024
+4498842,"Texas","Colorado St.","Simpson, Sophia",2,0,0,1,0,3,8,0,0,3,2024
+4498842,"Texas","Colorado St.","Morgan, Mac",5,5,0,0,0,3,20,0,12,0,2024
+4499180,"Texas","Colorado St.","Czech, Estelle",1,0,0,0,0,2,3,0,0,1,2024
+4499180,"Texas","Colorado St.","Kavan, Teagan",4,1,0,1,0,2,16,0,2,8,2024
+4499181,"Texas","Stanford","Czech, Estelle",3.1,3,0,0,0,2,15,0,2,6,2024
+4499181,"Texas","Stanford","Kavan, Teagan",0.2,0,0,0,0,0,2,0,1,1,2024
+4499181,"Texas","Stanford","Gutierrez, Citlaly",4,1,1,2,1,0,17,0,7,5,2024
+4499604,"Texas","Louisiana","Kavan, Teagan",1,1,0,0,0,0,4,0,3,0,2024
+4499604,"Texas","Louisiana","Morgan, Mac",4.1,8,3,0,0,1,21,0,9,3,2024
+4499604,"Texas","Louisiana","Gutierrez, Citlaly",1.2,1,0,0,0,0,5,0,3,1,2024
+4499967,"Texas","Texas St.","Kavan, Teagan",7,2,0,1,0,9,25,0,8,4,2024
+4500053,"Texas","Tarleton St.","Gutierrez, Citlaly",4,1,0,0,0,1,13,0,6,5,2024
+4500053,"Texas","Tarleton St.","Czech, Estelle",1,1,0,1,0,0,5,0,0,3,2024
+4500251,"Texas","Northwestern St.","Simpson, Sophia",1,0,0,0,0,1,3,0,1,1,2024
+4500251,"Texas","Northwestern St.","Morgan, Mac",4,2,0,0,1,0,19,0,8,3,2024
+4500346,"Texas","Hofstra","Kavan, Teagan",3,2,0,1,0,4,11,0,3,1,2024
+4500346,"Texas","Hofstra","Simpson, Sophia",2,0,0,0,0,4,6,0,1,1,2024
+4500766,"Texas","Hofstra","Gutierrez, Citlaly",7,4,0,2,0,7,27,0,11,3,2024
+4472802,"Texas","Penn St.","Kavan, Teagan",7,2,1,1,0,9,24,1,4,8,2024
+4501349,"Texas","UT Arlington","Czech, Estelle",2,1,0,0,0,1,7,0,3,2,2024
+4501349,"Texas","UT Arlington","Simpson, Sophia",3,2,0,0,0,8,12,0,0,1,2024
+4501349,"Texas","UT Arlington","Morgan, Mac",2,3,0,0,0,0,9,0,4,1,2024
+4501617,"Texas","Houston","Simpson, Sophia",2.2,1,1,2,0,3,11,0,3,2,2024
+4501617,"Texas","Houston","Gutierrez, Citlaly",0.1,4,4,0,0,0,5,3,1,0,2024
+4501617,"Texas","Houston","Czech, Estelle",3,2,2,1,2,0,16,1,7,2,2024
+4501957,"Texas","Houston","Kavan, Teagan",7,4,2,3,1,5,30,0,13,2,2024
+4502366,"Texas","Houston","Czech, Estelle",2.1,4,2,1,0,1,11,1,4,1,2024
+4502366,"Texas","Houston","Morgan, Mac",2.2,3,4,3,0,0,14,0,7,0,2024
+4502366,"Texas","Houston","Kavan, Teagan",2,2,0,1,0,1,9,0,3,2,2024
+4502816,"Texas","LSU","Morgan, Mac",2,0,0,0,0,1,6,0,5,0,2024
+4502816,"Texas","LSU","Czech, Estelle",3.1,4,2,1,0,0,14,0,5,4,2024
+4502816,"Texas","LSU","Kavan, Teagan",0.2,3,5,1,2,1,8,0,0,1,2024
+4503235,"Texas","BYU","Morgan, Mac",5,1,0,0,0,3,16,0,12,0,2024
+4503437,"Texas","BYU","Kavan, Teagan",4.1,6,1,0,1,6,20,0,2,4,2024
+4503437,"Texas","BYU","Morgan, Mac",2.2,0,0,1,0,1,9,0,6,1,2024
+4503716,"Texas","BYU","Gutierrez, Citlaly",5,1,0,0,0,2,16,0,10,3,2024
+4504488,"Texas","Florida St.","Czech, Estelle",2,1,0,0,0,1,8,0,4,1,2024
+4504488,"Texas","Florida St.","Morgan, Mac",4,3,0,2,1,0,17,0,5,6,2024
+4504693,"Texas","UCF","Kavan, Teagan",7,5,0,1,1,4,28,0,8,9,2024
+4504927,"Texas","UCF","Czech, Estelle",2.1,0,0,0,0,0,8,0,5,2,2024
+4504927,"Texas","UCF","Gutierrez, Citlaly",4.2,3,1,1,0,2,18,0,7,5,2024
+4505351,"Texas","UCF","Morgan, Mac",4,2,0,0,0,0,14,0,5,6,2024
+4505351,"Texas","UCF","Simpson, Sophia",0.2,2,1,2,0,2,6,0,0,0,2024
+4505351,"Texas","UCF","Kavan, Teagan",2.1,0,0,0,0,3,7,0,2,2,2024
+4505925,"Texas","Oklahoma St.","Morgan, Mac",3.2,5,2,1,1,1,18,1,9,1,2024
+4505925,"Texas","Oklahoma St.","Kavan, Teagan",2.1,4,3,0,0,2,12,2,2,3,2024
+4506071,"Texas","Oklahoma St.","Gutierrez, Citlaly",7,5,1,1,0,6,27,0,11,3,2024
+4506380,"Texas","Oklahoma St.","Morgan, Mac",3.2,0,0,0,0,4,11,0,5,2,2024
+4506380,"Texas","Oklahoma St.","Czech, Estelle",2.1,1,2,0,1,0,10,1,3,4,2024
+4507087,"Texas","Oklahoma","Czech, Estelle",2.2,0,0,0,0,2,8,0,1,5,2024
+4507087,"Texas","Oklahoma","Morgan, Mac",4.1,7,5,3,0,0,21,1,6,4,2024
+4507270,"Texas","Oklahoma","Gutierrez, Citlaly",7,6,1,0,1,2,27,0,10,8,2024
+4507715,"Texas","Oklahoma","Czech, Estelle",3.1,3,0,0,1,1,13,0,1,7,2024
+4507715,"Texas","Oklahoma","Kavan, Teagan",3.2,3,1,3,0,3,17,1,2,6,2024
+4508116,"Texas","Texas St.","Czech, Estelle",4,3,1,1,0,1,16,0,3,8,2024
+4508116,"Texas","Texas St.","Gutierrez, Citlaly",3,4,2,2,0,1,16,0,7,1,2024
+4508501,"Texas","Baylor","Simpson, Sophia",1,2,0,0,0,1,4,0,1,0,2024
+4508501,"Texas","Baylor","Kavan, Teagan",5,2,1,5,0,6,22,0,2,7,2024
+4508930,"Texas","Baylor","Czech, Estelle",4,5,2,0,1,2,18,0,3,7,2024
+4508930,"Texas","Baylor","Morgan, Mac",2,1,1,0,0,0,7,1,6,0,2024
+4508930,"Texas","Baylor","Gutierrez, Citlaly",1,4,2,1,1,1,10,0,1,1,2024
+4509157,"Texas","Baylor","Morgan, Mac",4.2,3,2,4,0,3,21,0,5,6,2024
+4509157,"Texas","Baylor","Kavan, Teagan",0.1,0,0,0,0,0,1,0,0,1,2024
+4509157,"Texas","Baylor","Gutierrez, Citlaly",2,6,3,1,0,1,13,0,5,0,2024
+4509578,"Texas","Kansas","Morgan, Mac",2,1,0,0,0,0,7,0,6,0,2024
+4509578,"Texas","Kansas","Kavan, Teagan",5,5,2,3,1,3,24,1,6,6,2024
+4509761,"Texas","Kansas","Czech, Estelle",2.2,1,0,2,1,1,12,0,3,4,2024
+4509761,"Texas","Kansas","Morgan, Mac",4.1,4,2,1,0,3,18,1,8,2,2024
+4510203,"Texas","Kansas","Gutierrez, Citlaly",7,4,0,1,0,4,25,0,12,4,2024
+4510662,"Texas","Nicholls","Simpson, Sophia",3,1,1,1,0,2,11,0,1,6,2024
+4510662,"Texas","Nicholls","Czech, Estelle",4,4,1,0,0,0,17,0,3,9,2024
+4510727,"Texas","Iowa St.","Morgan, Mac",1,0,0,1,0,2,4,0,0,1,2024
+4510727,"Texas","Iowa St.","Kavan, Teagan",6,4,2,3,1,8,26,0,7,3,2024
+4510917,"Texas","Iowa St.","Gutierrez, Citlaly",5,2,0,2,0,2,18,0,6,6,2024
+4511320,"Texas","Iowa St.","Morgan, Mac",5,7,1,0,0,2,21,0,7,5,2024
+4511595,"Texas","Texas Tech","Kavan, Teagan",4,4,1,0,0,4,16,0,2,6,2024
+4511595,"Texas","Texas Tech","Morgan, Mac",1,2,2,1,0,0,6,0,1,2,2024
+4511730,"Texas","Texas Tech","Gutierrez, Citlaly",5,3,0,0,0,6,18,0,6,2,2024
+4511959,"Texas","Texas Tech","Kavan, Teagan",5,3,4,3,1,5,21,1,6,3,2024
+5284075,"Texas","Oklahoma","Gutierrez, Citlaly",7,7,3,0,0,10,29,0,6,4,2024
+5284076,"Texas","Baylor","Kavan, Teagan",4,3,0,2,0,2,17,0,2,7,2024
+5284076,"Texas","Baylor","Simpson, Sophia",1,1,3,3,0,1,8,1,1,2,2024
+5284079,"Texas","Texas Tech","Czech, Estelle",1,2,0,0,0,1,5,0,0,2,2024
+5284079,"Texas","Texas Tech","Morgan, Mac",4,7,3,1,0,1,20,0,9,2,2024
+5284075,"Texas","Oklahoma","Gutierrez, Citlaly",7,7,2,0,0,10,29,0,6,4,2024
+5284076,"Texas","Baylor","Simpson, Sophia",1,1,3,3,0,1,8,1,1,2,2024
+5284076,"Texas","Baylor","Kavan, Teagan",4,3,0,2,0,2,17,0,2,7,2024
+5284079,"Texas","Texas Tech","Czech, Estelle",1,2,0,0,0,1,5,0,0,2,2024
+5284079,"Texas","Texas Tech","Morgan, Mac",4,7,3,1,0,1,20,0,9,2,2024
+5335158,"Texas","Siena","Morgan, Mac",7,0,0,1,0,4,22,0,16,1,2024
+5335160,"Texas","Northwestern","Czech, Estelle",1,1,0,0,0,0,4,0,1,2,2024
+5335160,"Texas","Northwestern","Gutierrez, Citlaly",4,4,2,3,0,4,18,1,5,2,2024
+5335163,"Texas","Northwestern","Kavan, Teagan",7,1,0,2,1,12,25,0,2,7,2024
+5335256,"Texas","Texas A&M","Morgan, Mac",5.2,6,3,1,2,2,25,1,10,5,2024
+5335256,"Texas","Texas A&M","Gutierrez, Citlaly",1.1,5,3,0,0,0,9,1,2,2,2024
+5335751,"Texas","Texas A&M","Czech, Estelle",2.1,5,3,1,0,0,13,1,3,4,2024
+5335751,"Texas","Texas A&M","Morgan, Mac",2.1,1,0,0,0,0,9,0,5,2,2024
+5335751,"Texas","Texas A&M","Kavan, Teagan",4.1,6,4,2,2,4,23,2,4,4,2024
+5335752,"Texas","Texas A&M","Kavan, Teagan",1.2,3,3,3,1,3,12,1,0,2,2024
+5335752,"Texas","Texas A&M","Morgan, Mac",5.1,4,1,0,1,1,23,0,9,5,2024
+5336306,"Texas","Stanford","Kavan, Teagan",7,1,0,4,0,8,27,0,5,8,2024
+1e+05,"Texas","Clemson","Dolcini, Hailey",7,6,0,1,0,4,27,0,9,7,2022
+100001,"Texas","FGCU","O'Leary, Shea",2,3,4,0,1,1,10,0,3,2,2022
+100001,"Texas","FGCU","Czech, Estelle",4,6,0,0,0,4,19,0,3,4,2022
+100002,"Texas","North Texas","Czech, Estelle",7,6,1,2,0,6,29,1,7,7,2022
+100003,"Texas","Oklahoma","Czech, Estelle",4.2,9,4,1,1,2,25,1,3,7,2022
+100003,"Texas","Oklahoma","Dolcini, Hailey",0.2,3,4,1,0,0,6,1,0,2,2022
+100003,"Texas","Oklahoma","Simpson, Sophia",1.2,1,0,1,0,2,6,0,1,1,2022
+100005,"Texas","Florida","Morgan, Mac",5,1,0,1,0,5,17,0,6,3,2024
+100006,"Texas","Stanford","Kavan, Teagan",7,1,0,4,0,8,27,0,5,8,2024
+100007,"Texas","Oklahoma","Kavan, Teagan",2.1,5,5,2,1,0,15,3,1,6,2024
+100007,"Texas","Oklahoma","Morgan, Mac",1.2,1,0,0,0,2,5,0,2,0,2024
+100007,"Texas","Oklahoma","Czech, Estelle",2,2,1,0,1,1,10,0,3,2,2024
+100007,"Texas","Oklahoma","Gutierrez, Citlaly",1,1,1,0,0,1,4,0,1,1,2024
+100008,"Texas","Oklahoma","Morgan, Mac",2,5,2,0,0,0,9,1,3,1,2024
+100008,"Texas","Oklahoma","Czech, Estelle",2,4,3,0,0,0,10,0,1,5,2024
+100008,"Texas","Oklahoma","Gutierrez, Citlaly",2,3,3,3,1,2,13,0,3,1,2024
+2275983,"Texas","Oklahoma","Dolcini, Hailey",0.2,4,2,0,0,0,7,2,1,1,2022
+2275983,"Texas","Oklahoma","Simpson, Sophia",0,0,0,1,1,0,2,0,0,0,2022
+2275983,"Texas","Oklahoma","Hulon, Logan",2,5,5,0,1,1,12,2,3,2,2022
+2275983,"Texas","Oklahoma","O'Leary, Shea",3.1,7,4,3,0,2,21,2,7,1,2022
+2435223,"Texas","Tennessee","Morgan, Mac",4,6,5,1,0,1,20,1,6,5,2023
+2435223,"Texas","Tennessee","Czech, Estelle",2,1,0,1,1,1,8,0,2,1,2023
+2435846,"Texas","Tennessee","Gutierrez, Citlaly",5.2,4,2,3,0,4,25,0,4,8,2023
+2435846,"Texas","Tennessee","Simpson, Sophia",0.2,2,3,2,0,1,7,0,1,1,2023
+2435846,"Texas","Tennessee","Morgan, Mac",0.2,4,2,0,0,1,7,0,1,0,2023
