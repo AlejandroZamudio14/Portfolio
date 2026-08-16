@@ -28,3 +28,11 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Description:** Using the NFLFastR Package, the project aims to create a 4th down model and application to use the results of the model. With the goal of training the model on pre-snap variables to generate a probability of converting, I train the model using RStudio and use a Shiny App to create the visual tool. The tool allows you to enter the variables and see the resulting probability of converting on 4th down. 
 
 **Technologies:** R · Shiny
+
+
+### <ins>MLB Base Stealing Model</ins>
+**Date:** July 2026 - August 2026
+
+**Description:** Using publicly available Statcast data, I train an XGBoost that provides the probability of a base runner successfully stealing a base off a pitcher and catcher pairing. The model uses variables related to the pitcher, catcher and runner and provides the probability against specific pitch types and weighed into a final number. A Shiny App is available in the readme to view the model. 
+
+**Technologies:** R · Shiny
