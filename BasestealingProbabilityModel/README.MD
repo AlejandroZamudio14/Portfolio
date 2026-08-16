@@ -13,3 +13,5 @@ The purpose of the model is to generate the probability a base stealer successfu
 
 ## **Shiny App**
 As a visual representation of the model's results, an interactive shiny app was created that allows you to enter the Pitcher, Catcher, Runner and Target Base. The app uses data that averages values used in the model to serve as the player's "profile". These values are then entered into the model for each pitch classification and then outputted to the application. The app also allows you to see some of the values in the profiles. 
+
+ShinyApp URL: https://01a00bcc-fe94-8f0a-e84d-c621ff98827a.share.connect.posit.cloud
