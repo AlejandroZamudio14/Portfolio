@@ -1,0 +1,116 @@
+,index,player,matchNum,positions,shots,shotsOnTarget,goals,passCompletion,keyPasses,assists,successfulDribbles,tackles,interceptions,penaltiesWon,ownGoal,foulCommitted,penaltyConceded,poorShots,dispossessed,dispossessedOwnHalf,miscontrol,miscontrolOwnHalf,errors,yellowCard,redCard,blocks,clearances,headedClearance,recoveries,dribbledPast,match_id,match_date,home_team,away_team,competition_stage,is_attacker,is_midfielder,is_defender,predicted_rating,fotmob_rating
+0,0,Andrej Kramarić,3869519,"['Center Forward', 'Center Attacking Midfield']",0,0,0,94,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.7,6.5
+1,9,Cristian Gabriel Romero,3869519,['Right Center Back'],0,0,0,85,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,1,0,2,4,3,5,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,7,7.1
+2,27,Lovro Majer,3869519,['Right Defensive Midfield'],1,1,0,79,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,6.5,NA
+3,26,Exequiel Alejandro Palacios,3869519,['Right Center Midfield'],0,0,0,87,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,6.4,6.2
+4,15,Enzo Fernandez,3869519,"['Left Defensive Midfield', 'Center Defensive Midfield']",1,1,0,87,1,0,0,3,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,2,2,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,7,7.2
+5,14,Luka Modrić,3869519,"['Right Center Midfield', 'Right Defensive Midfield']",1,0,0,86,2,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,6,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,7.6,8
+6,12,Leandro Daniel Paredes,3869519,['Right Defensive Midfield'],1,1,0,92,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,4,2,2,4,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,7.2,7.4
+7,13,Mateo Kovačić,3869519,"['Left Center Midfield', 'Left Defensive Midfield']",0,0,0,94,3,0,3,2,0,0,0,0,0,0,2,2,1,0,0,0,0,1,0,0,7,2,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,7.5,7.9
+8,11,Nahuel Molina Lucero,3869519,"['Right Back', 'Right Wing Back']",0,0,0,70,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,1,2,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,6.2,7.1
+9,3,Marcelo Brozović,3869519,['Center Defensive Midfield'],0,0,0,94,0,0,1,1,0,0,0,2,0,0,4,1,0,0,0,0,0,1,0,0,2,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,6.2,6.2
+10,7,Alexis Mac Allister,3869519,"['Left Midfield', 'Left Center Midfield']",2,1,0,88,2,0,0,1,0,0,0,0,0,1,2,0,4,1,0,0,0,5,0,0,3,2,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,6.9,7.5
+11,8,Nicolás Alejandro Tagliafico,3869519,"['Left Back', 'Left Wing Back']",0,0,0,80,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,6,4,3,2,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,6.8,7.2
+12,1,Dejan Lovren,3869519,['Right Center Back'],3,0,0,91,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,2,3,3,1,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,7.1,6.3
+13,6,Joško Gvardiol,3869519,['Left Center Back'],0,0,0,94,0,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,7,3,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,7.2,6.9
+14,5,Borna Sosa,3869519,['Left Back'],0,0,0,76,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,1,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,6.5,6.2
+15,4,Josip Juranović,3869519,['Right Back'],0,0,0,80,1,0,0,3,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,5,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,7.2,6.5
+16,2,Nicolás Hernán Otamendi,3869519,"['Left Center Back', 'Center Back']",0,0,0,95,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,3,3,3,2,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,6.9,7
+17,10,Rodrigo Javier De Paul,3869519,"['Right Midfield', 'Right Center Midfield']",1,0,0,81,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,1,0,6.8,6.9
+18,18,Ivan Perišić,3869519,"['Left Wing', 'Left Back']",3,1,0,71,1,0,1,1,0,0,0,0,0,2,1,0,2,2,0,0,0,0,0,0,4,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,1,6.8,7.4
+19,23,Lisandro Martínez,3869519,['Left Center Back'],0,0,0,89,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,0,0,1,6.7,6.6
+20,25,Paulo Bruno Exequiel Dybala,3869519,['Left Center Forward'],0,0,0,80,1,0,0,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.6,6.5
+21,22,Mislav Oršić,3869519,['Left Wing'],2,0,0,80,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.6,6
+22,21,Bruno Petković,3869519,['Center Forward'],0,0,0,80,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.1,6
+23,19,Mario Pašalić,3869519,['Right Wing'],1,0,0,75,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,3,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.5,6.2
+24,18,Ivan Perišić,3869519,"['Left Wing', 'Left Back']",3,1,0,71,1,0,1,1,0,0,0,0,0,2,1,0,2,2,0,0,0,0,0,0,4,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,1,6.8,7.4
+25,17,Julián Álvarez,3869519,['Left Center Forward'],2,2,2,78,0,0,0,0,0,1,0,3,0,0,2,0,1,0,0,0,0,2,0,0,3,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,8.6,8.9
+26,20,Nikola Vlašić,3869519,['Right Wing'],1,0,0,85,0,0,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,3,0,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,6.6,6.3
+27,16,Lionel Andrés Messi Cuccittini,3869519,['Right Center Forward'],2,2,1,83,1,1,7,0,0,0,0,2,0,0,6,0,4,2,0,0,0,0,0,0,7,1,3869519,12/13/2022,Argentina,Croatia,Semi-finals,1,0,0,8.7,8.4
+28,50,Abderrazak Hamdallah,3869552,"['Center Forward', 'Right Center Forward']",1,0,0,33,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.3,6.7
+29,46,Youssef En-Nesyri,3869552,['Center Forward'],0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.3,5.8
+30,45,Kylian Mbappé Lottin,3869552,"['Left Wing', 'Center Forward']",3,0,0,71,2,0,4,0,0,0,0,5,0,0,3,0,4,1,0,0,0,1,0,0,5,1,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.8,7.4
+31,48,Selim Amallah,3869552,"['Right Center Midfield', 'Left Center Midfield']",0,0,0,80,1,0,2,3,0,0,0,3,0,0,2,1,1,0,0,0,0,1,0,0,1,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,6.8,6.4
+32,54,Abdessamad Ezzalzouli,3869552,['Left Midfield'],1,0,0,100,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,6.9,6.4
+33,28,Sofyan Amrabat,3869552,"['Right Defensive Midfield', 'Center Defensive Midfield']",1,0,0,85,1,0,0,2,0,0,0,3,0,1,0,0,2,1,0,0,0,1,3,3,5,4,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,7,6.9
+34,41,Youssouf Fofana,3869552,"['Left Defensive Midfield', 'Left Center Midfield']",2,0,0,84,0,0,1,3,0,0,0,2,0,2,0,0,0,0,0,0,0,3,0,0,4,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,7.1,7.7
+35,47,Olivier Giroud,3869552,['Center Forward'],3,0,0,47,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,1,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.4,7.2
+36,32,Azzedine Ounahi,3869552,"['Left Defensive Midfield', 'Left Center Midfield', 'Right Center Midfield']",4,1,0,85,0,0,3,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,8,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,7.5,6.9
+37,35,Antoine Griezmann,3869552,"['Center Attacking Midfield', 'Right Center Midfield']",0,0,0,77,4,0,1,1,0,0,0,0,0,0,3,1,2,0,0,0,0,1,3,2,4,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,7.2,8
+38,39,Hakim Ziyech,3869552,"['Right Wing', 'Right Midfield']",1,0,0,76,0,0,0,0,0,0,0,0,0,1,5,0,2,1,0,0,0,0,0,0,5,1,3869552,12/14/2022,France,Morocco,Semi-finals,1,1,0,5.9,6
+39,34,Aurélien Djani Tchouaméni,3869552,"['Right Defensive Midfield', 'Center Defensive Midfield']",1,0,0,91,2,0,0,1,0,0,0,0,0,0,2,2,1,1,0,0,0,1,4,1,7,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,1,0,7.3,8.2
+40,51,Marcus Thuram,3869552,['Left Wing'],1,0,0,60,2,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.7,6.9
+41,29,Achraf Dari,3869552,['Right Center Back'],0,0,0,91,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,4,6,6,6,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,7,5.9
+42,37,Jules Koundé,3869552,['Right Back'],1,0,0,90,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,3,2,0,3,2,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,6.8,7.6
+43,38,Noussair Mazraoui,3869552,"['Left Wing Back', 'Left Back']",0,0,0,91,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,6.8,6.1
+44,52,Zakaria Aboukhlal,3869552,"['Left Wing', 'Left Center Forward']",1,0,0,67,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.2,6
+45,30,Jawad El Yamiq,3869552,['Left Center Back'],1,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,7.1,7.1
+46,39,Hakim Ziyech,3869552,"['Right Wing', 'Right Midfield']",1,0,0,76,0,0,0,0,0,0,0,0,0,1,5,0,2,1,0,0,0,0,0,0,5,1,3869552,12/14/2022,France,Morocco,Semi-finals,1,1,0,6,6
+47,42,Theo Bernard François Hernández,3869552,['Left Back'],1,1,1,74,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,6,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,8.5,8.6
+48,40,Achraf Hakimi Mouh,3869552,"['Right Wing Back', 'Right Back']",1,0,0,88,0,0,0,2,0,0,0,1,0,0,2,0,4,0,0,0,0,1,1,1,9,2,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,7.1,6.4
+49,44,Raphaël Varane,3869552,['Right Center Back'],1,0,0,93,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,6.7,6.8
+50,43,Ibrahima Konaté,3869552,['Left Center Back'],0,0,0,92,1,0,0,0,0,0,0,2,0,0,1,0,1,1,0,0,0,4,4,1,3,0,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,6.7,7.5
+51,36,Ousmane Dembélé,3869552,['Right Wing'],0,0,0,74,0,0,2,1,0,0,0,2,0,0,2,0,1,0,0,0,0,2,0,0,1,1,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.4,7.4
+52,33,Sofiane Boufal,3869552,['Left Wing'],1,0,0,70,1,0,0,1,0,0,0,2,0,1,0,0,3,0,0,1,0,1,0,0,0,0,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,6.3,6.4
+53,53,Randal Kolo Muani,3869552,['Right Wing'],1,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3869552,12/14/2022,France,Morocco,Semi-finals,1,0,0,7.3,7.1
+54,49,Yahia Attiyat allah,3869552,['Left Back'],1,0,0,73,1,0,0,1,0,0,0,3,0,1,3,1,0,0,0,0,0,0,0,0,2,1,3869552,12/14/2022,France,Morocco,Semi-finals,0,0,1,6.4,5.8
+55,56,Joško Gvardiol,3869684,['Left Center Back'],1,1,1,91,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1,5,2,4,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7.9,7.9
+56,58,Josip Šutalo,3869684,['Right Center Back'],0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,4,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7,6.6
+57,57,Josip Stanišić,3869684,['Right Back'],1,0,0,73,0,0,0,3,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,3,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7.1,7.3
+58,68,Yahia Attiyat allah,3869684,['Left Back'],0,0,0,78,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,2,1,6,1,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7,6.2
+59,66,Jawad El Yamiq,3869684,['Right Center Back'],0,0,0,89,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,5,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7,6.4
+60,69,Achraf Dari,3869684,['Left Center Back'],1,1,1,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,1,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,7.8,7.5
+61,77,Badr Banoun,3869684,"['Left Center Back', 'Right Center Back']",0,0,0,100,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,6.4,6
+62,74,Sofyan Amrabat,3869684,"['Center Defensive Midfield', 'Left Center Back']",0,0,0,87,0,0,0,0,0,0,0,2,0,0,1,1,1,1,0,0,0,0,0,0,4,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,1,6.3,6.2
+63,67,Achraf Hakimi Mouh,3869684,['Right Back'],0,0,0,86,3,0,0,1,0,0,0,2,0,0,3,1,2,0,0,0,0,0,1,0,4,2,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,6.6,6.8
+64,63,Ivan Perišić,3869684,['Left Back'],0,0,0,82,2,1,1,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,4,3,2,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,0,1,8.2,8.3
+65,75,Ilias Chair,3869684,"['Right Wing', 'Right Center Midfield']",0,0,0,87,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,1,0,6.3,5.9
+66,76,Azzedine Ounahi,3869684,"['Left Center Midfield', 'Center Defensive Midfield']",0,0,0,92,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,2,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,6.6,6.3
+67,64,Lovro Majer,3869684,"['Right Wing', 'Center Attacking Midfield']",0,0,0,78,1,0,0,0,0,0,0,3,0,0,3,1,3,0,0,0,0,1,1,1,4,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.2,6.5
+68,59,Luka Modrić,3869684,['Right Defensive Midfield'],1,1,0,86,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,2,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,6.8,7.6
+69,62,Andrej Kramarić,3869684,"['Center Attacking Midfield', 'Right Wing']",1,1,0,75,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.6,7.1
+70,60,Marko Livaja,3869684,['Center Forward'],1,0,0,62,0,1,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,7.1,7.5
+71,80,Bruno Petković,3869684,['Center Forward'],0,0,0,31,0,0,0,1,0,0,0,2,0,0,2,2,0,0,0,0,0,2,0,0,1,2,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.2,6.3
+72,79,Nikola Vlašić,3869684,['Right Wing'],1,0,0,62,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.4,6.5
+73,78,Anass Zaroury,3869684,['Left Wing'],0,0,0,83,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.5,6.4
+74,71,Sofiane Boufal,3869684,['Left Wing'],1,0,0,78,0,0,1,0,0,0,0,1,0,1,0,0,2,1,0,0,0,3,0,0,1,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.4,6.6
+75,73,Hakim Ziyech,3869684,"['Right Wing', 'Right Center Midfield']",2,0,0,76,1,0,4,1,0,0,0,1,0,2,1,0,2,1,0,0,0,2,0,0,3,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,1,0,6.9,7.4
+76,72,Abdelhamid Sabiri,3869684,['Left Center Midfield'],0,0,0,90,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,3,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,6.4,5.8
+77,73,Hakim Ziyech,3869684,"['Right Wing', 'Right Center Midfield']",2,0,0,76,1,0,4,1,0,0,0,1,0,2,1,0,2,1,0,0,0,2,0,0,3,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,1,0,7,7.4
+78,74,Sofyan Amrabat,3869684,"['Center Defensive Midfield', 'Left Center Back']",0,0,0,87,0,0,0,0,0,0,0,2,0,0,1,1,1,1,0,0,0,0,0,0,4,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,1,6.4,6.2
+79,61,Mislav Oršić,3869684,['Left Wing'],5,1,1,73,1,0,0,2,0,0,0,3,0,2,0,0,4,0,0,0,0,2,0,0,2,2,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,8,8
+80,81,Selim Amallah,3869684,['Left Center Midfield'],0,0,0,69,0,0,1,2,0,0,0,2,0,0,0,0,2,1,0,0,0,0,1,1,2,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,6.8,6.8
+81,70,Bilal El Khannous,3869684,"['Right Center Midfield', 'Left Center Midfield']",0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,1,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,6.6,6
+82,55,Mateo Kovačić,3869684,['Left Defensive Midfield'],1,0,0,91,1,0,3,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,3,1,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,0,1,0,7.3,8
+83,75,Ilias Chair,3869684,"['Right Wing', 'Right Center Midfield']",0,0,0,87,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,1,0,6.2,5.9
+84,65,Youssef En-Nesyri,3869684,['Center Forward'],5,1,0,75,0,0,0,0,0,0,0,2,0,2,1,0,1,0,0,0,0,1,1,1,3,0,3869684,12/17/2022,Croatia,Morocco,3rd Place Final,1,0,0,6.5,6.5
+85,102,Dayotchanculle Upamecano,3869685,['Left Center Back'],0,0,0,80,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,2,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.8,6.4
+86,106,Eduardo Camavinga,3869685,['Left Back'],0,0,0,88,1,0,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,3,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,7.5,7.4
+87,108,Gonzalo Ariel Montiel,3869685,"['Right Back', 'Right Wing Back']",1,0,0,62,2,0,0,1,0,0,0,2,1,0,0,0,0,0,0,1,0,1,1,1,2,2,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.4,5.9
+88,90,Theo Bernard François Hernández,3869685,['Left Back'],0,0,0,78,0,0,2,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,1,0,1,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.6,7.1
+89,93,Jules Koundé,3869685,['Right Back'],0,0,0,78,0,0,1,3,0,0,0,2,0,0,1,1,2,2,0,0,0,3,4,1,3,2,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.6,7.1
+90,92,Raphaël Varane,3869685,['Right Center Back'],0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,4,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.9,6.4
+91,89,Nicolás Alejandro Tagliafico,3869685,"['Left Back', 'Left Wing Back']",0,0,0,79,1,0,0,4,0,0,0,3,0,0,1,1,0,0,0,0,0,1,2,0,3,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,7.1,7.7
+92,88,Nicolás Hernán Otamendi,3869685,['Left Center Back'],0,0,0,92,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0,0,0,1,4,2,5,0,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.2,6.3
+93,109,Youssouf Fofana,3869685,['Left Defensive Midfield'],1,0,0,82,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,3,1,3869685,12/18/2022,Argentina,France,Final,0,1,0,6.6,6.4
+94,103,Randal Kolo Muani,3869685,"['Right Wing', 'Right Center Forward']",2,1,0,73,0,0,1,3,0,1,0,3,0,1,5,1,3,0,0,0,0,0,0,0,3,0,3869685,12/18/2022,Argentina,France,Final,1,0,0,6.8,7.4
+95,100,Ousmane Dembélé,3869685,['Right Wing'],0,0,0,69,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,1,0,0,1,2,3869685,12/18/2022,Argentina,France,Final,1,0,0,6,5.5
+96,105,Marcos Javier Acuña,3869685,"['Left Wing', 'Left Center Midfield', 'Left Wing Back']",0,0,0,68,2,0,0,1,0,0,0,2,0,0,3,3,1,0,0,1,0,3,1,1,2,1,3869685,12/18/2022,Argentina,France,Final,1,1,0,6.5,6.3
+97,107,Kingsley Coman,3869685,"['Right Midfield', 'Center Attacking Midfield']",0,0,0,33,0,0,4,2,0,0,0,0,0,0,4,3,1,0,0,0,0,3,0,0,3,1,3869685,12/18/2022,Argentina,France,Final,0,1,0,6.5,6.8
+98,98,Enzo Fernandez,3869685,"['Center Defensive Midfield', 'Right Center Midfield']",2,1,0,84,1,0,1,5,0,0,0,4,0,0,3,1,2,1,0,1,0,2,4,4,5,7,3869685,12/18/2022,Argentina,France,Final,0,1,0,7.5,8.3
+99,104,Marcus Thuram,3869685,"['Left Wing', 'Center Forward', 'Left Midfield']",0,0,0,68,0,1,2,1,0,0,0,2,0,0,1,0,5,2,0,1,0,2,2,2,5,0,3869685,12/18/2022,Argentina,France,Final,1,1,0,7.7,7.7
+100,94,Alexis Mac Allister,3869685,['Left Center Midfield'],3,1,0,87,0,1,2,1,0,0,0,0,0,2,3,1,1,0,0,0,0,6,1,1,9,1,3869685,12/18/2022,Argentina,France,Final,0,1,0,8.1,7.8
+101,91,Adrien Rabiot,3869685,['Left Defensive Midfield'],1,1,0,84,0,0,0,0,0,0,0,3,0,0,1,0,1,0,0,1,0,3,2,2,4,2,3869685,12/18/2022,Argentina,France,Final,0,1,0,6.7,7.5
+102,86,Rodrigo Javier De Paul,3869685,['Right Center Midfield'],2,1,0,84,1,0,1,0,0,0,0,2,0,0,1,1,3,2,0,0,0,1,0,0,3,2,3869685,12/18/2022,Argentina,France,Final,0,1,0,6.7,6.7
+103,84,Aurélien Djani Tchouaméni,3869685,['Right Defensive Midfield'],0,0,0,81,0,0,2,1,0,0,0,2,0,0,0,0,1,0,0,0,0,1,1,0,9,1,3869685,12/18/2022,Argentina,France,Final,0,1,0,7.2,7.5
+104,110,Leandro Daniel Paredes,3869685,['Center Defensive Midfield'],0,0,0,100,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3869685,12/18/2022,Argentina,France,Final,0,1,0,6.7,6.3
+105,87,Cristian Gabriel Romero,3869685,['Right Center Back'],0,0,0,85,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,4,9,6,4,3,3869685,12/18/2022,Argentina,France,Final,0,0,1,7,7.4
+106,111,Lautaro Javier Martínez,3869685,"['Center Forward', 'Left Center Forward']",4,1,0,71,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,0,3869685,12/18/2022,Argentina,France,Final,1,0,0,6.5,6.1
+107,96,Ángel Fabián Di María Hernández,3869685,['Left Wing'],2,1,1,86,4,0,5,0,0,1,0,0,0,1,1,0,1,0,0,0,0,2,0,0,2,2,3869685,12/18/2022,Argentina,France,Final,1,0,0,8.7,8.7
+108,95,Lionel Andrés Messi Cuccittini,3869685,"['Right Wing', 'Right Center Forward']",5,4,2,82,2,0,0,1,0,0,0,2,0,1,6,1,3,0,0,0,0,1,1,0,5,0,3869685,12/18/2022,Argentina,France,Final,1,0,0,8.7,9
+109,97,Olivier Giroud,3869685,['Center Forward'],0,0,0,56,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3869685,12/18/2022,Argentina,France,Final,1,0,0,6.2,6.5
+110,104,Marcus Thuram,3869685,"['Left Wing', 'Center Forward', 'Left Midfield']",0,0,0,68,0,1,2,1,0,0,0,2,0,0,1,0,5,2,0,1,0,2,2,2,5,0,3869685,12/18/2022,Argentina,France,Final,1,1,0,7.5,7.7
+111,105,Marcos Javier Acuña,3869685,"['Left Wing', 'Left Center Midfield', 'Left Wing Back']",0,0,0,68,2,0,0,1,0,0,0,2,0,0,3,3,1,0,0,1,0,3,1,1,2,1,3869685,12/18/2022,Argentina,France,Final,1,1,0,6.4,6.3
+112,101,Julián Álvarez,3869685,['Center Forward'],1,1,0,81,1,0,0,0,0,0,0,8,0,0,1,1,3,2,0,0,0,2,0,0,2,2,3869685,12/18/2022,Argentina,France,Final,1,0,0,6.3,6.2
+113,99,Kylian Mbappé Lottin,3869685,"['Left Wing', 'Center Forward', 'Left Center Forward']",6,3,3,70,0,0,6,0,0,0,0,1,0,1,0,0,2,1,0,0,0,1,0,0,7,0,3869685,12/18/2022,Argentina,France,Final,1,0,0,10.3,9.6
+114,85,Nahuel Molina Lucero,3869685,['Right Back'],0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,1,3869685,12/18/2022,Argentina,France,Final,0,0,1,6.7,6.8
