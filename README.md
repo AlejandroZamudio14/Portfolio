@@ -30,6 +30,14 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Technologies:** R · Shiny
 
 
+### <ins>FotMob Rating Model</ins>
+**Date:** June 2026 - July 2026
+
+**Description:** Using Statsbomb's free data API in Python, the project aims to create a model that replicates the match performance ratings given to players. With the model train on the player's specific FotMob rating and associated stat line for the match, I used data from the 2018 World Cup to train the model and perform the evaluation on the final 4 games of the 2022 World Cup. A tableau public dashboard shows the results of the model along with the associated stats. 
+
+**Technologies:** Python · Jupyter Notebook · Tableau
+
+
 ### <ins>MLB Base Stealing Model</ins>
 **Date:** July 2026 - August 2026
 
