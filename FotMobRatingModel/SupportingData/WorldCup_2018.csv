@@ -1,0 +1,1319 @@
+player,fotmobRating,matchNum,positions,shots,shotsOnTarget,goals,passCompletion,keyPasses,assists,successfulDribbles,tackles,interceptions,penaltiesWon,ownGoal,foulCommitted,penaltyConceded,poorShots,dispossessed,dispossessedOwnHalf,miscontrol,miscontrolOwnHalf,errors,yellowCard,redCard,match_id,match_date,home_team,away_team,competition_stage
+Abdullah Ibrahim Otayf,5.8,7525,['Center Defensive Midfield'],0,0,0,87,0,0,0,0,0,0,0,1,0,0,1,1,2,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Mohammad Ibrahim Al Sahlawi,5.7,7525,"['Center Forward', 'Right Center Forward']",1,0,0,70,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Salman Mohammed Al Faraj,7.5,7525,['Left Center Midfield'],0,0,0,89,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Salem Mohammed Al Dawsari,6.7,7525,['Left Midfield'],2,0,0,93,1,0,0,3,0,0,0,0,0,2,6,1,4,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Yasir Gharsan Al Shahrani,5.2,7525,['Left Back'],2,0,0,71,1,0,2,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Yehya Sulaiman Ali Al-Shehri,5.5,7525,['Right Midfield'],0,0,0,87,0,0,0,0,0,0,0,0,0,0,2,1,2,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Aleksandr Samedov,7,7525,['Right Midfield'],2,0,0,84,1,0,1,1,0,0,0,2,0,1,1,0,1,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Fyodor Smolov,5.8,7525,['Center Forward'],0,0,0,65,2,0,1,0,0,0,0,2,0,0,6,1,4,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Taisir Jabir Al Jassim,5.8,7525,['Right Center Midfield'],0,0,0,86,1,0,0,1,0,0,0,4,0,0,3,1,2,1,0,1,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Sergei Ignashevich,7.8,7525,['Left Center Back'],0,0,0,67,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Omar Ibrahim Omar Othman Hawsawi,6.1,7525,['Left Center Back'],0,0,0,76,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Mário Figueira Fernandes,7.5,7525,['Right Back'],0,0,0,81,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Roman Zobnin,8.5,7525,"['Right Center Midfield', 'Left Center Midfield']",2,1,0,54,1,1,0,3,0,0,0,1,0,1,2,0,1,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Yuri Zhirkov,7.3,7525,['Left Back'],1,0,0,61,0,0,1,2,0,0,0,2,0,0,1,1,1,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Osama Abdulrezag Hawsawi,5.2,7525,['Right Center Back'],0,0,0,82,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Mohammed Al Burayk,4.8,7525,['Right Back'],0,0,0,81,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Yury Gazinskiy,8.3,7525,"['Left Center Midfield', 'Right Center Midfield']",1,1,1,81,0,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Aleksandr Golovin,9.3,7525,"['Left Midfield', 'Center Attacking Midfield']",1,1,1,67,2,2,1,0,0,0,0,6,0,0,5,0,0,0,0,1,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Denis Cheryshev,9,7525,['Left Midfield'],4,3,2,67,0,0,3,2,0,0,0,4,0,0,1,0,0,0,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Ilya Kutepov,7.1,7525,['Right Center Back'],0,0,0,74,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7525,6/14/2018,Russia,Saudi Arabia,Group Stage
+Ramin Rezaeian,7.1,7577,['Right Back'],0,0,0,57,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Vahid Amiri,6.4,7577,['Left Center Midfield'],0,0,0,62,1,0,1,1,0,0,0,3,0,0,0,0,2,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Amine Harit,6.7,7577,['Left Wing'],3,1,0,73,2,0,8,0,0,0,0,1,0,2,3,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Achraf Hakimi Mouh,6.7,7577,"['Left Back', 'Left Wing Back']",1,0,0,89,2,0,1,1,0,0,0,1,0,0,2,0,2,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Mbark Boussoufa,7.1,7577,['Left Center Midfield'],0,0,0,78,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Alireza Jahanbakhsh,7.6,7577,['Right Midfield'],2,1,0,45,0,0,3,3,0,0,0,2,0,1,1,1,0,0,0,1,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Morteza Pouraliganji,6.8,7577,['Right Center Back'],0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Sardar Azmoun,7,7577,['Center Forward'],2,1,0,48,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Omid Ebrahimi,7.2,7577,['Center Defensive Midfield'],1,0,0,72,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Karim El Ahmadi Al Aroos,6.6,7577,['Right Center Midfield'],0,0,0,81,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,1,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Hakim Ziyech,6.9,7577,['Right Wing'],3,1,0,78,1,0,1,1,0,0,0,5,0,0,0,0,1,1,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Ehsan Hajsafi,7.1,7577,['Left Back'],2,0,0,38,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Karim Ansarifard,6.5,7577,['Left Midfield'],0,0,0,50,1,0,0,1,0,0,0,2,0,0,1,1,1,0,0,1,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Masoud Shojaei Soleimani,6.6,7577,['Right Center Midfield'],0,0,0,53,0,0,2,2,0,0,0,4,0,0,2,0,1,0,0,1,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Diego da Silva Costa,8.7,7576,['Center Forward'],3,2,2,100,1,0,2,0,0,0,0,0,0,1,0,0,4,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Roozbeh Cheshmi,6.7,7577,['Left Center Back'],1,0,0,73,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Nordin Amrabat,7,7577,['Right Back'],0,0,0,74,2,0,4,0,0,0,0,4,0,0,1,0,1,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Edinson Roberto Cavani Gómez,7.5,7578,['Left Center Forward'],5,2,0,93,1,0,1,0,0,0,0,0,0,0,2,0,2,1,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+José María Giménez de Vargas,8.9,7578,['Right Center Back'],3,1,1,80,0,0,0,3,0,0,0,1,0,1,0,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Mohamed Abdul Shafy Sayed Abouezeid,7.1,7578,['Left Back'],0,0,0,75,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Jordi Alba Ramos,6.9,7576,['Left Back'],0,0,0,86,1,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Cédric Ricardo Alves Soares,5.9,7576,['Right Back'],0,0,0,68,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Kléper Laveran Lima Ferreira,5.9,7576,['Right Center Back'],1,0,0,86,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Raphaël Adelino José Guerreiro,6.1,7576,['Left Back'],0,0,0,77,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+William Silva de Carvalho,7.1,7576,['Left Center Midfield'],0,0,0,90,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Cristiano Ronaldo dos Santos Aveiro,9.7,7576,['Left Center Forward'],5,3,3,94,1,0,0,0,0,1,0,0,0,1,1,0,2,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Bruno Miguel Borges Fernandes,6.3,7576,['Left Midfield'],1,0,0,79,0,0,0,1,0,0,0,1,0,1,2,1,1,0,0,1,0,7576,6/15/2018,Portugal,Spain,Group Stage
+José Miguel da Rocha Fonte,5.9,7576,['Left Center Back'],0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Gonçalo Manuel Ganchinho Guedes,7.2,7576,['Right Center Forward'],1,0,0,83,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+João Filipe Iria Santos Moutinho,7,7576,['Right Center Midfield'],0,0,0,97,2,0,1,2,0,0,0,3,0,0,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+José Ignacio Fernández Iglesias,7.7,7576,['Right Back'],1,1,1,93,0,0,4,0,0,0,0,4,1,0,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+David Josué Jiménez Silva,7.6,7576,['Right Wing'],3,0,0,89,3,0,3,1,0,0,0,2,0,1,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Jorge Resurrección Merodio,7.1,7576,['Right Center Midfield'],0,0,0,89,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Sergio Busquets i Burgos,7.5,7576,['Center Defensive Midfield'],1,0,0,94,0,1,0,1,0,0,0,2,0,1,1,1,1,1,0,1,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Francisco Román Alarcón Suárez,7.2,7576,['Left Wing'],2,1,0,89,0,0,3,0,0,0,0,0,0,0,3,0,1,1,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Andrés Iniesta Luján,6.7,7576,['Left Center Midfield'],1,0,0,91,1,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Bernardo Mota Veiga de Carvalho e Silva,7.1,7576,['Right Wing'],0,0,0,84,0,0,1,0,0,0,0,2,0,0,1,0,4,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Younès Belhanda,6.8,7577,"['Center Attacking Midfield', 'Left Wing']",3,0,0,88,1,0,1,0,0,0,0,1,0,1,2,0,2,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Gerard Piqué Bernabéu,6.2,7576,['Right Center Back'],0,0,0,94,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Ahmed Fathy Abdel Meneim Ibrahim,7,7578,['Right Back'],1,1,0,78,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Matías Vecino Falero,7.7,7578,['Right Center Midfield'],1,0,0,84,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Diego Roberto Godín Leal,8.2,7578,['Left Center Back'],0,0,0,80,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Rodrigo Bentancur Colmán,8.1,7578,['Left Center Midfield'],0,0,0,90,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Giorgian Daniel De Arrascaeta Benedetti,6.5,7578,['Left Wing'],0,0,0,84,0,0,0,1,0,0,0,1,0,0,2,0,3,1,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+José Martín Cáceres Silva,7.2,7578,['Left Back'],2,0,0,78,0,0,0,0,0,0,0,3,0,1,1,1,1,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Guillermo Varela Olivera,7.6,7578,['Right Back'],0,0,0,89,2,0,1,2,0,0,0,1,0,0,1,1,1,1,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Ahmed Elsayed Ali Elsayed Hegazy,6.8,7578,['Left Center Back'],0,0,0,67,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Sam Morsy,6.6,7578,['Left Center Midfield'],0,0,0,100,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Nahitan Michel Nández Acosta,6.8,7578,['Right Wing'],0,0,0,74,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Ali Gabr,6.6,7578,['Right Center Back'],0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Mohamed Naser Elsayed Elneny,6.5,7578,['Right Center Midfield'],2,0,0,85,0,0,0,1,0,0,0,3,0,0,1,1,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Abdalla Mahmoud El Said Bekhit,6.6,7578,['Center Attacking Midfield'],1,0,0,72,0,0,0,2,0,0,0,1,0,1,1,1,2,1,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Amr Medhat Warda,7.2,7578,['Right Midfield'],0,0,0,52,1,0,2,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Mahmoud Ibrahim Hassan,7.2,7578,['Left Midfield'],2,1,0,85,0,0,1,3,0,0,0,3,0,1,2,0,3,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Tarek Hamed,6.9,7578,['Left Center Midfield'],1,0,0,82,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Marwan Mohsen,5.1,7578,['Center Forward'],1,1,0,62,0,0,0,0,0,0,0,1,0,0,1,0,2,2,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Luis Alberto Suárez Díaz,6.9,7578,['Right Center Forward'],4,1,0,72,2,0,1,0,0,0,0,0,0,2,7,0,3,0,0,0,0,7578,6/15/2018,Egypt,Uruguay,Group Stage
+Medhi Amine El Mouttaqi Benatia,7.3,7577,['Right Center Back'],1,1,0,84,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Sergio Ramos García,7.1,7576,['Left Center Back'],0,0,0,97,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7576,6/15/2018,Portugal,Spain,Group Stage
+Romain Saïss,6.5,7577,['Left Center Back'],1,0,0,85,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Ayoub El Kaabi,5.8,7577,['Center Forward'],1,0,0,50,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,0,0,7577,6/15/2018,Morocco,Iran,Group Stage
+Leon Aderemi Balogun,6.9,7529,['Left Center Back'],1,1,0,77,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Ivan Perišić,7.6,7529,"['Right Wing', 'Left Wing']",1,0,0,78,1,0,2,2,0,0,0,0,0,1,1,0,1,1,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Oghenekaro Etebo,6.8,7529,['Left Center Midfield'],2,0,0,91,2,0,4,1,0,0,0,1,0,2,2,1,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+John Michael Nchekwube Obinna,6.1,7529,['Center Attacking Midfield'],0,0,0,76,2,0,2,2,0,0,0,1,0,0,4,2,2,1,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+William Troost-Ekong,6.4,7529,['Right Center Back'],0,0,0,75,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0,1,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Victor Moses,7.3,7529,['Right Wing'],3,0,0,45,1,0,3,0,0,0,0,2,0,2,2,0,3,1,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Luka Modrić,8,7529,"['Right Center Midfield', 'Center Attacking Midfield']",1,1,1,80,0,0,0,1,0,0,0,4,0,0,2,1,2,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Ivan Strinić,7.6,7529,['Left Back'],0,0,0,72,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Brian Oladapo Idowu,6.8,7529,['Left Back'],0,0,0,66,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Mile Jedinak,7.1,7530,['Right Center Midfield'],1,1,1,79,0,0,0,2,0,0,0,1,0,0,2,2,1,1,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Paul Pogba,7,7530,['Left Center Midfield'],1,1,0,83,1,0,0,0,0,0,0,1,0,0,4,2,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Antoine Griezmann,8,7530,['Center Forward'],5,2,1,48,0,0,0,0,0,1,0,1,0,1,2,0,1,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+N'Golo Kanté,8.2,7530,['Center Defensive Midfield'],0,0,0,90,0,0,3,4,0,0,0,2,0,0,0,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Lucas Hernández Pi,7.8,7530,['Left Back'],2,0,0,75,0,0,2,0,0,0,0,2,0,1,2,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Ousmane Dembélé,7.2,7530,['Left Wing'],0,0,0,59,1,0,1,2,0,0,0,1,0,0,1,0,2,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Kylian Mbappé Lottin,7,7530,['Right Wing'],1,1,0,90,2,0,4,1,0,0,0,1,0,0,6,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Josh Risdon,6.3,7530,['Right Back'],1,0,0,57,0,0,1,3,0,0,0,3,1,0,1,0,2,2,0,1,0,7530,6/16/2018,France,Australia,Group Stage
+Mark Milligan,6.9,7530,['Left Center Back'],0,0,0,88,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Samuel Yves Umtiti,6.6,7530,['Left Center Back'],1,0,0,96,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Odion Jude Ighalo,5.8,7529,['Center Forward'],3,1,0,83,0,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Andrew Nabbout,6.2,7530,['Center Forward'],0,0,0,60,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Trent Sainsbury,6.7,7530,['Right Center Back'],0,0,0,79,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Alfreð Finnbogason,7.8,7531,['Center Forward'],3,1,1,77,0,0,1,0,0,0,0,3,0,2,1,0,2,2,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Birkir Már Sævarsson,7.2,7531,['Right Back'],0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Jefferson Agustín Farfán Guadalupe,6.4,7532,['Center Forward'],3,1,0,83,0,0,0,0,0,0,0,3,0,0,1,0,2,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Édison Michael Flores Peralta,6.9,7532,['Left Wing'],3,1,0,72,1,0,1,0,0,0,0,0,0,2,1,1,2,1,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Víctor Yoshimar Yotún Flores,6.4,7532,['Left Center Midfield'],1,1,0,84,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Miguel Ángel Trauco Saavedra,6.6,7532,['Left Back'],0,0,0,84,2,0,1,1,0,0,0,1,0,0,2,1,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Andreas Christensen,7,7532,['Left Center Back'],0,0,0,94,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Christian Dannemann Eriksen,7.9,7532,['Center Attacking Midfield'],3,1,0,67,2,1,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Aaron Mooy,7.4,7530,['Left Center Midfield'],0,0,0,75,2,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Raphaël Varane,7.5,7530,['Right Center Back'],0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Aziz Eraltay Behich,5.2,7530,['Left Back'],1,0,0,75,0,0,0,1,0,0,0,3,0,1,2,1,0,0,0,1,0,7530,6/16/2018,France,Australia,Group Stage
+Corentin Tolisso,7.5,7530,['Right Center Midfield'],0,0,0,84,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,7530,6/16/2018,France,Australia,Group Stage
+Sergio Leonel Agüero del Castillo,7.9,7531,"['Center Forward', 'Left Center Forward']",3,1,1,80,1,0,0,3,0,0,0,0,0,0,5,1,1,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Aron Einar Gunnarsson,6.7,7531,['Right Defensive Midfield'],0,0,0,55,1,0,0,3,0,0,0,2,0,0,1,1,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Emil Hallfreðsson,6.9,7531,['Left Defensive Midfield'],0,0,0,88,0,0,1,5,0,0,0,2,0,0,1,0,1,1,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Alex Iwobi,6.2,7529,['Left Defensive Midfield'],3,0,0,70,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Benjamin Pavard,7.3,7530,['Right Back'],1,0,0,74,1,0,0,1,0,0,0,4,0,1,1,0,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Tom Rogić,6,7530,['Center Attacking Midfield'],0,0,0,93,0,0,1,0,0,0,0,2,0,0,3,1,0,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Kári Árnason,6.7,7531,['Right Center Back'],0,0,0,59,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Mathew Leckie,5.9,7530,['Right Midfield'],2,1,0,55,0,0,0,0,0,0,0,6,0,1,2,0,1,0,0,1,0,7530,6/16/2018,France,Australia,Group Stage
+Ragnar Sigurðsson,6.5,7531,['Left Center Back'],0,0,0,71,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Henrik Dalsgaard,7.5,7532,['Right Back'],0,0,0,72,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Simon Thorup Kjær,6.7,7532,['Right Center Back'],0,0,0,89,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Thomas Delaney,7.1,7532,['Left Center Midfield'],2,0,0,72,0,0,0,0,0,0,0,5,0,2,0,0,0,0,0,1,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Christian Alberto Cueva Bravo,6.7,7532,['Center Attacking Midfield'],1,0,0,77,4,0,1,0,0,1,0,0,0,1,1,0,5,1,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Luis Jan Piers Advíncula Castrillón,7.2,7532,['Right Back'],2,1,0,95,0,0,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Renato Fabrizio Tapia Cortijo,6.3,7532,['Right Center Midfield'],1,0,0,74,2,0,0,1,0,0,0,3,0,0,1,1,0,0,0,1,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Christian Guillermo Martín Ramos Garagay,7.3,7532,['Right Center Back'],0,0,0,81,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Alberto Junior Rodríguez Valdelomar,6.8,7532,['Left Center Back'],2,0,0,83,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Šime Vrsaljko,6.9,7529,['Right Back'],1,0,0,80,0,0,0,0,0,0,0,1,0,1,1,0,2,0,1,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+André Martín Carrillo Díaz,7.3,7532,['Right Wing'],1,1,0,72,4,0,5,0,0,0,0,1,0,0,1,0,3,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Jens Stryger Larsen,7.1,7532,['Left Back'],1,0,0,79,2,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Nicolai Jørgensen,6.8,7532,['Center Forward'],1,0,0,40,1,0,0,1,0,0,0,3,0,0,3,0,1,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Yussuf Yurary Poulsen,8.2,7532,['Right Wing'],2,1,1,70,0,0,3,2,0,0,0,4,1,1,2,1,2,1,0,1,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Lasse Schöne,6.7,7532,['Right Center Midfield'],1,1,0,67,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Andrej Kramarić,7,7529,['Center Attacking Midfield'],2,0,0,56,0,0,3,0,0,0,0,0,0,2,1,0,1,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Mario Mandžukić,7.3,7529,['Center Forward'],2,0,0,64,3,0,0,0,0,1,0,4,0,1,0,0,1,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Onyinye Wilfred Ndidi,7.2,7529,['Right Center Midfield'],0,0,0,81,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Abdullahi Shehu,6.8,7529,['Right Back'],0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Pione Sisto Ifolo Emirmija,6.9,7532,['Left Wing'],1,0,0,83,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7532,6/16/2018,Peru,Denmark,Group Stage
+Domagoj Vida,7.4,7529,"['Left Center Back', 'Right Center Back']",0,0,0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Dejan Lovren,7.3,7529,"['Right Center Back', 'Left Center Back']",1,0,0,84,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Ivan Rakitić,7.9,7529,"['Left Center Midfield', 'Right Center Midfield', 'Right Defensive Midfield']",1,0,0,80,3,0,1,2,0,0,0,3,0,1,0,0,1,0,0,1,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Lionel Andrés Messi Cuccittini,7.6,7531,"['Center Attacking Midfield', 'Right Attacking Midfield']",11,3,0,84,3,0,4,1,0,0,0,1,0,3,9,0,3,1,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Ángel Fabián Di María Hernández,6.6,7531,"['Left Midfield', 'Left Attacking Midfield']",0,0,0,80,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Maximiliano Eduardo Meza,8,7531,"['Right Midfield', 'Right Center Midfield']",0,0,0,84,5,0,0,0,0,1,0,3,0,0,1,0,2,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Lucas Rodrigo Biglia,6.7,7531,['Right Center Midfield'],2,0,0,90,0,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Javier Alejandro Mascherano,7.5,7531,"['Left Center Midfield', 'Center Defensive Midfield', 'Left Defensive Midfield']",1,1,0,93,2,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Eduardo Antonio Salvio,7.9,7531,['Right Back'],1,0,0,81,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Nicolás Hernán Otamendi,7.9,7531,['Right Center Back'],4,1,0,84,0,0,1,1,0,0,0,0,0,3,1,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Nicolás Alejandro Tagliafico,7.2,7531,['Left Back'],2,0,0,94,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Gylfi Þór Sigurðsson,7.6,7531,['Secondary Striker'],4,1,0,65,1,0,3,3,0,0,0,3,0,2,3,2,3,1,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Faustino Marcos Alberto Rojo,7,7531,['Left Center Back'],1,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Birkir Bjarnason,6.1,7531,"['Left Midfield', 'Right Defensive Midfield']",1,0,0,53,0,0,0,2,0,0,0,3,0,1,0,0,2,1,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Johann Berg Guðmunds­son,6.8,7531,['Right Midfield'],1,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Ante Rebić,7.1,7529,"['Left Wing', 'Right Wing']",1,0,0,68,1,0,1,1,0,0,0,5,0,0,0,0,3,1,0,0,0,7529,6/16/2018,Croatia,Nigeria,Group Stage
+Robbie Kruse,6.6,7530,['Left Midfield'],0,0,0,85,0,0,0,3,0,0,0,2,0,0,1,1,1,0,0,0,0,7530,6/16/2018,France,Australia,Group Stage
+Hörður Björgvin Magnússon,6.1,7531,['Left Back'],0,0,0,34,0,0,0,2,0,0,0,1,1,0,0,0,1,1,0,0,0,7531,6/16/2018,Argentina,Iceland,Group Stage
+Fabian Lukas Schär,7.3,7533,['Right Center Back'],0,0,0,79,0,0,0,2,0,0,0,1,0,0,0,0,0,0,1,1,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Steven Zuber,7.9,7533,['Left Wing'],2,1,1,70,1,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Granit Xhaka,6.4,7533,['Left Center Midfield'],0,0,0,85,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Haris Seferović,6.3,7533,['Center Forward'],0,0,0,45,0,0,1,0,0,0,0,2,0,0,0,0,2,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Xherdan Shaqiri,8,7533,['Right Wing'],1,0,0,74,2,1,2,3,0,0,0,0,0,1,0,0,1,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Manuel Obafemi Akanji,7.4,7533,['Left Center Back'],0,0,0,87,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Stephan Lichtsteiner,6.7,7533,['Right Back'],1,0,0,72,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Marcos Danilo Ureña Porras,6,7535,['Center Forward'],2,1,0,86,0,0,1,0,0,0,0,3,0,1,2,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Hirving Rodrigo Lozano Bahena,8.3,7534,['Left Wing'],2,1,1,91,3,0,1,1,0,0,0,2,0,0,0,0,1,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Sami Khedira,6.2,7534,['Right Center Midfield'],1,0,0,78,1,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Mesut Özil,6.8,7534,"['Center Attacking Midfield', 'Right Center Midfield', 'Left Center Midfield']",1,0,0,90,4,0,2,0,0,0,0,0,0,0,3,0,2,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Thomas Müller,6.7,7534,"['Right Wing', 'Right Center Forward']",0,0,0,65,3,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Hugo Ayala Castro,7.1,7534,"['Right Center Back', 'Left Center Back']",0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Héctor Alfredo Moreno Herrera,7.3,7534,"['Left Center Back', 'Center Back']",1,1,0,75,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Jesús Daniel Gallardo Vasconcelos,8.2,7534,['Left Back'],0,0,0,76,1,0,5,1,0,0,0,2,0,0,1,0,0,0,1,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Héctor Miguel Herrera López,7.4,7534,"['Right Center Midfield', 'Center Attacking Midfield', 'Left Defensive Midfield']",1,1,0,84,0,0,5,4,0,0,0,4,0,0,1,1,1,1,0,1,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Carlos Alberto Vela Garrido,7,7534,['Center Attacking Midfield'],1,0,0,79,3,0,1,0,0,0,0,1,0,1,0,0,2,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Nikola Milenković,7.5,7535,['Right Center Back'],0,0,0,87,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Aleksandar Mitrović,7.4,7535,['Center Forward'],5,1,0,58,1,0,0,2,0,0,0,1,0,2,3,0,3,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Ricardo Iván Rodríguez Araya,7.2,7533,['Left Back'],0,0,0,82,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Blerim Džemaili,6.7,7533,['Center Attacking Midfield'],3,1,0,87,1,0,0,0,0,0,0,5,0,2,1,0,2,2,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+João Miranda de Souza Filho,7.2,7533,['Left Center Back'],1,0,0,91,0,0,1,3,0,0,0,1,0,1,0,0,1,1,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Thiago Emiliano da Silva,7,7533,['Right Center Back'],2,0,0,89,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Willian Borges da Silva,6.8,7533,['Right Wing'],2,0,0,71,1,0,2,0,0,0,0,2,0,1,1,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Neymar da Silva Santos Junior,7.6,7533,['Left Wing'],4,2,0,80,4,0,10,1,0,0,0,0,0,0,6,3,3,1,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Danilo Luiz da Silva,7.4,7533,['Right Back'],0,0,0,93,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+José Paulo Bezzera Maciel Júnior,5.9,7533,['Right Center Midfield'],1,0,0,89,0,0,0,0,0,0,0,0,0,1,1,1,3,1,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Gabriel Fernando de Jesus,7,7533,['Center Forward'],1,0,0,55,1,0,3,1,0,0,0,2,0,1,1,0,3,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Carlos Henrique Casimiro,7.4,7533,['Center Defensive Midfield'],1,0,0,92,1,0,3,0,0,0,0,1,0,1,0,0,0,0,0,1,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Philippe Coutinho Correia,7.7,7533,['Left Center Midfield'],4,1,1,88,1,0,1,0,0,0,0,2,0,1,1,1,2,0,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Marcelo Vieira da Silva Júnior,8.1,7533,['Left Back'],0,0,0,77,3,0,1,2,0,0,0,0,0,0,1,1,1,1,0,0,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+José Andrés Guardado Hernández,7.6,7534,['Left Center Midfield'],1,0,0,85,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Luka Milivojević,7.8,7535,['Right Center Midfield'],0,0,0,86,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Javier Hernández Balcázar,7,7534,['Center Forward'],1,0,0,77,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Miguel Arturo Layún Prado,7.2,7534,"['Right Wing', 'Right Midfield']",5,1,0,70,1,0,1,2,0,0,0,1,0,4,0,0,1,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Johnny Acosta Zamora,6.3,7535,['Right Center Back'],0,0,0,87,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Dušan Tadić,7,7535,['Right Midfield'],0,0,0,65,2,0,0,3,0,0,0,2,0,0,3,0,6,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Duško Tošić,7.5,7535,['Left Center Back'],0,0,0,83,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Celso Borges Mora,7.3,7535,['Right Center Midfield'],1,0,0,78,1,0,2,0,0,0,0,2,0,0,1,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Valon Behrami,7.2,7533,['Right Center Midfield'],0,0,0,93,0,0,0,3,0,0,0,4,0,0,0,0,1,0,0,1,0,7533,6/17/2018,Brazil,Switzerland,Group Stage
+Cristian Gamboa Luna,7.1,7535,['Right Wing Back'],1,1,0,74,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Bryan Ruiz González,6.3,7535,"['Right Wing', 'Left Center Midfield']",1,0,0,84,1,0,3,0,0,0,0,0,0,0,4,1,3,1,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Giancarlo González Castro,7.1,7535,['Center Back'],2,1,0,85,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+David Alberto Guzmán Pérez,6.3,7535,['Left Center Midfield'],0,0,0,83,1,0,0,2,0,0,0,3,0,0,3,3,0,0,0,1,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Óscar Esau Duarte Gaitán,7.3,7535,['Left Center Back'],1,0,0,76,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Johan Alberto Venegas Ulloa,6.2,7535,['Left Wing'],0,0,0,54,1,0,0,0,0,0,0,4,0,0,0,0,4,1,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Branislav Ivanović,8,7535,['Right Back'],0,0,0,72,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Nemanja Matić,7.3,7535,['Left Center Midfield'],1,0,0,87,0,0,2,0,0,0,0,2,0,0,1,0,1,1,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Aleksandar Kolarov,8.2,7535,['Left Back'],2,1,1,78,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Adem Ljajić,7.1,7535,['Left Midfield'],0,0,0,67,2,0,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Sergej Milinković-Savić,7.3,7535,['Center Attacking Midfield'],2,0,0,68,3,0,4,0,0,0,0,4,0,2,2,1,3,0,0,0,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Mats Hummels,7,7534,['Left Center Back'],1,1,0,97,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0,1,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Joshua Kimmich,7.7,7534,"['Right Back', 'Right Center Back']",2,0,0,80,5,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Julian Draxler,7.3,7534,"['Left Wing', 'Left Center Midfield']",5,1,0,91,3,0,5,1,0,0,0,1,0,1,2,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Timo Werner,5.9,7534,"['Center Forward', 'Left Center Forward']",3,1,0,82,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Jérôme Boateng,7.7,7534,"['Right Center Back', 'Center Back']",1,1,0,85,1,0,0,4,0,0,0,4,0,0,1,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Toni Kroos,7.7,7534,"['Left Center Midfield', 'Center Defensive Midfield', 'Right Center Midfield']",6,3,0,92,1,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Marvin Plattenhardt,6.7,7534,['Left Back'],1,1,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Carlos Joel Salcedo Hernández,6.9,7534,"['Right Back', 'Right Center Back']",0,0,0,76,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7534,6/17/2018,Germany,Mexico,Group Stage
+Francisco Javier Calvo Quesada,7.2,7535,['Left Wing Back'],1,0,0,82,0,0,2,1,0,0,0,1,0,1,0,0,2,0,0,1,0,7535,6/17/2018,Costa Rica,Serbia,Group Stage
+Harry Kane,8.8,7537,['Left Center Forward'],3,2,2,57,0,0,0,0,0,0,0,1,0,0,3,0,1,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Anice Badri,6.1,7537,"['Left Center Midfield', 'Left Midfield']",0,0,0,94,0,0,2,2,0,0,0,1,0,0,2,2,1,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Gabriel Enrique Gómez Girón,6.2,7536,['Center Defensive Midfield'],0,0,0,98,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Toby Alderweireld,7.7,7536,['Right Center Back'],0,0,0,89,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Min-Woo Kim,5.9,7538,['Left Back'],1,0,0,58,1,0,0,0,0,0,0,4,1,0,0,0,4,1,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Emil Peter Forsberg,7,7538,['Left Midfield'],4,0,0,96,0,0,1,1,0,0,0,1,0,1,4,2,5,1,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Marcus Berg,6.5,7538,['Right Center Forward'],3,1,0,64,0,0,0,2,0,0,0,5,0,1,1,1,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Viktor Claesson,8,7538,['Right Midfield'],2,0,0,73,2,0,1,3,0,1,0,3,0,1,1,0,4,1,0,1,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Ola Toivonen,7.1,7538,['Left Center Forward'],1,1,0,56,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Mikael Lustig,7.6,7538,['Right Back'],1,0,0,64,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Pontus Jansson,7.5,7538,['Right Center Back'],1,0,0,91,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Ja-Cheol Koo,6.3,7538,"['Left Center Midfield', 'Center Attacking Midfield']",1,0,0,88,0,0,0,1,0,0,0,0,0,1,2,1,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Heung-Min Son,6.8,7538,"['Left Wing', 'Right Wing', 'Left Center Forward']",0,0,0,68,3,0,4,0,0,0,0,0,0,0,1,0,2,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Sebastian Larsson,7.1,7538,['Right Center Midfield'],1,0,0,74,2,0,0,0,0,0,0,4,0,0,0,0,1,1,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Hee-Chan Hwang,6.5,7538,"['Right Wing', 'Left Wing', 'Right Center Forward', 'Center Forward']",1,0,0,50,0,0,3,2,0,0,0,3,0,1,2,1,2,0,0,1,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Albin Ekdal,7.2,7538,['Left Center Midfield'],0,0,0,89,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Ludwig Augustinsson,7.2,7538,['Left Back'],0,0,0,62,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Hyun-Soo Jang,6.5,7538,['Right Center Back'],0,0,0,84,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Yong Lee,7.2,7538,['Right Back'],0,0,0,70,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Sung-Yeung Ki,7.9,7538,"['Center Defensive Midfield', 'Right Center Midfield']",0,0,0,90,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Andreas Granqvist,8.6,7538,['Left Center Back'],3,2,1,87,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Shin-Wook Kim,5.7,7538,['Center Forward'],0,0,0,46,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Young-Gwon Kim,6.6,7538,['Left Center Back'],0,0,0,76,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Jae-Sung Lee,6.5,7538,"['Right Center Midfield', 'Right Wing']",1,0,0,88,0,0,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,7538,6/18/2018,Sweden,South Korea,Group Stage
+Erick Javier Davis Grajales,6.2,7536,['Left Back'],0,0,0,75,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Eden Hazard,8.2,7536,"['Left Attacking Midfield', 'Left Wing']",4,1,0,78,3,1,1,1,0,0,0,1,0,2,4,1,2,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Romelu Lukaku Menama,8.9,7536,['Center Forward'],3,2,2,72,0,0,2,0,0,0,0,2,0,1,0,0,1,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+José Luis Rodríguez Francis,6,7536,['Left Wing'],0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Román Aureliano Torres Morcillo,5.9,7536,['Right Center Back'],2,0,0,71,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Edgar Yoel Bárcenas Herrera,6.3,7536,['Right Wing'],2,0,0,76,2,0,0,1,0,0,0,3,0,2,0,0,5,2,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Wahbi Khazri,6,7537,['Center Forward'],1,0,0,67,1,0,0,0,0,0,0,2,0,0,1,0,2,1,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Michael Amir Murillo Bermudez,5.9,7536,['Right Back'],1,1,0,77,0,0,0,2,0,0,0,4,0,0,1,1,0,0,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Axel Witsel,7.3,7536,['Left Center Midfield'],0,0,0,96,0,0,1,2,0,0,0,3,0,0,0,0,1,1,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Naïm Sliti,6.1,7537,['Left Midfield'],2,0,0,72,0,0,3,1,0,0,0,0,0,2,0,0,1,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Raheem Sterling,6.7,7537,['Right Center Forward'],1,0,0,75,1,0,6,0,0,0,0,1,0,1,2,0,3,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Fakhreddine Ben Youssef,7.3,7537,"['Right Midfield', 'Right Wing Back']",1,0,0,73,0,0,0,2,0,1,0,1,0,1,1,0,1,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Ferjani Sassi,7.2,7537,"['Right Center Midfield', 'Right Defensive Midfield']",2,1,1,79,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Jesse Lingard,7.4,7537,['Right Center Midfield'],4,1,0,96,0,0,2,0,0,0,0,0,0,1,1,0,2,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Ellyes Joris Skhiri,6.1,7537,"['Center Defensive Midfield', 'Left Defensive Midfield']",0,0,0,88,0,0,1,4,0,0,0,2,0,0,0,0,1,1,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Dylan Daniel Mahmoud Bronn,6.5,7537,"['Right Back', 'Right Center Back']",0,0,0,80,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Syam Ben Youssef,7.1,7537,"['Right Center Back', 'Center Back']",0,0,0,87,0,0,2,4,0,0,0,2,0,0,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Ali Maâloul,5.7,7537,"['Left Back', 'Left Wing Back']",0,0,0,86,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Yassine Meriah,6.1,7537,['Left Center Back'],0,0,0,80,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Kieran Trippier,8.1,7537,['Right Midfield'],1,0,0,81,5,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Ashley Young,7.1,7537,['Left Midfield'],1,0,0,86,2,0,0,1,0,0,0,2,0,1,1,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Dries Mertens,8.6,7536,"['Right Attacking Midfield', 'Right Wing']",4,2,1,59,0,0,0,1,0,0,0,0,0,2,1,1,1,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Harry Maguire,8.5,7537,['Left Center Back'],2,1,0,88,2,1,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Kyle Walker,7.1,7537,['Right Center Back'],0,0,0,93,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,7537,6/18/2018,Tunisia,England,Group Stage
+John Stones,7.5,7537,['Center Back'],3,1,0,97,0,0,0,2,0,0,0,1,0,2,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Bamidele Alli,7.5,7537,['Left Center Midfield'],2,1,0,77,1,0,0,1,0,0,0,0,0,0,1,0,3,1,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Armando Enrique Cooper Whitaker,6.8,7536,['Right Center Midfield'],1,0,0,82,1,0,4,1,0,0,0,2,0,1,2,1,1,1,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Fidel Escobar Mendieta,5.8,7536,['Left Center Back'],1,1,0,79,0,0,0,2,0,0,0,3,0,0,1,1,0,0,1,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Blas Antonio Miguel Pérez Ortega,6.2,7536,['Center Forward'],0,0,0,53,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Yannick Ferreira Carrasco,7.6,7536,['Left Wing Back'],1,1,0,96,1,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Jan Vertonghen,7.2,7536,"['Left Center Back', 'Left Back']",0,0,0,89,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Anga Dedryck Boyata,7.6,7536,"['Center Back', 'Left Center Back']",0,0,0,92,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Kevin De Bruyne,8.2,7536,['Right Center Midfield'],3,0,0,74,3,1,0,1,0,0,0,2,0,2,2,2,1,1,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Thomas Meunier,7.3,7536,"['Right Wing Back', 'Right Back']",0,0,0,82,1,0,0,1,0,0,0,3,0,0,1,0,1,0,0,1,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Aníbal Cesis Godoy,6.8,7536,['Left Center Midfield'],0,0,0,93,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7536,6/18/2018,Belgium,Panama,Group Stage
+Jordan Brian Henderson,7.5,7537,"['Center Defensive Midfield', 'Left Center Midfield']",1,1,0,83,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7537,6/18/2018,Tunisia,England,Group Stage
+Ali Gabr,5.9,7540,['Right Center Back'],1,0,0,79,0,0,0,1,0,0,0,2,0,1,0,0,1,1,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Mohamed Abdul Shafy Sayed Abouezeid,6.5,7540,['Left Back'],0,0,0,72,0,0,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Maya Yoshida,7.5,7541,['Right Center Back'],1,0,0,88,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Denis Cheryshev,7.8,7540,['Left Wing'],4,1,1,66,0,0,1,0,0,0,0,0,0,2,1,0,3,1,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Shinji Kagawa,8.1,7541,['Center Attacking Midfield'],2,1,1,84,2,0,1,0,0,0,0,1,0,0,0,0,2,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Makoto Hasebe,6.9,7541,['Left Center Midfield'],0,0,0,91,1,0,0,2,0,0,0,2,0,0,2,1,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Mohamed Salah,7.6,7540,"['Right Wing', 'Right Center Forward']",4,1,1,76,2,0,0,0,0,1,0,0,0,1,1,0,3,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Oscar Fabián Murillo Murillo,6.9,7541,['Left Center Back'],2,0,0,73,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Johan Andrés Mojica Palacio,7.1,7541,['Left Back'],0,0,0,77,1,0,5,2,0,0,0,1,0,0,0,0,1,1,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+José Heriberto Izquierdo Mena,5.9,7541,"['Left Wing', 'Left Midfield']",0,0,0,76,0,0,2,1,0,0,0,1,0,0,0,0,3,2,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Radamel Falcao García Zárate,5.8,7541,['Center Forward'],2,2,0,81,0,0,0,2,0,0,0,1,0,0,3,0,6,2,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Jefferson Andrés Lerma Solís,6.9,7541,"['Right Center Midfield', 'Left Center Midfield']",1,0,0,87,2,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Santiago Arias Naranjo,6.4,7541,['Right Back'],0,0,0,66,0,0,1,1,0,0,0,4,0,0,0,0,1,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Juan Fernando Quintero Paniagua,7.4,7541,"['Center Attacking Midfield', 'Left Center Midfield', 'Right Midfield']",2,1,1,76,3,0,1,1,0,0,0,0,0,0,0,0,2,2,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Davinson Sánchez Mina,6.4,7541,['Right Center Back'],0,0,0,68,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Yūya Ōsako,8.2,7541,['Center Forward'],5,3,1,68,2,0,1,1,0,0,0,1,0,2,1,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Hiroki Sakai,7.4,7541,['Right Back'],2,0,0,77,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Gen Shōji,7.7,7541,['Left Center Back'],0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Gaku Shibasaki,7.9,7541,['Right Center Midfield'],0,0,0,79,2,0,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Yuto Nagatomo,7.5,7541,['Left Back'],0,0,0,80,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Aleksandr Golovin,6.9,7540,['Center Attacking Midfield'],1,0,0,64,0,0,1,0,0,0,0,0,0,1,3,0,2,1,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Yury Gazinskiy,7.7,7540,['Right Defensive Midfield'],1,0,0,77,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Sergei Ignashevich,7.7,7540,['Left Center Back'],2,2,0,53,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Tarek Hamed,6.8,7540,"['Left Defensive Midfield', 'Right Center Midfield']",1,0,0,81,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Ilya Kutepov,8.1,7540,['Right Center Back'],0,0,0,50,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Aleksandr Samedov,8.1,7540,['Right Wing'],0,0,0,71,4,0,2,1,0,0,0,2,0,0,2,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Artem Dzyuba,8.1,7540,['Center Forward'],2,1,1,76,0,0,3,0,0,0,0,3,0,1,0,0,6,1,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Mário Figueira Fernandes,8.2,7540,['Right Back'],0,0,0,72,0,1,0,2,0,0,0,0,0,0,0,0,1,1,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Roman Zobnin,8.1,7540,['Left Defensive Midfield'],2,0,0,80,0,0,2,3,0,0,0,2,1,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Robert Lewandowski,5.8,7539,['Center Forward'],2,1,0,88,1,0,1,1,0,0,0,1,0,1,1,0,5,1,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Marwan Mohsen,6.5,7540,"['Center Forward', 'Left Center Forward']",4,1,0,57,2,0,0,1,0,0,0,1,0,2,1,0,4,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Mahmoud Ibrahim Hassan,6.3,7540,"['Left Wing', 'Left Midfield']",3,0,0,68,0,0,3,1,0,0,0,3,0,2,2,1,1,0,0,1,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Mohamed Naser Elsayed Elneny,5.8,7540,['Right Defensive Midfield'],0,0,0,78,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Kamil Grosicki,7,7539,"['Left Wing', 'Secondary Striker']",3,0,0,67,0,1,2,0,0,0,0,1,0,2,1,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Ahmed Elsayed Ali Elsayed Hegazy,6.6,7540,['Left Center Back'],0,0,0,76,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Mame Biram Diouf,6.1,7539,['Right Center Forward'],1,0,0,75,0,0,0,2,0,0,0,3,0,1,0,0,3,1,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Jan Bednarek,5.8,7539,['Center Back'],0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Ahmed Fathy Abdel Meneim Ibrahim,4.9,7540,['Right Back'],0,0,0,78,1,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Arkadiusz Milik,6.1,7539,"['Center Attacking Midfield', 'Center Midfield']",1,0,0,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Sadio Mané,6.7,7539,['Left Wing'],1,0,0,84,2,0,2,0,0,0,0,2,0,0,1,0,2,1,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Alfred John Momar N'Diaye,7.6,7539,['Left Center Midfield'],0,0,0,75,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Ismaïla Sarr,6.9,7539,['Right Wing'],0,0,0,75,0,0,1,1,0,0,0,2,0,0,1,0,2,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Moussa Wagué,6.7,7539,['Right Back'],0,0,0,72,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Salif Sané,7,7539,['Right Center Back'],2,0,0,78,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Idrissa Gana Gueye,7.1,7539,['Right Center Midfield'],2,0,0,88,0,0,0,0,0,0,0,2,0,0,1,0,2,2,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Youssouf Sabaly,7.7,7539,['Left Back'],0,0,0,80,1,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Łukasz Piszczek,6.5,7539,"['Right Back', 'Right Wing Back']",1,0,0,67,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Wílmar Enrique Barrios Terán,6.4,7541,"['Left Center Midfield', 'Right Center Midfield']",0,0,0,81,0,0,0,5,0,0,0,2,0,0,3,2,0,0,0,1,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Genki Haraguchi,7.9,7541,['Right Wing'],0,0,0,87,0,0,1,3,0,0,0,1,0,0,3,2,1,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Takashi Inui,6.7,7541,['Left Wing'],3,1,0,82,0,0,2,0,0,0,0,2,0,1,6,0,1,0,0,0,0,7541,6/19/2018,Colombia,Japan,Group Stage
+Yuri Zhirkov,7.3,7540,['Left Back'],0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+Jakub Błaszczykowski,6.3,7539,['Right Wing'],0,0,0,60,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Abdalla Mahmoud El Said Bekhit,7.3,7540,"['Center Attacking Midfield', 'Left Center Midfield']",1,0,0,87,4,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7540,6/19/2018,Russia,Egypt,Group Stage
+M'Baye Babacar Niang,7.8,7539,['Left Center Forward'],1,1,1,67,1,0,1,0,0,0,0,2,0,0,0,0,2,1,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Maciej Rybus,6.6,7539,"['Left Back', 'Left Wing Back']",0,0,0,92,2,0,0,1,0,0,0,1,0,0,2,1,1,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Grzegorz Krychowiak,7.1,7539,"['Right Center Midfield', 'Right Defensive Midfield']",1,1,1,84,1,0,0,1,0,0,0,2,0,0,2,0,2,1,1,1,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Michał Pazdan,6.8,7539,['Left Center Back'],0,0,0,86,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Thiago Rangel Cionek,5.9,7539,['Right Center Back'],0,0,0,89,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Piotr Zieliński,6.5,7539,"['Left Center Midfield', 'Left Defensive Midfield']",1,0,0,79,0,0,2,1,0,0,0,1,0,1,0,0,2,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Kalidou Koulibaly,7.5,7539,['Left Center Back'],0,0,0,76,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7539,6/19/2018,Poland,Senegal,Group Stage
+Kléper Laveran Lima Ferreira,7.2,7542,['Right Center Back'],0,0,0,68,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+José Miguel da Rocha Fonte,7.7,7542,['Left Center Back'],1,0,0,67,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Ali Albulayhi,6.4,7544,['Left Center Back'],0,0,0,86,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Carlos Andrés Sánchez Arcosa,7.9,7544,['Right Wing'],1,0,0,59,2,1,0,0,0,0,0,2,0,1,2,0,1,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Hattan Babhir,6.2,7544,['Right Wing'],2,1,0,87,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Salem Mohammed Al Dawsari,7.3,7544,['Left Wing'],1,0,0,88,2,0,7,1,0,0,0,4,0,1,2,1,2,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Osama Abdulrezag Hawsawi,6.5,7544,['Right Center Back'],0,0,0,86,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Mohammed Al Burayk,7.1,7544,['Right Back'],1,0,0,81,0,0,1,2,0,0,0,0,0,0,0,0,3,1,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Taisir Jabir Al Jassim,5.8,7544,['Right Center Midfield'],0,0,0,85,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Hussain Al Mogahwi,6.6,7544,['Right Center Midfield'],0,0,0,91,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Edinson Roberto Cavani Gómez,7.5,7544,"['Right Center Forward', 'Secondary Striker']",4,1,0,73,1,0,4,0,0,0,0,1,0,2,1,1,5,2,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Khalid Boutaïb,6.3,7542,['Center Forward'],2,0,0,73,1,0,2,0,0,0,0,2,0,2,2,0,1,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Younès Belhanda,7.1,7542,['Center Attacking Midfield'],3,2,0,67,0,0,4,1,0,0,0,2,0,1,0,0,1,1,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Medhi Amine El Mouttaqi Benatia,7,7542,['Right Center Back'],4,1,0,75,0,0,1,0,0,0,0,4,0,3,0,0,0,0,0,1,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+William Silva de Carvalho,6.9,7542,['Left Center Midfield'],0,0,0,79,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Cédric Ricardo Alves Soares,7.6,7542,['Right Back'],0,0,0,69,0,0,0,1,0,0,0,3,0,0,1,1,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Bernardo Mota Veiga de Carvalho e Silva,6.2,7542,['Right Midfield'],0,0,0,56,0,0,0,2,0,0,0,0,0,0,4,1,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Karim El Ahmadi Al Aroos,6.9,7542,['Right Defensive Midfield'],1,0,0,79,0,0,0,2,0,0,0,3,0,1,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Mbark Boussoufa,7.1,7542,"['Left Defensive Midfield', 'Left Center Midfield']",1,0,0,78,2,0,0,5,0,0,0,3,0,1,1,1,1,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Salman Mohammed Al Faraj,6.7,7544,['Center Attacking Midfield'],0,0,0,86,3,0,2,1,0,0,0,1,0,0,1,0,2,2,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Cristiano Ronaldo dos Santos Aveiro,7.8,7542,['Left Center Forward'],6,1,1,73,1,0,0,0,0,0,0,0,0,2,2,0,6,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Manuel Marouan da Costa Trinidade,7.1,7542,['Left Center Back'],1,0,0,67,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Achraf Hakimi Mouh,7.6,7542,['Left Back'],0,0,0,76,2,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Hakim Ziyech,6.5,7542,"['Left Wing', 'Right Wing']",4,1,0,66,4,0,3,0,0,0,0,2,0,1,2,2,1,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Raphaël Adelino José Guerreiro,7.9,7542,['Left Back'],1,0,0,72,2,0,2,3,0,0,0,3,0,0,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Nordin Amrabat,6.3,7542,"['Right Wing', 'Left Wing']",0,0,0,75,1,0,3,0,0,0,0,1,0,0,6,0,3,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Nabil Dirar,7.2,7542,['Right Back'],1,0,0,86,1,0,1,3,0,0,0,3,0,1,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+João Mário Naval da Costa Eduardo,6.4,7542,['Left Midfield'],0,0,0,74,1,0,0,0,0,0,0,3,0,0,3,2,1,1,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Luis Alberto Suárez Díaz,8.1,7544,"['Left Center Forward', 'Right Wing']",6,2,1,77,2,0,1,0,0,0,0,3,0,2,0,0,3,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Guillermo Varela Olivera,7.2,7544,['Right Back'],0,0,0,91,2,0,0,1,0,0,0,1,0,0,1,0,2,1,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Gonçalo Manuel Ganchinho Guedes,7.1,7542,['Right Center Forward'],2,1,0,72,1,0,0,1,0,0,0,0,0,1,2,0,2,1,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Ramin Rezaeian,8,7543,['Right Back'],0,0,0,56,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Morteza Pouraliganji,6.3,7543,['Right Center Back'],0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Omid Ebrahimi,6.7,7543,['Right Center Midfield'],0,0,0,79,1,0,1,0,0,0,0,4,0,0,0,0,1,1,1,1,0,7543,6/20/2018,Iran,Spain,Group Stage
+Vahid Amiri,6.9,7543,['Left Center Midfield'],1,0,0,69,1,0,4,1,0,0,0,1,0,1,0,0,1,0,0,1,0,7543,6/20/2018,Iran,Spain,Group Stage
+Lucas Vázquez Iglesias,6.6,7543,['Right Midfield'],0,0,0,63,0,0,2,1,0,0,0,3,0,0,0,0,3,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Francisco Román Alarcón Suárez,7.7,7543,['Left Midfield'],4,0,0,88,2,0,6,1,0,0,0,0,0,2,0,0,4,1,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Seyed Majid Hosseini,6.3,7543,['Left Center Back'],0,0,0,61,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Daniel Carvajal Ramos,7.8,7543,['Right Back'],1,0,0,93,3,0,1,0,0,0,0,2,0,1,1,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Jordi Alba Ramos,7.2,7543,['Left Back'],0,0,0,87,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Sergio Ramos García,8,7543,['Left Center Back'],2,0,0,94,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+David Josué Jiménez Silva,7.1,7543,['Right Center Midfield'],5,1,0,88,2,0,1,0,0,0,0,1,0,1,0,0,2,1,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Sergio Busquets i Burgos,8.4,7543,['Center Defensive Midfield'],1,1,0,94,2,0,3,1,0,0,0,2,0,0,0,0,1,1,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Andrés Iniesta Luján,7,7543,['Left Center Midfield'],0,0,0,84,0,0,2,0,0,0,0,3,0,0,1,1,1,1,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Diego da Silva Costa,7.3,7543,['Center Forward'],3,1,1,79,0,0,0,0,0,0,0,2,0,2,1,0,1,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Gerard Piqué Bernabéu,8.2,7543,['Right Center Back'],2,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Saeid Ezatolahi Afagh,7.2,7543,['Center Defensive Midfield'],0,0,0,74,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Sardar Azmoun,5.6,7543,['Center Forward'],1,0,0,43,0,0,0,0,0,0,0,4,0,1,2,0,4,3,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Mehdi Taremi,7.6,7543,['Right Wing'],2,0,0,45,0,0,2,2,0,0,0,1,0,2,0,0,1,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Diego Roberto Godín Leal,7.1,7544,['Left Center Back'],0,0,0,91,0,0,0,2,0,0,0,1,0,0,1,1,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+José Martín Cáceres Silva,7.9,7544,['Left Back'],2,0,0,83,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Matías Vecino Falero,6.7,7544,['Right Center Midfield'],0,0,0,84,0,0,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Rodrigo Bentancur Colmán,7.4,7544,['Left Center Midfield'],0,0,0,87,0,0,0,4,0,0,0,1,0,0,2,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+José María Giménez de Vargas,7.3,7544,['Right Center Back'],0,0,0,97,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Yasir Gharsan Al Shahrani,6.4,7544,['Left Back'],2,0,0,88,1,0,0,0,0,0,0,2,0,0,1,1,2,1,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Cristian Gabriel Rodríguez Barrotti,6.4,7544,['Left Wing'],0,0,0,52,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Abdullah Ibrahim Otayf,7.9,7544,['Left Center Midfield'],0,0,0,90,0,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+Ehsan Hajsafi,7.1,7543,['Left Back'],0,0,0,59,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Karim Ansarifard,6,7543,['Left Wing'],2,0,0,56,0,0,0,2,0,0,0,1,0,2,0,0,1,0,0,0,0,7543,6/20/2018,Iran,Spain,Group Stage
+Fahad Mosaed Al Muwallad Al Harbi,5.4,7544,['Center Forward'],1,0,0,83,0,0,1,0,0,0,0,1,0,1,2,0,2,0,0,0,0,7544,6/20/2018,Uruguay,Saudi Arabia,Group Stage
+João Filipe Iria Santos Moutinho,8.2,7542,['Right Center Midfield'],0,0,0,82,1,1,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,7542,6/20/2018,Portugal,Morocco,Group Stage
+Simon Thorup Kjær,7.5,7547,['Right Center Back'],0,0,0,87,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Antoine Griezmann,7.1,7546,['Center Attacking Midfield'],2,1,0,69,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Raphaël Varane,7,7546,['Right Center Back'],1,0,0,79,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Olivier Giroud,7.4,7546,['Center Forward'],2,0,0,56,2,0,2,1,0,0,0,1,0,0,3,0,1,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Víctor Yoshimar Yotún Flores,6,7546,['Left Defensive Midfield'],1,0,0,80,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Lasse Schöne,6.9,7547,['Right Defensive Midfield'],0,0,0,93,0,0,0,2,0,0,0,0,0,0,2,0,2,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Luka Modrić,8.6,7545,['Right Center Midfield'],2,1,1,80,2,0,2,0,0,0,0,3,0,1,2,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Christian Guillermo Martín Ramos Garagay,6.8,7546,['Right Center Back'],0,0,0,85,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Aaron Mooy,7.3,7547,['Right Center Midfield'],2,0,0,84,3,0,0,1,0,0,0,2,0,1,0,0,1,1,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Christian Dannemann Eriksen,8,7547,['Center Attacking Midfield'],2,1,1,80,2,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+André Martín Carrillo Díaz,6.5,7546,"['Right Midfield', 'Right Wing']",1,0,0,73,2,0,7,0,0,0,0,2,0,1,5,0,2,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Édison Michael Flores Peralta,6.3,7546,"['Left Midfield', 'Left Defensive Midfield']",2,0,0,79,2,0,0,1,0,0,0,2,0,1,0,0,1,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Lucas Hernández Pi,7.4,7546,['Left Back'],2,1,0,82,0,0,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Blaise Matuidi,6.7,7546,['Left Wing'],1,0,0,67,1,0,0,2,0,0,0,4,0,1,2,2,2,1,0,1,0,7546,6/21/2018,France,Peru,Group Stage
+Jefferson Agustín Farfán Guadalupe,6.4,7546,['Center Attacking Midfield'],1,0,0,87,2,0,2,1,0,0,0,3,0,1,1,1,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Anderson Santamaría Bardales,6.5,7546,['Left Center Back'],0,0,0,94,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Mario Mandžukić,6.5,7545,['Center Forward'],3,0,0,68,0,0,3,2,0,0,0,4,0,2,3,0,1,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Marcelo Brozović,8.2,7545,"['Center Defensive Midfield', 'Left Defensive Midfield']",1,0,0,81,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Ivan Strinić,6.8,7545,['Left Back'],0,0,0,64,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Domagoj Vida,7,7545,['Left Center Back'],0,0,0,64,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Ivan Perišić,6.8,7545,['Left Midfield'],1,1,0,27,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Enzo Nicolás Pérez,6.3,7545,"['Right Center Midfield', 'Center Midfield', 'Right Defensive Midfield']",1,0,0,88,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Marcos Javier Acuña,6.6,7545,"['Left Midfield', 'Left Back']",1,0,0,61,1,0,2,2,0,0,0,1,0,0,2,1,1,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Gabriel Iván Mercado,5.8,7545,"['Right Center Back', 'Right Back']",0,0,0,78,0,0,0,2,0,0,0,3,0,0,0,0,1,1,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Eduardo Antonio Salvio,6.5,7545,['Right Midfield'],0,0,0,79,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Nicolás Hernán Otamendi,6.3,7545,"['Center Back', 'Right Center Back']",1,0,0,83,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Javier Alejandro Mascherano,6.6,7545,"['Left Center Midfield', 'Center Defensive Midfield', 'Left Defensive Midfield', 'Right Defensive Midfield']",0,0,0,89,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Maximiliano Eduardo Meza,6.7,7545,"['Left Attacking Midfield', 'Left Midfield', 'Left Defensive Midfield']",3,1,0,72,1,0,3,1,0,0,0,2,0,0,0,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Lionel Andrés Messi Cuccittini,7.1,7545,"['Right Attacking Midfield', 'Center Attacking Midfield']",1,0,0,79,2,0,4,1,0,0,0,2,0,0,2,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Sergio Leonel Agüero del Castillo,6.2,7545,['Center Forward'],1,1,0,80,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Nicolás Alejandro Tagliafico,7.2,7545,['Left Center Back'],0,0,0,82,1,0,1,1,0,0,0,4,0,0,1,0,0,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Ivan Rakitić,8.7,7545,"['Left Center Midfield', 'Center Attacking Midfield']",4,2,1,68,1,0,2,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Ante Rebić,7,7545,['Right Midfield'],2,1,1,33,0,0,3,0,0,0,0,5,0,1,4,1,1,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Šime Vrsaljko,7.8,7545,['Right Back'],0,0,0,77,2,0,0,2,0,0,0,2,0,0,1,0,1,0,0,1,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Tom Rogić,6.9,7547,['Secondary Striker'],3,1,0,70,0,0,2,0,0,0,0,0,0,1,3,2,3,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Dejan Lovren,7,7545,['Right Center Back'],0,0,0,90,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,7545,6/21/2018,Argentina,Croatia,Group Stage
+Paul Pogba,8,7546,['Left Center Midfield'],1,0,0,75,2,0,2,2,0,0,0,2,0,1,1,1,2,1,0,1,0,7546,6/21/2018,France,Peru,Group Stage
+Kylian Mbappé Lottin,8.2,7546,['Right Wing'],2,2,1,68,1,0,4,0,0,0,0,0,0,0,1,0,2,2,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Trent Sainsbury,6.8,7547,['Right Center Back'],0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Josh Risdon,7.3,7547,['Right Back'],0,0,0,77,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Aziz Eraltay Behich,7.3,7547,['Left Back'],0,0,0,81,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Mile Jedinak,8,7547,['Left Center Midfield'],1,1,1,88,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Thomas Delaney,6.8,7547,['Left Defensive Midfield'],1,0,0,77,1,0,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Nicolai Jørgensen,7.6,7547,['Center Forward'],1,0,0,87,1,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Jens Stryger Larsen,7.3,7547,['Left Back'],1,1,0,76,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Mathew Leckie,7,7547,['Right Wing'],5,2,0,77,1,0,2,0,0,0,0,0,0,2,4,0,2,1,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Andrew Nabbout,6.6,7547,['Center Forward'],0,0,0,73,1,0,1,0,0,0,0,0,0,0,3,0,3,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Miguel Ángel Trauco Saavedra,7,7546,['Left Back'],0,0,0,68,0,0,0,3,0,0,0,1,0,0,2,1,1,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Mark Milligan,7.4,7547,['Left Center Back'],0,0,0,92,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Pione Sisto Ifolo Emirmija,6.9,7547,['Left Wing'],3,1,0,90,1,0,6,0,0,0,0,0,0,1,1,1,3,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Robbie Kruse,6.1,7547,['Left Wing'],1,0,0,69,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Samuel Yves Umtiti,7.6,7546,['Left Center Back'],0,0,0,86,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Andreas Christensen,7,7547,['Left Center Back'],0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Yussuf Yurary Poulsen,5.7,7547,['Right Wing'],0,0,0,85,0,0,1,1,0,0,0,1,1,0,2,0,1,1,0,1,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Benjamin Pavard,7.5,7546,['Right Back'],0,0,0,86,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Christian Alberto Cueva Bravo,6.3,7546,"['Center Attacking Midfield', 'Left Wing']",1,0,0,84,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Henrik Dalsgaard,8,7547,['Right Back'],0,0,0,67,1,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,7547,6/21/2018,Denmark,Australia,Group Stage
+Luis Jan Piers Advíncula Castrillón,7.8,7546,['Right Back'],1,0,0,85,2,0,4,3,0,0,0,0,0,1,1,0,1,1,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Pedro Jesús Aquino Sánchez,7.8,7546,['Right Defensive Midfield'],1,0,0,84,1,0,0,2,0,0,0,3,0,0,0,0,1,1,0,1,0,7546,6/21/2018,France,Peru,Group Stage
+Alberto Junior Rodríguez Valdelomar,6.2,7546,['Left Center Back'],0,0,0,92,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+N'Golo Kanté,7.9,7546,['Right Center Midfield'],0,0,0,90,1,0,1,3,0,0,0,1,0,0,2,0,0,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+José Paolo Guerrero Gonzáles,6.1,7546,['Center Forward'],4,2,0,62,1,0,0,0,0,0,0,1,0,2,4,2,2,0,0,0,0,7546,6/21/2018,France,Peru,Group Stage
+Valon Behrami,7.2,7550,['Right Center Midfield'],0,0,0,97,0,0,1,4,0,0,0,2,0,0,1,1,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Ricardo Iván Rodríguez Araya,7.8,7550,['Left Back'],2,0,0,79,3,0,1,1,0,0,0,2,0,1,0,0,1,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Blerim Džemaili,6.8,7550,['Center Attacking Midfield'],2,1,0,80,1,0,0,2,0,0,0,2,0,1,2,0,5,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Steven Zuber,6.6,7550,['Left Wing'],0,0,0,78,4,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Dušan Tadić,8,7550,['Right Wing'],2,1,0,58,2,1,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Kelechi Promise Iheanacho,7,7549,['Left Center Forward'],2,0,0,65,2,0,2,0,0,0,0,0,0,1,3,0,2,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Brian Oladapo Idowu,6.3,7549,['Left Midfield'],0,0,0,82,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Stephan Lichtsteiner,6.8,7550,['Right Back'],1,0,0,82,0,0,1,1,0,0,0,0,0,0,2,0,3,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Nemanja Matić,6.5,7550,"['Left Center Midfield', 'Right Center Midfield']",1,0,0,77,1,0,0,2,0,0,0,4,0,1,1,0,2,1,0,1,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Mario Gavranović,7.5,7550,['Secondary Striker'],1,1,0,100,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Nikola Milenković,6.1,7550,['Right Center Back'],0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Luka Milivojević,6.6,7550,['Right Center Midfield'],0,0,0,83,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Sergej Milinković-Savić,5.4,7550,"['Center Attacking Midfield', 'Left Center Midfield']",1,0,0,78,1,0,1,0,0,0,0,4,0,1,4,0,5,0,0,1,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Granit Xhaka,8.1,7550,['Left Center Midfield'],2,1,1,87,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Filip Kostić,6,7550,['Left Wing'],1,0,0,53,0,0,1,1,0,0,0,0,0,1,2,0,1,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Celso Borges Mora,6.6,7548,['Right Center Midfield'],1,0,0,80,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Aleksandar Kolarov,6.5,7550,['Left Back'],0,0,0,73,1,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Fabian Lukas Schär,7,7550,['Right Center Back'],1,0,0,83,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Ragnar Sigurðsson,6.4,7549,['Left Center Back'],0,0,0,43,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Xherdan Shaqiri,8.5,7550,['Right Wing'],7,1,1,86,0,0,4,0,0,0,0,2,0,2,3,0,3,1,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Aleksandar Mitrović,7.8,7550,['Center Forward'],6,2,1,74,1,0,1,1,0,0,0,4,0,4,2,1,3,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Kári Árnason,5.7,7549,['Right Center Back'],0,0,0,55,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Hörður Björgvin Magnússon,6.5,7549,['Left Back'],0,0,0,47,0,0,2,0,0,0,0,2,0,0,2,1,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Gylfi Þór Sigurðsson,6.1,7549,['Left Defensive Midfield'],3,2,0,69,2,0,4,1,0,0,0,2,0,1,5,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Rúrik Gíslason,6.6,7549,['Right Midfield'],1,0,0,70,1,0,0,0,0,0,0,2,0,1,1,1,2,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Kenneth Josiah Omeruo,8.7,7549,"['Left Center Back', 'Left Back']",1,0,0,63,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Marcos Danilo Ureña Porras,6,7548,['Center Forward'],0,0,0,62,0,0,0,2,0,0,0,1,0,0,2,1,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Aron Einar Gunnarsson,6.3,7549,['Right Defensive Midfield'],0,0,0,64,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+John Michael Nchekwube Obinna,7.9,7549,"['Center Midfield', 'Center Defensive Midfield']",0,0,0,83,1,0,2,4,0,0,0,2,0,0,1,1,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+William Troost-Ekong,6.9,7549,['Center Back'],2,0,0,80,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Birkir Bjarnason,6.2,7549,"['Left Midfield', 'Right Defensive Midfield']",2,0,0,89,1,0,1,2,0,0,0,2,0,1,0,0,4,1,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Tyronne Ebuehi,6.5,7549,['Left Midfield'],0,0,0,92,2,0,0,3,0,0,0,1,1,0,1,0,1,1,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Birkir Már Sævarsson,5.8,7549,['Right Back'],0,0,0,70,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Jón Daði Böðvarsson,6.6,7549,['Left Center Forward'],1,0,0,78,1,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Alfreð Finnbogason,6.2,7549,"['Right Center Forward', 'Center Forward']",2,1,0,80,1,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Victor Moses,8,7549,['Right Midfield'],3,0,0,87,1,1,1,1,0,0,0,0,0,2,3,0,1,1,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Ahmed Musa,9.1,7549,"['Right Center Forward', 'Left Center Forward']",3,2,2,83,2,0,3,1,0,0,0,2,0,0,0,0,2,2,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Onyinye Wilfred Ndidi,8.1,7549,"['Right Center Midfield', 'Center Midfield']",2,1,0,79,1,0,0,2,0,0,0,1,0,0,0,0,3,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Leon Aderemi Balogun,7.2,7549,['Right Center Back'],1,0,0,80,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Carlos Henrique Casimiro,8,7548,"['Center Defensive Midfield', 'Right Defensive Midfield']",2,2,0,84,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Willian Borges da Silva,6.9,7548,['Right Wing'],1,0,0,77,0,0,2,0,0,0,0,1,0,1,0,0,1,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Haris Seferović,6,7550,['Secondary Striker'],0,0,0,25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Manuel Obafemi Akanji,8.2,7550,['Left Center Back'],2,0,0,91,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Branislav Ivanović,7.4,7550,['Right Back'],0,0,0,78,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Douglas Costa de Souza,7.8,7548,['Right Wing'],0,0,0,82,2,1,4,1,0,0,0,0,0,0,3,1,1,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Gabriel Fernando de Jesus,7.7,7548,['Center Forward'],2,0,0,72,0,0,1,1,0,0,0,2,0,0,2,0,3,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Duško Tošić,6.5,7550,['Left Center Back'],0,0,0,78,0,0,0,4,0,0,0,3,0,0,0,0,1,1,1,0,0,7550,6/22/2018,Serbia,Switzerland,Group Stage
+Johan Alberto Venegas Ulloa,6.2,7548,"['Right Wing', 'Center Forward']",0,0,0,76,0,0,2,0,0,0,0,2,0,0,3,0,3,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Cristian Gamboa Luna,7.9,7548,['Right Wing Back'],1,0,0,69,1,0,1,2,0,0,0,1,0,1,0,0,1,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Philippe Coutinho Correia,8.9,7548,"['Left Center Midfield', 'Left Attacking Midfield', 'Center Attacking Midfield']",6,3,1,92,6,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+José Paulo Bezzera Maciel Júnior,7.9,7548,['Right Center Midfield'],0,0,0,92,3,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Neymar da Silva Santos Junior,8.1,7548,['Left Wing'],6,3,1,74,3,0,3,1,0,0,0,4,0,1,7,0,6,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Johnny Acosta Zamora,5.6,7548,"['Right Center Back', 'Right Wing Back']",0,0,0,70,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Giancarlo González Castro,5.9,7548,['Center Back'],0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Fágner Conserva Lemos,7.1,7548,['Right Back'],0,0,0,93,2,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Thiago Emiliano da Silva,7.8,7548,['Right Center Back'],2,0,0,93,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Bryan Ruiz González,6.3,7548,['Left Wing'],0,0,0,67,0,0,2,1,0,0,0,2,0,0,5,3,2,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Bryan Oviedo,5.8,7548,['Left Wing Back'],1,0,0,85,0,0,0,2,0,0,0,4,0,0,1,1,1,1,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+David Alberto Guzmán Pérez,6.2,7548,"['Left Center Midfield', 'Left Midfield']",0,0,0,73,0,0,0,0,0,0,0,5,0,0,1,0,2,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Marcelo Vieira da Silva Júnior,8.4,7548,['Left Back'],3,1,0,87,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Óscar Esau Duarte Gaitán,6.4,7548,"['Left Center Back', 'Right Center Back']",1,0,0,75,0,0,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+João Miranda de Souza Filho,7.3,7548,['Left Center Back'],0,0,0,98,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7548,6/22/2018,Brazil,Costa Rica,Group Stage
+Oghenekaro Etebo,7.7,7549,['Left Center Midfield'],2,1,0,77,2,0,1,1,0,0,0,1,0,0,2,1,3,1,0,0,0,7549,6/22/2018,Nigeria,Iceland,Group Stage
+Andreas Granqvist,6,7551,['Left Center Back'],1,1,0,80,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Joshua Kimmich,7.7,7551,['Right Back'],0,0,0,81,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Jérôme Boateng,5.9,7551,['Right Center Back'],2,0,0,90,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0,1,1,7551,6/23/2018,Germany,Sweden,Group Stage
+Jonas Hector,7.3,7551,['Left Back'],2,1,0,90,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Toni Kroos,9,7551,"['Left Defensive Midfield', 'Right Defensive Midfield']",5,1,1,91,2,0,3,3,0,0,0,0,0,1,0,0,1,1,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Julian Draxler,6.6,7551,['Left Wing'],1,0,0,86,1,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Antonio Rüdiger,7.3,7551,['Left Center Back'],0,0,0,93,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Emil Peter Forsberg,6.1,7551,['Left Midfield'],1,1,0,77,0,0,2,0,0,0,0,1,0,0,2,0,2,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Marco Reus,8.5,7551,['Center Attacking Midfield'],2,1,1,81,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Thomas Müller,7.8,7551,['Right Wing'],1,0,0,74,2,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Saîf-Eddine Khaoui,6.3,7552,['Left Center Midfield'],2,0,0,86,0,0,1,1,0,0,0,2,0,1,2,1,2,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Timo Werner,7.5,7551,"['Center Forward', 'Left Wing']",1,0,0,65,3,0,1,0,0,0,0,1,0,1,0,0,2,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Romelu Lukaku Menama,9,7552,['Center Forward'],2,2,2,74,2,0,0,0,0,0,0,1,0,0,0,0,4,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Kevin De Bruyne,7.2,7552,"['Right Center Midfield', 'Left Center Midfield', 'Left Attacking Midfield']",0,0,0,87,4,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Anga Dedryck Boyata,6.7,7552,['Center Back'],0,0,0,94,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Toby Alderweireld,7.5,7552,"['Right Back', 'Right Center Back']",2,0,0,87,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Thomas Meunier,8.2,7552,['Right Midfield'],2,1,0,76,1,1,1,1,0,0,0,3,0,1,1,1,1,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Dries Mertens,7.8,7552,"['Right Wing', 'Right Center Forward']",0,0,0,77,1,1,0,1,0,0,0,1,0,0,1,0,3,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Yassine Meriah,5.4,7552,['Left Center Back'],0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Ali Maâloul,5.6,7552,['Left Back'],0,0,0,86,3,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Ferjani Sassi,6.8,7552,['Right Center Midfield'],2,0,0,78,1,0,1,0,0,0,0,1,0,2,1,1,0,0,0,1,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Jan Vertonghen,6.9,7552,['Left Center Back'],0,0,0,83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Eden Hazard,9.3,7552,"['Left Wing', 'Left Center Forward']",4,3,2,81,3,0,2,0,0,1,0,1,0,1,4,1,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Yannick Ferreira Carrasco,7.7,7552,['Left Midfield'],4,3,0,72,2,0,1,0,0,0,0,2,0,1,2,0,1,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Ludwig Augustinsson,6.1,7551,['Left Back'],0,0,0,67,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Anice Badri,7.1,7552,"['Left Center Forward', 'Right Wing', 'Left Wing']",3,2,0,90,1,0,1,0,0,0,0,0,0,1,2,0,2,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Fakhreddine Ben Youssef,6.8,7552,"['Right Wing', 'Left Wing']",2,0,0,69,2,0,0,0,0,0,0,1,0,2,0,0,1,1,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Ellyes Joris Skhiri,5.4,7552,['Center Defensive Midfield'],0,0,0,90,3,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Hamdi Nagguez,7.4,7552,['Right Back'],0,0,0,74,2,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Yohan Benalouane,7.1,7552,['Right Center Back'],0,0,0,56,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+İlkay Gündoğan,6.8,7551,"['Right Defensive Midfield', 'Left Defensive Midfield', 'Right Center Back']",1,1,0,92,2,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Sebastian Larsson,6.7,7551,['Right Center Midfield'],0,0,0,84,1,0,0,1,0,0,0,2,0,0,1,0,0,0,0,1,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Ola Toivonen,7.2,7551,['Right Center Forward'],1,1,1,56,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Victor Nilsson Lindelöf,5.9,7551,['Right Center Back'],0,0,0,79,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Marcus Berg,6.7,7551,['Left Center Forward'],3,2,0,83,0,0,0,2,0,0,0,1,0,0,0,0,2,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Albin Ekdal,6.4,7551,['Left Center Midfield'],0,0,0,57,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Mikael Lustig,6.5,7551,['Right Back'],0,0,0,73,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Viktor Claesson,7.1,7551,['Right Midfield'],0,0,0,68,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7551,6/23/2018,Germany,Sweden,Group Stage
+Wahbi Khazri,8.3,7552,['Center Forward'],6,2,1,67,0,1,0,1,0,0,0,0,0,3,0,0,2,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+Axel Witsel,7.3,7552,"['Left Center Midfield', 'Right Center Midfield', 'Left Defensive Midfield']",3,0,0,89,0,0,0,2,0,0,0,2,0,1,1,1,0,0,0,0,0,7552,6/23/2018,Belgium,Tunisia,Group Stage
+José Andrés Guardado Hernández,7.7,7553,['Left Defensive Midfield'],2,1,0,79,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Seon-Min Moon,6.3,7553,"['Right Wing', 'Right Midfield']",2,0,0,73,0,0,0,1,0,0,0,1,0,0,2,0,2,1,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Hee-Chan Hwang,7.3,7553,"['Left Wing', 'Right Center Forward', 'Left Center Forward']",1,1,0,33,2,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Jae-Sung Lee,7.3,7553,"['Center Attacking Midfield', 'Left Midfield', 'Right Center Midfield', 'Right Midfield']",3,1,0,80,1,1,1,1,0,0,0,1,0,0,3,1,2,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Javier Hernández Balcázar,8.1,7553,['Center Forward'],3,1,1,84,1,0,3,0,0,0,0,0,0,2,0,0,3,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Min-Woo Kim,6.6,7553,['Left Back'],0,0,0,73,2,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Hirving Rodrigo Lozano Bahena,7.4,7553,['Left Wing'],3,0,0,87,0,1,2,1,0,0,0,2,0,2,2,0,2,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Héctor Miguel Herrera López,6.8,7553,"['Right Defensive Midfield', 'Left Center Midfield', 'Right Center Midfield']",1,0,0,87,0,0,0,1,0,0,0,1,0,1,2,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Carlos Joel Salcedo Hernández,7.1,7553,['Right Center Back'],1,1,0,88,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Miguel Arturo Layún Prado,7.3,7553,"['Right Wing', 'Right Back']",1,1,0,73,3,0,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Edson Omar Álvarez Velázquez,7.2,7553,"['Right Back', 'Right Wing']",1,0,0,90,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Se-Jong Ju,6.8,7553,['Right Defensive Midfield'],0,0,0,73,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Héctor Alfredo Moreno Herrera,7.1,7553,['Left Center Back'],0,0,0,89,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Jesús Daniel Gallardo Vasconcelos,7.6,7553,['Left Back'],0,0,0,83,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Yong Lee,6.5,7553,['Right Back'],0,0,0,67,0,0,2,5,0,0,0,4,0,0,1,1,0,0,0,1,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Hyun-Soo Jang,6.2,7553,['Right Center Back'],0,0,0,85,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Young-Gwon Kim,6.2,7553,['Left Center Back'],0,0,0,90,0,0,2,0,0,0,0,3,0,0,0,0,1,1,0,1,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Sung-Yeung Ki,6.6,7553,"['Left Defensive Midfield', 'Left Center Midfield']",3,2,0,89,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Heung-Min Son,8,7553,"['Center Forward', 'Left Center Forward', 'Right Center Forward']",8,2,1,91,4,0,5,0,0,0,0,1,0,2,2,0,3,1,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+Carlos Alberto Vela Garrido,8.4,7553,"['Center Attacking Midfield', 'Right Center Midfield']",2,1,1,85,2,0,4,1,0,0,0,2,0,1,3,1,0,0,0,0,0,7553,6/23/2018,South Korea,Mexico,Group Stage
+M'Baye Babacar Niang,8.1,7556,['Center Forward'],5,3,0,65,1,0,1,0,0,0,0,1,0,2,0,0,8,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Alfred John Momar N'Diaye,6.2,7556,['Center Defensive Midfield'],1,0,0,89,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Yuto Nagatomo,7.4,7556,['Left Back'],0,0,0,78,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Idrissa Gana Gueye,7.3,7556,['Left Center Midfield'],0,0,0,84,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Santiago Arias Naranjo,8,7555,['Right Back'],1,0,0,87,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Youssouf Sabaly,6.3,7556,['Left Back'],2,1,0,72,1,0,1,0,0,0,0,4,0,1,0,0,1,0,0,1,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Takashi Inui,8.7,7556,['Left Midfield'],2,1,1,88,0,1,1,0,0,0,0,1,0,0,1,1,2,0,0,1,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Hiroki Sakai,7.1,7556,['Right Back'],0,0,0,78,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Genki Haraguchi,6.5,7556,['Right Midfield'],1,0,0,78,1,0,0,1,0,0,0,2,0,1,0,0,5,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Papa Alioune N'Diaye,6.6,7556,['Right Center Midfield'],1,0,0,73,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Moussa Wagué,7.7,7556,['Right Back'],1,1,1,76,5,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Ismaïla Sarr,7.2,7556,['Right Wing'],1,1,0,61,1,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Harry Kane,9.6,7554,['Left Center Forward'],3,3,3,75,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Gabriel Enrique Gómez Girón,6.3,7554,['Center Defensive Midfield'],0,0,0,100,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Román Aureliano Torres Morcillo,5.2,7554,['Right Center Back'],1,0,0,88,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Michael Amir Murillo Bermudez,5.4,7554,['Right Back'],1,1,0,82,1,0,3,2,0,0,0,2,1,0,0,0,2,1,0,1,0,7554,6/24/2018,England,Panama,Group Stage
+Armando Enrique Cooper Whitaker,5.8,7554,"['Right Center Midfield', 'Left Center Midfield']",0,0,0,90,1,0,0,0,0,0,0,2,0,0,3,1,4,0,0,1,0,7554,6/24/2018,England,Panama,Group Stage
+Fidel Escobar Mendieta,4.7,7554,"['Left Center Back', 'Center Defensive Midfield']",0,0,0,92,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+José Luis Rodríguez Francis,6.3,7554,['Left Wing'],1,0,0,89,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Edgar Yoel Bárcenas Herrera,6.9,7554,['Right Wing'],2,0,0,82,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Erick Javier Davis Grajales,5,7554,['Left Back'],0,0,0,82,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Blas Antonio Miguel Pérez Ortega,5.9,7554,['Center Forward'],1,0,0,69,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Aníbal Cesis Godoy,6,7554,['Left Center Midfield'],1,0,0,89,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Kieran Trippier,7.8,7554,['Right Midfield'],0,0,0,86,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Jordan Brian Henderson,7.4,7554,['Center Defensive Midfield'],1,0,0,84,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Ruben Loftus-Cheek,8.1,7554,"['Left Center Midfield', 'Right Center Midfield']",1,0,0,91,0,0,3,1,0,0,0,2,0,0,1,0,3,1,0,1,0,7554,6/24/2018,England,Panama,Group Stage
+Raheem Sterling,7.6,7554,['Right Center Forward'],2,1,0,91,1,1,0,0,0,0,0,6,0,1,1,0,2,1,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Kyle Walker,7.8,7554,['Right Center Back'],0,0,0,95,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Ashley Young,6.4,7554,"['Left Midfield', 'Right Midfield']",0,0,0,91,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Harry Maguire,7.1,7554,['Left Center Back'],0,0,0,93,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+John Stones,9.2,7554,['Center Back'],2,2,2,96,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Jesse Lingard,8.1,7554,['Right Center Midfield'],2,1,1,94,0,0,0,1,0,1,0,3,0,0,1,0,3,1,0,0,0,7554,6/24/2018,England,Panama,Group Stage
+Shinji Kagawa,7,7556,['Center Attacking Midfield'],0,0,0,80,1,0,2,0,0,0,0,0,0,0,1,0,2,1,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Makoto Hasebe,6.7,7556,['Right Defensive Midfield'],1,0,0,81,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Maya Yoshida,6.8,7556,['Right Center Back'],0,0,0,75,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Gen Shōji,6.7,7556,['Left Center Back'],0,0,0,87,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Salif Sané,7.3,7556,['Right Center Back'],1,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Gaku Shibasaki,6.4,7556,['Left Defensive Midfield'],0,0,0,70,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Kalidou Koulibaly,6.6,7556,['Left Center Back'],0,0,0,85,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Yūya Ōsako,6.5,7556,"['Center Forward', 'Right Center Forward']",2,1,0,68,2,0,2,1,0,0,0,0,0,0,4,0,3,0,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Sadio Mané,7.6,7556,['Left Wing'],1,1,1,69,1,0,1,1,0,0,0,2,0,0,3,1,4,2,0,0,0,7556,6/24/2018,Japan,Senegal,Group Stage
+Andrés Mateus Uribe Villa,7.2,7555,['Right Defensive Midfield'],1,0,0,86,0,0,1,0,0,0,0,1,0,0,2,0,1,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Łukasz Piszczek,5.5,7555,['Right Center Back'],0,0,0,71,2,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Johan Andrés Mojica Palacio,7,7555,['Left Back'],0,0,0,55,0,0,3,1,0,0,0,0,0,0,1,1,1,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Jan Bednarek,6.5,7555,['Center Back'],0,0,0,81,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Robert Lewandowski,6.6,7555,['Center Forward'],5,2,0,71,1,0,3,1,0,0,0,3,0,2,3,0,3,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Juan Fernando Quintero Paniagua,7.6,7555,['Center Attacking Midfield'],2,0,0,75,0,1,0,0,0,0,0,2,0,1,0,0,4,2,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Jacek Góralski,7.2,7555,['Left Center Midfield'],0,0,0,79,0,0,1,4,0,0,0,4,0,0,0,0,0,0,0,1,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Grzegorz Krychowiak,7.6,7555,['Right Center Midfield'],1,0,0,78,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Maciej Rybus,7.4,7555,['Left Midfield'],0,0,0,74,1,0,1,1,0,0,0,1,0,0,1,1,3,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Piotr Zieliński,7,7555,['Right Wing'],2,0,0,77,0,0,3,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+James David Rodríguez Rubio,9.1,7555,['Left Wing'],2,0,0,85,1,2,7,1,0,0,0,1,0,1,0,0,2,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Wílmar Enrique Barrios Terán,7,7555,['Left Defensive Midfield'],0,0,0,80,0,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Radamel Falcao García Zárate,7.4,7555,['Center Forward'],2,1,1,71,0,0,2,1,0,0,0,1,0,1,4,1,4,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Yerry Fernando Mina González,8.3,7555,['Right Center Back'],1,1,1,81,0,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Bartosz Bereszyński,6.3,7555,['Right Midfield'],1,0,0,76,1,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Dawid Kownacki,5.9,7555,['Left Wing'],1,0,0,74,1,0,0,0,0,0,0,2,0,0,1,0,3,1,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Juan Guillermo Cuadrado Bello,8.6,7555,['Right Wing'],3,1,1,83,3,0,5,1,0,0,0,0,0,2,3,1,1,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Michał Pazdan,5.8,7555,['Left Center Back'],0,0,0,80,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Davinson Sánchez Mina,7,7555,['Left Center Back'],0,0,0,74,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7555,6/24/2018,Poland,Colombia,Group Stage
+Mário Figueira Fernandes,6.8,7558,['Right Back'],0,0,0,73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Motaz Ali Hassan Hawsawi,7.2,7559,['Left Center Back'],0,0,0,87,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Tarek Hamed,6.4,7559,['Left Center Midfield'],0,0,0,87,0,0,0,0,0,0,0,4,0,0,0,0,1,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Mahmoud Ibrahim Hassan,7,7559,"['Left Wing', 'Right Wing']",3,0,0,71,2,0,1,0,0,0,0,0,0,3,0,0,2,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Daler Kuzyaev,6.1,7558,['Right Defensive Midfield'],0,0,0,87,0,0,1,0,0,0,0,2,0,0,0,0,2,1,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Diego da Silva Costa,5.8,7560,['Center Forward'],2,0,0,89,2,0,1,0,0,0,0,0,0,2,4,0,3,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Rodrigo Bentancur Colmán,6.4,7558,['Center Attacking Midfield'],2,1,0,79,0,0,1,2,0,0,0,6,0,0,2,0,2,0,0,1,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Sergei Ignashevich,5.9,7558,['Left Center Back'],0,0,0,79,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Artem Dzyuba,6.2,7558,['Center Forward'],1,0,0,62,1,0,1,0,0,0,0,7,0,1,4,1,1,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Sebastián Coates Nión,7,7558,['Right Center Back'],0,0,0,94,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+José Martín Cáceres Silva,6.8,7558,['Right Back'],1,0,0,83,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Diego Roberto Godín Leal,7.5,7558,['Left Center Back'],2,1,0,90,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Diego Sebastián Laxalt Suárez,7.7,7558,['Left Back'],1,0,0,76,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Matías Vecino Falero,7.1,7558,"['Left Midfield', 'Right Center Midfield']",1,0,0,88,1,0,0,1,0,0,0,3,0,1,0,0,1,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Mohamed Salah,7.9,7559,"['Center Attacking Midfield', 'Right Center Forward', 'Center Forward']",2,1,1,75,3,0,6,0,0,0,0,1,0,1,5,0,1,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Nahitan Michel Nández Acosta,7.1,7558,['Right Midfield'],0,0,0,83,0,0,1,2,0,0,0,2,0,0,1,1,3,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Edinson Roberto Cavani Gómez,7.7,7558,"['Right Center Forward', 'Left Center Forward']",4,1,1,81,0,0,2,2,0,0,0,2,0,1,0,0,3,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Yury Gazinskiy,5.8,7558,"['Left Defensive Midfield', 'Right Defensive Midfield']",0,0,0,77,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Aleksandr Samedov,6.4,7558,['Right Wing'],0,0,0,82,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Lucas Torreira Di Pascua,7.1,7558,['Center Defensive Midfield'],1,0,0,88,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Luis Alberto Suárez Díaz,8.1,7558,"['Left Center Forward', 'Right Center Forward']",1,1,1,68,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Roman Zobnin,7.3,7558,"['Right Defensive Midfield', 'Left Defensive Midfield']",1,0,0,82,1,0,2,1,0,0,0,1,0,0,1,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Ilya Kutepov,5.8,7558,['Right Center Back'],0,0,0,82,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Fedor Kudryashov,5.7,7558,['Left Back'],0,0,0,84,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Romain Saïss,7.3,7560,['Left Center Back'],0,0,0,76,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Younès Belhanda,6.4,7560,['Left Center Midfield'],0,0,0,94,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Nabil Dirar,6.4,7560,['Right Back'],1,0,0,79,1,0,3,0,0,0,0,2,0,1,0,0,1,1,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Osama Abdulrezag Hawsawi,6.8,7559,['Right Center Back'],0,0,0,86,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Mohammed Al Burayk,7.5,7559,['Right Back'],2,0,0,91,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Salman Mohammed Al Faraj,8.8,7559,"['Left Center Midfield', 'Left Wing']",3,1,1,82,5,0,3,1,0,0,0,1,0,1,1,1,4,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Salem Mohammed Al Dawsari,8.3,7559,"['Left Midfield', 'Left Wing', 'Center Attacking Midfield']",4,2,1,94,2,0,6,1,0,0,0,0,0,2,1,0,1,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Hussain Al Mogahwi,7.7,7559,"['Right Center Midfield', 'Left Center Midfield']",4,1,0,94,2,0,1,1,0,0,0,1,0,2,0,0,1,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Hattan Babhir,6.5,7559,['Right Midfield'],3,1,0,76,0,0,0,0,0,0,0,1,0,2,0,0,2,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Aleksey Miranchuk,6.5,7558,"['Center Attacking Midfield', 'Left Wing']",0,0,0,75,0,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,7558,6/25/2018,Uruguay,Russia,Group Stage
+Abdalla Mahmoud El Said Bekhit,7.1,7559,['Right Wing'],0,0,0,57,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Abdullah Ibrahim Otayf,8.5,7559,['Center Defensive Midfield'],2,0,0,93,1,1,2,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Mohamed Abdul Shafy Sayed Abouezeid,6.9,7559,['Left Back'],0,0,0,84,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Ahmed Elsayed Ali Elsayed Hegazy,7,7559,['Left Center Back'],0,0,0,83,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Ali Gabr,6.4,7559,['Right Center Back'],0,0,0,84,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Ahmed Fathy Abdel Meneim Ibrahim,6.2,7559,['Right Back'],0,0,0,70,1,0,0,4,0,0,0,6,1,0,0,0,1,1,0,1,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Mohamed Naser Elsayed Elneny,6.1,7559,['Right Center Midfield'],1,0,0,95,0,0,0,0,0,0,0,1,0,1,2,1,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Mbark Boussoufa,6.2,7560,"['Right Center Midfield', 'Right Midfield']",1,0,0,84,0,0,0,1,0,0,0,2,0,1,1,1,1,1,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Marwan Mohsen,6.4,7559,"['Center Forward', 'Left Center Forward']",1,0,0,39,0,0,1,0,0,0,0,2,0,1,1,1,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+David Josué Jiménez Silva,7,7560,['Right Wing'],1,0,0,80,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Sergio Ramos García,6.8,7560,['Left Center Back'],1,0,0,95,0,0,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Jordi Alba Ramos,6.7,7560,['Left Back'],0,0,0,92,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Francisco Román Alarcón Suárez,9.2,7560,"['Left Wing', 'Center Attacking Midfield']",3,1,1,87,6,0,6,1,0,0,0,1,0,1,1,0,1,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Andrés Iniesta Luján,7.8,7560,['Left Midfield'],2,0,0,89,2,1,2,0,0,0,0,0,0,1,1,1,1,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Gerard Piqué Bernabéu,7,7560,['Right Center Back'],3,1,0,91,1,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Karim El Ahmadi Al Aroos,6.5,7560,['Center Defensive Midfield'],0,0,0,100,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Nordin Amrabat,6.6,7560,"['Right Midfield', 'Right Center Midfield']",1,0,0,75,1,0,1,2,0,0,0,6,0,0,3,1,2,0,0,1,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Hakim Ziyech,6.8,7560,['Left Midfield'],2,0,0,74,1,0,1,1,0,0,0,1,0,1,2,2,2,1,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Achraf Hakimi Mouh,6.9,7560,['Left Back'],0,0,0,75,1,0,3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Sergio Busquets i Burgos,6.7,7560,"['Center Midfield', 'Center Defensive Midfield']",1,0,0,89,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Daniel Carvajal Ramos,7,7560,['Right Back'],0,0,0,82,1,1,0,2,0,0,0,0,0,0,2,1,1,1,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Khalid Boutaïb,7.7,7560,['Center Forward'],2,2,1,73,0,0,1,0,0,0,0,1,0,0,0,0,3,1,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Manuel Marouan da Costa Trinidade,6.2,7560,['Right Center Back'],0,0,0,63,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Thiago Alcântara do Nascimento,7.6,7560,['Right Midfield'],2,0,0,99,0,0,3,0,0,0,0,1,0,2,0,0,0,0,0,0,0,7560,6/25/2018,Spain,Morocco,Group Stage
+Yasir Gharsan Al Shahrani,7.6,7559,['Left Back'],1,0,0,81,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Amr Medhat Warda,6.3,7559,"['Right Wing', 'Center Attacking Midfield']",1,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Ehsan Hajsafi,7,7557,['Left Back'],0,0,0,83,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Cédric Ricardo Alves Soares,6.9,7557,['Right Back'],0,0,0,75,1,0,2,1,0,0,0,2,1,0,1,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+William Silva de Carvalho,7.2,7557,['Left Defensive Midfield'],0,0,0,88,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+André Miguel Valente Silva,6.8,7557,['Right Center Forward'],2,0,0,80,0,0,2,0,0,0,0,0,0,2,1,0,2,1,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Ramin Rezaeian,6.7,7557,['Right Back'],1,0,0,53,1,0,0,0,0,0,0,2,0,1,0,0,1,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Raphaël Adelino José Guerreiro,7.3,7557,['Left Back'],1,0,0,87,0,0,3,0,0,0,0,2,0,0,0,0,2,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+João Mário Naval da Costa Eduardo,7.2,7557,['Left Midfield'],1,0,0,92,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Fahad Mosaed Al Muwallad Al Harbi,6.6,7559,"['Center Forward', 'Right Wing']",1,1,0,73,1,0,1,0,0,1,0,3,0,0,1,0,7,2,0,0,0,7559,6/25/2018,Saudi Arabia,Egypt,Group Stage
+Adrien Sebastian Perruchet Silva,7.8,7557,['Right Defensive Midfield'],1,0,0,95,2,1,0,3,0,0,0,1,0,1,2,1,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+José Miguel da Rocha Fonte,7.5,7557,['Left Center Back'],2,0,0,88,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Alireza Jahanbakhsh,6.9,7557,['Right Midfield'],0,0,0,60,3,0,2,0,0,0,0,3,0,0,0,0,2,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Ricardo Andrade Quaresma Bernardo,7.3,7557,['Right Midfield'],2,1,1,64,1,0,2,1,0,0,0,2,0,1,3,1,3,0,0,1,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Cristiano Ronaldo dos Santos Aveiro,7.4,7557,['Left Center Forward'],5,3,0,76,1,0,4,0,0,1,0,1,0,1,0,0,2,0,0,1,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Morteza Pouraliganji,6.7,7557,['Right Center Back'],0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Omid Ebrahimi,6.4,7557,['Right Center Midfield'],0,0,0,83,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Seyed Majid Hosseini,6.5,7557,['Left Center Back'],0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Mehdi Taremi,6.4,7557,['Left Midfield'],1,0,0,50,0,0,0,1,0,0,0,2,0,1,1,1,1,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Vahid Amiri,6.6,7557,['Left Center Midfield'],1,0,0,67,0,0,0,0,0,0,0,2,0,1,0,0,2,1,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Sardar Azmoun,7,7557,['Center Forward'],2,0,0,63,2,0,0,0,0,0,0,1,0,1,0,0,4,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Saeid Ezatolahi Afagh,6.1,7557,['Center Defensive Midfield'],1,1,0,62,0,0,1,0,0,0,0,3,1,0,0,0,1,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Kléper Laveran Lima Ferreira,7.8,7557,['Right Center Back'],1,0,0,84,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,7557,6/25/2018,Iran,Portugal,Group Stage
+Alfreð Finnbogason,6.5,7561,"['Center Forward', 'Right Center Forward']",1,0,0,61,1,0,0,1,0,0,0,3,0,1,2,0,2,0,0,1,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Gonzalo Gerardo Higuaín,6.6,7564,"['Left Center Forward', 'Left Wing']",2,1,0,78,0,0,0,0,0,0,0,2,0,1,1,0,5,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Nicolás Hernán Otamendi,7.9,7564,['Right Center Back'],0,0,0,86,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Birkir Bjarnason,6.7,7561,['Left Wing'],4,1,0,61,1,0,0,1,0,0,0,0,0,1,2,0,1,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Faustino Marcos Alberto Rojo,8.8,7564,"['Left Center Back', 'Left Back']",1,1,1,76,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Gylfi Þór Sigurðsson,7.6,7561,"['Center Attacking Midfield', 'Right Center Midfield']",3,2,1,68,4,0,2,0,0,0,0,1,0,1,2,2,1,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Emil Hallfreðsson,6.3,7561,"['Right Defensive Midfield', 'Left Center Midfield']",1,0,0,83,1,0,3,3,0,0,0,4,0,1,0,0,0,0,0,1,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Vedran Ćorluka,7.9,7561,['Right Center Back'],0,0,0,90,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Birkir Már Sævarsson,6,7561,"['Right Back', 'Right Center Back']",0,0,0,69,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Ivan Perišić,7.8,7561,"['Left Wing', 'Center Attacking Midfield']",3,1,1,68,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Mateo Kovačić,7.5,7561,['Left Center Midfield'],1,0,0,98,2,0,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Andrej Kramarić,6.6,7561,['Center Forward'],2,0,0,87,1,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Hörður Björgvin Magnússon,6.4,7561,"['Left Back', 'Left Center Back']",2,0,0,45,0,0,0,2,0,0,0,1,0,2,1,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Marko Pjaca,6.2,7561,['Right Wing'],1,0,0,75,0,0,1,0,0,0,0,1,0,0,4,1,5,1,0,1,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Luka Modrić,7.6,7561,['Right Center Midfield'],1,0,0,88,3,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Tin Jedvaj,6.7,7561,"['Right Back', 'Right Wing Back']",0,0,0,73,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Josip Pivarić,7.3,7561,"['Left Back', 'Left Wing Back']",1,0,0,83,0,0,1,2,0,0,0,1,0,1,1,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Duje Ćaleta-Car,7.2,7561,"['Left Center Back', 'Center Back']",0,0,0,91,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Aron Einar Gunnarsson,6.8,7561,"['Left Defensive Midfield', 'Center Defensive Midfield']",2,1,0,81,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Sverrir Ingi Ingason,6.8,7561,"['Right Center Back', 'Center Back']",2,1,0,71,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Pione Sisto Ifolo Emirmija,6.4,7563,['Left Midfield'],0,0,0,54,0,0,2,1,0,0,0,0,0,0,2,2,2,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Mathias Jørgensen Jatta,7.2,7563,['Left Center Back'],0,0,0,87,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,7563,6/26/2018,Denmark,France,Group Stage
+Olivier Giroud,5.9,7563,['Center Forward'],3,1,0,80,0,0,0,0,0,0,0,2,0,2,1,0,3,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Jens Stryger Larsen,7.2,7563,['Left Back'],0,0,0,70,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Thomas Delaney,7.1,7563,['Left Center Midfield'],0,0,0,85,1,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Christian Dannemann Eriksen,6.9,7563,['Right Center Midfield'],3,1,0,60,0,0,1,0,0,0,0,1,0,1,2,0,5,1,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Henrik Dalsgaard,7.3,7563,['Right Back'],1,0,0,63,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Simon Thorup Kjær,7.4,7563,['Right Center Back'],0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Martin Braithwaite Christensen,6.5,7563,['Right Midfield'],0,0,0,75,0,0,2,1,0,0,0,2,0,0,1,0,3,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Ousmane Dembélé,6.7,7563,['Right Wing'],2,0,0,84,1,0,4,0,0,0,0,0,0,2,4,0,4,1,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+N'Golo Kanté,7.2,7563,['Right Defensive Midfield'],0,0,0,89,0,0,0,2,0,0,0,1,0,0,1,1,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Thomas Lemar,6.9,7563,['Left Wing'],1,0,0,91,2,0,3,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Lucas Hernández Pi,6.9,7563,['Left Back'],0,0,0,88,1,0,0,1,0,0,0,1,0,0,2,0,2,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Presnel Kimpembe,7.5,7563,['Left Center Back'],0,0,0,89,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Djibril Sidibé,7.4,7563,['Right Back'],0,0,0,84,3,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Raphaël Varane,7.9,7563,['Right Center Back'],1,0,0,89,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Andreas Evald Cornelius,6.9,7563,['Center Forward'],0,0,0,42,0,0,2,0,0,0,0,2,0,0,0,0,1,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Gabriel Iván Mercado,7.6,7564,['Right Back'],0,0,0,81,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Andreas Christensen,7,7563,['Center Defensive Midfield'],0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Ahmed Musa,6.4,7564,['Left Center Forward'],1,0,0,56,1,0,3,0,0,0,0,2,0,1,2,0,5,2,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Milan Badelj,8.7,7561,['Center Defensive Midfield'],2,1,1,90,1,1,2,2,0,0,0,3,0,0,2,2,1,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Ragnar Sigurðsson,6.4,7561,['Left Center Back'],0,0,0,72,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Johann Berg Guðmunds­son,7.1,7561,['Right Wing'],2,1,0,73,2,0,2,0,0,0,0,0,0,0,2,0,1,0,0,0,0,7561,6/26/2018,Iceland,Croatia,Group Stage
+Enzo Nicolás Pérez,6.6,7564,['Right Wing'],0,0,0,94,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Lionel Andrés Messi Cuccittini,8.4,7564,"['Right Center Forward', 'Right Attacking Midfield']",2,1,1,78,2,0,10,0,0,0,0,2,0,0,1,0,0,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Javier Alejandro Mascherano,7.5,7564,"['Right Center Midfield', 'Center Defensive Midfield']",0,0,0,87,0,0,1,3,0,0,0,2,1,0,0,0,1,1,0,1,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Éver Maximiliano David Banega,8.5,7564,"['Left Center Midfield', 'Left Center Back']",0,0,0,86,2,1,1,3,0,0,0,4,0,0,1,0,1,0,0,1,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Odion Jude Ighalo,6.2,7564,['Right Center Forward'],2,1,0,83,1,0,2,0,0,0,0,2,0,1,0,0,4,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Nicolás Alejandro Tagliafico,7.1,7564,['Left Back'],2,0,0,79,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Onyinye Wilfred Ndidi,7.1,7564,['Right Center Midfield'],1,0,0,71,0,0,2,1,0,0,0,3,0,1,0,0,1,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Oghenekaro Etebo,7.5,7564,"['Left Center Midfield', 'Left Midfield']",3,0,0,68,1,0,6,2,0,0,0,2,0,2,1,1,2,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Brian Oladapo Idowu,7.6,7564,"['Left Wing Back', 'Left Back']",0,0,0,77,1,0,0,2,0,0,0,1,0,0,1,1,2,1,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Kenneth Josiah Omeruo,6.4,7564,['Left Center Back'],0,0,0,78,0,0,1,0,0,0,0,1,0,0,0,0,2,2,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Kelechi Promise Iheanacho,5.8,7564,['Right Center Forward'],0,0,0,60,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Ángel Fabián Di María Hernández,6.6,7564,['Left Wing'],1,0,0,62,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Leon Aderemi Balogun,6.9,7564,['Right Center Back'],1,1,0,41,0,0,1,0,0,1,0,2,0,0,0,0,2,1,0,1,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Victor Moses,7.8,7564,"['Right Wing Back', 'Right Back']",1,1,1,54,0,0,0,2,0,0,0,2,0,0,3,1,1,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+William Troost-Ekong,6.2,7564,"['Center Back', 'Left Center Back']",0,0,0,61,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+John Michael Nchekwube Obinna,6.6,7564,"['Center Defensive Midfield', 'Left Center Midfield']",0,0,0,76,0,0,1,0,0,0,0,5,0,0,0,0,1,1,0,1,0,7564,6/26/2018,Nigeria,Argentina,Group Stage
+Antoine Griezmann,7,7563,['Center Attacking Midfield'],2,2,0,69,0,0,2,0,0,0,0,2,0,0,0,0,3,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Christian Guillermo Martín Ramos Garagay,7.1,7562,['Right Center Back'],0,0,0,82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+André Martín Carrillo Díaz,8.1,7562,['Right Midfield'],1,1,1,76,0,0,2,2,0,0,0,0,0,0,0,0,3,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Josh Risdon,6.3,7562,['Right Back'],0,0,0,80,0,0,2,3,0,0,0,1,0,0,1,0,1,1,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Tom Rogić,6.2,7562,['Center Attacking Midfield'],2,1,0,91,0,0,5,0,0,0,0,1,0,0,4,0,1,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Aaron Mooy,6.7,7562,['Left Center Midfield'],1,0,0,85,6,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Aziz Eraltay Behich,5.7,7562,['Left Back'],1,0,0,85,1,0,0,0,0,0,0,1,0,1,1,1,3,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Robbie Kruse,5.7,7562,['Left Midfield'],0,0,0,64,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Mark Milligan,6.4,7562,['Left Center Back'],0,0,0,94,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7562,6/26/2018,Australia,Peru,Group Stage
+Trent Sainsbury,7.1,7562,['Right Center Back'],3,0,0,92,2,0,1,0,0,0,0,0,0,3,1,1,0,0,1,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Tomi Jurić,6.1,7562,['Center Forward'],0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Mile Jedinak,7,7562,['Right Center Midfield'],4,1,0,91,0,0,0,2,0,0,0,3,0,3,0,0,0,0,0,1,0,7562,6/26/2018,Australia,Peru,Group Stage
+Édison Michael Flores Peralta,6.8,7562,"['Left Midfield', 'Center Attacking Midfield']",0,0,0,65,0,0,0,1,0,0,0,1,0,0,3,2,4,1,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Mathew Leckie,6.2,7562,['Right Midfield'],2,0,0,67,1,0,3,0,0,0,0,2,0,1,8,0,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Christian Alberto Cueva Bravo,7.5,7562,"['Center Attacking Midfield', 'Left Midfield']",0,0,0,88,0,0,2,2,0,0,0,0,0,0,2,0,4,2,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Pedro Jesús Aquino Sánchez,7.3,7562,['Left Defensive Midfield'],0,0,0,85,0,0,0,3,0,0,0,2,0,0,1,1,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Miguel Ángel Trauco Saavedra,7.4,7562,['Left Back'],0,0,0,81,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Anderson Santamaría Bardales,7.5,7562,['Left Center Back'],0,0,0,93,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Luis Jan Piers Advíncula Castrillón,8.1,7562,['Right Back'],0,0,0,80,0,0,0,5,0,0,0,2,0,0,0,0,2,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Steven N'Kemboanza Mike Christopher Nzonzi,7.5,7563,['Left Defensive Midfield'],0,0,0,84,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Víctor Yoshimar Yotún Flores,6.9,7562,['Left Defensive Midfield'],1,0,0,79,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,7562,6/26/2018,Australia,Peru,Group Stage
+Renato Fabrizio Tapia Cortijo,6.7,7562,['Right Defensive Midfield'],0,0,0,85,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+José Paolo Guerrero Gonzáles,8.3,7562,['Center Forward'],2,2,1,59,0,1,0,0,0,0,0,2,0,0,0,0,3,1,0,0,0,7562,6/26/2018,Australia,Peru,Group Stage
+Benjamin Mendy,6.9,7563,['Left Back'],0,0,0,74,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7563,6/26/2018,Denmark,France,Group Stage
+Gabriel Fernando de Jesus,7.8,7565,['Center Forward'],2,1,0,85,1,0,2,2,0,0,0,1,0,0,0,0,3,2,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Carlos Henrique Casimiro,7.9,7565,['Center Defensive Midfield'],1,0,0,79,0,0,0,5,0,0,0,1,0,1,1,1,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+José Paulo Bezzera Maciel Júnior,7.6,7565,['Right Center Midfield'],1,1,1,85,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+João Miranda de Souza Filho,7.4,7565,['Left Center Back'],0,0,0,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Philippe Coutinho Correia,8,7565,['Left Center Midfield'],2,0,0,88,2,1,1,1,0,0,0,0,0,0,3,0,1,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Nikola Milenković,6.4,7565,['Right Center Back'],0,0,0,91,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Aleksandar Mitrović,6.5,7565,['Center Forward'],5,1,0,40,0,0,0,0,0,0,0,1,0,2,2,1,2,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Milos Veljkovic,5.9,7565,['Left Center Back'],0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Nemanja Matić,6.9,7565,['Left Defensive Midfield'],1,0,0,78,0,0,1,3,0,0,0,1,0,1,2,1,0,0,0,1,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Aleksandar Kolarov,6.3,7565,['Left Back'],0,0,0,73,1,0,0,1,0,0,0,3,0,0,2,0,2,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Willian Borges da Silva,7,7565,['Right Wing'],0,0,0,83,0,0,1,0,0,0,0,1,0,0,2,1,1,1,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Thiago Emiliano da Silva,8.6,7565,['Right Center Back'],1,1,1,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Adem Ljajić,6.3,7565,['Center Attacking Midfield'],0,0,0,78,1,0,3,1,0,0,0,2,0,0,1,1,0,0,0,1,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Ja-Cheol Koo,5.9,7567,['Left Center Forward'],0,0,0,86,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Neymar da Silva Santos Junior,8.5,7565,['Left Wing'],7,3,0,82,4,1,7,0,0,0,0,0,0,2,2,0,4,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Sergej Milinković-Savić,6.8,7565,['Right Defensive Midfield'],2,0,0,78,0,0,0,2,0,0,0,1,0,1,1,0,3,1,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Hyun-Soo Jang,6.8,7567,"['Right Center Midfield', 'Center Midfield']",0,0,0,78,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Filip Kostić,6.2,7565,['Left Wing'],1,0,0,67,0,0,2,1,0,0,0,2,0,0,1,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Ludwig Augustinsson,8.1,7566,['Left Back'],2,1,1,56,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Jesús Daniel Gallardo Vasconcelos,6.5,7566,['Left Back'],0,0,0,68,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Marcus Berg,7.8,7566,['Right Center Forward'],4,2,0,78,1,0,0,1,0,1,0,1,0,2,0,0,1,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Sebastian Larsson,6.9,7566,['Right Center Midfield'],0,0,0,60,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Ola Toivonen,7.2,7566,['Left Center Forward'],0,0,0,59,1,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Andreas Granqvist,8.3,7566,['Left Center Back'],2,1,1,72,0,0,1,1,0,0,0,4,0,1,0,0,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Emil Peter Forsberg,7.4,7566,['Left Midfield'],6,1,0,82,1,0,0,0,0,0,0,0,0,4,0,0,1,1,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Mikael Lustig,7.6,7566,['Right Back'],0,0,0,59,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Young-Gwon Kim,7.9,7567,['Left Center Back'],1,1,1,74,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Woo-Young Jung,7.7,7567,['Left Center Midfield'],3,3,0,76,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Young-Sun Yun,6.6,7567,['Right Center Back'],0,0,0,100,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Chul Hong,7.8,7567,['Left Back'],0,0,0,57,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Joshua Kimmich,6.9,7567,['Right Back'],1,0,0,86,5,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Marco Reus,6.6,7567,['Left Wing'],3,0,0,86,1,0,0,1,0,0,0,2,0,2,0,0,1,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Mats Hummels,8.1,7567,['Left Center Back'],5,1,0,88,0,0,2,4,0,0,0,0,0,3,0,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Timo Werner,6.5,7567,"['Center Forward', 'Right Wing']",3,0,0,62,2,0,2,0,0,0,0,1,0,2,1,0,2,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Yong Lee,8.1,7567,['Right Back'],1,0,0,64,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Dušan Tadić,7.2,7565,"['Right Wing', 'Center Attacking Midfield']",1,0,0,75,3,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Javier Hernández Balcázar,6.3,7566,"['Center Forward', 'Left Center Forward']",2,0,0,62,3,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Viktor Claesson,7.9,7566,['Right Midfield'],1,0,0,61,1,0,0,1,0,0,0,3,0,1,2,1,1,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Fágner Conserva Lemos,7.6,7565,['Right Back'],0,0,0,84,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Filipe Luís Kasmirski,7.1,7565,['Left Back'],1,1,0,89,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Héctor Alfredo Moreno Herrera,5.9,7566,['Left Center Back'],1,0,0,88,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Héctor Miguel Herrera López,6.3,7566,"['Right Defensive Midfield', 'Center Defensive Midfield', 'Left Center Midfield']",2,1,0,86,2,0,2,1,0,0,0,3,0,0,1,0,2,1,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Hirving Rodrigo Lozano Bahena,7.1,7566,['Left Wing'],3,1,0,78,1,0,5,0,0,0,0,1,0,1,0,0,3,1,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Albin Ekdal,7.3,7566,['Left Center Midfield'],0,0,0,74,0,0,1,3,0,0,0,2,0,0,0,0,3,3,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Carlos Alberto Vela Garrido,6.4,7566,"['Center Attacking Midfield', 'Right Wing', 'Right Center Midfield']",5,0,0,79,3,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Victor Nilsson Lindelöf,7.4,7566,['Right Center Back'],0,0,0,50,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Mesut Özil,7.5,7567,"['Center Attacking Midfield', 'Right Center Midfield']",1,0,0,85,6,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Niklas Süle,6.6,7567,['Right Center Back'],0,0,0,91,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Sami Khedira,6.8,7567,['Right Center Midfield'],2,1,0,88,0,0,0,3,0,0,0,2,0,0,2,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Jonas Hector,7.2,7567,['Left Back'],0,0,0,81,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Carlos Joel Salcedo Hernández,6.1,7566,"['Right Center Back', 'Center Back']",3,0,0,78,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Edson Omar Álvarez Velázquez,6.8,7566,"['Right Back', 'Right Center Back']",0,0,0,78,1,0,4,1,0,0,0,3,0,0,0,0,0,0,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Miguel Arturo Layún Prado,7,7566,"['Right Wing', 'Left Back']",2,1,0,76,1,0,2,0,0,0,0,1,0,1,0,0,2,1,0,1,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+José Andrés Guardado Hernández,6.1,7566,"['Left Defensive Midfield', 'Right Center Midfield']",3,0,0,97,1,0,0,0,0,0,0,2,0,3,1,1,2,1,0,0,0,7566,6/27/2018,Mexico,Sweden,Group Stage
+Toni Kroos,7.2,7567,['Left Center Midfield'],5,1,0,89,4,0,2,1,0,0,0,0,0,3,0,0,0,0,1,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Antonio Rukavina,7.1,7565,['Right Back'],0,0,0,80,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,7565,6/27/2018,Serbia,Brazil,Group Stage
+Seon-Min Moon,6.7,7567,['Left Midfield'],0,0,0,82,1,0,1,1,0,0,0,6,0,0,2,0,0,0,0,1,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Johnny Acosta Zamora,6.4,7568,['Right Center Back'],0,0,0,85,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Granit Xhaka,7.2,7568,"['Left Defensive Midfield', 'Left Center Midfield']",0,0,0,97,2,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Xherdan Shaqiri,7.3,7568,['Right Wing'],0,0,0,70,3,0,2,0,0,0,0,1,0,0,0,0,2,1,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Stephan Lichtsteiner,6.9,7568,"['Right Back', 'Right Midfield']",1,0,0,76,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Fabian Lukas Schär,6,7568,"['Right Center Back', 'Center Back']",0,0,0,86,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Manuel Obafemi Akanji,6.7,7568,['Left Center Back'],0,0,0,94,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Kendall Jamaal Waston Manley,7.7,7568,['Left Center Back'],1,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Valon Behrami,6,7568,['Right Defensive Midfield'],1,0,0,90,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Celso Borges Mora,7.4,7568,['Right Center Midfield'],3,2,0,78,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Mario Gavranović,6.4,7568,['Center Forward'],2,0,0,64,0,0,0,0,0,0,0,1,0,1,1,1,2,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Cristian Gamboa Luna,7.1,7568,['Right Wing Back'],1,1,0,72,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Joel Nathaniel Campbell Samuels,8.4,7568,['Center Forward'],2,1,0,78,3,1,7,0,0,1,0,2,0,1,3,0,6,1,0,1,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+David Alberto Guzmán Pérez,6.9,7568,['Left Center Midfield'],1,0,0,67,1,0,1,0,0,0,0,2,0,0,1,1,1,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Bryan Oviedo,7.4,7568,['Left Wing Back'],2,1,0,76,1,0,0,1,0,0,0,3,0,1,1,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Ricardo Iván Rodríguez Araya,6.6,7568,"['Left Back', 'Left Midfield']",1,0,0,79,1,0,0,1,0,0,0,2,0,1,1,1,1,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Giancarlo González Castro,6.5,7568,['Center Back'],0,0,0,91,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Daniel Colindres Solera,6.4,7568,['Left Wing'],3,0,0,48,1,0,0,0,0,0,0,3,0,1,1,1,2,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Blerim Džemaili,8.2,7568,"['Center Attacking Midfield', 'Right Wing']",3,1,1,61,0,0,3,2,0,0,0,0,0,1,1,0,3,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Breel-Donald Embolo,7.6,7568,['Left Wing'],2,1,0,81,1,1,2,1,0,0,0,0,0,1,2,0,2,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Bryan Ruiz González,7,7568,['Right Wing'],1,0,0,84,1,0,3,1,0,0,0,1,0,0,3,0,0,0,0,0,0,7568,6/27/2018,Switzerland,Costa Rica,Group Stage
+Leon Goretzka,6.7,7567,"['Right Wing', 'Center Attacking Midfield']",2,1,0,91,1,0,1,1,0,0,0,1,0,1,0,0,2,1,0,0,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Jae-Sung Lee,7.2,7567,"['Right Midfield', 'Right Center Midfield']",1,0,0,83,2,0,1,1,0,0,0,4,0,0,2,1,3,0,0,1,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Heung-Min Son,8,7567,"['Right Center Forward', 'Center Forward']",6,1,1,79,0,0,3,0,0,0,0,2,0,5,4,0,2,0,0,1,0,7567,6/27/2018,South Korea,Germany,Group Stage
+Lamine Gassama,7.6,7571,['Right Back'],0,0,0,88,0,0,2,2,0,0,0,1,0,0,2,1,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Adnan Januzaj,7.6,7570,"['Left Wing', 'Right Wing']",3,1,1,68,1,0,2,0,0,0,0,1,0,0,1,1,2,1,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Leander Dendoncker,6.7,7570,['Right Center Back'],0,0,0,91,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,1,0,7570,6/28/2018,England,Belgium,Group Stage
+Nacer Chadli,7.4,7570,['Right Midfield'],0,0,0,84,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Danny Rose,7,7570,['Left Midfield'],0,0,0,78,1,0,2,4,0,0,0,2,0,0,1,0,2,1,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Anga Dedryck Boyata,7.1,7570,"['Center Back', 'Left Center Back']",1,0,0,97,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Youri Tielemans,8,7570,['Left Center Midfield'],2,1,0,84,1,1,1,2,0,0,0,2,0,0,2,0,0,0,0,1,0,7570,6/28/2018,England,Belgium,Group Stage
+Michy Batshuayi Tunga,7,7570,['Center Forward'],2,0,0,76,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Gabriel Enrique Gómez Girón,6.8,7569,"['Center Defensive Midfield', 'Right Center Midfield']",0,0,0,79,1,0,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Ruben Loftus-Cheek,6.4,7570,['Right Attacking Midfield'],1,0,0,78,1,0,4,0,0,0,0,0,0,1,3,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Harry Maguire,6.4,7570,['Left Center Back'],0,0,0,88,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Eric Dier,5.9,7570,['Center Defensive Midfield'],0,0,0,89,0,0,0,0,0,0,0,4,0,0,1,1,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Thomas Vermaelen,7,7570,['Left Center Back'],0,0,0,86,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Gary Cahill,6.9,7570,"['Left Center Back', 'Center Back']",0,0,0,93,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Trent Alexander-Arnold,7.1,7570,['Right Midfield'],1,0,0,79,2,0,1,0,0,0,0,0,0,0,1,1,2,1,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Phil Jones,6.7,7570,['Right Center Back'],0,0,0,93,0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+John Stones,6.3,7570,['Center Back'],0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Mousa Sidi Yaya Dembélé,7.2,7570,['Right Center Midfield'],0,0,0,98,0,0,1,4,0,0,0,1,0,0,1,1,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Thorgan Hazard,8,7570,['Left Midfield'],3,0,0,81,4,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Jamie Vardy,6.3,7570,['Right Center Forward'],2,0,0,58,1,0,0,1,0,0,0,1,0,2,1,1,1,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Fabian Delph,6.6,7570,['Left Attacking Midfield'],2,0,0,83,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Youssouf Sabaly,6.4,7571,['Left Back'],0,0,0,66,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Salif Sané,7.3,7571,['Right Center Back'],1,0,0,76,0,0,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Radamel Falcao García Zárate,6.3,7571,['Center Forward'],1,0,0,68,0,0,0,0,0,0,0,2,0,1,0,0,5,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Idrissa Gana Gueye,7.6,7571,['Left Center Midfield'],0,0,0,86,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Keita Baldé Diao,7,7571,['Left Wing'],1,1,0,64,0,0,0,0,0,0,0,2,0,0,0,0,3,1,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Yerry Fernando Mina González,8.3,7571,['Right Center Back'],1,1,1,90,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Davinson Sánchez Mina,7.4,7571,['Left Center Back'],0,0,0,83,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Johan Andrés Mojica Palacio,6.7,7571,['Left Back'],0,0,0,63,0,0,0,1,0,0,0,2,0,0,0,0,4,3,0,1,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Cheikhou Kouyaté,6.4,7571,['Right Center Midfield'],0,0,0,78,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Carlos Alberto Sánchez Moreno,7,7571,['Right Center Midfield'],0,0,0,86,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Juan Fernando Quintero Paniagua,8.3,7571,['Right Wing'],1,1,0,73,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Ismaïla Sarr,7,7571,['Right Wing'],2,1,0,81,0,0,2,0,0,0,0,1,0,1,2,0,1,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Luis Fernando Muriel Fruto,6.3,7571,['Center Attacking Midfield'],1,0,0,67,0,0,0,1,0,0,0,2,0,0,1,0,1,1,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Santiago Arias Naranjo,7.2,7571,['Right Back'],0,0,0,75,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+M'Baye Babacar Niang,7,7571,['Left Center Forward'],2,1,0,50,2,0,1,1,0,0,0,1,0,1,0,0,3,1,0,1,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Kalidou Koulibaly,6.6,7571,['Left Center Back'],0,0,0,72,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Sadio Mané,5.6,7571,"['Right Center Forward', 'Left Wing']",1,0,0,65,2,0,2,0,0,0,0,3,0,1,6,0,6,1,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Marouane Fellaini-Bakkioui,8.4,7570,"['Right Wing', 'Left Wing']",2,0,0,74,1,0,3,2,0,0,0,3,0,1,0,0,1,0,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Juan Guillermo Cuadrado Bello,6.3,7571,['Left Wing'],0,0,0,71,0,0,0,0,0,0,0,1,0,0,3,1,5,1,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Andrés Mateus Uribe Villa,6.8,7571,['Left Center Midfield'],0,0,0,94,0,0,0,3,0,0,0,1,0,0,2,2,2,0,0,0,0,7571,6/28/2018,Senegal,Colombia,Group Stage
+Ghilane Chalali,7.8,7569,['Right Center Midfield'],1,0,0,81,1,0,0,2,0,0,0,4,0,1,1,0,2,2,0,1,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Yūya Ōsako,6.2,7572,"['Left Center Forward', 'Center Forward']",0,0,0,54,2,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Kamil Glik,6.9,7572,['Right Center Back'],1,0,0,86,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Bartosz Bereszyński,7.1,7572,['Right Back'],0,0,0,86,1,0,2,0,0,0,0,4,0,0,1,1,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Takashi Usami,7.3,7572,['Left Midfield'],3,1,0,57,2,0,3,0,0,0,0,1,0,0,1,0,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Grzegorz Krychowiak,7.3,7572,['Right Defensive Midfield'],0,0,0,88,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Piotr Zieliński,7,7572,['Center Attacking Midfield'],1,0,0,73,1,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Harold Oshkaly Cummings Segura,6.4,7569,"['Left Center Back', 'Right Center Back']",0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Anice Badri,6,7569,"['Left Center Midfield', 'Left Midfield']",0,0,0,100,0,0,2,1,0,0,0,4,0,0,0,0,1,0,0,1,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Gabriel Arturo Torres Tejada,5.7,7569,['Center Forward'],1,0,0,83,1,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Wahbi Khazri,9,7569,['Center Forward'],5,3,1,85,3,1,0,1,0,0,0,0,0,1,0,0,5,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Ellyes Joris Skhiri,6.9,7569,['Center Defensive Midfield'],0,0,0,90,0,0,1,1,0,0,0,1,0,0,2,1,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+José Luis Rodríguez Francis,6.6,7569,['Right Wing'],2,1,0,67,0,0,0,0,0,0,0,2,0,0,3,0,1,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Jan Bednarek,8.3,7572,['Left Center Back'],1,1,1,87,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Fakhreddine Ben Youssef,8,7569,['Right Midfield'],4,2,1,75,1,0,0,0,0,0,0,1,0,1,0,0,3,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Luis Carlos Ovalle Victoria,6.5,7569,['Left Back'],1,1,0,56,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Rami Bedoui,7.1,7569,['Right Center Back'],0,0,0,87,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Yassine Meriah,6.4,7569,['Left Center Back'],0,0,0,90,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Hamdi Nagguez,7,7569,['Right Back'],1,0,0,80,0,0,3,1,0,0,0,3,0,1,0,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Aníbal Cesis Godoy,5.9,7569,"['Right Center Midfield', 'Left Center Forward', 'Center Attacking Midfield']",1,0,0,85,0,0,1,1,0,0,0,3,0,1,1,1,4,2,1,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Edgar Yoel Bárcenas Herrera,6.6,7569,"['Left Wing', 'Right Center Forward']",2,2,0,88,1,0,3,0,0,0,0,2,0,0,2,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Román Aureliano Torres Morcillo,6.4,7569,['Right Center Back'],1,0,0,82,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Ricardo Guardia Avila,5.6,7569,"['Left Center Midfield', 'Left Wing']",1,0,0,75,0,0,1,1,0,0,0,4,0,1,3,2,0,0,0,1,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Fidel Escobar Mendieta,6.1,7569,"['Left Center Back', 'Left Center Midfield']",0,0,0,75,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Oussama Haddadi,8.1,7569,['Left Back'],0,0,0,83,2,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Adolfo Abdiel Machado,6.7,7569,['Right Back'],0,0,0,53,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Naïm Sliti,7,7569,['Left Midfield'],3,1,0,71,1,0,5,0,0,0,0,0,0,2,4,2,2,0,0,0,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Marcus Rashford,6.3,7570,"['Left Center Forward', 'Right Midfield']",4,1,0,72,1,0,5,0,0,0,0,3,0,2,1,0,1,1,0,0,0,7570,6/28/2018,England,Belgium,Group Stage
+Ferjani Sassi,6.9,7569,['Left Center Midfield'],1,0,0,87,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,7569,6/28/2018,Panama,Tunisia,Group Stage
+Kamil Grosicki,6.8,7572,['Right Wing'],2,1,0,50,3,0,0,0,0,0,0,0,0,1,3,2,2,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Yuto Nagatomo,7.1,7572,['Left Back'],0,0,0,82,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Robert Lewandowski,6.9,7572,['Center Forward'],2,0,0,95,1,0,1,0,0,0,0,0,0,1,0,0,6,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Artur Jędrzejczyk,7.4,7572,['Left Back'],1,0,0,77,1,0,1,1,0,0,0,2,0,0,1,1,0,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Rafał Kurzawa,7.9,7572,['Left Wing'],2,0,0,62,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Shinji Okazaki,5.9,7572,['Left Center Forward'],1,0,0,69,0,0,1,0,0,0,0,1,0,1,3,2,2,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Gaku Shibasaki,7.1,7572,['Right Center Midfield'],0,0,0,83,4,0,0,0,0,0,0,4,0,0,0,0,1,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Jacek Góralski,7.1,7572,['Left Defensive Midfield'],1,0,0,90,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Tomoaki Makino,7.1,7572,['Left Center Back'],2,0,0,89,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,1,0,7572,6/28/2018,Japan,Poland,Group Stage
+Hotaru Yamaguchi,6.2,7572,['Left Center Midfield'],0,0,0,95,0,0,0,2,0,0,0,2,0,0,0,0,1,1,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Maya Yoshida,6.8,7572,['Right Center Back'],1,0,0,97,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Yoshinori Muto,6.3,7572,['Right Center Forward'],2,1,0,88,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Gotoku Sakai,5.3,7572,['Right Midfield'],1,1,0,82,1,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Hiroki Sakai,7.5,7572,['Right Back'],0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7572,6/28/2018,Japan,Poland,Group Stage
+Rodrigo Bentancur Colmán,7.7,7579,['Center Attacking Midfield'],0,0,0,69,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Luis Alberto Suárez Díaz,6.9,7579,['Left Center Forward'],3,1,0,56,0,1,3,0,0,0,0,1,0,1,3,1,2,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Nahitan Michel Nández Acosta,6.6,7579,['Right Midfield'],0,0,0,74,1,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Edinson Roberto Cavani Gómez,9,7579,['Right Center Forward'],3,2,2,77,1,0,0,2,0,0,0,2,0,1,2,0,1,1,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+José Martín Cáceres Silva,7.1,7579,['Right Back'],0,0,0,41,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Diego Sebastián Laxalt Suárez,7.9,7579,['Left Back'],0,0,0,55,0,0,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+João Mário Naval da Costa Eduardo,7.3,7579,"['Left Midfield', 'Right Midfield', 'Right Center Midfield']",0,0,0,84,2,0,2,1,0,0,0,1,0,0,2,1,2,1,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Raphaël Adelino José Guerreiro,8.4,7579,['Left Back'],2,0,0,76,3,1,2,1,0,0,0,1,0,2,0,0,1,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Adrien Sebastian Perruchet Silva,6.5,7579,['Right Center Midfield'],1,0,0,88,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Gonçalo Manuel Ganchinho Guedes,6.3,7579,"['Right Center Forward', 'Left Midfield']",3,0,0,88,0,0,0,0,0,0,0,2,0,1,2,1,2,1,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Diego Roberto Godín Leal,7.2,7579,['Right Center Back'],0,0,0,83,1,0,1,3,0,0,0,2,0,0,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+José Miguel da Rocha Fonte,7.4,7579,['Left Center Back'],1,0,0,81,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Lucas Torreira Di Pascua,6.9,7579,"['Center Defensive Midfield', 'Right Defensive Midfield']",0,0,0,79,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Bernardo Mota Veiga de Carvalho e Silva,7.8,7579,"['Right Midfield', 'Right Center Forward', 'Center Attacking Midfield']",2,0,0,85,4,0,7,1,0,0,0,1,0,2,1,0,2,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Matías Vecino Falero,6.7,7579,"['Left Midfield', 'Left Defensive Midfield']",1,0,0,67,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Kléper Laveran Lima Ferreira,8,7579,['Right Center Back'],1,1,1,76,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Federico Julián Fazio,6.6,7580,"['Left Center Back', 'Right Center Back']",0,0,0,78,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Lucas Hernández Pi,7.1,7580,['Left Back'],0,0,0,78,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Lionel Andrés Messi Cuccittini,8.7,7580,"['Center Forward', 'Secondary Striker']",4,1,0,79,1,1,3,0,0,0,0,0,0,0,4,0,3,1,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Ángel Fabián Di María Hernández,7.1,7580,"['Right Wing', 'Left Wing']",3,1,1,54,0,0,3,1,0,0,0,1,0,1,3,0,1,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Olivier Giroud,7,7580,['Center Forward'],1,0,0,64,0,1,0,1,0,0,0,4,0,1,1,0,4,2,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Blaise Matuidi,6.5,7580,['Left Wing'],1,0,0,86,0,0,0,1,0,0,0,5,0,0,1,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Éver Maximiliano David Banega,7.3,7580,['Left Center Midfield'],1,0,0,86,1,1,1,2,0,0,0,0,0,0,4,1,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Enzo Nicolás Pérez,6.3,7580,['Right Center Midfield'],0,0,0,95,0,0,1,0,0,0,0,2,0,0,1,1,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Javier Alejandro Mascherano,6.9,7580,"['Center Defensive Midfield', 'Right Center Midfield']",0,0,0,85,1,0,1,3,0,0,0,4,0,0,0,0,1,0,0,1,0,7580,6/30/2018,France,Argentina,Round of 16
+N'Golo Kanté,7.4,7580,['Left Defensive Midfield'],0,0,0,91,0,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Ricardo Domingos Barbosa Pereira,6.2,7579,['Right Back'],0,0,0,84,1,0,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Cristian David Pavón,6.2,7580,"['Left Wing', 'Right Wing']",0,0,0,66,0,0,0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Nicolás Hernán Otamendi,6.2,7580,"['Right Center Back', 'Left Center Back']",1,0,0,89,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Nicolás Alejandro Tagliafico,6,7580,['Left Back'],0,0,0,83,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,7580,6/30/2018,France,Argentina,Round of 16
+Faustino Marcos Alberto Rojo,6.1,7580,['Left Center Back'],0,0,0,100,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Samuel Yves Umtiti,6.3,7580,['Left Center Back'],0,0,0,89,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Benjamin Pavard,7.4,7580,['Right Back'],1,1,1,93,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Kylian Mbappé Lottin,9.2,7580,['Right Wing'],2,2,2,62,0,0,5,1,0,1,0,0,0,0,1,0,3,2,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Paul Pogba,7.2,7580,['Right Defensive Midfield'],1,0,0,77,1,0,3,1,0,0,0,4,0,1,6,3,1,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Raphaël Varane,6.2,7580,['Right Center Back'],0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Antoine Griezmann,8.1,7580,['Right Wing Back'],3,1,1,68,0,0,1,1,0,0,0,2,0,1,2,1,2,1,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Cristiano Ronaldo dos Santos Aveiro,6.7,7579,"['Left Center Forward', 'Left Wing']",6,1,0,75,1,0,4,0,0,0,0,0,0,1,5,1,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+William Silva de Carvalho,7,7579,['Left Center Midfield'],1,0,0,91,2,0,1,0,0,0,0,2,0,0,2,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+José María Giménez de Vargas,6.8,7579,['Left Center Back'],0,0,0,93,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7579,6/30/2018,Uruguay,Portugal,Round of 16
+Gabriel Iván Mercado,6.9,7580,['Right Back'],1,1,1,93,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,7580,6/30/2018,France,Argentina,Round of 16
+Mathias Jørgensen Jatta,7.3,7581,['Left Center Back'],1,1,1,85,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Denis Cheryshev,6.3,7582,"['Left Center Midfield', 'Left Midfield']",2,1,1,60,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Nicolai Jørgensen,6.6,7581,['Center Forward'],3,2,0,69,2,0,0,0,0,0,0,1,0,1,0,0,3,1,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Lasse Schöne,7,7581,['Right Center Midfield'],4,1,0,84,0,0,1,0,0,0,0,1,0,2,0,0,0,0,1,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Mario Mandžukić,7.9,7581,['Center Forward'],1,1,1,70,0,0,0,2,0,0,0,2,0,0,2,0,2,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Yussuf Yurary Poulsen,7,7581,['Right Wing'],0,0,0,67,1,0,6,0,0,0,0,4,0,0,2,0,7,1,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Luka Modrić,7.6,7581,"['Right Center Midfield', 'Left Defensive Midfield']",4,3,1,76,5,0,5,0,0,0,0,1,0,1,0,0,2,2,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Andreas Evald Cornelius,6.2,7581,['Center Forward'],0,0,0,64,1,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Ante Rebić,7.8,7581,"['Right Midfield', 'Right Center Forward']",3,1,0,56,0,0,6,2,0,1,0,1,0,0,1,0,1,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Dejan Lovren,7,7581,['Right Center Back'],1,0,0,86,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Šime Vrsaljko,6.6,7581,['Right Back'],0,0,0,74,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Ivan Perišić,6,7581,['Left Midfield'],7,0,0,71,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Ivan Rakitić,7.3,7581,"['Left Center Midfield', 'Right Defensive Midfield']",4,3,1,85,2,0,1,0,0,0,0,2,0,1,1,0,2,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Ivan Strinić,7.5,7581,['Left Back'],0,0,0,69,1,0,3,0,0,0,0,1,0,0,0,0,2,1,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Simon Thorup Kjær,6.8,7581,['Right Center Back'],1,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Jonas Knudsen,6.6,7581,['Left Back'],0,0,0,58,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Martin Braithwaite Christensen,6.4,7581,['Left Wing'],3,1,0,70,0,0,0,0,0,0,0,2,0,2,0,0,2,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Henrik Dalsgaard,7.4,7581,['Right Back'],0,0,0,70,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Marcelo Brozović,6.4,7581,['Center Defensive Midfield'],0,0,0,84,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Andreas Christensen,6.2,7581,['Right Center Midfield'],0,0,0,83,0,0,0,0,0,0,0,0,0,0,2,2,1,1,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Thomas Delaney,7.9,7581,['Left Center Midfield'],1,0,0,86,0,1,1,3,0,0,0,4,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Domagoj Vida,7,7581,['Left Center Back'],0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Christian Dannemann Eriksen,7,7581,['Secondary Striker'],4,1,0,72,1,0,4,0,0,0,0,0,0,2,0,0,2,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Mateo Kovačić,7.1,7581,"['Center Defensive Midfield', 'Right Midfield']",1,0,0,88,0,0,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Josip Pivarić,6.6,7581,['Left Back'],2,1,0,79,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7581,7/1/2018,Croatia,Denmark,Round of 16
+Iago Aspas Juncal,6.7,7582,['Center Forward'],3,2,0,65,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Mário Figueira Fernandes,7.8,7582,"['Right Midfield', 'Right Back']",0,0,0,70,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Sergio Ramos García,8.4,7582,['Left Center Back'],2,1,1,93,1,0,0,1,0,0,0,3,0,1,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Ilya Kutepov,7.8,7582,['Right Center Back'],0,0,0,76,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,7582,7/1/2018,Spain,Russia,Round of 16
+Aleksandr Samedov,6.7,7582,"['Right Center Forward', 'Left Center Midfield']",0,0,0,68,1,0,0,1,0,0,0,2,0,0,1,0,2,1,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Gerard Piqué Bernabéu,8,7582,['Right Center Back'],4,2,1,92,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0,1,0,7582,7/1/2018,Spain,Russia,Round of 16
+Jordi Alba Ramos,8,7582,['Left Back'],2,1,0,93,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Sergio Busquets i Burgos,7.4,7582,['Left Defensive Midfield'],2,0,0,90,0,0,0,2,0,0,0,0,0,1,2,2,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Francisco Román Alarcón Suárez,8.7,7582,['Left Midfield'],1,0,0,85,2,0,15,0,0,0,0,0,0,0,3,2,3,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Marco Asensio Willemsen,7.1,7582,['Right Midfield'],2,1,0,86,2,0,1,0,0,0,0,0,0,1,0,0,3,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Artem Dzyuba,7.8,7582,"['Center Forward', 'Secondary Striker']",2,1,1,45,0,0,0,0,0,0,0,1,0,0,1,1,2,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+David Josué Jiménez Silva,6.3,7582,['Center Attacking Midfield'],1,0,0,81,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+José Ignacio Fernández Iglesias,7.3,7582,['Right Back'],0,0,0,94,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Aleksandr Golovin,7.1,7582,"['Left Center Forward', 'Right Center Midfield']",2,1,1,79,0,0,3,1,0,0,0,5,0,1,2,1,2,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Daniel Carvajal Ramos,6.5,7582,['Right Back'],1,0,0,84,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Andrés Iniesta Luján,7,7582,['Center Attacking Midfield'],3,2,1,84,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Daler Kuzyaev,6.7,7582,"['Right Center Midfield', 'Center Defensive Midfield']",0,0,0,86,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Vladimir Granat,7,7582,['Left Back'],0,0,0,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Roman Zobnin,6.3,7582,"['Left Center Midfield', 'Right Midfield', 'Center Defensive Midfield']",1,0,0,65,2,0,3,0,0,0,0,5,0,1,2,1,3,2,0,1,0,7582,7/1/2018,Spain,Russia,Round of 16
+Fyodor Smolov,5.7,7582,['Secondary Striker'],2,1,1,69,0,0,1,0,0,0,0,1,0,0,2,1,6,2,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Sergei Ignashevich,6.4,7582,"['Center Back', 'Left Center Back']",1,1,1,67,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Fedor Kudryashov,6.5,7582,"['Left Center Back', 'Left Midfield', 'Left Center Midfield']",0,0,0,78,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Yuri Zhirkov,6.3,7582,['Left Midfield'],1,0,0,75,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Diego da Silva Costa,6.5,7582,['Center Forward'],3,2,0,57,1,0,0,2,0,0,0,1,0,1,3,1,3,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+Jorge Resurrección Merodio,8.1,7582,['Right Defensive Midfield'],2,1,0,94,3,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,7582,7/1/2018,Spain,Russia,Round of 16
+José Andrés Guardado Hernández,6.9,7583,"['Left Midfield', 'Right Center Midfield']",2,0,0,82,0,0,2,1,0,0,0,2,0,0,3,1,2,1,0,1,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Carlos Henrique Casimiro,8,7583,['Right Center Midfield'],0,0,0,88,2,0,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Carlos Alberto Vela Garrido,7.2,7583,"['Left Wing', 'Right Wing']",2,1,0,84,4,0,5,4,0,0,0,0,0,1,5,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Héctor Miguel Herrera López,6.2,7583,"['Right Midfield', 'Left Center Midfield']",1,0,0,82,0,0,4,1,0,0,0,6,0,0,3,0,1,0,0,1,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Thiago Emiliano da Silva,7.4,7583,['Right Center Back'],0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Fágner Conserva Lemos,7,7583,"['Right Back', 'Right Wing']",0,0,0,81,1,0,0,4,0,0,0,2,0,0,1,1,1,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Willian Borges da Silva,8.4,7583,['Right Wing'],2,2,0,70,2,1,7,2,0,0,0,0,0,0,3,1,1,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Neymar da Silva Santos Junior,8.9,7583,"['Right Center Forward', 'Center Forward']",7,4,1,68,4,0,4,1,0,0,0,0,0,3,3,2,5,1,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Romelu Lukaku Menama,6.7,7584,['Center Forward'],7,1,0,79,1,0,2,0,0,0,0,2,0,3,0,0,2,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+João Miranda de Souza Filho,7.3,7583,['Left Center Back'],0,0,0,89,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Jesús Daniel Gallardo Vasconcelos,6.2,7583,['Left Back'],1,0,0,94,0,0,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Hugo Ayala Castro,6.3,7583,['Right Center Back'],1,0,0,80,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Carlos Joel Salcedo Hernández,6.3,7583,['Left Center Back'],1,0,0,91,1,0,0,0,0,0,0,2,0,1,1,1,1,1,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Rafael Márquez Álvarez,6.3,7583,['Center Midfield'],0,0,0,75,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Javier Hernández Balcázar,6.1,7583,['Center Forward'],0,0,0,75,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+José Paulo Bezzera Maciel Júnior,7.4,7583,['Left Center Midfield'],1,1,0,81,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Filipe Luís Kasmirski,7.1,7583,['Left Back'],0,0,0,85,2,0,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Edson Omar Álvarez Velázquez,6.2,7583,"['Right Back', 'Center Defensive Midfield']",0,0,0,84,0,0,1,1,0,0,0,2,0,0,3,0,0,0,0,1,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Philippe Coutinho Correia,7.4,7583,"['Left Wing', 'Center Attacking Midfield']",5,1,0,87,1,0,3,0,0,0,0,2,0,2,3,1,2,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Gabriel Fernando de Jesus,7.6,7583,"['Left Center Forward', 'Left Wing']",3,1,0,71,0,0,4,2,0,0,0,2,0,0,1,0,1,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Genki Haraguchi,7.9,7584,['Right Wing'],2,1,1,88,1,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Eden Hazard,8.8,7584,['Left Attacking Midfield'],4,1,0,79,4,1,3,1,0,0,0,0,0,1,0,0,1,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Thomas Meunier,8.3,7584,['Right Wing Back'],2,0,0,85,4,1,2,0,0,0,0,2,0,2,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Shinji Kagawa,7.9,7584,['Center Attacking Midfield'],1,0,0,88,2,1,3,0,0,0,0,1,0,1,0,0,1,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Kevin De Bruyne,7.5,7584,['Right Center Midfield'],2,0,0,83,5,0,3,2,0,0,0,2,0,0,2,1,1,1,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Maya Yoshida,6.5,7584,['Right Center Back'],0,0,0,78,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Yannick Ferreira Carrasco,6.4,7584,['Left Wing Back'],1,0,0,74,0,0,4,0,0,0,0,2,0,1,1,0,1,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Hirving Rodrigo Lozano Bahena,6.6,7583,"['Right Wing', 'Left Wing']",4,0,0,67,1,0,6,1,0,0,0,2,0,1,4,1,1,1,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Yuto Nagatomo,5.6,7584,['Left Back'],2,0,0,84,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Makoto Hasebe,5.5,7584,['Right Defensive Midfield'],0,0,0,88,0,0,1,1,0,0,0,2,0,0,1,0,1,1,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Yūya Ōsako,6.3,7584,['Center Forward'],0,0,0,71,0,0,1,1,0,0,0,2,0,0,2,0,2,1,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Gaku Shibasaki,7,7584,['Left Defensive Midfield'],1,0,0,80,0,1,0,0,0,0,0,2,0,0,1,0,1,0,0,1,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Hiroki Sakai,6.2,7584,['Right Back'],0,0,0,72,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Toby Alderweireld,6,7584,['Right Center Back'],0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Vincent Kompany,6.3,7584,['Center Back'],5,0,0,92,0,0,0,1,0,0,0,4,0,5,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Jan Vertonghen,8,7584,['Left Center Back'],2,2,1,79,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Axel Witsel,7.4,7584,['Left Center Midfield'],2,0,0,94,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Dries Mertens,7.4,7584,['Right Attacking Midfield'],0,0,0,77,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Takashi Inui,7.7,7584,['Left Wing'],3,2,1,73,1,0,1,0,0,0,0,1,0,0,0,0,3,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Gen Shōji,5.7,7584,['Left Center Back'],1,0,0,85,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7584,7/2/2018,Belgium,Japan,Round of 16
+Miguel Arturo Layún Prado,6.1,7583,['Right Back'],1,0,0,70,0,0,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,7583,7/2/2018,Brazil,Mexico,Round of 16
+Emil Peter Forsberg,8.1,7586,['Left Midfield'],3,1,1,79,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Andreas Granqvist,7.2,7586,['Left Center Back'],0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Blerim Džemaili,5.8,7586,['Center Attacking Midfield'],1,0,0,94,1,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Josip Drmic,6,7586,"['Center Forward', 'Right Center Forward']",1,0,0,73,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Granit Xhaka,7,7586,['Left Center Midfield'],2,0,0,87,1,0,0,0,0,0,0,3,0,1,1,1,2,1,0,1,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Manuel Obafemi Akanji,6.9,7586,['Left Center Back'],0,0,0,87,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Ola Toivonen,7.5,7586,['Left Center Forward'],2,1,0,62,1,1,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Marcus Berg,6.2,7586,['Right Center Forward'],3,1,0,64,0,0,0,1,0,0,0,8,0,1,0,0,4,1,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Andrés Mateus Uribe Villa,6.5,7585,['Left Center Midfield'],2,1,0,76,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Mikael Lustig,7,7586,['Right Back'],1,0,0,51,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,1,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Ludwig Augustinsson,7.1,7586,['Left Back'],0,0,0,43,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Viktor Claesson,8,7586,['Right Wing'],0,0,0,62,2,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Gustav Svensson,7.1,7586,['Right Center Midfield'],0,0,0,75,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Victor Nilsson Lindelöf,7,7586,['Right Center Back'],0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Valon Behrami,6.9,7586,['Right Center Midfield'],0,0,0,93,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Johan Danon Djourou-Gbadjere,7.8,7586,['Right Center Back'],0,0,0,92,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Xherdan Shaqiri,6.7,7586,['Right Wing'],4,0,0,71,4,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Michael Lang,5.3,7586,['Right Back'],1,0,0,82,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Ricardo Iván Rodríguez Araya,7.5,7586,['Left Back'],3,1,0,67,2,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Juan Fernando Quintero Paniagua,6.8,7585,"['Center Attacking Midfield', 'Right Center Midfield']",3,1,0,66,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Radamel Falcao García Zárate,5.7,7585,"['Left Center Forward', 'Right Center Forward']",4,2,1,79,1,0,1,0,0,0,0,3,0,2,4,0,5,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Steven Zuber,6.5,7586,['Left Wing'],2,1,0,76,1,0,0,1,0,0,0,1,0,1,0,0,2,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Carlos Alberto Sánchez Moreno,6.2,7585,"['Right Center Midfield', 'Left Center Midfield']",0,0,0,86,0,0,0,0,0,0,0,3,1,0,1,1,0,0,0,1,0,7585,7/3/2018,Colombia,England,Round of 16
+Santiago Arias Naranjo,7.2,7585,['Right Back'],0,0,0,79,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,7585,7/3/2018,Colombia,England,Round of 16
+Harry Maguire,7.6,7585,['Left Center Back'],3,0,0,84,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Bamidele Alli,6.7,7585,['Left Attacking Midfield'],1,0,0,81,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Juan Guillermo Cuadrado Bello,8.1,7585,"['Right Center Forward', 'Right Wing']",3,1,1,83,3,1,6,0,0,0,0,2,0,1,0,0,1,0,0,1,0,7585,7/3/2018,Colombia,England,Round of 16
+Jesse Lingard,6.9,7585,['Right Attacking Midfield'],2,0,0,91,2,0,1,1,0,0,0,3,0,1,0,0,5,0,0,1,0,7585,7/3/2018,Colombia,England,Round of 16
+Yerry Fernando Mina González,8.3,7585,['Right Center Back'],1,1,1,92,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Davinson Sánchez Mina,7.4,7585,['Left Center Back'],2,0,0,81,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Carlos Arturo Bacca Ahumada,6.5,7585,['Left Center Forward'],2,1,0,54,2,0,1,2,0,0,0,2,0,0,0,0,2,0,0,1,0,7585,7/3/2018,Colombia,England,Round of 16
+Jefferson Andrés Lerma Solís,6.2,7585,['Left Center Midfield'],0,0,0,82,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Jordan Brian Henderson,6.8,7585,['Center Defensive Midfield'],1,1,0,70,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Kyle Walker,6.6,7585,['Right Center Back'],0,0,0,97,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Ashley Young,6.6,7585,['Left Midfield'],1,1,0,64,2,0,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Kieran Trippier,8.3,7585,['Right Midfield'],2,1,1,61,6,0,1,2,0,0,0,2,0,1,1,0,1,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Wílmar Enrique Barrios Terán,7,7585,"['Center Defensive Midfield', 'Left Wing']",0,0,0,84,1,0,0,1,0,0,0,5,0,0,0,0,1,1,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Harry Kane,8.9,7585,['Left Center Forward'],4,2,2,61,0,0,0,1,0,1,0,1,0,2,0,0,5,2,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Johan Andrés Mojica Palacio,7.3,7585,['Left Back'],1,0,0,70,2,0,1,1,0,0,0,0,0,1,2,1,2,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Raheem Sterling,6.3,7585,['Right Center Forward'],3,0,0,86,0,0,0,0,0,0,0,2,0,0,0,0,5,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+John Stones,7.9,7585,['Center Back'],0,0,0,87,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Eric Dier,6.3,7585,['Left Attacking Midfield'],2,1,1,75,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,7585,7/3/2018,Colombia,England,Round of 16
+Albin Ekdal,7.4,7586,['Left Center Midfield'],3,0,0,86,0,0,3,1,0,0,0,0,0,3,1,0,0,0,0,0,0,7586,7/3/2018,Sweden,Switzerland,Round of 16
+Neymar da Silva Santos Junior,7.2,8650,['Left Wing'],3,1,0,85,8,0,5,0,0,0,0,0,0,0,5,0,7,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Cristhian Ricardo Stuani Curbelo,6.1,8649,['Left Center Forward'],1,0,0,23,0,0,0,1,0,0,0,4,0,1,1,1,4,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Rodrigo Bentancur Colmán,6.2,8649,['Center Attacking Midfield'],1,0,0,83,0,0,3,0,0,0,0,2,0,1,2,1,2,1,0,1,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+José Martín Cáceres Silva,6.2,8649,['Right Back'],2,1,0,56,1,0,1,1,0,0,0,1,0,1,1,0,1,1,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+José María Giménez de Vargas,6.1,8649,['Right Center Back'],1,1,0,61,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Nahitan Michel Nández Acosta,6.7,8649,"['Right Center Midfield', 'Right Wing']",1,1,0,64,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Paul Pogba,7.8,8649,['Left Center Midfield'],1,0,0,77,1,0,1,1,0,0,0,4,0,1,3,1,2,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Corentin Tolisso,8,8649,['Left Wing'],1,0,0,84,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Lucas Hernández Pi,7.4,8649,['Left Back'],1,0,0,83,0,0,0,0,0,0,0,3,0,1,2,1,2,0,0,1,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Samuel Yves Umtiti,7.2,8649,['Left Center Back'],0,0,0,73,0,0,1,0,0,0,0,2,0,0,1,1,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+N'Golo Kanté,7.1,8649,['Right Center Midfield'],1,0,0,87,0,0,1,1,0,0,0,2,0,0,2,1,1,1,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Antoine Griezmann,9.1,8649,"['Center Attacking Midfield', 'Left Wing']",2,1,1,73,1,1,3,2,0,0,0,0,0,1,0,0,2,2,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Kylian Mbappé Lottin,7.7,8649,['Right Wing'],1,0,0,81,0,0,9,0,0,0,0,0,0,1,2,0,3,1,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Raphaël Varane,8.4,8649,['Right Center Back'],2,1,1,77,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Benjamin Pavard,7.8,8649,['Right Back'],1,0,0,86,0,0,0,1,0,0,0,0,0,1,0,0,2,1,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Diego Roberto Godín Leal,6.6,8649,['Left Center Back'],1,0,0,71,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Lucas Torreira Di Pascua,6.9,8649,"['Center Defensive Midfield', 'Left Center Midfield']",0,0,0,64,2,0,0,4,0,0,0,3,0,0,3,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Luis Alberto Suárez Díaz,6.5,8649,"['Right Center Forward', 'Left Center Forward']",0,0,0,56,1,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Diego Sebastián Laxalt Suárez,5.8,8649,['Left Back'],0,0,0,62,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Matías Vecino Falero,5.9,8649,"['Left Center Midfield', 'Right Center Midfield']",1,1,0,74,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Olivier Giroud,7.1,8649,['Center Forward'],1,0,0,69,1,0,1,1,0,0,0,3,0,1,0,0,1,0,0,0,0,8649,7/6/2018,Uruguay,France,Quarter-finals
+Willian Borges da Silva,5.8,8650,['Right Wing'],0,0,0,75,1,0,0,1,0,0,0,1,0,0,1,0,2,1,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Roberto Firmino Barbosa de Oliveira,6.6,8650,['Center Forward'],2,0,0,72,1,0,1,0,0,0,0,1,0,2,1,0,1,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Fernando Luiz Roza,5.9,8650,['Center Midfield'],1,0,0,86,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Philippe Coutinho Correia,7.8,8650,['Left Midfield'],6,2,0,88,1,1,0,2,0,0,0,1,0,1,3,0,3,2,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Marcelo Vieira da Silva Júnior,7.7,8650,['Left Back'],1,1,0,82,3,0,0,1,0,0,0,2,0,0,1,1,1,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+João Miranda de Souza Filho,6.7,8650,['Left Center Back'],0,0,0,93,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Fágner Conserva Lemos,5.9,8650,['Right Back'],0,0,0,90,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Jan Vertonghen,6.8,8650,['Left Back'],0,0,0,85,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Vincent Kompany,7.3,8650,"['Left Center Back', 'Center Back']",1,1,0,93,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Toby Alderweireld,7.6,8650,['Right Center Back'],0,0,0,86,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Thiago Emiliano da Silva,6.6,8650,['Right Center Back'],1,0,0,98,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Romelu Lukaku Menama,7.3,8650,"['Right Wing', 'Right Center Forward']",0,0,0,69,0,0,1,0,0,0,0,3,0,0,1,0,4,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Thomas Meunier,7,8650,['Right Back'],0,0,0,76,0,0,0,2,0,0,0,2,0,0,0,0,1,1,0,1,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Marouane Fellaini-Bakkioui,7.4,8650,['Right Center Midfield'],1,0,0,80,0,0,0,4,0,0,0,6,0,0,0,0,1,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Axel Witsel,7.5,8650,"['Center Midfield', 'Center Defensive Midfield']",0,0,0,89,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Gabriel Fernando de Jesus,6.2,8650,"['Center Forward', 'Right Wing']",2,0,0,70,1,0,1,1,0,0,0,1,0,1,0,0,2,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Eden Hazard,8,8650,"['Left Wing', 'Left Center Forward']",2,0,0,74,0,0,9,0,0,0,0,4,0,1,3,0,3,2,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Kevin De Bruyne,8.6,8650,"['Secondary Striker', 'Right Center Forward', 'Left Center Midfield']",3,2,1,79,3,0,2,1,0,0,0,0,0,1,2,1,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+José Paulo Bezzera Maciel Júnior,6.6,8650,['Right Midfield'],3,1,0,88,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Nacer Chadli,6.7,8650,['Left Center Midfield'],1,0,0,79,1,0,0,1,0,0,0,0,0,1,2,1,2,2,0,0,0,8650,7/6/2018,Brazil,Belgium,Quarter-finals
+Luka Modrić,8.3,8652,"['Right Defensive Midfield', 'Right Midfield']",4,1,1,82,2,1,5,2,0,0,0,1,0,2,1,1,2,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Dejan Lovren,7.3,8652,['Right Center Back'],1,1,0,84,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Artem Dzyuba,7.5,8652,['Center Forward'],2,1,0,71,2,1,0,0,0,0,0,3,0,0,0,0,5,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Mário Figueira Fernandes,8.2,8652,['Right Back'],2,1,1,69,2,0,1,1,0,0,0,2,0,1,0,0,5,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Aleksandr Samedov,6.3,8652,['Right Wing'],0,0,0,45,0,0,1,0,0,0,0,3,0,0,0,0,2,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Domagoj Vida,7.6,8652,"['Left Center Back', 'Right Back']",2,2,2,83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Daler Kuzyaev,7,8652,['Right Center Midfield'],2,2,1,76,0,0,1,1,0,0,0,2,0,0,1,0,3,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Ivan Strinić,7.3,8652,['Left Back'],0,0,0,86,1,0,2,0,0,0,0,3,0,0,0,0,1,0,0,1,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Šime Vrsaljko,7.6,8652,['Right Back'],1,0,0,76,2,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Aleksandr Golovin,6.7,8652,['Center Attacking Midfield'],0,0,0,57,0,0,0,0,0,0,0,3,0,0,1,0,3,2,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Roman Zobnin,7.5,8652,['Left Center Midfield'],1,1,0,63,0,0,0,2,0,0,0,3,0,0,0,0,4,3,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Fyodor Smolov,6.2,8652,['Left Wing'],2,2,0,71,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Sergei Ignashevich,6.8,8652,['Left Center Back'],2,1,1,77,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Ilya Kutepov,6.1,8652,['Right Center Back'],1,0,0,70,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Ivan Perišić,6.5,8652,['Left Wing'],3,0,0,75,0,0,0,0,0,0,0,1,0,2,0,0,1,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Andrej Kramarić,7.7,8652,['Center Attacking Midfield'],3,2,1,76,1,0,1,0,0,0,0,1,0,0,2,0,3,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Ante Rebić,6.1,8652,"['Right Wing', 'Center Forward']",3,0,0,38,0,0,4,0,0,0,0,2,0,2,0,0,3,1,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Denis Cheryshev,7.2,8652,['Left Wing'],3,1,1,42,1,0,1,2,0,0,0,1,0,1,1,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Aleksandr Erokhin,6.1,8652,['Right Wing'],2,0,0,40,1,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Marcelo Brozović,7.3,8652,"['Left Wing', 'Left Midfield']",1,1,1,85,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Josip Pivarić,6.7,8652,['Left Back'],0,0,0,76,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,1,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Victor Nilsson Lindelöf,6.5,8651,['Right Center Back'],0,0,0,85,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Fedor Kudryashov,6.4,8652,['Left Back'],0,0,0,69,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Mario Mandžukić,8,8652,"['Center Forward', 'Left Wing']",2,0,0,63,1,1,0,0,0,0,0,0,0,2,2,1,3,2,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Emil Peter Forsberg,6.2,8651,['Left Wing'],1,0,0,76,0,0,2,0,0,0,0,0,0,1,1,0,1,1,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Kieran Trippier,7.8,8651,"['Right Midfield', 'Right Back']",0,0,0,64,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Kyle Walker,7.5,8651,['Right Center Back'],0,0,0,77,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Andreas Granqvist,6.9,8651,['Left Center Back'],0,0,0,83,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Harry Maguire,8.4,8651,['Left Center Back'],2,1,1,77,1,0,0,1,0,0,0,3,0,1,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+John Stones,7.4,8651,['Center Back'],0,0,0,86,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Harry Kane,6.5,8651,['Left Center Forward'],1,0,0,76,0,0,2,0,0,0,0,1,0,1,3,0,1,1,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Ludwig Augustinsson,6.1,8651,['Left Back'],1,0,0,69,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Jesse Lingard,8.3,8651,['Right Attacking Midfield'],3,0,0,92,1,1,4,1,0,0,0,0,0,0,0,0,2,1,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Ashley Young,7.8,8651,"['Left Midfield', 'Left Back']",0,0,0,84,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Bamidele Alli,7.8,8651,['Left Attacking Midfield'],3,1,1,67,1,0,0,2,0,0,0,2,0,0,1,0,2,1,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Albin Ekdal,7,8651,['Left Center Midfield'],0,0,0,69,0,0,1,1,0,0,0,1,0,0,1,1,3,2,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Jordan Brian Henderson,7.3,8651,['Center Defensive Midfield'],1,0,0,75,0,0,0,1,0,0,0,0,0,1,2,0,1,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Sebastian Larsson,6.6,8651,['Right Center Midfield'],0,0,0,79,1,0,0,2,0,0,0,4,0,0,0,0,0,0,0,1,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Marcus Berg,6.1,8651,['Right Center Forward'],2,2,0,61,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Ola Toivonen,5.8,8651,['Left Center Forward'],1,0,0,61,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Raheem Sterling,6.1,8651,['Right Center Forward'],2,0,0,74,0,0,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Emil Krafth,6.2,8651,['Right Back'],0,0,0,63,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Viktor Claesson,6.7,8651,['Right Wing'],3,1,0,77,0,0,2,2,0,0,0,0,0,1,2,0,1,0,0,0,0,8651,7/7/2018,Sweden,England,Quarter-finals
+Ivan Rakitić,6.9,8652,"['Left Defensive Midfield', 'Center Midfield']",2,1,1,86,1,0,2,0,0,0,0,1,0,1,2,1,2,0,0,0,0,8652,7/7/2018,Russia,Croatia,Quarter-finals
+Raphaël Varane,7.3,8655,['Right Center Back'],0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Antoine Griezmann,8.3,8655,"['Center Attacking Midfield', 'Left Center Forward']",5,1,0,87,3,1,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Benjamin Pavard,7.2,8655,['Right Back'],1,1,0,87,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Kylian Mbappé Lottin,8,8655,"['Right Wing', 'Right Center Forward']",0,0,0,70,5,0,4,1,0,0,0,0,0,0,2,0,1,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Kevin De Bruyne,6.2,8655,"['Right Wing', 'Center Attacking Midfield']",2,0,0,68,1,0,1,1,0,0,0,1,0,2,2,0,3,1,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Blaise Matuidi,8.4,8655,"['Left Wing', 'Left Center Midfield']",3,1,0,91,2,0,0,3,0,0,0,0,0,1,0,0,3,1,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Paul Pogba,7.5,8655,"['Left Defensive Midfield', 'Center Attacking Midfield']",1,0,0,91,3,0,1,1,0,0,0,2,0,1,1,0,1,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Jan Vertonghen,6.8,8655,['Left Back'],0,0,0,89,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,8655,7/10/2018,France,Belgium,Semi-finals
+Samuel Yves Umtiti,8.3,8655,['Left Center Back'],1,1,1,80,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Lucas Hernández Pi,7.1,8655,['Left Back'],0,0,0,74,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Axel Witsel,6.6,8655,['Right Center Midfield'],1,1,0,98,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Olivier Giroud,7.3,8655,['Center Forward'],7,0,0,65,0,0,0,0,0,0,0,1,0,5,0,0,6,1,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Eden Hazard,7.4,8655,['Left Wing'],2,0,0,94,1,0,7,1,0,0,0,1,0,1,2,0,3,1,0,1,0,8655,7/10/2018,France,Belgium,Semi-finals
+Nacer Chadli,6.6,8655,['Right Back'],0,0,0,81,1,0,2,1,0,0,0,1,0,0,1,0,4,1,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Toby Alderweireld,7,8655,['Right Center Back'],2,1,0,92,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,8655,7/10/2018,France,Belgium,Semi-finals
+Mousa Sidi Yaya Dembélé,6,8655,['Left Center Midfield'],0,0,0,89,0,0,0,0,0,0,0,4,0,0,1,1,2,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Marouane Fellaini-Bakkioui,6,8655,"['Center Attacking Midfield', 'Left Center Midfield']",1,0,0,93,1,0,0,2,0,0,0,2,0,1,1,0,2,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Vincent Kompany,7.2,8655,['Left Center Back'],0,0,0,96,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+Romelu Lukaku Menama,5.9,8655,['Center Forward'],1,0,0,89,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,0,0,8655,7/10/2018,France,Belgium,Semi-finals
+N'Golo Kanté,7.2,8655,"['Right Defensive Midfield', 'Center Midfield']",0,0,0,91,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,8655,7/10/2018,France,Belgium,Semi-finals
+Mario Mandžukić,7.9,8656,['Center Forward'],3,3,1,58,1,0,0,1,0,0,0,2,0,0,0,0,2,1,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Ivan Strinić,6.9,8656,['Left Back'],0,0,0,68,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Domagoj Vida,7.3,8656,['Left Center Back'],0,0,0,83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Dejan Lovren,7.7,8656,['Right Center Back'],1,0,0,87,0,0,0,0,0,0,0,3,0,1,0,0,1,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Harry Kane,6.7,8656,['Right Center Forward'],2,0,0,52,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Ivan Rakitić,7.7,8656,['Left Attacking Midfield'],1,0,0,79,1,0,0,1,0,0,0,3,0,1,0,0,1,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Kyle Walker,7.2,8656,['Right Center Back'],0,0,0,87,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Ivan Perišić,8.8,8656,['Left Wing'],7,1,1,59,2,1,1,1,0,0,0,2,0,3,1,0,1,1,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Marcelo Brozović,7.8,8656,['Center Midfield'],3,1,0,86,4,0,0,2,0,0,0,1,0,2,0,0,1,1,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Kieran Trippier,8.2,8656,"['Right Wing Back', 'Right Back']",1,1,1,66,4,0,2,1,0,0,0,1,0,0,1,1,1,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Marcus Rashford,6.3,8656,"['Left Center Forward', 'Secondary Striker']",0,0,0,56,0,0,3,0,0,0,0,2,0,0,1,1,5,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Šime Vrsaljko,7.9,8656,['Right Back'],1,0,0,71,0,1,1,0,0,0,0,3,0,1,1,0,1,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Jesse Lingard,6.1,8656,['Right Center Midfield'],3,0,0,89,2,0,0,0,0,0,0,1,0,2,3,1,7,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Ashley Young,6.1,8656,['Left Wing Back'],0,0,0,68,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Ante Rebić,6.9,8656,['Right Wing'],3,2,0,38,0,0,2,1,0,0,0,6,0,0,1,0,2,0,0,1,0,8656,7/11/2018,Croatia,England,Semi-finals
+Raheem Sterling,6.6,8656,['Left Center Forward'],1,0,0,73,1,0,1,0,0,0,0,2,0,0,2,0,2,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Jordan Brian Henderson,6.7,8656,['Center Defensive Midfield'],1,0,0,73,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+John Stones,6.9,8656,"['Center Back', 'Right Center Back']",1,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Luka Modrić,7.4,8656,['Right Attacking Midfield'],0,0,0,82,2,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Harry Maguire,6.2,8656,['Left Center Back'],1,0,0,87,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Bamidele Alli,6.9,8656,['Left Center Midfield'],0,0,0,76,1,0,1,0,0,0,0,1,0,0,1,0,2,1,0,0,0,8656,7/11/2018,Croatia,England,Semi-finals
+Danny Rose,6.4,8657,['Left Wing Back'],0,0,0,92,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Axel Witsel,7.4,8657,['Left Defensive Midfield'],0,0,0,98,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Fabian Delph,7.7,8657,"['Left Center Midfield', 'Left Wing Back']",1,1,0,94,2,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Ruben Loftus-Cheek,6.7,8657,['Right Center Midfield'],1,1,0,86,1,0,3,0,0,0,0,0,0,0,2,1,2,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Eric Dier,7.4,8657,['Center Defensive Midfield'],3,1,0,96,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Youri Tielemans,7.9,8657,['Right Defensive Midfield'],2,0,0,89,1,0,1,4,0,0,0,3,0,1,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Harry Kane,6.3,8657,['Right Center Forward'],2,0,0,100,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+John Stones,6.3,8657,['Center Back'],0,0,0,94,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Harry Maguire,6.6,8657,['Left Center Back'],3,1,0,97,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Raheem Sterling,6.2,8657,['Left Center Forward'],2,0,0,92,1,0,4,0,0,0,0,0,0,1,1,0,3,1,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Kieran Trippier,7.9,8657,['Right Wing Back'],0,0,0,81,8,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Eden Hazard,8.6,8657,['Left Wing'],2,1,1,74,2,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Kevin De Bruyne,7.9,8657,['Right Wing'],2,1,0,84,3,1,2,1,0,0,0,0,0,0,3,0,2,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Phil Jones,6.3,8657,['Right Center Back'],0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Jan Vertonghen,7.6,8657,"['Left Center Back', 'Left Wing Back']",0,0,0,86,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Thomas Meunier,8.2,8657,['Right Wing Back'],2,2,1,76,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Jesse Lingard,7,8657,['Left Center Midfield'],2,0,0,87,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Marcus Rashford,6.6,8657,['Left Center Forward'],1,1,0,88,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Toby Alderweireld,7.7,8657,['Right Center Back'],1,0,0,89,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Vincent Kompany,7.2,8657,['Center Back'],0,0,0,87,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Romelu Lukaku Menama,5.8,8657,['Center Forward'],1,0,0,73,0,0,0,0,0,0,0,1,0,0,2,1,3,1,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Thomas Vermaelen,6.3,8657,"['Left Center Back', 'Left Wing Back']",0,0,0,83,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,8657,7/14/2018,Belgium,England,3rd Place Final
+Ivan Rakitić,6.4,8658,['Left Center Midfield'],3,0,0,82,2,0,0,2,0,0,0,1,0,2,2,0,2,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Marcelo Brozović,7,8658,['Center Defensive Midfield'],0,0,0,88,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Luka Modrić,7.2,8658,['Right Center Midfield'],0,0,0,86,3,0,2,0,0,0,0,2,0,0,1,0,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Ivan Strinić,5.7,8658,['Left Back'],0,0,0,71,1,0,0,1,0,0,0,1,0,0,0,0,2,1,0,0,0,8658,7/15/2018,France,Croatia,Final
+Domagoj Vida,7.1,8658,['Left Center Back'],2,0,0,88,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Dejan Lovren,6.4,8658,['Right Center Back'],2,0,0,86,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Benjamin Pavard,7.1,8658,['Right Back'],0,0,0,61,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+N''Golo Kanté,6.3,8658,['Left Defensive Midfield'],0,0,0,64,0,0,0,1,0,0,0,3,0,0,2,2,1,1,0,1,0,8658,7/15/2018,France,Croatia,Final
+Antoine Griezmann,8.1,8658,"['Right Center Forward', 'Left Center Forward']",2,2,1,67,1,0,2,2,0,0,0,0,0,0,3,1,4,2,0,0,0,8658,7/15/2018,France,Croatia,Final
+Samuel Yves Umtiti,6.8,8658,['Left Center Back'],0,0,0,77,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Blaise Matuidi,6.6,8658,['Left Midfield'],0,0,0,75,0,0,0,2,0,0,0,1,0,0,1,1,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Olivier Giroud,6.5,8658,['Left Center Forward'],1,0,0,61,1,0,0,1,0,0,0,3,0,1,2,1,6,1,0,0,0,8658,7/15/2018,France,Croatia,Final
+Paul Pogba,8.4,8658,['Right Defensive Midfield'],2,1,1,85,1,0,1,3,0,0,0,2,0,0,3,0,1,1,0,0,0,8658,7/15/2018,France,Croatia,Final
+Kylian Mbappé Lottin,7.5,8658,"['Right Midfield', 'Right Center Forward']",2,2,1,50,0,0,3,1,0,0,0,0,0,0,3,0,4,2,0,0,0,8658,7/15/2018,France,Croatia,Final
+Ante Rebić,6.4,8658,['Right Wing'],3,1,0,57,0,0,3,0,0,0,0,2,0,1,2,0,4,2,0,0,0,8658,7/15/2018,France,Croatia,Final
+Lucas Hernández Pi,7.4,8658,['Left Back'],0,0,0,69,0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Raphaël Varane,6.8,8658,['Right Center Back'],0,0,0,75,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Šime Vrsaljko,6,8658,['Right Back'],2,0,0,78,0,0,0,0,0,0,0,2,0,2,1,0,1,0,0,1,0,8658,7/15/2018,France,Croatia,Final
+Ivan Perišić,7.3,8658,['Left Wing'],2,1,1,53,1,0,1,4,0,0,0,2,1,0,4,1,4,0,0,0,0,8658,7/15/2018,France,Croatia,Final
+Mario Mandžukić,6.9,8658,['Center Forward'],1,1,1,75,1,0,0,5,0,0,0,2,0,0,0,0,2,0,0,0,0,8658,7/15/2018,France,Croatia,Final
