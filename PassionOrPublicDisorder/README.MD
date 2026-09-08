@@ -19,7 +19,7 @@ This page contains a Final Written Report for the project, along with an image o
 Per the instructions of the project, our group created and maintained a GitHub repository for the project. This repository contains coding scripts, analysis visualizations and other materials used in both the final report and presentations given to the class. You can view the repository using this link: https://github.com/utexas-SDS-357/sds357-project-sp26-i-love-philly
 
 ### **Project Acknowledgements:** 
-This project was performed with 4 other group members as part of the course. This project is not a reflection of independent work, and was part of a collaborative effort by the group.
+This project was completed collaboratively with four other group members as part of the course. The work represents a collective team effort and is not intended to reflect independent work.
 
 ## **Poster:**
 <p align="center"> <img src="./Poster.jpg" alt="Academic Project Poster" width="800"> </p>
