@@ -5,7 +5,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 
 ## **Academic Projects**
 
-### <ins>Pitch Clock In Play</ins>
+### [Pitch Clock In Play](./PitchClockInPlay)
 **Class**: Practical Machine Learning - Fall 2024
 
 **Description:** Using MLB Statcast data, our group attempts to find notable differences in pitcher performance due to the incorporation of the pitch clock. The project uses data from the 2021 to 2023 season to perform statistical analysis and train machine learning models. The project is part of a semester long assignment built off teaching various ML models, their purpose and incorporating it into our work. 
@@ -13,7 +13,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Technologies:** Python · Google Colab · Canva
 
 
-### <ins>The Game Away from Home</ins>
+### [The Game Away from Home](./GameAwayFromHome)
 **Class**: Sports Analytics (SDS) - Spring 2025
 
 **Description:** Using box score data from the SoftballR package and recap PDFs, our group attempts to analyze differences in home and away performance in Softball. The project uses data from the Texas Softball team, analyzing data from the 2022, 2023 and 2024 seasons. The project was part of a semester long assignment aimed at developing a sports research project into presentable findings.
@@ -21,7 +21,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Technologies:** R · Canva
 
 
-### <ins>Passion or Public Disorder</ins>
+### [Passion or Public Disorder](./PassionOrPublicDisorder)
 **Class**: Case Studies in Data Science - Spring 2026
 
 **Description:** Using Traffic and Pedestrian Stop data along with Sports Schedule data for 4 teams, our group attempts to investigate if police stop patterns are different between days with sporting events and days without. The project uses data from Sports Reference and the Stanford Open Policing Project. This project was part of a semester long assignment designed around a case study. 
@@ -30,7 +30,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 
 ## **Personal Projects**
 
-### <ins>Fourth Down Model</ins>
+### [Fourth Down Model](./FourthDownModel)
 **Date:** May 2026 - June 2026
 
 **Description:** Using the NFLFastR Package, the project aims to create a 4th down model and application to use the results of the model. With the goal of training the model on pre-snap variables to generate a probability of converting, I train the model using RStudio and use a Shiny App to create the visual tool. The tool allows you to enter the variables and see the resulting probability of converting on 4th down. 
@@ -38,7 +38,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Technologies:** R · Shiny
 
 
-### <ins>FotMob Rating Model</ins>
+### [FotMob Rating Model](./FotMobRatingModel)
 **Date:** June 2026 - July 2026
 
 **Description:** Using Statsbomb's free data API in Python, the project aims to create a model that replicates the match performance ratings given to players. With the model train on the player's specific FotMob rating and associated stat line for the match, I used data from the 2018 World Cup to train the model and perform the evaluation on the final 4 games of the 2022 World Cup. A tableau public dashboard shows the results of the model along with the associated stats. 
@@ -46,7 +46,7 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Technologies:** Python · Jupyter Notebook · Tableau
 
 
-### <ins>MLB Base Stealing Model</ins>
+### [MLB Base Stealing Model](./BasestealingProbabilityModel)
 **Date:** July 2026 - August 2026
 
 **Description:** Using publicly available Statcast data, I train an XGBoost that provides the probability of a base runner successfully stealing a base off a pitcher and catcher pairing. The model uses variables related to the pitcher, catcher and runner and provides the probability against specific pitch types and weighed into a final number. A Shiny App is available in the readme to view the model. 
