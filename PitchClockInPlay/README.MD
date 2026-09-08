@@ -12,4 +12,4 @@ Description: In 2023, Major league Baseball introduced the Pitch Clock, a timer 
 Note: This project was completed in Fall 2024 as part of a group project. Original datasets used in analysis are no longer accessible and project code is altered to remove unnecessary steps not relevant to analysis.
 
 ### **Project Acknowledgements:** 
-This project was performed with 3 other group members as part of the course. This project is not a reflection of independent work, and was part of a collaborative effort by the group.
+This project was completed collaboratively with three other group members as part of the course. The work represents a collective team effort and is not intended to reflect independent work.
