@@ -20,6 +20,14 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 
 **Technologies:** R · Canva
 
+
+### <ins>Passion of Public Disorder</ins>
+**Class**: Case Studies in Data Science - Spring 2026
+
+**Description:** Using Traffic and Pedestrian Stop data along with Sports Schedule data for 4 teams, our group attempts to investigate if police stop patterns are different between days with sporting events and days without. The project uses data from Sports Reference and the Stanford Open Policing Project. This project was part of a semester long assignment designed around a case study. 
+
+**Technologies:** Python · R · Google Colab · Canva
+
 ## **Personal Projects**
 
 ### <ins>Fourth Down Model</ins>
