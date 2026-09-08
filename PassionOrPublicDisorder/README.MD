@@ -20,3 +20,6 @@ Per the instructions of the project, our group created and maintained a GitHub r
 
 ### **Project Acknowledgements:** 
 This project was performed with 4 other group members as part of the course. This project is not a reflection of independent work, and was part of a collaborative effort by the group.
+
+## **Poster:**
+![PassionOrPublicDisorder](Poster.png)
