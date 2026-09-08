@@ -22,4 +22,4 @@ Per the instructions of the project, our group created and maintained a GitHub r
 This project was performed with 4 other group members as part of the course. This project is not a reflection of independent work, and was part of a collaborative effort by the group.
 
 ## **Poster:**
-<p align="center"> <img src="./Poster.PNG" alt="Academic Project Poster" width="800"> </p>
+<p align="center"> <img src="./Poster.jpg" alt="Academic Project Poster" width="800"> </p>
