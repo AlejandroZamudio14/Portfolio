@@ -52,3 +52,11 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Description:** Using publicly available Statcast data, I train an XGBoost that provides the probability of a base runner successfully stealing a base off a pitcher and catcher pairing. The model uses variables related to the pitcher, catcher and runner and provides the probability against specific pitch types and weighed into a final number. A Shiny App is available in the readme to view the model. 
 
 **Technologies:** R · Shiny
+
+
+### [MLS Attendance Analysis](./MLSAttendanceAnalysis)
+**Date:** August 2026 - September 2026
+
+**Description:** Using publicly available schedule and stadium data from FBRef and Wikipedia, I perform an analysis on MLS Attendance and Capacity utilization. I attempt to find patterns or consistent trends at the team and league level while providing recommendations for future analysis. This project also includes a public Tableau dashboard that allows users to look at attendance on the team and league level.
+
+**Technologies:** SQL · PostgreSQL · Tableau
