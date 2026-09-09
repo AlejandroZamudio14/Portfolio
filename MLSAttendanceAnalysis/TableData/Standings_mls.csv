@@ -1,0 +1,117 @@
+"pos","team","pld","wins","losses","draws","goals_for","goals_allowed","goal_differential","points","notes","conference","season"
+11,"Atlanta United FC",34,10,14,10,48,54,-6,40,NULL,"Eastern",2022
+6,"Atlanta United FC",34,13,9,12,66,53,13,51,NULL,"Eastern",2023
+9,"Atlanta United FC",34,10,14,10,46,49,-3,40,NULL,"Eastern",2024
+14,"Atlanta United FC",34,5,16,13,38,63,-25,28,NULL,"Eastern",2025
+2,"Austin FC",34,16,10,8,65,49,16,56,"Qualification for the first round & CONCACAF Champions League","Western",2022
+12,"Austin FC",34,10,15,9,49,55,-6,39,NULL,"Western",2023
+10,"Austin FC",34,11,14,9,39,48,-9,42,NULL,"Western",2024
+6,"Austin FC",34,13,13,8,37,45,-8,47,NULL,"Western",2025
+2,"CF Montréal",34,20,9,5,63,50,13,65,"Qualification for the first round","Eastern",2022
+10,"CF Montréal",34,12,17,5,36,52,-16,41,NULL,"Eastern",2023
+8,"CF Montréal",34,11,13,10,48,64,-16,43,"Qualification for the wild-card round and the 2025 Leagues Cup","Eastern",2024
+13,"CF Montréal",34,6,18,10,34,60,-26,28,NULL,"Eastern",2025
+9,"Charlotte FC",34,13,18,3,44,52,-8,42,NULL,"Eastern",2022
+9,"Charlotte FC",34,10,11,13,45,52,-7,43,NULL,"Eastern",2023
+5,"Charlotte FC",34,14,11,9,46,37,9,51,NULL,"Eastern",2024
+4,"Charlotte FC",34,19,13,2,55,46,9,59,NULL,"Eastern",2025
+12,"Chicago Fire FC",34,10,15,9,39,48,-9,39,NULL,"Eastern",2022
+13,"Chicago Fire FC",34,10,14,10,39,51,-12,40,NULL,"Eastern",2023
+15,"Chicago Fire FC",34,7,18,9,40,62,-22,30,NULL,"Eastern",2024
+8,"Chicago Fire FC",34,15,11,8,68,60,8,53,"Qualification for the wild-card round","Eastern",2025
+10,"Colorado Rapids",34,11,13,10,46,57,-11,43,NULL,"Western",2022
+14,"Colorado Rapids",34,5,17,12,26,54,-28,27,NULL,"Western",2023
+7,"Colorado Rapids",34,15,14,5,61,60,1,50,NULL,"Western",2024
+11,"Colorado Rapids",34,11,15,8,44,56,-12,41,NULL,"Western",2025
+8,"Columbus Crew",34,10,8,16,46,41,5,46,NULL,"Eastern",2022
+3,"Columbus Crew",34,16,9,9,67,46,21,57,NULL,"Eastern",2023
+2,"Columbus Crew",34,19,6,9,72,40,32,66,"Qualification for round one and the 2025 Leagues Cup","Eastern",2024
+7,"Columbus Crew",34,14,8,12,55,51,4,54,NULL,"Eastern",2025
+14,"D.C. United",34,7,21,6,36,71,-35,27,NULL,"Eastern",2022
+12,"D.C. United",34,10,14,10,45,49,-4,40,NULL,"Eastern",2023
+10,"D.C. United",34,10,14,10,52,70,-18,40,NULL,"Eastern",2024
+15,"D.C. United",34,5,18,11,30,66,-36,26,NULL,"Eastern",2025
+5,"FC Cincinnati",34,12,9,13,64,56,8,49,NULL,"Eastern",2022
+1,"FC Cincinnati",34,20,5,9,57,39,18,69,"Qualification for round one and the CONCACAF Champions Cup round one","Eastern",2023
+3,"FC Cincinnati",34,18,11,5,58,48,10,59,NULL,"Eastern",2024
+2,"FC Cincinnati",34,20,9,5,52,40,12,65,"Qualification for round one","Eastern",2025
+3,"FC Dallas",34,14,9,11,48,37,11,53,"Qualification for the first round","Western",2022
+7,"FC Dallas",34,11,10,13,41,37,4,46,NULL,"Western",2023
+11,"FC Dallas",34,11,15,8,54,56,-2,41,NULL,"Western",2024
+7,"FC Dallas",34,11,12,11,52,55,-3,44,NULL,"Western",2025
+13,"Houston Dynamo FC",34,10,18,6,43,56,-13,36,NULL,"Western",2022
+4,"Houston Dynamo FC",34,14,11,9,51,38,13,51,NULL,"Western",2023
+5,"Houston Dynamo FC",34,15,10,9,47,39,8,54,NULL,"Western",2024
+12,"Houston Dynamo FC",34,9,15,10,43,56,-13,37,NULL,"Western",2025
+6,"Inter Miami CF",34,14,14,6,47,56,-9,48,NULL,"Eastern",2022
+14,"Inter Miami CF",34,9,18,7,41,54,-13,34,NULL,"Eastern",2023
+1,"Inter Miami CF",34,22,4,8,79,49,30,74,"Qualification for round one, the 2025 Leagues Cup and the CONCACAF Champions Cup round one","Eastern",2024
+3,"Inter Miami CF",34,19,7,8,81,55,26,65,NULL,"Eastern",2025
+4,"LA Galaxy",34,14,12,8,58,51,7,50,NULL,"Western",2022
+13,"LA Galaxy",34,8,14,12,51,67,-16,36,NULL,"Western",2023
+2,"LA Galaxy",34,19,8,7,69,50,19,64,"Qualification for round one and the 2025 Leagues Cup","Western",2024
+14,"LA Galaxy",34,7,18,9,46,66,-20,30,NULL,"Western",2025
+1,"Los Angeles FC",34,21,9,4,66,38,28,67,"Qualification for the 2023 Campeones Cup, CONCACAF Champions League & conference semifinals","Western",2022
+3,"Los Angeles FC",34,14,10,10,54,39,15,52,NULL,"Western",2023
+1,"Los Angeles FC",34,19,8,7,63,43,20,64,"Qualification for round one, the 2025 Leagues Cup and the CONCACAF Champions Cup round one","Western",2024
+3,"Los Angeles FC",34,17,8,9,65,40,25,60,NULL,"Western",2025
+6,"Minnesota United FC",34,14,14,6,48,51,-3,48,NULL,"Western",2022
+11,"Minnesota United FC",34,10,13,11,46,51,-5,41,NULL,"Western",2023
+6,"Minnesota United FC",34,15,12,7,58,49,9,52,NULL,"Western",2024
+4,"Minnesota United FC",34,16,8,10,56,39,17,58,NULL,"Western",2025
+5,"Nashville SC",34,13,10,11,52,41,11,50,NULL,"Western",2022
+7,"Nashville SC",34,13,11,10,39,32,7,49,NULL,"Eastern",2023
+13,"Nashville SC",34,9,16,9,38,54,-16,36,NULL,"Eastern",2024
+6,"Nashville SC",34,16,12,6,58,45,13,54,NULL,"Eastern",2025
+10,"New England Revolution",34,10,12,12,47,50,-3,42,NULL,"Eastern",2022
+5,"New England Revolution",34,15,9,10,58,46,12,55,NULL,"Eastern",2023
+14,"New England Revolution",34,9,21,4,37,74,-37,31,NULL,"Eastern",2024
+11,"New England Revolution",34,9,16,9,44,51,-7,36,NULL,"Eastern",2025
+3,"New York City FC",34,16,11,7,57,41,16,55,NULL,"Eastern",2022
+11,"New York City FC",34,9,11,14,35,39,-4,41,NULL,"Eastern",2023
+6,"New York City FC",34,14,12,8,54,49,5,50,NULL,"Eastern",2024
+5,"New York City FC",34,17,12,5,50,44,6,56,NULL,"Eastern",2025
+4,"New York Red Bulls",34,15,11,8,50,41,9,53,NULL,"Eastern",2022
+8,"New York Red Bulls",34,11,13,10,36,39,-3,43,"Qualification for the wild-card round","Eastern",2023
+7,"New York Red Bulls",34,11,9,14,55,50,5,47,NULL,"Eastern",2024
+10,"New York Red Bulls",34,12,15,7,48,47,1,43,NULL,"Eastern",2025
+7,"Orlando City SC",34,14,14,6,44,53,-9,48,"Qualification for the first round & 2023 CONCACAF Champions League[b]","Eastern",2022
+2,"Orlando City SC",34,18,7,9,55,39,16,63,"Qualification for round one","Eastern",2023
+4,"Orlando City SC",34,15,12,7,59,50,9,52,NULL,"Eastern",2024
+9,"Orlando City SC",34,14,9,11,63,51,12,53,NULL,"Eastern",2025
+1,"Philadelphia Union",34,19,5,10,72,26,46,67,"Qualification for the Conference semifinals & 2023 CONCACAF Champions League","Eastern",2022
+4,"Philadelphia Union",34,15,9,10,57,41,16,55,NULL,"Eastern",2023
+12,"Philadelphia Union",34,9,15,10,62,55,7,37,NULL,"Eastern",2024
+1,"Philadelphia Union",34,20,8,6,57,35,22,66,"Qualification for round one and the CONCACAF Champions Cup round one","Eastern",2025
+8,"Portland Timbers",34,11,10,13,53,53,0,46,NULL,"Western",2022
+10,"Portland Timbers",34,11,13,10,46,58,-12,43,NULL,"Western",2023
+9,"Portland Timbers",34,12,11,11,65,56,9,47,"Qualification for the wild-card round and the 2025 Leagues Cup","Western",2024
+8,"Portland Timbers",34,11,12,11,41,48,-7,44,"Qualification for the wild-card round","Western",2025
+7,"Real Salt Lake",34,12,11,11,43,45,-2,47,NULL,"Western",2022
+5,"Real Salt Lake",34,14,12,8,48,50,-2,50,NULL,"Western",2023
+3,"Real Salt Lake",34,16,7,11,65,48,17,59,NULL,"Western",2024
+9,"Real Salt Lake",34,12,17,5,38,49,-11,41,NULL,"Western",2025
+1,"San Diego FC",34,19,9,6,64,41,23,63,"Qualification for round one and the CONCACAF Champions Cup round one","Western",2025
+14,"San Jose Earthquakes",34,8,15,11,52,69,-17,35,NULL,"Western",2022
+9,"San Jose Earthquakes",34,10,10,14,39,43,-4,44,NULL,"Western",2023
+14,"San Jose Earthquakes",34,6,25,3,41,78,-37,21,NULL,"Western",2024
+10,"San Jose Earthquakes",34,11,15,8,60,63,-3,41,NULL,"Western",2025
+11,"Seattle Sounders FC",34,12,17,5,47,46,1,41,NULL,"Western",2022
+2,"Seattle Sounders FC",34,14,9,11,41,32,9,53,"Qualification for round one","Western",2023
+4,"Seattle Sounders FC",34,16,9,9,51,35,16,57,NULL,"Western",2024
+5,"Seattle Sounders FC",34,15,9,10,58,48,10,55,NULL,"Western",2025
+12,"Sporting Kansas City",34,11,16,7,42,54,-12,40,NULL,"Western",2022
+8,"Sporting Kansas City",34,12,14,8,48,51,-3,44,"Qualification for the wild-card round","Western",2023
+13,"Sporting Kansas City",34,8,19,7,51,66,-15,31,NULL,"Western",2024
+15,"Sporting Kansas City",34,7,20,7,46,70,-24,28,NULL,"Western",2025
+1,"St. Louis City SC",34,17,12,5,62,45,17,56,"Qualification for round one and the CONCACAF Champions Cup Round One","Western",2023
+12,"St. Louis City SC",34,8,13,13,50,63,-13,37,NULL,"Western",2024
+13,"St. Louis City SC",34,8,18,8,44,58,-14,32,NULL,"Western",2025
+13,"Toronto FC",34,9,18,7,49,66,-17,34,NULL,"Eastern",2022
+15,"Toronto FC",34,4,20,10,26,59,-33,22,NULL,"Eastern",2023
+11,"Toronto FC",34,11,19,4,40,61,-21,37,NULL,"Eastern",2024
+12,"Toronto FC",34,6,14,14,37,44,-7,32,NULL,"Eastern",2025
+9,"Vancouver Whitecaps FC",34,12,15,7,40,57,-17,43,"Qualification for the CONCACAF Champions League[b]","Western",2022
+6,"Vancouver Whitecaps FC",34,12,10,12,55,48,7,48,NULL,"Western",2023
+8,"Vancouver Whitecaps FC",34,13,13,8,52,49,3,47,"Qualification for the wild-card round[a]","Western",2024
+2,"Vancouver Whitecaps FC",34,18,7,9,66,38,28,63,"Qualification for round one","Western",2025
