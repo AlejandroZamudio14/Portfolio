@@ -1,0 +1,52 @@
+# MLS Attendance Analysis 
+
+## **Analysis Findings**
+1. **League-wide growth following the 2022 Season:** Both the league and a majority of clubs saw notable increases in average attendance and capacity utilization following the 2022 season. League-wide average attendance and capacity utilization increased by roughly 5% in both 2023 and 2024, while individual clubs experienced varying levels of growth.
+
+The largest increase came from Inter Miami in 2023, which experienced approximately a 40% increase in average attendance compared to the previous season. This coincided with the club's acquisition of international star Lionel Messi and the increased attention surrounding the club. The arrival of Messi, along with other international stars joining MLS, likely contributed to increased interest in the league and helped some clubs generate greater attention and attendance than others.
+
+2. **Notable dip in Attendance in the 2025 Season:** Approximately 22 teams experienced a decrease in average attendance from the 2024 season, with declines ranging from relatively small changes to decreases of more than 20%. A similar pattern was observed in capacity utilization.
+
+The 2025 season also occurred during a period of significant attention toward international soccer. The CONCACAF Gold Cup was held during the MLS season, while the FIFA Club World Cup was hosted in the United States. With these tournaments generating substantial attention, it is possible that some attention was diverted from domestic MLS competition.
+
+Additionally, Lionel Messi had been in MLS for three seasons by this point. It is possible that the initial surge in attention surrounding his arrival and the arrival of other international stars had begun to normalize. However, additional seasons of data will be necessary to determine whether the 2025 decline represents a temporary fluctuation or the beginning of a longer-term trend.
+
+3. **American Football Stadiums have dominated the highest attended matches:** When evaluating the highest-attended match from each season, each match took place at a venue primarily designed for American football. In 2023, 2024, and the current 2026 season, the highest-attended matches all exceeded 70,000 spectators and were played at venues used for only one MLS match during the respective season. These included Empower Field, Arrowhead Stadium, and the Rose Bowl, with the Rose Bowl recording the highest attendance at approximately 82,000 spectators
+
+The highest-attended matches in 2022 and 2025 were played at Bank of America Stadium and Mercedes-Benz Stadium, respectively. Both are primarily NFL venues and serve as the regular home venues for Charlotte FC and Atlanta United FC.
+
+These results demonstrate how strategic use of larger venues can provide opportunities for MLS clubs to generate exceptionally high attendance for high-profile matches. However, these figures should be distinguished from normal club attendance because one-off matches at unusually large venues can produce attendance totals well above a team's typical home-game average.
+
+4. **Attendance and Capacity is heavily Influenced by Club Circumstances:** The clubs experiencing the largest increases and decreases in attendance often had circumstances that provide additional context for the observed changes.
+
+Inter Miami's approximately 40% increase in 2023 coincided with the signing of Lionel Messi and the subsequent attention surrounding the club. In 2023, LA Galaxy experienced an approximately 9% decrease in capacity utilization during a period when supporters were boycotting the club in response to leadership concerns.
+
+In 2024, Vancouver Whitecaps experienced a substantial increase in average attendance alongside increased marketing efforts, including promotion surrounding their match against Inter Miami, and improved on-field performance. In contrast, the San Jose Earthquakes experienced a decline following several poor seasons.
+
+The largest decline in both attendance and capacity utilization occurred with FC Dallas in 2025, which experienced approximately a 42% decrease. This coincided with renovations to the club's home stadium that required portions of the stadium to be unavailable during construction.
+
+These examples demonstrate that league-wide trends do not tell the entire story. Performance, player acquisitions, stadium circumstances, supporter behavior, and other events surrounding an individual club can substantially influence attendance
+
+5. **There is a lack of consistent relationship between performance and attendance changes:** The standings data was joined with the attendance and capacity-utilization analyses to determine whether team performance was associated with changes in attendance.
+
+The analysis showed that clubs at the extreme lower end of performance appeared more frequently among the largest attendance declines. However, there was no consistent linear relationship between winning percentage and changes in attendance or capacity utilization.
+
+This suggests that on-field performance alone does not adequately explain changes in attendance. Other factors and circumstances surrounding individual clubs appear to play an important role.
+
+6. **Differing changes in attendance among expansion clubs:** Since 2022, four expansion clubs have entered MLS: Austin FC, Charlotte FC, St. Louis City SC, and San Diego FC. Each club has experienced a different attendance trajectory.
+
+Austin FC has maintained reported 100% capacity utilization throughout the games included in the dataset. Charlotte FC reached its highest attendance in 2023 but subsequently experienced declines in average attendance and capacity utilization. St. Louis City SC has shown relatively consistent attendance, with year-to-year changes generally remaining within approximately 2%. San Diego FC entered MLS in 2025, leaving too little historical data to meaningfully evaluate its long-term attendance trend.
+
+The differing results among these expansion clubs demonstrate that league expansion does not produce a uniform attendance pattern. Individual market conditions, club performance, venue characteristics, and other circumstances can influence how successfully a new club attracts and retains supporters.
+
+## **Recomendations**
+
+- **Continue to market high value players or arriving international stars:** The increased attention surrounding Lionel Messi's arrival in MLS demonstrates the potential value of effectively marketing high-profile players. As clubs continue to acquire established international stars and develop younger players, emphasizing these players' identities and stories could help generate additional interest in both individual clubs and the league.
+
+- **Find opportunities to put high profile matches in NFL Stadiums:** The highest-attended matches in the dataset frequently occurred at large American football stadiums. MLS clubs could continue identifying appropriate opportunities to use larger venues for particularly high-profile matches, especially when demand is expected to exceed the capacity of a club's regular stadium.
+
+However, these matches should serve as one-time use games as consistent uses of large capacity stadiums may not guarantee consistency in gathering large numbers of fans. 
+
+- **Evaluate Club circumstances to enhance recommendations for specific teams:** Attendance trends should be evaluated within the context of each individual club. Recent performance, player acquisitions, stadium conditions, leadership, supporter activity, and major events in the club's market can all potentially influence attendance.
+
+Future analysis could incorporate additional club-level variables to determine which of these factors have the strongest relationship with attendance and capacity utilization.
