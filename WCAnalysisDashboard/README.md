@@ -3,7 +3,7 @@
 
 
 ## **Introduction**
-Interested in developing a dashboard to display and visualize performance data from the 2022 World Cup, I aim to create a Shiny App dashboard that allows for match analysis, team evaluation, and individual player evaluation. Using free event and match data from Hudl Statsbomb, the app uses transformed and aggregated data that is used in various stat tables and performnace visual
+In Progress
 
 
 
