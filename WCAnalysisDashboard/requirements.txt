@@ -1,0 +1,8 @@
+shiny
+shinywidgets
+pandas
+numpy
+matplotlib
+scipy
+mplsoccer
+plotly
