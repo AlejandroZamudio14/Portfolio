@@ -30,14 +30,6 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 
 ## **Personal Projects**
 
-### [Fourth Down Model](./FourthDownModel)
-**Date:** May 2026 - June 2026
-
-**Description:** Using the NFLFastR Package, the project aims to create a 4th down model and application to use the results of the model. With the goal of training the model on pre-snap variables to generate a probability of converting, I train the model using RStudio and use a Shiny App to create the visual tool. The tool allows you to enter the variables and see the resulting probability of converting on 4th down. 
-
-**Technologies:** R · Shiny
-
-
 ### [FotMob Rating Model](./FotMobRatingModel)
 **Date:** June 2026 - July 2026
 
