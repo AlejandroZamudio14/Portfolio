@@ -1,1 +1,1 @@
-The following folder contains all the data used in the current version of the app. This folder will be updated ad new data is used
+The following folder contains all the data used in the current version of the app. All data present in this app comes from the Hudl Statsbomb API and Wikipedia information for team rosters and player numbers. See the Development Notebook for how each data file was transformed and aggregated.
