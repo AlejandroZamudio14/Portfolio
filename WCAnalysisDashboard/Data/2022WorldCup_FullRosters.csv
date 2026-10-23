@@ -1,0 +1,832 @@
+﻿Number,Pos,Player,DOB,Caps,Goals,Club,Team
+1,GK,Hernán Galíndez,30 March 1987 (aged 35),12,0,Ecuadorian Football Federation Aucas,Ecuador
+2,DF,Félix Torres,11 January 1997 (aged 25),17,2,Mexican Football Federation Santos Laguna,Ecuador
+3,DF,Piero Hincapié,9 January 2002 (aged 20),21,1,German Football Association Bayer Leverkusen,Ecuador
+4,DF,Robert Arboleda,22 October 1991 (aged 31),33,2,Brazilian Football Confederation São Paulo,Ecuador
+5,MF,José Cifuentes,12 March 1999 (aged 23),11,0,United States Soccer Federation Los Angeles FC,Ecuador
+6,DF,Willian Pacho,16 October 2001 (aged 21),0,0,Royal Belgian Football Association Antwerp,Ecuador
+7,DF,Pervis Estupiñán,21 January 1998 (aged 24),28,3,The Football Association Brighton & Hove Albion,Ecuador
+8,DF,Carlos Gruezo,19 April 1995 (aged 27),46,1,German Football Association FC Augsburg,Ecuador
+9,MF,Ayrton Preciado,17 July 1994 (aged 28),27,3,Mexican Football Federation Santos Laguna,Ecuador
+10,MF,Romario Ibarra,24 September 1994 (aged 28),25,3,Mexican Football Federation Pachuca,Ecuador
+11,FW,Michael Estrada,7 April 1996 (aged 26),36,8,Mexican Football Federation Cruz Azul,Ecuador
+12,GK,Moisés Ramírez,9 September 2000 (aged 22),2,0,Ecuadorian Football Federation Independiente del Valle,Ecuador
+13,FW,Enner Valencia,4 November 1989 (aged 33),74,35,Turkish Football Federation Fenerbahçe,Ecuador
+14,DF,Xavier Arreaga,28 September 1994 (aged 28),18,1,United States Soccer Federation Seattle Sounders FC,Ecuador
+15,MF,Ángel Mena,21 January 1988 (aged 34),46,7,Mexican Football Federation León,Ecuador
+16,MF,Jeremy Sarmiento,16 June 2002 (aged 20),9,0,The Football Association Brighton & Hove Albion,Ecuador
+17,DF,Ángelo Preciado,18 February 1998 (aged 24),24,0,Royal Belgian Football Association Genk,Ecuador
+18,DF,Diego Palacios,12 July 1999 (aged 23),12,0,United States Soccer Federation Los Angeles FC,Ecuador
+19,MF,Gonzalo Plata,1 November 2000 (aged 22),30,5,Royal Spanish Football Federation Valladolid,Ecuador
+20,MF,Sebas Méndez,26 April 1997 (aged 25),32,0,United States Soccer Federation Los Angeles FC,Ecuador
+21,MF,Alan Franco,21 August 1998 (aged 24),25,1,Argentine Football Association Talleres,Ecuador
+22,GK,Alexander Domínguez,5 June 1987 (aged 35),68,0,Ecuadorian Football Federation LDU Quito,Ecuador
+23,MF,Moisés Caicedo,2 November 2001 (aged 21),25,2,The Football Association Brighton & Hove Albion,Ecuador
+24,FW,Djorkaeff Reasco,18 January 1999 (aged 23),4,0,Argentine Football Association Newell's Old Boys,Ecuador
+25,DF,Jackson Porozo,4 August 2000 (aged 22),5,0,French Football Federation Troyes,Ecuador
+26,FW,Kevin Rodríguez,4 March 2000 (aged 22),1,0,Ecuadorian Football Federation Imbabura,Ecuador
+1,GK,Remko Pasveer,8 November 1983 (aged 39),2,0,Royal Dutch Football Association Ajax,Netherlands
+2,DF,Jurriën Timber,17 June 2001 (aged 21),10,0,Royal Dutch Football Association Ajax,Netherlands
+3,DF,Matthijs de Ligt,12 August 1999 (aged 23),38,2,German Football Association Bayern Munich,Netherlands
+4,DF,Virgil van Dijk,8 July 1991 (aged 31),49,6,The Football Association Liverpool,Netherlands
+5,DF,Nathan Aké,18 February 1995 (aged 27),29,3,The Football Association Manchester City,Netherlands
+6,DF,Stefan de Vrij,5 February 1992 (aged 30),59,3,Italian Football Federation Inter Milan,Netherlands
+7,FW,Steven Bergwijn,8 October 1997 (aged 25),24,7,Royal Dutch Football Association Ajax,Netherlands
+8,FW,Cody Gakpo,7 May 1999 (aged 23),9,3,Royal Dutch Football Association PSV Eindhoven,Netherlands
+9,FW,Luuk de Jong,27 August 1990 (aged 32),38,8,Royal Dutch Football Association PSV Eindhoven,Netherlands
+10,FW,Memphis Depay,13 February 1994 (aged 28),81,42,Royal Spanish Football Federation Barcelona,Netherlands
+11,MF,Steven Berghuis,19 December 1991 (aged 30),39,2,Royal Dutch Football Association Ajax,Netherlands
+12,FW,Noa Lang,17 June 1999 (aged 23),5,1,Royal Belgian Football Association Club Brugge,Netherlands
+13,GK,Justin Bijlow,22 January 1998 (aged 24),6,0,Royal Dutch Football Association Feyenoord,Netherlands
+14,MF,Davy Klaassen,21 February 1993 (aged 29),35,9,Royal Dutch Football Association Ajax,Netherlands
+15,MF,Marten de Roon,29 March 1991 (aged 31),30,0,Italian Football Federation Atalanta,Netherlands
+16,DF,Tyrell Malacia,17 August 1999 (aged 23),6,0,The Football Association Manchester United,Netherlands
+17,DF,Daley Blind,9 March 1990 (aged 32),94,2,Royal Dutch Football Association Ajax,Netherlands
+18,FW,Vincent Janssen,15 June 1994 (aged 28),20,7,Royal Belgian Football Association Antwerp,Netherlands
+19,FW,Wout Weghorst,7 August 1992 (aged 30),15,3,Turkish Football Federation Beşiktaş,Netherlands
+20,MF,Teun Koopmeiners,28 February 1998 (aged 24),10,1,Italian Football Federation Atalanta,Netherlands
+21,MF,Frenkie de Jong,12 May 1997 (aged 25),45,1,Royal Spanish Football Federation Barcelona,Netherlands
+22,DF,Denzel Dumfries,18 April 1996 (aged 26),37,5,Italian Football Federation Inter Milan,Netherlands
+23,GK,Andries Noppert,7 April 1994 (aged 28),0,0,Royal Dutch Football Association Heerenveen,Netherlands
+24,MF,Kenneth Taylor,16 May 2002 (aged 20),2,0,Royal Dutch Football Association Ajax,Netherlands
+25,MF,Xavi Simons,21 April 2003 (aged 19),0,0,Royal Dutch Football Association PSV Eindhoven,Netherlands
+26,DF,Jeremie Frimpong,10 December 2000 (aged 21),0,0,German Football Association Bayer Leverkusen,Netherlands
+1,GK,Saad Al-Sheeb,19 February 1990 (aged 32),76,0,Qatar Football Association Al-Sadd,Qatar
+2,DF,Pedro Miguel,6 August 1990 (aged 32),80,1,Qatar Football Association Al-Sadd,Qatar
+3,DF,Abdelkarim Hassan,28 August 1993 (aged 29),130,15,Qatar Football Association Al-Sadd,Qatar
+4,MF,Mohammed Waad,18 September 1999 (aged 23),21,0,Qatar Football Association Al-Sadd,Qatar
+5,DF,Tarek Salman,5 December 1997 (aged 24),58,0,Qatar Football Association Al-Sadd,Qatar
+6,MF,Abdulaziz Hatem,1 January 1990 (aged 32),107,11,Qatar Football Association Al-Rayyan,Qatar
+7,FW,Ahmed Alaaeldin,31 January 1993 (aged 29),47,2,Qatar Football Association Al-Gharafa,Qatar
+8,MF,Ali Assadalla,19 January 1993 (aged 29),59,12,Qatar Football Association Al-Sadd,Qatar
+9,FW,Mohammed Muntari,20 December 1993 (aged 28),48,13,Qatar Football Association Al-Duhail,Qatar
+10,MF,Hassan Al-Haydos,11 December 1990 (aged 31),169,36,Qatar Football Association Al-Sadd,Qatar
+11,FW,Akram Afif,18 November 1996 (aged 26),89,26,Qatar Football Association Al-Sadd,Qatar
+12,MF,Karim Boudiaf,16 September 1990 (aged 32),115,6,Qatar Football Association Al-Duhail,Qatar
+13,DF,Musab Kheder,1 January 1993 (aged 29),30,0,Qatar Football Association Al-Sadd,Qatar
+14,DF,Homam Ahmed,25 August 1999 (aged 23),29,2,Qatar Football Association Al-Gharafa,Qatar
+15,DF,Bassam Al-Rawi,16 December 1997 (aged 24),58,2,Qatar Football Association Al-Duhail,Qatar
+16,DF,Boualem Khoukhi,9 July 1990 (aged 32),105,20,Qatar Football Association Al-Sadd,Qatar
+17,DF,Ismaeel Mohammad,5 April 1990 (aged 32),70,4,Qatar Football Association Al-Duhail,Qatar
+18,FW,Khalid Muneer,24 February 1998 (aged 24),2,0,Qatar Football Association Al-Wakrah,Qatar
+19,FW,Almoez Ali,19 August 1996 (aged 26),85,42,Qatar Football Association Al-Duhail,Qatar
+20,MF,Salem Al-Hajri,10 April 1996 (aged 26),22,0,Qatar Football Association Al-Sadd,Qatar
+21,GK,Yousef Hassan,24 May 1996 (aged 26),7,0,Qatar Football Association Al-Gharafa,Qatar
+22,GK,Meshaal Barsham,14 February 1998 (aged 24),20,0,Qatar Football Association Al-Sadd,Qatar
+23,MF,Assim Madibo,22 October 1996 (aged 26),43,0,Qatar Football Association Al-Duhail,Qatar
+24,MF,Naif Al-Hadhrami,18 July 2001 (aged 21),1,0,Qatar Football Association Al-Rayyan,Qatar
+25,MF,Jassem Gaber,20 February 2002 (aged 20),0,0,Qatar Football Association Al-Arabi,Qatar
+26,MF,Mostafa Meshaal,28 March 2001 (aged 21),1,0,Qatar Football Association Al-Sadd,Qatar
+1,GK,Seny Dieng,23 November 1994 (aged 27),4,0,The Football Association Queens Park Rangers,Senegal
+2,DF,Formose Mendy,2 January 2001 (aged 21),2,0,French Football Federation Amiens,Senegal
+3,DF,Kalidou Koulibaly,20 June 1991 (aged 31),64,0,The Football Association Chelsea,Senegal
+4,DF,Pape Abou Cissé,14 September 1995 (aged 27),13,1,Hellenic Football Federation Olympiacos,Senegal
+5,MF,Idrissa Gueye,26 September 1989 (aged 33),96,7,The Football Association Everton,Senegal
+6,MF,Nampalys Mendy,23 June 1992 (aged 30),19,0,The Football Association Leicester City,Senegal
+7,FW,Nicolas Jackson,20 June 2001 (aged 21),0,0,Royal Spanish Football Federation Villarreal,Senegal
+8,DF,Cheikhou Kouyaté,21 December 1989 (aged 32),83,4,The Football Association Nottingham Forest,Senegal
+9,FW,Boulaye Dia,16 November 1996 (aged 26),19,3,Italian Football Federation Salernitana,Senegal
+10,DF,Moussa N'Diaye,18 June 2002 (aged 20),0,0,Royal Belgian Football Association Anderlecht,Senegal
+11,MF,Pathé Ciss,16 March 1994 (aged 28),1,0,Royal Spanish Football Federation Rayo Vallecano,Senegal
+12,DF,Fodé Ballo-Touré,3 January 1997 (aged 25),14,0,Italian Football Federation Milan,Senegal
+13,FW,Iliman Ndiaye,6 March 2000 (aged 22),2,0,The Football Association Sheffield United,Senegal
+14,DF,Ismail Jakobs,17 August 1999 (aged 23),2,0,French Football Federation Monaco,Senegal
+15,MF,Krépin Diatta,25 February 1999 (aged 23),26,2,French Football Federation Monaco,Senegal
+16,GK,Édouard Mendy,1 March 1992 (aged 30),25,0,The Football Association Chelsea,Senegal
+17,MF,Pape Matar Sarr,14 September 2002 (aged 20),10,0,The Football Association Tottenham Hotspur,Senegal
+18,FW,Ismaïla Sarr,25 February 1998 (aged 24),48,10,The Football Association Watford,Senegal
+19,FW,Famara Diédhiou,15 December 1992 (aged 29),25,10,Turkish Football Federation Alanyaspor,Senegal
+20,FW,Bamba Dieng,23 March 2000 (aged 22),13,1,French Football Federation Marseille,Senegal
+21,DF,Youssouf Sabaly,5 March 1993 (aged 29),24,0,Royal Spanish Football Federation Real Betis,Senegal
+22,DF,Abdou Diallo,4 May 1996 (aged 26),18,2,German Football Association RB Leipzig,Senegal
+23,GK,Alfred Gomis,5 September 1993 (aged 29),13,0,French Football Federation Rennes,Senegal
+24,DF,Moustapha Name,5 May 1995 (aged 27),6,0,Cyprus Football Association Pafos,Senegal
+25,MF,Mamadou Loum,30 December 1996 (aged 25),3,0,The Football Association Reading,Senegal
+26,MF,Pape Gueye,24 January 1999 (aged 23),12,0,French Football Federation Marseille,Senegal
+1,GK,Jordan Pickford,7 March 1994 (aged 28),45,0,The Football Association Everton,England
+2,DF,Kyle Walker,28 May 1990 (aged 32),70,0,The Football Association Manchester City,England
+3,DF,Luke Shaw,12 July 1995 (aged 27),23,3,The Football Association Manchester United,England
+4,MF,Declan Rice,14 January 1999 (aged 23),34,2,The Football Association West Ham United,England
+5,DF,John Stones,28 May 1994 (aged 28),59,3,The Football Association Manchester City,England
+6,DF,Harry Maguire,5 March 1993 (aged 29),48,7,The Football Association Manchester United,England
+7,FW,Jack Grealish,10 September 1995 (aged 27),24,1,The Football Association Manchester City,England
+8,MF,Jordan Henderson,17 June 1990 (aged 32),70,2,The Football Association Liverpool,England
+9,FW,Harry Kane,28 July 1993 (aged 29),75,51,The Football Association Tottenham Hotspur,England
+10,FW,Raheem Sterling,8 December 1994 (aged 27),79,19,The Football Association Chelsea,England
+11,FW,Marcus Rashford,31 October 1997 (aged 25),46,12,The Football Association Manchester United,England
+12,DF,Kieran Trippier,19 September 1990 (aged 32),37,1,The Football Association Newcastle United,England
+13,GK,Nick Pope,19 April 1992 (aged 30),10,0,The Football Association Newcastle United,England
+14,MF,Kalvin Phillips,2 December 1995 (aged 26),23,0,The Football Association Manchester City,England
+15,DF,Eric Dier,15 January 1994 (aged 28),47,3,The Football Association Tottenham Hotspur,England
+16,DF,Conor Coady,25 February 1993 (aged 29),10,1,The Football Association Everton,England
+17,FW,Bukayo Saka,5 September 2001 (aged 21),20,4,The Football Association Arsenal,England
+18,DF,Trent Alexander-Arnold,7 October 1998 (aged 24),17,1,The Football Association Liverpool,England
+19,MF,Mason Mount,10 January 1999 (aged 23),32,5,The Football Association Chelsea,England
+20,MF,Phil Foden,28 May 2000 (aged 22),18,2,The Football Association Manchester City,England
+21,DF,Ben White,8 October 1997 (aged 25),4,0,The Football Association Arsenal,England
+22,MF,Jude Bellingham,29 June 2003 (aged 19),17,0,German Football Association Borussia Dortmund,England
+23,GK,Aaron Ramsdale,14 May 1998 (aged 24),3,0,The Football Association Arsenal,England
+24,FW,Callum Wilson,27 February 1992 (aged 30),4,1,The Football Association Newcastle United,England
+25,MF,James Maddison,23 November 1996 (aged 25),1,0,The Football Association Leicester City,England
+26,MF,Conor Gallagher,6 February 2000 (aged 22),4,0,The Football Association Chelsea,England
+1,GK,Alireza Beiranvand,21 September 1992 (aged 30),52,0,Football Federation Islamic Republic of Iran Persepolis,Iran
+2,DF,Sadegh Moharrami,1 March 1996 (aged 26),21,0,Croatian Football Federation Dinamo Zagreb,Iran
+3,DF,Ehsan Hajsafi,25 February 1990 (aged 32),121,7,Hellenic Football Federation AEK Athens,Iran
+4,DF,Shojae Khalilzadeh,14 May 1989 (aged 33),25,1,Qatar Football Association Al-Ahli Doha,Iran
+5,DF,Milad Mohammadi,29 September 1993 (aged 29),45,1,Hellenic Football Federation AEK Athens,Iran
+6,MF,Saeid Ezatolahi,1 October 1996 (aged 26),47,1,Danish Football Association Vejle,Iran
+7,MF,Alireza Jahanbakhsh,11 August 1993 (aged 29),64,13,Royal Dutch Football Association Feyenoord,Iran
+8,DF,Morteza Pouraliganji,19 April 1992 (aged 30),46,3,Football Federation Islamic Republic of Iran Persepolis,Iran
+9,FW,Mehdi Taremi,18 July 1992 (aged 30),60,28,Portuguese Football Federation Porto,Iran
+10,FW,Karim Ansarifard,3 April 1990 (aged 32),94,29,Cyprus Football Association Omonia,Iran
+11,MF,Vahid Amiri,2 April 1988 (aged 34),68,2,Football Federation Islamic Republic of Iran Persepolis,Iran
+12,GK,Payam Niazmand,6 April 1995 (aged 27),1,0,Football Federation Islamic Republic of Iran Sepahan,Iran
+13,DF,Hossein Kanaanizadegan,23 March 1994 (aged 28),35,2,Qatar Football Association Al-Ahli Doha,Iran
+14,MF,Saman Ghoddos,6 September 1993 (aged 29),33,2,The Football Association Brentford,Iran
+15,DF,Rouzbeh Cheshmi,24 July 1993 (aged 29),19,1,Football Federation Islamic Republic of Iran Esteghlal,Iran
+16,MF,Mehdi Torabi,10 September 1994 (aged 28),36,7,Football Federation Islamic Republic of Iran Persepolis,Iran
+17,MF,Ali Gholizadeh,10 March 1996 (aged 26),26,6,Royal Belgian Football Association Charleroi,Iran
+18,MF,Ali Karimi,11 February 1994 (aged 28),13,0,Turkish Football Federation Kayserispor,Iran
+19,DF,Majid Hosseini,20 June 1996 (aged 26),18,0,Turkish Football Federation Kayserispor,Iran
+20,FW,Sardar Azmoun,1 January 1995 (aged 27),65,41,German Football Association Bayer Leverkusen,Iran
+21,MF,Ahmad Nourollahi,1 February 1993 (aged 29),25,3,United Arab Emirates Football Association Shabab Al-Ahli,Iran
+22,GK,Amir Abedzadeh,26 April 1993 (aged 29),11,0,Royal Spanish Football Federation Ponferradina,Iran
+23,DF,Ramin Rezaeian,21 March 1990 (aged 32),46,2,Football Federation Islamic Republic of Iran Sepahan,Iran
+24,GK,Hossein Hosseini,30 June 1992 (aged 30),6,0,Football Federation Islamic Republic of Iran Esteghlal,Iran
+25,DF,Abolfazl Jalali,26 June 1998 (aged 24),3,0,Football Federation Islamic Republic of Iran Esteghlal,Iran
+1,GK,Matt Turner,24 June 1994 (aged 28),20,0,The Football Association Arsenal,United States
+2,DF,Sergiño Dest,3 November 2000 (aged 22),19,2,Italian Football Federation Milan,United States
+3,DF,Walker Zimmerman,19 May 1993 (aged 29),33,3,United States Soccer Federation Nashville SC,United States
+4,MF,Tyler Adams,14 February 1999 (aged 23),32,1,The Football Association Leeds United,United States
+5,DF,Antonee Robinson,8 August 1997 (aged 25),29,2,The Football Association Fulham,United States
+6,MF,Yunus Musah,29 November 2002 (aged 19),19,0,Royal Spanish Football Federation Valencia,United States
+7,FW,Giovanni Reyna,13 November 2002 (aged 20),14,4,German Football Association Borussia Dortmund,United States
+8,MF,Weston McKennie,28 August 1998 (aged 24),37,9,Italian Football Federation Juventus,United States
+9,FW,Jesús Ferreira,24 December 2000 (aged 21),15,7,United States Soccer Federation FC Dallas,United States
+10,FW,Christian Pulisic,18 September 1998 (aged 24),52,21,The Football Association Chelsea,United States
+11,FW,Brenden Aaronson,22 October 2000 (aged 22),24,6,The Football Association Leeds United,United States
+12,GK,Ethan Horvath,9 June 1995 (aged 27),8,0,The Football Association Luton Town,United States
+13,DF,Tim Ream,5 October 1987 (aged 35),46,1,The Football Association Fulham,United States
+14,MF,Luca de la Torre,23 May 1998 (aged 24),12,0,Royal Spanish Football Federation Celta Vigo,United States
+15,DF,Aaron Long,12 October 1992 (aged 30),29,3,United States Soccer Federation New York Red Bulls,United States
+16,FW,Jordan Morris,26 October 1994 (aged 28),49,11,United States Soccer Federation Seattle Sounders FC,United States
+17,MF,Cristian Roldan,3 June 1995 (aged 27),32,0,United States Soccer Federation Seattle Sounders FC,United States
+18,DF,Shaq Moore,2 November 1996 (aged 26),15,1,United States Soccer Federation Nashville SC,United States
+19,FW,Haji Wright,27 March 1998 (aged 24),3,1,Turkish Football Federation Antalyaspor,United States
+20,DF,Cameron Carter-Vickers,31 December 1997 (aged 24),11,0,Scottish Football Association Celtic,United States
+21,FW,Timothy Weah,22 February 2000 (aged 22),25,3,French Football Federation Lille,United States
+22,DF,DeAndre Yedlin,9 July 1993 (aged 29),75,0,United States Soccer Federation Inter Miami CF,United States
+23,MF,Kellyn Acosta,24 July 1995 (aged 27),53,2,United States Soccer Federation Los Angeles FC,United States
+24,FW,Josh Sargent,20 February 2000 (aged 22),20,5,The Football Association Norwich City,United States
+25,GK,Sean Johnson,31 May 1989 (aged 33),10,0,United States Soccer Federation New York City FC,United States
+26,DF,Joe Scally,31 December 2002 (aged 19),3,0,German Football Association Borussia Mönchengladbach,United States
+1,GK,Wayne Hennessey,24 January 1987 (aged 35),106,0,The Football Association Nottingham Forest,Wales
+2,DF,Chris Gunter,21 July 1989 (aged 33),109,0,The Football Association AFC Wimbledon,Wales
+3,DF,Neco Williams,13 April 2001 (aged 21),23,2,The Football Association Nottingham Forest,Wales
+4,DF,Ben Davies,24 April 1993 (aged 29),74,1,The Football Association Tottenham Hotspur,Wales
+5,DF,Chris Mepham,5 November 1997 (aged 25),33,0,The Football Association Bournemouth,Wales
+6,DF,Joe Rodon,22 October 1997 (aged 25),30,0,French Football Federation Rennes,Wales
+7,MF,Joe Allen,14 March 1990 (aged 32),72,2,Football Association of Wales Swansea City,Wales
+8,MF,Harry Wilson,22 March 1997 (aged 25),39,5,The Football Association Fulham,Wales
+9,FW,Brennan Johnson,23 May 2001 (aged 21),15,2,The Football Association Nottingham Forest,Wales
+10,MF,Aaron Ramsey,26 December 1990 (aged 31),75,20,French Football Federation Nice,Wales
+11,FW,Gareth Bale,16 July 1989 (aged 33),108,40,United States Soccer Federation Los Angeles FC,Wales
+12,GK,Danny Ward,22 June 1993 (aged 29),26,0,The Football Association Leicester City,Wales
+13,FW,Kieffer Moore,8 August 1992 (aged 30),28,9,The Football Association Bournemouth,Wales
+14,DF,Connor Roberts,23 September 1995 (aged 27),41,3,The Football Association Burnley,Wales
+15,DF,Ethan Ampadu,14 September 2000 (aged 22),37,0,Italian Football Federation Spezia,Wales
+16,MF,Joe Morrell,3 January 1997 (aged 25),30,0,The Football Association Portsmouth,Wales
+17,DF,Tom Lockyer,3 December 1994 (aged 27),14,0,The Football Association Luton Town,Wales
+18,MF,Jonny Williams,9 October 1993 (aged 29),33,2,The Football Association Swindon Town,Wales
+19,FW,Mark Harris,29 December 1998 (aged 23),5,0,Football Association of Wales Cardiff City,Wales
+20,FW,Daniel James,10 November 1997 (aged 25),38,5,The Football Association Fulham,Wales
+21,GK,Adam Davies,17 July 1992 (aged 30),4,0,The Football Association Sheffield United,Wales
+22,MF,Sorba Thomas,25 January 1999 (aged 23),6,0,The Football Association Huddersfield Town,Wales
+23,MF,Dylan Levitt,17 November 2000 (aged 22),13,0,Scottish Football Association Dundee United,Wales
+24,DF,Ben Cabango,30 May 2000 (aged 22),5,0,Football Association of Wales Swansea City,Wales
+25,MF,Rubin Colwill,27 April 2002 (aged 20),7,1,Football Association of Wales Cardiff City,Wales
+26,MF,Matthew Smith,22 November 1999 (aged 22),19,0,The Football Association Milton Keynes Dons,Wales
+1,GK,Franco Armani,16 October 1986 (aged 36),18,0,Argentine Football Association River Plate,Argentina
+2,DF,Juan Foyth,12 January 1998 (aged 24),16,0,Royal Spanish Football Federation Villarreal,Argentina
+3,DF,Nicolás Tagliafico,31 August 1992 (aged 30),42,0,French Football Federation Lyon,Argentina
+4,DF,Gonzalo Montiel,1 January 1997 (aged 25),18,0,Royal Spanish Football Federation Sevilla,Argentina
+5,MF,Leandro Paredes,29 June 1994 (aged 28),46,4,Italian Football Federation Juventus,Argentina
+6,DF,Germán Pezzella,27 June 1991 (aged 31),32,2,Royal Spanish Football Federation Real Betis,Argentina
+7,MF,Rodrigo De Paul,24 May 1994 (aged 28),44,2,Royal Spanish Football Federation Atlético Madrid,Argentina
+8,DF,Marcos Acuña,28 October 1991 (aged 31),43,0,Royal Spanish Football Federation Sevilla,Argentina
+9,FW,Julián Alvarez,31 January 2000 (aged 22),12,3,The Football Association Manchester City,Argentina
+10,FW,Lionel Messi,24 June 1987 (aged 35),165,91,French Football Federation Paris Saint-Germain,Argentina
+11,FW,Ángel Di María,14 February 1988 (aged 34),124,27,Italian Football Federation Juventus,Argentina
+12,GK,Gerónimo Rulli,20 May 1992 (aged 30),4,0,Royal Spanish Football Federation Villarreal,Argentina
+13,DF,Cristian Romero,27 April 1998 (aged 24),12,1,The Football Association Tottenham Hotspur,Argentina
+14,MF,Exequiel Palacios,5 October 1998 (aged 24),20,0,German Football Association Bayer Leverkusen,Argentina
+15,FW,Ángel Correa,9 March 1995 (aged 27),22,3,Royal Spanish Football Federation Atlético Madrid,Argentina
+16,MF,Thiago Almada,26 April 2001 (aged 21),1,0,United States Soccer Federation Atlanta United FC,Argentina
+17,MF,Papu Gómez,15 February 1988 (aged 34),15,3,Royal Spanish Football Federation Sevilla,Argentina
+18,MF,Guido Rodríguez,12 April 1994 (aged 28),26,1,Royal Spanish Football Federation Real Betis,Argentina
+19,DF,Nicolás Otamendi,12 February 1988 (aged 34),93,4,Portuguese Football Federation Benfica,Argentina
+20,MF,Alexis Mac Allister,24 December 1998 (aged 23),8,0,The Football Association Brighton & Hove Albion,Argentina
+21,FW,Paulo Dybala,15 November 1993 (aged 29),34,3,Italian Football Federation Roma,Argentina
+22,FW,Lautaro Martínez,22 August 1997 (aged 25),40,21,Italian Football Federation Inter Milan,Argentina
+23,GK,Emiliano Martínez,2 September 1992 (aged 30),19,0,The Football Association Aston Villa,Argentina
+24,MF,Enzo Fernández,17 January 2001 (aged 21),3,0,Portuguese Football Federation Benfica,Argentina
+25,DF,Lisandro Martínez,18 January 1998 (aged 24),10,0,The Football Association Manchester United,Argentina
+26,DF,Nahuel Molina,6 April 1998 (aged 24),20,0,Royal Spanish Football Federation Atlético Madrid,Argentina
+1,GK,Alfredo Talavera,18 September 1982 (aged 40),40,0,Mexican Football Federation Juárez,Mexico
+2,DF,Néstor Araujo,29 August 1991 (aged 31),63,3,Mexican Football Federation América,Mexico
+3,DF,César Montes,24 February 1997 (aged 25),30,1,Mexican Football Federation Monterrey,Mexico
+4,DF,Edson Álvarez,24 October 1997 (aged 25),58,3,Royal Dutch Football Association Ajax,Mexico
+5,DF,Johan Vásquez,22 October 1998 (aged 24),7,0,Italian Football Federation Cremonese,Mexico
+6,DF,Gerardo Arteaga,7 September 1998 (aged 24),17,1,Royal Belgian Football Association Genk,Mexico
+7,MF,Luis Romo,5 June 1995 (aged 27),27,1,Mexican Football Federation Monterrey,Mexico
+8,MF,Carlos Rodríguez,3 January 1997 (aged 25),36,0,Mexican Football Federation Cruz Azul,Mexico
+9,FW,Raúl Jiménez,5 May 1991 (aged 31),95,29,The Football Association Wolverhampton Wanderers,Mexico
+10,FW,Alexis Vega,25 November 1997 (aged 24),22,6,Mexican Football Federation Guadalajara,Mexico
+11,FW,Rogelio Funes Mori,5 March 1991 (aged 31),16,6,Mexican Football Federation Monterrey,Mexico
+12,GK,Rodolfo Cota,3 July 1987 (aged 35),8,0,Mexican Football Federation León,Mexico
+13,GK,Guillermo Ochoa,13 July 1985 (aged 37),131,0,Mexican Football Federation América,Mexico
+14,MF,Érick Gutiérrez,15 June 1995 (aged 27),34,1,Royal Dutch Football Association PSV Eindhoven,Mexico
+15,DF,Héctor Moreno,17 January 1988 (aged 34),128,5,Mexican Football Federation Monterrey,Mexico
+16,MF,Héctor Herrera,19 April 1990 (aged 32),102,10,United States Soccer Federation Houston Dynamo FC,Mexico
+17,FW,Orbelín Pineda,24 March 1996 (aged 26),50,6,Hellenic Football Federation AEK Athens,Mexico
+18,MF,Andrés Guardado,28 September 1986 (aged 36),178,28,Royal Spanish Football Federation Real Betis,Mexico
+19,DF,Jorge Sánchez,10 December 1997 (aged 24),26,1,Royal Dutch Football Association Ajax,Mexico
+20,FW,Henry Martín,18 November 1992 (aged 30),27,6,Mexican Football Federation América,Mexico
+21,FW,Uriel Antuna,21 August 1997 (aged 25),36,9,Mexican Football Federation Cruz Azul,Mexico
+22,FW,Hirving Lozano,30 July 1995 (aged 27),60,16,Italian Football Federation Napoli,Mexico
+23,DF,Jesús Gallardo,15 August 1994 (aged 28),78,1,Mexican Football Federation Monterrey,Mexico
+24,MF,Luis Chávez,15 January 1996 (aged 26),9,0,Mexican Football Federation Pachuca,Mexico
+25,FW,Roberto Alvarado,7 September 1998 (aged 24),31,4,Mexican Football Federation Guadalajara,Mexico
+26,DF,Kevin Álvarez,15 January 1999 (aged 23),8,0,Mexican Football Federation Pachuca,Mexico
+1,GK,Wojciech Szczęsny,18 April 1990 (aged 32),66,0,Italian Football Federation Juventus,Poland
+2,DF,Matty Cash,7 August 1997 (aged 25),7,1,The Football Association Aston Villa,Poland
+3,DF,Artur Jędrzejczyk,4 November 1987 (aged 35),40,3,Polish Football Association Legia Warsaw,Poland
+4,DF,Mateusz Wieteska,11 February 1997 (aged 25),2,0,French Football Federation Clermont,Poland
+5,DF,Jan Bednarek,12 April 1996 (aged 26),45,1,The Football Association Aston Villa,Poland
+6,MF,Krystian Bielik,4 January 1998 (aged 24),5,0,The Football Association Birmingham City,Poland
+7,FW,Arkadiusz Milik,28 February 1994 (aged 28),64,16,Italian Football Federation Juventus,Poland
+8,MF,Damian Szymański,16 June 1995 (aged 27),9,1,Hellenic Football Federation AEK Athens,Poland
+9,FW,Robert Lewandowski,21 August 1988 (aged 34),134,76,Royal Spanish Football Federation Barcelona,Poland
+10,MF,Grzegorz Krychowiak,29 January 1990 (aged 32),94,5,Saudi Arabian Football Federation Al-Shabab,Poland
+11,MF,Kamil Grosicki,8 June 1988 (aged 34),87,17,Polish Football Association Pogoń Szczecin,Poland
+12,GK,Łukasz Skorupski,5 May 1991 (aged 31),8,0,Italian Football Federation Bologna,Poland
+13,MF,Jakub Kamiński,5 June 2002 (aged 20),4,1,German Football Association VfL Wolfsburg,Poland
+14,DF,Jakub Kiwior,15 February 2000 (aged 22),5,0,Italian Football Federation Spezia,Poland
+15,DF,Kamil Glik,3 February 1988 (aged 34),99,6,Italian Football Federation Benevento,Poland
+16,FW,Karol Świderski,23 January 1997 (aged 25),18,8,United States Soccer Federation Charlotte FC,Poland
+17,MF,Szymon Żurkowski,25 September 1997 (aged 25),7,0,Italian Football Federation Fiorentina,Poland
+18,DF,Bartosz Bereszyński,12 July 1992 (aged 30),46,0,Italian Football Federation Sampdoria,Poland
+19,MF,Sebastian Szymański,10 May 1999 (aged 23),18,1,Royal Dutch Football Association Feyenoord,Poland
+20,MF,Piotr Zieliński,20 May 1994 (aged 28),74,9,Italian Football Federation Napoli,Poland
+21,MF,Nicola Zalewski,23 January 2002 (aged 20),7,0,Italian Football Federation Roma,Poland
+22,GK,Kamil Grabara,8 January 1999 (aged 23),1,0,Danish Football Association Copenhagen,Poland
+23,FW,Krzysztof Piątek,1 July 1995 (aged 27),25,11,Italian Football Federation Salernitana,Poland
+24,MF,Przemysław Frankowski,12 April 1995 (aged 27),26,1,French Football Federation Lens,Poland
+25,DF,Robert Gumny,4 June 1998 (aged 24),5,0,German Football Association FC Augsburg,Poland
+26,MF,Michał Skóraś,15 February 2000 (aged 22),1,0,Polish Football Association Lech Poznań,Poland
+1,GK,Mohammed Al-Rubaie,14 August 1997 (aged 25),7,0,Saudi Arabian Football Federation Al-Ahli,Saudi Arabia
+2,DF,Sultan Al-Ghannam,6 May 1994 (aged 28),24,0,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+3,DF,Abdullah Madu,15 July 1993 (aged 29),15,0,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+4,DF,Abdulelah Al-Amri,15 January 1997 (aged 25),20,1,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+5,DF,Ali Al-Bulaihi,21 November 1989 (aged 32),37,0,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+6,DF,Mohammed Al-Breik,15 September 1992 (aged 30),40,1,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+7,MF,Salman Al-Faraj,1 August 1989 (aged 33),70,8,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+8,MF,Abdulellah Al-Malki,11 October 1994 (aged 28),27,0,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+9,FW,Firas Al-Buraikan,14 May 2000 (aged 22),26,6,Saudi Arabian Football Federation Al-Fateh,Saudi Arabia
+10,FW,Salem Al-Dawsari,19 August 1991 (aged 31),71,17,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+11,FW,Saleh Al-Shehri,1 November 1993 (aged 29),20,10,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+12,DF,Saud Abdulhamid,18 July 1999 (aged 23),23,1,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+13,DF,Yasser Al-Shahrani,25 May 1992 (aged 30),72,2,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+14,MF,Abdullah Otayf,3 August 1992 (aged 30),45,1,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+15,MF,Ali Al-Hassan,4 March 1997 (aged 25),13,1,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+16,MF,Sami Al-Najei,7 February 1997 (aged 25),17,2,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+17,DF,Hassan Al-Tambakti,9 February 1999 (aged 23),19,0,Saudi Arabian Football Federation Al-Shabab,Saudi Arabia
+18,MF,Nawaf Al-Abed,26 January 1990 (aged 32),55,8,Saudi Arabian Football Federation Al-Shabab,Saudi Arabia
+19,FW,Hattan Bahebri,16 July 1992 (aged 30),41,4,Saudi Arabian Football Federation Al-Shabab,Saudi Arabia
+20,FW,Abdulrahman Al-Aboud,1 June 1995 (aged 27),3,0,Saudi Arabian Football Federation Al-Ittihad,Saudi Arabia
+21,GK,Mohammed Al-Owais,10 October 1991 (aged 31),42,0,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+22,GK,Nawaf Al-Aqidi,10 May 2000 (aged 22),0,0,Saudi Arabian Football Federation Al-Nassr,Saudi Arabia
+23,MF,Mohamed Kanno,22 September 1994 (aged 28),38,1,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+24,MF,Nasser Al-Dawsari,19 December 1998 (aged 23),10,0,Saudi Arabian Football Federation Al-Hilal,Saudi Arabia
+25,FW,Haitham Asiri,25 March 2001 (aged 21),8,1,Saudi Arabian Football Federation Al-Ahli,Saudi Arabia
+26,MF,Riyadh Sharahili,28 April 1993 (aged 29),5,0,Saudi Arabian Football Federation Abha,Saudi Arabia
+1,GK,Mathew Ryan,8 April 1992 (aged 30),75,0,Danish Football Association Copenhagen,Australia
+2,DF,Miloš Degenek,28 April 1994 (aged 28),38,1,United States Soccer Federation Columbus Crew,Australia
+3,DF,Nathaniel Atkinson,13 June 1999 (aged 23),5,0,Scottish Football Association Heart of Midlothian,Australia
+4,DF,Kye Rowles,24 June 1998 (aged 24),3,0,Scottish Football Association Heart of Midlothian,Australia
+5,DF,Fran Karačić,12 May 1996 (aged 26),11,1,Italian Football Federation Brescia,Australia
+6,FW,Marco Tilio,23 August 2001 (aged 21),5,0,Football Australia Melbourne City,Australia
+7,FW,Mathew Leckie,4 February 1991 (aged 31),73,13,Football Australia Melbourne City,Australia
+8,DF,Bailey Wright,28 July 1992 (aged 30),27,2,The Football Association Sunderland,Australia
+9,FW,Jamie Maclaren,29 July 1993 (aged 29),26,8,Football Australia Melbourne City,Australia
+10,MF,Ajdin Hrustic,5 July 1996 (aged 26),20,3,Italian Football Federation Hellas Verona,Australia
+11,FW,Awer Mabil,15 September 1995 (aged 27),29,8,Royal Spanish Football Federation Cádiz,Australia
+12,GK,Andrew Redmayne,13 January 1989 (aged 33),4,0,Football Australia Sydney FC,Australia
+13,MF,Aaron Mooy,15 September 1990 (aged 32),53,7,Scottish Football Association Celtic,Australia
+14,MF,Riley McGree,2 November 1998 (aged 24),11,1,The Football Association Middlesbrough,Australia
+15,FW,Mitchell Duke,18 January 1991 (aged 31),21,8,Japan Football Association Fagiano Okayama,Australia
+16,DF,Aziz Behich,16 December 1990 (aged 31),53,2,Scottish Football Association Dundee United,Australia
+17,MF,Cameron Devlin,7 June 1998 (aged 24),1,0,Scottish Football Association Heart of Midlothian,Australia
+18,GK,Danny Vukovic,27 March 1985 (aged 37),4,0,Football Australia Central Coast Mariners,Australia
+19,DF,Harry Souttar,22 October 1998 (aged 24),10,6,The Football Association Stoke City,Australia
+20,DF,Thomas Deng,20 March 1997 (aged 25),2,0,Japan Football Association Albirex Niigata,Australia
+21,FW,Garang Kuol,15 September 2004 (aged 18),1,0,Football Australia Central Coast Mariners,Australia
+22,MF,Jackson Irvine,7 March 1993 (aged 29),49,7,German Football Association FC St. Pauli,Australia
+23,FW,Craig Goodwin,16 December 1991 (aged 30),10,1,Football Australia Adelaide United,Australia
+24,DF,Joel King,30 October 2000 (aged 22),4,0,Danish Football Association OB,Australia
+25,FW,Jason Cummings,1 August 1995 (aged 27),1,1,Football Australia Central Coast Mariners,Australia
+26,MF,Keanu Baccus,7 June 1998 (aged 24),1,0,Scottish Football Association St Mirren,Australia
+1,GK,Kasper Schmeichel,5 November 1986 (aged 36),86,0,French Football Federation Nice,Denmark
+2,DF,Joachim Andersen,31 May 1996 (aged 26),19,0,The Football Association Crystal Palace,Denmark
+3,DF,Victor Nelsson,14 October 1998 (aged 24),7,0,Turkish Football Federation Galatasaray,Denmark
+4,DF,Simon Kjær,26 March 1989 (aged 33),121,5,Italian Football Federation Milan,Denmark
+5,DF,Joakim Mæhle,20 May 1997 (aged 25),31,9,Italian Football Federation Atalanta,Denmark
+6,DF,Andreas Christensen,10 April 1996 (aged 26),58,2,Royal Spanish Football Federation Barcelona,Denmark
+7,MF,Mathias Jensen,1 January 1996 (aged 26),20,1,The Football Association Brentford,Denmark
+8,MF,Thomas Delaney,3 September 1991 (aged 31),71,7,Royal Spanish Football Federation Sevilla,Denmark
+9,FW,Martin Braithwaite,5 June 1991 (aged 31),62,10,Royal Spanish Football Federation Espanyol,Denmark
+10,MF,Christian Eriksen,14 February 1992 (aged 30),117,39,The Football Association Manchester United,Denmark
+11,MF,Andreas Skov Olsen,29 December 1999 (aged 22),23,8,Royal Belgian Football Association Club Brugge,Denmark
+12,FW,Kasper Dolberg,6 October 1997 (aged 25),37,11,Royal Spanish Football Federation Sevilla,Denmark
+13,DF,Rasmus Kristensen,11 July 1997 (aged 25),10,0,The Football Association Leeds United,Denmark
+14,MF,Mikkel Damsgaard,3 July 2000 (aged 22),18,4,The Football Association Brentford,Denmark
+15,MF,Christian Nørgaard,10 March 1994 (aged 28),17,1,The Football Association Brentford,Denmark
+16,GK,Oliver Christensen,22 March 1999 (aged 23),1,0,German Football Association Hertha BSC,Denmark
+17,DF,Jens Stryger Larsen,21 February 1991 (aged 31),49,3,Turkish Football Federation Trabzonspor,Denmark
+18,DF,Daniel Wass,31 May 1989 (aged 33),44,1,Danish Football Association Brøndby,Denmark
+19,FW,Jonas Wind,7 February 1999 (aged 23),15,5,German Football Association VfL Wolfsburg,Denmark
+20,FW,Yussuf Poulsen,15 June 1994 (aged 28),68,11,German Football Association RB Leipzig,Denmark
+21,FW,Andreas Cornelius,16 March 1993 (aged 29),41,9,Danish Football Association Copenhagen,Denmark
+22,GK,Frederik Rønnow,4 August 1992 (aged 30),8,0,German Football Association Union Berlin,Denmark
+23,MF,Pierre-Emile Højbjerg,5 August 1995 (aged 27),60,5,The Football Association Tottenham Hotspur,Denmark
+24,MF,Robert Skov,20 May 1996 (aged 26),11,5,German Football Association 1899 Hoffenheim,Denmark
+25,MF,Jesper Lindstrøm,29 February 2000 (aged 22),6,1,German Football Association Eintracht Frankfurt,Denmark
+26,DF,Alexander Bah,9 December 1997 (aged 24),4,1,Portuguese Football Federation Benfica,Denmark
+1,GK,Hugo Lloris,26 December 1986 (aged 35),139,0,The Football Association Tottenham Hotspur,France
+2,DF,Benjamin Pavard,28 March 1996 (aged 26),46,2,German Football Association Bayern Munich,France
+3,DF,Axel Disasi,11 March 1998 (aged 24),0,0,French Football Federation Monaco,France
+4,DF,Raphaël Varane,25 April 1993 (aged 29),87,5,The Football Association Manchester United,France
+5,DF,Jules Koundé,12 November 1998 (aged 24),12,0,Royal Spanish Football Federation Barcelona,France
+6,MF,Mattéo Guendouzi,14 April 1999 (aged 23),6,1,French Football Federation Marseille,France
+7,FW,Antoine Griezmann,21 March 1991 (aged 31),110,42,Royal Spanish Football Federation Atlético Madrid,France
+8,MF,Aurélien Tchouaméni,27 January 2000 (aged 22),14,1,Royal Spanish Football Federation Real Madrid,France
+9,FW,Olivier Giroud,30 September 1986 (aged 36),114,49,Italian Football Federation Milan,France
+10,FW,Kylian Mbappé,20 December 1998 (aged 23),59,28,French Football Federation Paris Saint-Germain,France
+11,FW,Ousmane Dembélé,15 May 1997 (aged 25),28,4,Royal Spanish Football Federation Barcelona,France
+12,FW,Randal Kolo Muani,5 December 1998 (aged 23),2,0,German Football Association Eintracht Frankfurt,France
+13,MF,Youssouf Fofana,10 January 1999 (aged 23),2,0,French Football Federation Monaco,France
+14,MF,Adrien Rabiot,3 April 1995 (aged 27),29,2,Italian Football Federation Juventus,France
+15,MF,Jordan Veretout,1 March 1993 (aged 29),5,0,French Football Federation Marseille,France
+16,GK,Steve Mandanda,28 March 1985 (aged 37),34,0,French Football Federation Rennes,France
+17,DF,William Saliba,24 March 2001 (aged 21),7,0,The Football Association Arsenal,France
+18,DF,Dayot Upamecano,27 October 1998 (aged 24),7,1,German Football Association Bayern Munich,France
+19,FW,Karim Benzema,19 December 1987 (aged 34),97,37,Royal Spanish Football Federation Real Madrid,France
+20,FW,Kingsley Coman,13 June 1996 (aged 26),40,5,German Football Association Bayern Munich,France
+21,DF,Lucas Hernandez,14 February 1996 (aged 26),32,0,German Football Association Bayern Munich,France
+22,DF,Théo Hernandez,6 October 1997 (aged 25),7,1,Italian Football Federation Milan,France
+23,GK,Alphonse Areola,27 February 1993 (aged 29),5,0,The Football Association West Ham United,France
+24,DF,Ibrahima Konaté,25 May 1999 (aged 23),2,0,The Football Association Liverpool,France
+25,MF,Eduardo Camavinga,10 November 2002 (aged 20),4,1,Royal Spanish Football Federation Real Madrid,France
+26,FW,Marcus Thuram,6 August 1997 (aged 25),4,0,German Football Association Borussia Mönchengladbach,France
+1,GK,Aymen Mathlouthi,14 September 1984 (aged 38),73,0,Tunisian Football Federation Étoile du Sahel,Tunisia
+2,DF,Bilel Ifa,9 March 1990 (aged 32),37,0,Kuwait Football Association Kuwait SC,Tunisia
+3,DF,Montassar Talbi,26 May 1998 (aged 24),23,1,French Football Federation Lorient,Tunisia
+4,DF,Yassine Meriah,2 July 1993 (aged 29),61,3,Tunisian Football Federation Espérance de Tunis,Tunisia
+5,MF,Nader Ghandri,18 February 1995 (aged 27),8,0,Tunisian Football Federation Club Africain,Tunisia
+6,DF,Dylan Bronn,19 June 1995 (aged 27),36,2,Italian Football Federation Salernitana,Tunisia
+7,FW,Youssef Msakni,28 October 1990 (aged 32),88,17,Qatar Football Association Al-Arabi,Tunisia
+8,MF,Hannibal Mejbri,21 January 2003 (aged 19),19,0,The Football Association Birmingham City,Tunisia
+9,FW,Issam Jebali,25 December 1991 (aged 30),10,2,Danish Football Association OB,Tunisia
+10,FW,Wahbi Khazri,8 February 1991 (aged 31),72,24,French Football Federation Montpellier,Tunisia
+11,FW,Taha Yassine Khenissi,6 January 1992 (aged 30),48,9,Kuwait Football Association Kuwait SC,Tunisia
+12,DF,Ali Maâloul,1 January 1990 (aged 32),83,2,Egyptian Football Association Al Ahly,Tunisia
+13,MF,Ferjani Sassi,18 March 1992 (aged 30),78,6,Qatar Football Association Al-Duhail,Tunisia
+14,MF,Aïssa Laïdouni,13 December 1996 (aged 25),25,1,Hungarian Football Federation Ferencváros,Tunisia
+15,MF,Mohamed Ali Ben Romdhane,6 September 1999 (aged 23),23,1,Tunisian Football Federation Espérance de Tunis,Tunisia
+16,GK,Aymen Dahmen,28 January 1997 (aged 25),5,0,Tunisian Football Federation CS Sfaxien,Tunisia
+17,MF,Ellyes Skhiri,10 May 1995 (aged 27),49,3,German Football Association 1. FC Köln,Tunisia
+18,MF,Ghailene Chaalali,28 February 1994 (aged 28),31,1,Tunisian Football Federation Espérance de Tunis,Tunisia
+19,FW,Seifeddine Jaziri,12 February 1993 (aged 29),29,10,Egyptian Football Association Zamalek,Tunisia
+20,DF,Mohamed Dräger,25 June 1996 (aged 26),34,3,Swiss Football Association Luzern,Tunisia
+21,DF,Wajdi Kechrida,5 November 1995 (aged 27),19,0,Hellenic Football Federation Atromitos,Tunisia
+22,GK,Bechir Ben Saïd,29 November 1992 (aged 29),10,0,Tunisian Football Federation US Monastir,Tunisia
+23,FW,Naïm Sliti,27 July 1992 (aged 30),69,14,Saudi Arabian Football Federation Al-Ettifaq,Tunisia
+24,DF,Ali Abdi,20 December 1993 (aged 28),10,2,French Football Federation Caen,Tunisia
+25,FW,Anis Ben Slimane,16 March 2001 (aged 21),25,4,Danish Football Association Brøndby,Tunisia
+26,GK,Mouez Hassen,5 March 1995 (aged 27),20,0,Tunisian Football Federation Club Africain,Tunisia
+1,GK,Keylor Navas,15 December 1986 (aged 35),107,0,French Football Federation Paris Saint-Germain,Costa Rica
+2,MF,Daniel Chacón,11 April 2001 (aged 21),8,0,Costa Rican Football Federation Cartaginés,Costa Rica
+3,DF,Juan Pablo Vargas,6 June 1995 (aged 27),12,1,Colombian Football Federation Millonarios,Costa Rica
+4,DF,Keysher Fuller,12 July 1994 (aged 28),31,2,Costa Rican Football Federation Herediano,Costa Rica
+5,MF,Celso Borges,27 May 1988 (aged 34),155,27,Costa Rican Football Federation Alajuelense,Costa Rica
+6,DF,Óscar Duarte,3 June 1989 (aged 33),71,4,Saudi Arabian Football Federation Al-Wehda,Costa Rica
+7,FW,Anthony Contreras,29 January 2000 (aged 22),9,2,Costa Rican Football Federation Herediano,Costa Rica
+8,DF,Bryan Oviedo,18 February 1990 (aged 32),76,2,United States Soccer Federation Real Salt Lake,Costa Rica
+9,MF,Jewison Bennette,15 June 2004 (aged 18),7,2,The Football Association Sunderland,Costa Rica
+10,MF,Bryan Ruiz,18 August 1985 (aged 37),146,29,Costa Rican Football Federation Alajuelense,Costa Rica
+11,FW,Johan Venegas,27 November 1988 (aged 33),82,11,Costa Rican Football Federation Alajuelense,Costa Rica
+12,FW,Joel Campbell,26 June 1992 (aged 30),119,25,Mexican Football Federation León,Costa Rica
+13,MF,Gerson Torres,28 August 1997 (aged 25),13,1,Costa Rican Football Federation Herediano,Costa Rica
+14,MF,Youstin Salas,17 June 1996 (aged 26),4,0,Costa Rican Football Federation Saprissa,Costa Rica
+15,DF,Francisco Calvo,8 July 1992 (aged 30),75,8,Turkish Football Federation Konyaspor,Costa Rica
+16,DF,Carlos Martínez,30 March 1999 (aged 23),7,0,Costa Rican Football Federation San Carlos,Costa Rica
+17,MF,Yeltsin Tejeda,17 March 1992 (aged 30),73,0,Costa Rican Football Federation Herediano,Costa Rica
+18,GK,Esteban Alvarado,28 April 1989 (aged 33),25,0,Costa Rican Football Federation Herediano,Costa Rica
+19,DF,Kendall Waston,1 January 1988 (aged 34),63,9,Costa Rican Football Federation Saprissa,Costa Rica
+20,MF,Brandon Aguilera,28 June 2003 (aged 19),4,0,Costa Rican Football Federation Guanacasteca,Costa Rica
+21,MF,Douglas López,21 September 1998 (aged 24),3,0,Costa Rican Football Federation Herediano,Costa Rica
+22,DF,Rónald Matarrita,9 July 1994 (aged 28),52,3,United States Soccer Federation FC Cincinnati,Costa Rica
+23,GK,Patrick Sequeira,1 March 1999 (aged 23),2,0,Royal Spanish Football Federation Lugo,Costa Rica
+24,MF,Roan Wilson,1 May 2002 (aged 20),3,0,Costa Rican Football Federation Municipal Grecia,Costa Rica
+25,MF,Anthony Hernández,11 October 2001 (aged 21),3,1,Costa Rican Football Federation Puntarenas,Costa Rica
+26,MF,Álvaro Zamora,9 March 2002 (aged 20),3,0,Costa Rican Football Federation Saprissa,Costa Rica
+1,GK,Manuel Neuer,27 March 1986 (aged 36),114,0,German Football Association Bayern Munich,Germany
+2,DF,Antonio Rüdiger,3 March 1993 (aged 29),54,2,Royal Spanish Football Federation Real Madrid,Germany
+3,DF,David Raum,22 April 1998 (aged 24),12,0,German Football Association RB Leipzig,Germany
+4,DF,Matthias Ginter,19 January 1994 (aged 28),47,2,German Football Association SC Freiburg,Germany
+5,DF,Thilo Kehrer,21 September 1996 (aged 26),23,0,The Football Association West Ham United,Germany
+6,MF,Joshua Kimmich,8 February 1995 (aged 27),71,5,German Football Association Bayern Munich,Germany
+7,FW,Kai Havertz,11 June 1999 (aged 23),31,10,The Football Association Chelsea,Germany
+8,MF,Leon Goretzka,6 February 1995 (aged 27),45,14,German Football Association Bayern Munich,Germany
+9,FW,Niclas Füllkrug,9 February 1993 (aged 29),1,1,German Football Association Werder Bremen,Germany
+10,FW,Serge Gnabry,14 July 1995 (aged 27),36,20,German Football Association Bayern Munich,Germany
+11,MF,Mario Götze,3 June 1992 (aged 30),63,17,German Football Association Eintracht Frankfurt,Germany
+12,GK,Kevin Trapp,8 July 1990 (aged 32),6,0,German Football Association Eintracht Frankfurt,Germany
+13,MF,Thomas Müller,13 September 1989 (aged 33),118,44,German Football Association Bayern Munich,Germany
+14,MF,Jamal Musiala,26 February 2003 (aged 19),17,1,German Football Association Bayern Munich,Germany
+15,DF,Niklas Süle,3 September 1995 (aged 27),42,1,German Football Association Borussia Dortmund,Germany
+16,DF,Lukas Klostermann,3 June 1996 (aged 26),19,0,German Football Association RB Leipzig,Germany
+17,MF,Julian Brandt,2 May 1996 (aged 26),39,3,German Football Association Borussia Dortmund,Germany
+18,MF,Jonas Hofmann,14 July 1992 (aged 30),17,4,German Football Association Borussia Mönchengladbach,Germany
+19,MF,Leroy Sané,11 January 1996 (aged 26),48,11,German Football Association Bayern Munich,Germany
+20,DF,Christian Günter,28 February 1993 (aged 29),7,0,German Football Association SC Freiburg,Germany
+21,MF,İlkay Gündoğan,24 October 1990 (aged 32),63,16,The Football Association Manchester City,Germany
+22,GK,Marc-André ter Stegen,30 April 1992 (aged 30),30,0,Royal Spanish Football Federation Barcelona,Germany
+23,DF,Nico Schlotterbeck,1 December 1999 (aged 22),6,0,German Football Association Borussia Dortmund,Germany
+24,FW,Karim Adeyemi,18 January 2002 (aged 20),4,1,German Football Association Borussia Dortmund,Germany
+25,DF,Armel Bella-Kotchap,11 December 2001 (aged 20),2,0,The Football Association Southampton,Germany
+26,FW,Youssoufa Moukoko,20 November 2004 (aged 18),1,0,German Football Association Borussia Dortmund,Germany
+1,GK,Eiji Kawashima,20 March 1983 (aged 39),95,0,French Football Federation Strasbourg,Japan
+2,DF,Miki Yamane,22 December 1993 (aged 28),15,2,Japan Football Association Kawasaki Frontale,Japan
+3,DF,Shōgo Taniguchi,15 July 1991 (aged 31),14,0,Japan Football Association Kawasaki Frontale,Japan
+4,DF,Kō Itakura,27 January 1997 (aged 25),13,1,German Football Association Borussia Mönchengladbach,Japan
+5,DF,Yūto Nagatomo,12 September 1986 (aged 36),138,4,Japan Football Association FC Tokyo,Japan
+6,MF,Wataru Endo,9 February 1993 (aged 29),43,2,German Football Association VfB Stuttgart,Japan
+7,MF,Gaku Shibasaki,28 May 1992 (aged 30),60,3,Royal Spanish Football Federation Leganés,Japan
+8,MF,Ritsu Dōan,16 June 1998 (aged 24),29,3,German Football Association SC Freiburg,Japan
+9,MF,Kaoru Mitoma,20 May 1997 (aged 25),9,5,The Football Association Brighton & Hove Albion,Japan
+10,MF,Takumi Minamino,16 January 1995 (aged 27),44,17,French Football Federation Monaco,Japan
+11,MF,Takefusa Kubo,4 June 2001 (aged 21),20,1,Royal Spanish Football Federation Real Sociedad,Japan
+12,GK,Shūichi Gonda,3 March 1989 (aged 33),34,0,Japan Football Association Shimizu S-Pulse,Japan
+13,MF,Hidemasa Morita,10 May 1995 (aged 27),17,2,Portuguese Football Federation Sporting CP,Japan
+14,MF,Junya Itō,9 March 1993 (aged 29),38,9,French Football Federation Reims,Japan
+15,MF,Daichi Kamada,5 August 1996 (aged 26),22,6,German Football Association Eintracht Frankfurt,Japan
+16,DF,Takehiro Tomiyasu,5 November 1998 (aged 24),29,1,The Football Association Arsenal,Japan
+17,MF,Ao Tanaka,10 September 1998 (aged 24),15,2,German Football Association Fortuna Düsseldorf,Japan
+18,FW,Takuma Asano,10 November 1994 (aged 28),37,7,German Football Association VfL Bochum,Japan
+19,DF,Hiroki Sakai,12 April 1990 (aged 32),72,1,Japan Football Association Urawa Red Diamonds,Japan
+20,FW,Shūto Machino,30 September 1999 (aged 23),4,3,Japan Football Association Shonan Bellmare,Japan
+21,FW,Ayase Ueda,28 August 1998 (aged 24),11,0,Royal Belgian Football Association Cercle Brugge,Japan
+22,DF,Maya Yoshida,24 August 1988 (aged 34),122,12,German Football Association Schalke 04,Japan
+23,GK,Daniel Schmidt,3 February 1992 (aged 30),11,0,Royal Belgian Football Association Sint-Truiden,Japan
+24,MF,Yūki Sōma,25 February 1997 (aged 25),8,4,Japan Football Association Nagoya Grampus,Japan
+25,FW,Daizen Maeda,20 October 1997 (aged 25),8,1,Scottish Football Association Celtic,Japan
+26,DF,Hiroki Itō,12 May 1999 (aged 23),6,0,German Football Association VfB Stuttgart,Japan
+1,GK,Robert Sánchez,18 November 1997 (aged 25),2,0,The Football Association Brighton & Hove Albion,Spain
+2,DF,César Azpilicueta,28 August 1989 (aged 33),42,1,The Football Association Chelsea,Spain
+3,DF,Eric García,9 January 2001 (aged 21),19,0,Royal Spanish Football Federation Barcelona,Spain
+4,DF,Pau Torres,16 January 1997 (aged 25),22,1,Royal Spanish Football Federation Villarreal,Spain
+5,MF,Sergio Busquets,16 July 1988 (aged 34),139,2,Royal Spanish Football Federation Barcelona,Spain
+6,MF,Marcos Llorente,30 January 1995 (aged 27),17,0,Royal Spanish Football Federation Atlético Madrid,Spain
+7,FW,Álvaro Morata,23 October 1992 (aged 30),57,27,Royal Spanish Football Federation Atlético Madrid,Spain
+8,MF,Koke,8 January 1992 (aged 30),68,0,Royal Spanish Football Federation Atlético Madrid,Spain
+9,MF,Gavi,5 August 2004 (aged 18),13,2,Royal Spanish Football Federation Barcelona,Spain
+10,FW,Marco Asensio,21 January 1996 (aged 26),31,1,Royal Spanish Football Federation Real Madrid,Spain
+11,FW,Ferran Torres,29 February 2000 (aged 22),31,13,Royal Spanish Football Federation Barcelona,Spain
+12,FW,Nico Williams,12 July 2002 (aged 20),3,1,Royal Spanish Football Federation Athletic Bilbao,Spain
+13,GK,David Raya,15 September 1995 (aged 27),2,0,The Football Association Brentford,Spain
+14,DF,Alejandro Balde,18 October 2003 (aged 19),0,0,Royal Spanish Football Federation Barcelona,Spain
+15,DF,Hugo Guillamón,31 January 2000 (aged 22),3,1,Royal Spanish Football Federation Valencia,Spain
+16,MF,Rodri,22 June 1996 (aged 26),35,1,The Football Association Manchester City,Spain
+17,FW,Yéremy Pino,20 October 2002 (aged 20),7,1,Royal Spanish Football Federation Villarreal,Spain
+18,DF,Jordi Alba,21 March 1989 (aged 33),87,9,Royal Spanish Football Federation Barcelona,Spain
+19,MF,Carlos Soler,2 January 1997 (aged 25),12,3,French Football Federation Paris Saint-Germain,Spain
+20,DF,Dani Carvajal,11 January 1992 (aged 30),31,0,Royal Spanish Football Federation Real Madrid,Spain
+21,FW,Dani Olmo,7 May 1998 (aged 24),25,4,German Football Association RB Leipzig,Spain
+22,FW,Pablo Sarabia,11 May 1992 (aged 30),25,9,French Football Federation Paris Saint-Germain,Spain
+23,GK,Unai Simón,11 June 1997 (aged 25),27,0,Royal Spanish Football Federation Athletic Bilbao,Spain
+24,DF,Aymeric Laporte,27 May 1994 (aged 28),16,1,The Football Association Manchester City,Spain
+25,FW,Ansu Fati,31 October 2002 (aged 20),5,2,Royal Spanish Football Federation Barcelona,Spain
+26,MF,Pedri,25 November 2002 (aged 19),14,0,Royal Spanish Football Federation Barcelona,Spain
+1,GK,Thibaut Courtois,11 May 1992 (aged 30),97,0,Royal Spanish Football Federation Real Madrid,Belgium
+2,DF,Toby Alderweireld,2 March 1989 (aged 33),124,5,Royal Belgian Football Association Antwerp,Belgium
+3,DF,Arthur Theate,25 May 2000 (aged 22),4,0,French Football Federation Rennes,Belgium
+4,DF,Wout Faes,3 April 1998 (aged 24),1,0,The Football Association Leicester City,Belgium
+5,DF,Jan Vertonghen,24 April 1987 (aged 35),142,9,Royal Belgian Football Association Anderlecht,Belgium
+6,MF,Axel Witsel,12 January 1989 (aged 33),127,12,Royal Spanish Football Federation Atlético Madrid,Belgium
+7,MF,Kevin De Bruyne,28 June 1991 (aged 31),94,25,The Football Association Manchester City,Belgium
+8,MF,Youri Tielemans,7 May 1997 (aged 25),55,5,The Football Association Leicester City,Belgium
+9,FW,Romelu Lukaku,13 May 1993 (aged 29),102,68,Italian Football Federation Inter Milan,Belgium
+10,FW,Eden Hazard,7 January 1991 (aged 31),123,33,Royal Spanish Football Federation Real Madrid,Belgium
+11,FW,Yannick Carrasco,4 September 1993 (aged 29),60,8,Royal Spanish Football Federation Atlético Madrid,Belgium
+12,GK,Simon Mignolet,6 March 1988 (aged 34),35,0,Royal Belgian Football Association Club Brugge,Belgium
+13,GK,Koen Casteels,25 June 1992 (aged 30),4,0,German Football Association VfL Wolfsburg,Belgium
+14,FW,Dries Mertens,6 May 1987 (aged 35),107,21,Turkish Football Federation Galatasaray,Belgium
+15,MF,Thomas Meunier,12 September 1991 (aged 31),59,8,German Football Association Borussia Dortmund,Belgium
+16,MF,Thorgan Hazard,29 March 1993 (aged 29),45,9,German Football Association Borussia Dortmund,Belgium
+17,FW,Leandro Trossard,4 December 1994 (aged 27),21,5,The Football Association Brighton & Hove Albion,Belgium
+18,MF,Amadou Onana,16 August 2001 (aged 21),2,0,The Football Association Everton,Belgium
+19,DF,Leander Dendoncker,15 April 1995 (aged 27),29,1,The Football Association Aston Villa,Belgium
+20,MF,Hans Vanaken,24 August 1992 (aged 30),23,5,Royal Belgian Football Association Club Brugge,Belgium
+21,MF,Timothy Castagne,5 December 1995 (aged 26),26,2,The Football Association Leicester City,Belgium
+22,FW,Charles De Ketelaere,10 March 2001 (aged 21),10,1,Italian Football Federation Milan,Belgium
+23,FW,Michy Batshuayi,2 October 1993 (aged 29),48,26,Turkish Football Federation Fenerbahçe,Belgium
+24,FW,Loïs Openda,16 February 2000 (aged 22),5,2,French Football Federation Lens,Belgium
+25,FW,Jérémy Doku,27 May 2002 (aged 20),11,2,French Football Federation Rennes,Belgium
+26,DF,Zeno Debast,24 October 2003 (aged 19),3,0,Royal Belgian Football Association Anderlecht,Belgium
+1,GK,Dayne St. Clair,9 May 1997 (aged 25),2,0,United States Soccer Federation Minnesota United FC,Canada
+2,DF,Alistair Johnston,8 October 1998 (aged 24),30,1,Canadian Soccer Association CF Montréal,Canada
+3,DF,Sam Adekugbe,16 January 1995 (aged 27),34,1,Turkish Football Federation Hatayspor,Canada
+4,DF,Kamal Miller,16 May 1997 (aged 25),29,0,Canadian Soccer Association CF Montréal,Canada
+5,DF,Steven Vitória,11 January 1987 (aged 35),35,4,Portuguese Football Federation Chaves,Canada
+6,MF,Samuel Piette,12 November 1994 (aged 28),66,0,Canadian Soccer Association CF Montréal,Canada
+7,MF,Stephen Eustáquio,21 December 1996 (aged 25),26,3,Portuguese Football Federation Porto,Canada
+8,MF,Liam Fraser,13 February 1998 (aged 24),15,0,Royal Belgian Football Association Deinze,Canada
+9,FW,Lucas Cavallini,28 December 1992 (aged 29),34,18,Canadian Soccer Association Vancouver Whitecaps FC,Canada
+10,MF,Junior Hoilett,5 June 1990 (aged 32),50,14,The Football Association Reading,Canada
+11,FW,Tajon Buchanan,8 February 1999 (aged 23),26,4,Royal Belgian Football Association Club Brugge,Canada
+12,FW,Iké Ugbo,21 September 1998 (aged 24),8,0,French Football Federation Troyes,Canada
+13,MF,Atiba Hutchinson,8 February 1983 (aged 39),98,9,Turkish Football Federation Beşiktaş,Canada
+14,MF,Mark-Anthony Kaye,2 December 1994 (aged 27),38,2,Canadian Soccer Association Toronto FC,Canada
+15,MF,Ismaël Koné,16 June 2002 (aged 20),6,1,Canadian Soccer Association CF Montréal,Canada
+16,GK,James Pantemis,21 February 1997 (aged 25),0,0,Canadian Soccer Association CF Montréal,Canada
+17,FW,Cyle Larin,17 April 1995 (aged 27),55,25,Royal Belgian Football Association Club Brugge,Canada
+18,GK,Milan Borjan,23 October 1987 (aged 35),68,0,Football Association of Serbia Red Star Belgrade,Canada
+19,FW,Alphonso Davies,2 November 2000 (aged 22),34,12,German Football Association Bayern Munich,Canada
+20,FW,Jonathan David,14 January 2000 (aged 22),35,22,French Football Federation Lille,Canada
+21,MF,Jonathan Osorio,12 June 1992 (aged 30),57,7,Canadian Soccer Association Toronto FC,Canada
+22,DF,Richie Laryea,7 January 1995 (aged 27),34,1,Canadian Soccer Association Toronto FC,Canada
+23,MF,Liam Millar,27 September 1999 (aged 23),16,0,Swiss Football Association Basel,Canada
+24,MF,David Wotherspoon,16 January 1990 (aged 32),10,1,Scottish Football Association St Johnstone,Canada
+25,DF,Derek Cornelius,25 November 1997 (aged 24),14,0,Hellenic Football Federation Panetolikos,Canada
+26,DF,Joel Waterman,24 January 1996 (aged 26),2,0,Canadian Soccer Association CF Montréal,Canada
+1,GK,Dominik Livaković,9 January 1995 (aged 27),34,0,Croatian Football Federation Dinamo Zagreb,Croatia
+2,DF,Josip Stanišić,2 April 2000 (aged 22),7,0,German Football Association Bayern Munich,Croatia
+3,DF,Borna Barišić,10 November 1992 (aged 30),28,1,Scottish Football Association Rangers,Croatia
+4,FW,Ivan Perišić,2 February 1989 (aged 33),116,32,The Football Association Tottenham Hotspur,Croatia
+5,DF,Martin Erlić,24 January 1998 (aged 24),4,0,Italian Football Federation Sassuolo,Croatia
+6,DF,Dejan Lovren,5 July 1989 (aged 33),72,5,Russian Football Union Zenit Saint Petersburg,Croatia
+7,MF,Lovro Majer,17 January 1998 (aged 24),11,3,French Football Federation Rennes,Croatia
+8,MF,Mateo Kovačić,6 May 1994 (aged 28),84,3,The Football Association Chelsea,Croatia
+9,FW,Andrej Kramarić,19 June 1991 (aged 31),74,20,German Football Association 1899 Hoffenheim,Croatia
+10,MF,Luka Modrić,9 September 1985 (aged 37),155,23,Royal Spanish Football Federation Real Madrid,Croatia
+11,MF,Marcelo Brozović,16 November 1992 (aged 30),77,7,Italian Football Federation Inter Milan,Croatia
+12,GK,Ivo Grbić,18 January 1996 (aged 26),2,0,Royal Spanish Football Federation Atlético Madrid,Croatia
+13,MF,Nikola Vlašić,4 October 1997 (aged 25),42,7,Italian Football Federation Torino,Croatia
+14,FW,Marko Livaja,26 August 1993 (aged 29),14,3,Croatian Football Federation Hajduk Split,Croatia
+15,MF,Mario Pašalić,9 February 1995 (aged 27),43,7,Italian Football Federation Atalanta,Croatia
+16,FW,Bruno Petković,16 September 1994 (aged 28),23,6,Croatian Football Federation Dinamo Zagreb,Croatia
+17,FW,Ante Budimir,22 July 1991 (aged 31),15,1,Royal Spanish Football Federation Osasuna,Croatia
+18,FW,Mislav Oršić,29 December 1992 (aged 29),21,1,Croatian Football Federation Dinamo Zagreb,Croatia
+19,DF,Borna Sosa,21 January 1998 (aged 24),8,1,German Football Association VfB Stuttgart,Croatia
+20,DF,Joško Gvardiol,23 January 2002 (aged 20),12,1,German Football Association RB Leipzig,Croatia
+21,DF,Domagoj Vida,29 April 1989 (aged 33),100,4,Hellenic Football Federation AEK Athens,Croatia
+22,DF,Josip Juranović,16 August 1995 (aged 27),21,0,Scottish Football Association Celtic,Croatia
+23,GK,Ivica Ivušić,1 February 1995 (aged 27),5,0,Croatian Football Federation Osijek,Croatia
+24,DF,Josip Šutalo,28 February 2000 (aged 22),3,0,Croatian Football Federation Dinamo Zagreb,Croatia
+25,MF,Luka Sučić,8 September 2002 (aged 20),4,0,Austrian Football Association Red Bull Salzburg,Croatia
+26,MF,Kristijan Jakić,14 May 1997 (aged 25),4,0,German Football Association Eintracht Frankfurt,Croatia
+1,GK,Yassine Bounou,5 April 1991 (aged 31),46,0,Royal Spanish Football Federation Sevilla,Morocco
+2,DF,Achraf Hakimi,4 November 1998 (aged 24),54,8,French Football Federation Paris Saint-Germain,Morocco
+3,DF,Noussair Mazraoui,14 November 1997 (aged 25),15,2,German Football Association Bayern Munich,Morocco
+4,MF,Sofyan Amrabat,21 August 1996 (aged 26),39,0,Italian Football Federation Fiorentina,Morocco
+5,DF,Nayef Aguerd,30 March 1996 (aged 26),22,1,The Football Association West Ham United,Morocco
+6,DF,Romain Saïss,26 March 1990 (aged 32),66,1,Turkish Football Federation Beşiktaş,Morocco
+7,MF,Hakim Ziyech,19 March 1993 (aged 29),43,18,The Football Association Chelsea,Morocco
+8,MF,Azzedine Ounahi,19 April 2000 (aged 22),10,2,French Football Federation Angers,Morocco
+9,FW,Abderrazak Hamdallah,17 December 1990 (aged 31),18,6,Saudi Arabian Football Federation Al-Ittihad,Morocco
+10,MF,Anass Zaroury,7 November 2000 (aged 22),1,0,The Football Association Burnley,Morocco
+11,FW,Abdelhamid Sabiri,28 November 1996 (aged 25),2,1,Italian Football Federation Sampdoria,Morocco
+12,GK,Munir Mohamedi,10 May 1989 (aged 33),43,0,Saudi Arabian Football Federation Al-Wehda,Morocco
+13,MF,Ilias Chair,30 October 1997 (aged 25),11,1,The Football Association Queens Park Rangers,Morocco
+14,MF,Zakaria Aboukhlal,18 February 2000 (aged 22),12,2,French Football Federation Toulouse,Morocco
+15,MF,Selim Amallah,15 November 1996 (aged 26),24,4,Royal Belgian Football Association Standard Liège,Morocco
+16,FW,Abde Ezzalzouli,17 December 2001 (aged 20),2,0,Royal Spanish Football Federation Osasuna,Morocco
+17,MF,Sofiane Boufal,17 September 1993 (aged 29),32,6,French Football Federation Angers,Morocco
+18,DF,Jawad El Yamiq,29 February 1992 (aged 30),12,2,Royal Spanish Football Federation Valladolid,Morocco
+19,FW,Youssef En-Nesyri,1 June 1997 (aged 25),50,15,Royal Spanish Football Federation Sevilla,Morocco
+20,DF,Achraf Dari,6 May 1999 (aged 23),4,0,French Football Federation Brest,Morocco
+21,FW,Walid Cheddira,22 January 1998 (aged 24),2,0,Italian Football Federation Bari,Morocco
+22,GK,Ahmed Reda Tagnaouti,5 April 1996 (aged 26),3,0,Royal Moroccan Football Federation Wydad AC,Morocco
+23,MF,Bilal El Khannous,10 May 2004 (aged 18),0,0,Royal Belgian Football Association Genk,Morocco
+24,DF,Badr Benoun,30 September 1993 (aged 29),3,0,Qatar Football Association Qatar SC,Morocco
+25,DF,Yahia Attiyat Allah,2 March 1995 (aged 27),2,0,Royal Moroccan Football Federation Wydad AC,Morocco
+26,MF,Yahya Jabrane,18 June 1991 (aged 31),5,0,Royal Moroccan Football Federation Wydad AC,Morocco
+1,GK,Alisson,2 October 1992 (aged 30),57,0,The Football Association Liverpool,Brazil
+2,DF,Danilo,15 July 1991 (aged 31),46,1,Italian Football Federation Juventus,Brazil
+3,DF,Thiago Silva,22 September 1984 (aged 38),109,7,The Football Association Chelsea,Brazil
+4,DF,Marquinhos,14 May 1994 (aged 28),71,5,French Football Federation Paris Saint-Germain,Brazil
+5,MF,Casemiro,23 February 1992 (aged 30),65,5,The Football Association Manchester United,Brazil
+6,DF,Alex Sandro,26 January 1991 (aged 31),37,2,Italian Football Federation Juventus,Brazil
+7,MF,Lucas Paquetá,27 August 1997 (aged 25),35,7,The Football Association West Ham United,Brazil
+8,MF,Fred,5 March 1993 (aged 29),28,0,The Football Association Manchester United,Brazil
+9,FW,Richarlison,10 May 1997 (aged 25),38,17,The Football Association Tottenham Hotspur,Brazil
+10,FW,Neymar,5 February 1992 (aged 30),121,75,French Football Federation Paris Saint-Germain,Brazil
+11,FW,Raphinha,14 December 1996 (aged 25),11,5,Royal Spanish Football Federation Barcelona,Brazil
+12,GK,Weverton,13 December 1987 (aged 34),8,0,Brazilian Football Confederation Palmeiras,Brazil
+13,DF,Dani Alves,6 May 1983 (aged 39),124,8,Mexican Football Federation UNAM,Brazil
+14,DF,Éder Militão,18 January 1998 (aged 24),23,1,Royal Spanish Football Federation Real Madrid,Brazil
+15,MF,Fabinho,23 October 1993 (aged 29),28,0,The Football Association Liverpool,Brazil
+16,DF,Alex Telles,15 December 1992 (aged 29),8,0,Royal Spanish Football Federation Sevilla,Brazil
+17,MF,Bruno Guimarães,16 November 1997 (aged 25),8,1,The Football Association Newcastle United,Brazil
+18,FW,Gabriel Jesus,3 April 1997 (aged 25),56,19,The Football Association Arsenal,Brazil
+19,FW,Antony,24 February 2000 (aged 22),11,2,The Football Association Manchester United,Brazil
+20,FW,Vinícius Júnior,12 July 2000 (aged 22),16,1,Royal Spanish Football Federation Real Madrid,Brazil
+21,FW,Rodrygo,9 January 2001 (aged 21),7,1,Royal Spanish Football Federation Real Madrid,Brazil
+22,MF,Éverton Ribeiro,10 April 1989 (aged 33),21,3,Brazilian Football Confederation Flamengo,Brazil
+23,GK,Ederson,17 August 1993 (aged 29),18,0,The Football Association Manchester City,Brazil
+24,DF,Bremer,18 March 1997 (aged 25),1,0,Italian Football Federation Juventus,Brazil
+25,FW,Pedro,20 June 1997 (aged 25),2,1,Brazilian Football Confederation Flamengo,Brazil
+26,FW,Gabriel Martinelli,18 June 2001 (aged 21),3,0,The Football Association Arsenal,Brazil
+1,GK,Simon Ngapandouetnbu,12 April 2003 (aged 19),0,0,French Football Federation Marseille,Cameroon
+2,DF,Jerome Ngom Mbekeli,30 September 1998 (aged 24),2,0,Cameroonian Football Federation Colombe Sportive,Cameroon
+3,DF,Nicolas Nkoulou,27 March 1990 (aged 32),79,2,Hellenic Football Federation Aris,Cameroon
+4,DF,Christopher Wooh,18 September 2001 (aged 21),4,0,French Football Federation Rennes,Cameroon
+5,MF,Gaël Ondoua,4 November 1995 (aged 27),4,0,German Football Association Hannover 96,Cameroon
+6,FW,Moumi Ngamaleu,9 July 1994 (aged 28),42,4,Russian Football Union Dynamo Moscow,Cameroon
+7,MF,Georges-Kévin Nkoudou,13 February 1995 (aged 27),3,0,Turkish Football Federation Beşiktaş,Cameroon
+8,MF,André-Frank Zambo Anguissa,16 November 1995 (aged 27),44,5,Italian Football Federation Napoli,Cameroon
+9,FW,Jean-Pierre Nsame,1 May 1993 (aged 29),4,0,Swiss Football Association Young Boys,Cameroon
+10,FW,Vincent Aboubakar,22 January 1992 (aged 30),92,33,Saudi Arabian Football Federation Al-Nassr,Cameroon
+11,FW,Christian Bassogog,18 October 1995 (aged 27),44,7,Chinese Football Association Shanghai Shenhua,Cameroon
+12,FW,Karl Toko Ekambi,14 September 1992 (aged 30),52,12,French Football Federation Lyon,Cameroon
+13,FW,Eric Maxim Choupo-Moting,23 March 1989 (aged 33),70,20,German Football Association Bayern Munich,Cameroon
+14,MF,Samuel Gouet,14 December 1997 (aged 24),22,0,Royal Belgian Football Association Mechelen,Cameroon
+15,MF,Pierre Kunde,26 July 1995 (aged 27),33,1,Hellenic Football Federation Olympiacos,Cameroon
+16,GK,Devis Epassy,2 February 1993 (aged 29),5,0,Saudi Arabian Football Federation Abha,Cameroon
+17,DF,Olivier Mbaizo,15 August 1997 (aged 25),11,0,United States Soccer Federation Philadelphia Union,Cameroon
+18,MF,Martin Hongla,16 March 1998 (aged 24),20,0,Italian Football Federation Hellas Verona,Cameroon
+19,DF,Collins Fai,13 August 1992 (aged 30),53,0,Saudi Arabian Football Federation Al-Tai,Cameroon
+20,FW,Bryan Mbeumo,7 August 1999 (aged 23),4,0,The Football Association Brentford,Cameroon
+21,DF,Jean-Charles Castelletto,26 January 1995 (aged 27),15,0,French Football Federation Nantes,Cameroon
+22,MF,Olivier Ntcham,9 February 1996 (aged 26),4,0,Football Association of Wales Swansea City,Cameroon
+23,GK,André Onana,2 April 1996 (aged 26),34,0,Italian Football Federation Inter Milan,Cameroon
+24,DF,Enzo Ebosse,11 March 1999 (aged 23),3,0,Italian Football Federation Udinese,Cameroon
+25,DF,Nouhou Tolo,23 June 1997 (aged 25),19,0,United States Soccer Federation Seattle Sounders FC,Cameroon
+26,MF,Souaibou Marou,3 December 2000 (aged 21),3,1,Cameroonian Football Federation Coton Sport,Cameroon
+1,GK,Marko Dmitrović,24 January 1992 (aged 30),19,0,Royal Spanish Football Federation Sevilla,Serbia
+2,DF,Strahinja Pavlović,24 May 2001 (aged 21),22,1,Austrian Football Association Red Bull Salzburg,Serbia
+3,DF,Strahinja Eraković,22 January 2001 (aged 21),2,0,Football Association of Serbia Red Star Belgrade,Serbia
+4,DF,Nikola Milenković,12 October 1997 (aged 25),39,3,Italian Football Federation Fiorentina,Serbia
+5,DF,Miloš Veljković,26 September 1995 (aged 27),21,0,German Football Association Werder Bremen,Serbia
+6,MF,Nemanja Maksimović,26 January 1995 (aged 27),40,0,Royal Spanish Football Federation Getafe,Serbia
+7,FW,Nemanja Radonjić,15 February 1996 (aged 26),36,5,Italian Football Federation Torino,Serbia
+8,MF,Nemanja Gudelj,16 November 1991 (aged 31),49,1,Royal Spanish Football Federation Sevilla,Serbia
+9,FW,Aleksandar Mitrović,16 September 1994 (aged 28),76,50,The Football Association Fulham,Serbia
+10,FW,Dušan Tadić,20 November 1988 (aged 34),91,20,Royal Dutch Football Association Ajax,Serbia
+11,FW,Luka Jović,23 December 1997 (aged 24),29,10,Italian Football Federation Fiorentina,Serbia
+12,GK,Predrag Rajković,31 October 1995 (aged 27),28,0,Royal Spanish Football Federation Mallorca,Serbia
+13,DF,Stefan Mitrović,22 May 1990 (aged 32),35,0,Royal Spanish Football Federation Getafe,Serbia
+14,MF,Andrija Živković,11 July 1996 (aged 26),29,1,Hellenic Football Federation PAOK,Serbia
+15,DF,Srđan Babić,22 April 1996 (aged 26),2,0,Royal Spanish Football Federation Almería,Serbia
+16,MF,Saša Lukić,13 August 1996 (aged 26),32,2,Italian Football Federation Torino,Serbia
+17,MF,Filip Kostić,1 November 1992 (aged 30),50,3,Italian Football Federation Juventus,Serbia
+18,FW,Dušan Vlahović,28 January 2000 (aged 22),17,9,Italian Football Federation Juventus,Serbia
+19,MF,Uroš Račić,17 March 1998 (aged 24),9,0,Portuguese Football Federation Braga,Serbia
+20,MF,Sergej Milinković-Savić,27 February 1995 (aged 27),36,6,Italian Football Federation Lazio,Serbia
+21,FW,Filip Đuričić,30 January 1992 (aged 30),37,5,Italian Football Federation Sampdoria,Serbia
+22,MF,Darko Lazović,15 September 1990 (aged 32),26,1,Italian Football Federation Hellas Verona,Serbia
+23,GK,Vanja Milinković-Savić,20 February 1997 (aged 25),7,0,Italian Football Federation Torino,Serbia
+24,MF,Ivan Ilić,17 March 2001 (aged 21),6,0,Italian Football Federation Hellas Verona,Serbia
+25,DF,Filip Mladenović,15 August 1991 (aged 31),20,1,Polish Football Association Legia Warsaw,Serbia
+26,MF,Marko Grujić,13 April 1996 (aged 26),18,0,Portuguese Football Federation Porto,Serbia
+1,GK,Yann Sommer,17 December 1988 (aged 33),77,0,German Football Association Borussia Mönchengladbach,Switzerland
+2,DF,Edimilson Fernandes,15 April 1996 (aged 26),22,2,German Football Association Mainz 05,Switzerland
+3,DF,Silvan Widmer,5 March 1993 (aged 29),34,2,German Football Association Mainz 05,Switzerland
+4,DF,Nico Elvedi,30 September 1996 (aged 26),41,1,German Football Association Borussia Mönchengladbach,Switzerland
+5,DF,Manuel Akanji,19 July 1995 (aged 27),43,1,The Football Association Manchester City,Switzerland
+6,MF,Denis Zakaria,20 November 1996 (aged 26),43,3,The Football Association Chelsea,Switzerland
+7,FW,Breel Embolo,14 February 1997 (aged 25),59,11,French Football Federation Monaco,Switzerland
+8,MF,Remo Freuler,15 April 1992 (aged 30),49,5,The Football Association Nottingham Forest,Switzerland
+9,FW,Haris Seferovic,22 February 1992 (aged 30),89,25,Turkish Football Federation Galatasaray,Switzerland
+10,MF,Granit Xhaka,27 September 1992 (aged 30),107,12,The Football Association Arsenal,Switzerland
+11,DF,Renato Steffen,3 November 1991 (aged 31),28,1,Swiss Football Association Lugano,Switzerland
+12,GK,Jonas Omlin,10 January 1994 (aged 28),4,0,French Football Federation Montpellier,Switzerland
+13,DF,Ricardo Rodriguez,25 August 1992 (aged 30),100,9,Italian Football Federation Torino,Switzerland
+14,MF,Michel Aebischer,6 January 1997 (aged 25),12,0,Italian Football Federation Bologna,Switzerland
+15,MF,Djibril Sow,6 February 1997 (aged 25),32,0,German Football Association Eintracht Frankfurt,Switzerland
+16,MF,Christian Fassnacht,11 November 1993 (aged 29),16,4,Swiss Football Association Young Boys,Switzerland
+17,FW,Rubén Vargas,5 August 1998 (aged 24),27,4,German Football Association FC Augsburg,Switzerland
+18,DF,Eray Cömert,4 February 1998 (aged 24),10,0,Royal Spanish Football Federation Valencia,Switzerland
+19,FW,Noah Okafor,24 May 2000 (aged 22),9,2,Austrian Football Association Red Bull Salzburg,Switzerland
+20,MF,Fabian Frei,8 January 1989 (aged 33),22,3,Swiss Football Association Basel,Switzerland
+21,GK,Gregor Kobel,6 December 1997 (aged 24),3,0,German Football Association Borussia Dortmund,Switzerland
+22,DF,Fabian Schär,20 December 1991 (aged 30),73,8,The Football Association Newcastle United,Switzerland
+23,MF,Xherdan Shaqiri,10 October 1991 (aged 31),109,26,United States Soccer Federation Chicago Fire FC,Switzerland
+24,GK,Philipp Köhn,2 April 1998 (aged 24),0,0,Austrian Football Association Red Bull Salzburg,Switzerland
+25,MF,Fabian Rieder,16 February 2002 (aged 20),0,0,Swiss Football Association Young Boys,Switzerland
+26,MF,Ardon Jashari,30 July 2002 (aged 20),1,0,Swiss Football Association Luzern,Switzerland
+1,GK,Lawrence Ati-Zigi,29 November 1996 (aged 25),11,0,Swiss Football Association St. Gallen,Ghana
+2,DF,Tariq Lamptey,30 September 2000 (aged 22),2,0,The Football Association Brighton & Hove Albion,Ghana
+3,DF,Denis Odoi,27 May 1988 (aged 34),4,0,Royal Belgian Football Association Club Brugge,Ghana
+4,DF,Mohammed Salisu,17 April 1999 (aged 23),3,1,The Football Association Southampton,Ghana
+5,MF,Thomas Partey,13 June 1993 (aged 29),40,13,The Football Association Arsenal,Ghana
+6,MF,Elisha Owusu,7 November 1997 (aged 25),3,0,Royal Belgian Football Association Gent,Ghana
+7,MF,Abdul Fatawu Issahaku,8 March 2004 (aged 18),13,1,Portuguese Football Federation Sporting CP,Ghana
+8,MF,Daniel-Kofi Kyereh,8 March 1996 (aged 26),15,0,German Football Association SC Freiburg,Ghana
+9,FW,Jordan Ayew,11 September 1991 (aged 31),84,19,The Football Association Crystal Palace,Ghana
+10,FW,André Ayew,17 December 1989 (aged 32),110,23,Qatar Football Association Al-Sadd,Ghana
+11,MF,Osman Bukari,13 December 1998 (aged 23),7,1,Football Association of Serbia Red Star Belgrade,Ghana
+12,GK,Ibrahim Danlad,2 December 2002 (aged 19),4,0,Ghana Football Association Asante Kotoko,Ghana
+13,MF,Daniel Afriyie,26 June 2001 (aged 21),7,3,Ghana Football Association Hearts of Oak,Ghana
+14,DF,Gideon Mensah,18 July 1998 (aged 24),12,0,French Football Federation Auxerre,Ghana
+15,DF,Joseph Aidoo,29 September 1995 (aged 27),11,0,Royal Spanish Football Federation Celta Vigo,Ghana
+16,GK,Abdul Manaf Nurudeen,8 February 1999 (aged 23),2,0,Royal Belgian Football Association Eupen,Ghana
+17,DF,Baba Rahman,2 July 1994 (aged 28),48,1,The Football Association Reading,Ghana
+18,DF,Daniel Amartey,21 December 1994 (aged 27),46,0,The Football Association Leicester City,Ghana
+19,FW,Iñaki Williams,15 June 1994 (aged 28),3,0,Royal Spanish Football Federation Athletic Bilbao,Ghana
+20,MF,Mohammed Kudus,2 August 2000 (aged 22),18,5,Royal Dutch Football Association Ajax,Ghana
+21,MF,Salis Abdul Samed,26 March 2000 (aged 22),1,0,French Football Federation Lens,Ghana
+22,MF,Kamaldeen Sulemana,15 February 2002 (aged 20),13,0,French Football Federation Rennes,Ghana
+23,DF,Alexander Djiku,9 August 1994 (aged 28),18,1,French Football Federation Strasbourg,Ghana
+24,MF,Kamal Sowah,9 January 2000 (aged 22),1,0,Royal Belgian Football Association Club Brugge,Ghana
+25,FW,Antoine Semenyo,7 January 2000 (aged 22),4,1,The Football Association Bristol City,Ghana
+26,DF,Alidu Seidu,4 June 2000 (aged 22),4,0,French Football Federation Clermont,Ghana
+1,GK,Rui Patrício,15 February 1988 (aged 34),105,0,Italian Football Federation Roma,Portugal
+2,DF,Diogo Dalot,18 March 1999 (aged 23),7,2,The Football Association Manchester United,Portugal
+3,DF,Pepe,26 February 1983 (aged 39),129,7,Portuguese Football Federation Porto,Portugal
+4,DF,Rúben Dias,14 May 1997 (aged 25),40,2,The Football Association Manchester City,Portugal
+5,DF,Raphaël Guerreiro,22 December 1993 (aged 28),57,3,German Football Association Borussia Dortmund,Portugal
+6,MF,João Palhinha,9 July 1995 (aged 27),15,2,The Football Association Fulham,Portugal
+7,FW,Cristiano Ronaldo,5 February 1985 (aged 37),191,117,The Football Association Manchester United,Portugal
+8,MF,Bruno Fernandes,8 September 1994 (aged 28),49,11,The Football Association Manchester United,Portugal
+9,FW,André Silva,6 November 1995 (aged 27),52,19,German Football Association RB Leipzig,Portugal
+10,FW,Bernardo Silva,10 August 1994 (aged 28),73,8,The Football Association Manchester City,Portugal
+11,FW,João Félix,10 November 1999 (aged 23),24,3,Royal Spanish Football Federation Atlético Madrid,Portugal
+12,GK,José Sá,17 January 1993 (aged 29),0,0,The Football Association Wolverhampton Wanderers,Portugal
+13,DF,Danilo Pereira,9 September 1991 (aged 31),63,2,French Football Federation Paris Saint-Germain,Portugal
+14,MF,William Carvalho,7 April 1992 (aged 30),76,5,Royal Spanish Football Federation Real Betis,Portugal
+15,FW,Rafael Leão,10 June 1999 (aged 23),11,0,Italian Football Federation Milan,Portugal
+16,MF,Vitinha,13 February 2000 (aged 22),5,0,French Football Federation Paris Saint-Germain,Portugal
+17,MF,João Mário,19 January 1993 (aged 29),53,3,Portuguese Football Federation Benfica,Portugal
+18,MF,Rúben Neves,13 March 1997 (aged 25),32,0,The Football Association Wolverhampton Wanderers,Portugal
+19,DF,Nuno Mendes,19 June 2002 (aged 20),17,0,French Football Federation Paris Saint-Germain,Portugal
+20,DF,João Cancelo,27 May 1994 (aged 28),37,7,The Football Association Manchester City,Portugal
+21,FW,Ricardo Horta,15 September 1994 (aged 28),6,1,Portuguese Football Federation Braga,Portugal
+22,GK,Diogo Costa,19 September 1999 (aged 23),7,0,Portuguese Football Federation Porto,Portugal
+23,MF,Matheus Nunes,27 August 1998 (aged 24),9,1,The Football Association Wolverhampton Wanderers,Portugal
+24,DF,António Silva,30 October 2003 (aged 19),1,0,Portuguese Football Federation Benfica,Portugal
+25,MF,Otávio,9 February 1995 (aged 27),8,2,Portuguese Football Federation Porto,Portugal
+26,FW,Gonçalo Ramos,20 June 2001 (aged 21),1,1,Portuguese Football Federation Benfica,Portugal
+1,GK,Kim Seung-gyu,30 September 1990 (aged 32),67,0,Saudi Arabian Football Federation Al-Shabab,South Korea
+2,DF,Yoon Jong-gyu,20 March 1998 (aged 24),4,0,Korea Football Association FC Seoul,South Korea
+3,DF,Kim Jin-su,13 June 1992 (aged 30),61,2,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+4,DF,Kim Min-jae,15 November 1996 (aged 26),44,3,Italian Football Federation Napoli,South Korea
+5,MF,Jung Woo-young,14 December 1989 (aged 32),66,3,Qatar Football Association Al-Sadd,South Korea
+6,MF,Hwang In-beom,20 September 1996 (aged 26),37,4,Hellenic Football Federation Olympiacos,South Korea
+7,FW,Son Heung-min,8 July 1992 (aged 30),104,35,The Football Association Tottenham Hotspur,South Korea
+8,MF,Paik Seung-ho,17 March 1997 (aged 25),14,2,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+9,FW,Cho Gue-sung,25 January 1998 (aged 24),16,4,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+10,MF,Lee Jae-sung,10 August 1992 (aged 30),64,9,German Football Association Mainz 05,South Korea
+11,MF,Hwang Hee-chan,26 January 1996 (aged 26),49,9,The Football Association Wolverhampton Wanderers,South Korea
+12,GK,Song Bum-keun,15 October 1997 (aged 25),1,0,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+13,MF,Son Jun-ho,12 May 1992 (aged 30),15,0,Chinese Football Association Shandong Taishan,South Korea
+14,DF,Hong Chul,17 September 1990 (aged 32),46,1,Korea Football Association Daegu FC,South Korea
+15,DF,Kim Moon-hwan,1 August 1995 (aged 27),22,0,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+16,FW,Hwang Ui-jo,28 August 1992 (aged 30),49,16,Hellenic Football Federation Olympiacos,South Korea
+17,MF,Na Sang-ho,12 August 1996 (aged 26),24,2,Korea Football Association FC Seoul,South Korea
+18,MF,Lee Kang-in,19 February 2001 (aged 21),6,0,Royal Spanish Football Federation Mallorca,South Korea
+19,DF,Kim Young-gwon,27 February 1990 (aged 32),96,6,Korea Football Association Ulsan Hyundai,South Korea
+20,DF,Kwon Kyung-won,31 January 1992 (aged 30),28,2,Japan Football Association Gamba Osaka,South Korea
+21,GK,Jo Hyeon-woo,25 September 1991 (aged 31),22,0,Korea Football Association Ulsan Hyundai,South Korea
+22,MF,Kwon Chang-hoon,30 June 1994 (aged 28),42,12,Korea Football Association Gimcheon Sangmu,South Korea
+23,DF,Kim Tae-hwan,24 July 1989 (aged 33),19,0,Korea Football Association Ulsan Hyundai,South Korea
+24,DF,Cho Yu-min,17 November 1996 (aged 26),4,0,Korea Football Association Daejeon Hana Citizen,South Korea
+25,MF,Jeong Woo-yeong,20 September 1999 (aged 23),9,2,German Football Association SC Freiburg,South Korea
+26,MF,Song Min-kyu,12 September 1999 (aged 23),13,1,Korea Football Association Jeonbuk Hyundai Motors,South Korea
+1,GK,Fernando Muslera,16 June 1986 (aged 36),133,0,Turkish Football Federation Galatasaray,Uruguay
+2,DF,José Giménez,20 January 1995 (aged 27),78,8,Royal Spanish Football Federation Atlético Madrid,Uruguay
+3,DF,Diego Godín,16 February 1986 (aged 36),159,8,Argentine Football Association Vélez Sarsfield,Uruguay
+4,DF,Ronald Araújo,7 March 1999 (aged 23),12,0,Royal Spanish Football Federation Barcelona,Uruguay
+5,MF,Matías Vecino,24 August 1991 (aged 31),62,4,Italian Football Federation Lazio,Uruguay
+6,MF,Rodrigo Bentancur,25 June 1997 (aged 25),51,1,The Football Association Tottenham Hotspur,Uruguay
+7,MF,Nicolás de la Cruz,1 June 1997 (aged 25),17,2,Argentine Football Association River Plate,Uruguay
+8,FW,Facundo Pellistri,20 December 2001 (aged 20),7,0,The Football Association Manchester United,Uruguay
+9,FW,Luis Suárez,24 January 1987 (aged 35),134,68,Uruguayan Football Association Nacional,Uruguay
+10,MF,Giorgian de Arrascaeta,1 June 1994 (aged 28),40,8,Brazilian Football Confederation Flamengo,Uruguay
+11,FW,Darwin Núñez,24 June 1999 (aged 23),13,3,The Football Association Liverpool,Uruguay
+12,GK,Sebastián Sosa,19 August 1986 (aged 36),1,0,Argentine Football Association Independiente,Uruguay
+13,DF,Guillermo Varela,24 March 1993 (aged 29),9,0,Brazilian Football Confederation Flamengo,Uruguay
+14,MF,Lucas Torreira,11 February 1996 (aged 26),40,0,Turkish Football Federation Galatasaray,Uruguay
+15,MF,Federico Valverde,22 July 1998 (aged 24),44,4,Royal Spanish Football Federation Real Madrid,Uruguay
+16,DF,Mathías Olivera,31 October 1997 (aged 25),8,0,Italian Football Federation Napoli,Uruguay
+17,DF,Matías Viña,9 November 1997 (aged 25),26,0,Italian Football Federation Roma,Uruguay
+18,FW,Maxi Gómez,14 August 1996 (aged 26),27,4,Turkish Football Federation Trabzonspor,Uruguay
+19,DF,Sebastián Coates,7 October 1990 (aged 32),47,1,Portuguese Football Federation Sporting CP,Uruguay
+20,FW,Facundo Torres,13 April 2000 (aged 22),10,0,United States Soccer Federation Orlando City SC,Uruguay
+21,FW,Edinson Cavani,14 February 1987 (aged 35),133,58,Royal Spanish Football Federation Valencia,Uruguay
+22,DF,Martín Cáceres,7 April 1987 (aged 35),115,4,United States Soccer Federation LA Galaxy,Uruguay
+23,GK,Sergio Rochet,23 March 1993 (aged 29),8,0,Uruguayan Football Association Nacional,Uruguay
+24,MF,Agustín Canobbio,1 October 1998 (aged 24),3,0,Brazilian Football Confederation Athletico Paranaense,Uruguay
+25,MF,Manuel Ugarte,11 April 2001 (aged 21),6,0,Portuguese Football Federation Sporting CP,Uruguay
+26,DF,José Luis Rodríguez,14 March 1997 (aged 25),0,0,Uruguayan Football Association Nacional,Uruguay

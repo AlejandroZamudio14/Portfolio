@@ -1,0 +1,558 @@
+,Player,Position,Minutes,Team,game_id,Goals,xG,Shots on Target,Shots,Passes,Assists,Successful Dribbles,Tackles,Interceptions,Dispossessed,Miscontrols,Fouls,Yellow Cards,Red Cards
+0,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,71,Qatar,3857286,0,0.21267414,0,1,10,0,0,0,0,0,1,1,1,0
+1,Akram Hassan Afif,Left Center Forward,95,Qatar,3857286,0,0.009109482,0,1,36,0,2,0,0,1,1,1,1,0
+2,Michael Steveen Estrada Martínez,Left Center Forward,89,Ecuador,3857286,0,0.0,0,0,19,0,2,0,0,1,2,0,0,0
+3,Enner Remberto Valencia Lastra,Right Center Forward,75,Ecuador,3857286,2,0.8722808799999999,2,2,20,0,2,0,0,1,2,1,0,0
+4,Mohammed Muntari,Right Center Forward,24,Qatar,3857286,0,0.045332674,0,1,4,0,0,0,0,0,0,0,0,0
+5,Kevin José Rodríguez Cortez,Center Forward,6,Ecuador,3857286,0,0.13848205,0,1,0,0,0,1,0,0,0,1,0,0
+6,Alireza Jahanbakhsh,Right Wing,58,Iran,3857271,0,0.11232807,0,1,8,0,0,1,0,0,0,2,1,0
+7,Mehdi Taremi,Center Forward,103,Iran,3857271,2,0.911224045,2,3,21,0,0,0,0,3,1,2,0,0
+8,Bukayo Saka,Right Wing,70,England,3857271,2,0.169339465,3,3,29,0,1,1,0,2,1,2,0,0
+9,Raheem Sterling,Left Wing,70,England,3857271,1,0.1885282,1,1,29,0,2,0,0,2,2,0,0,0
+10,Harry Kane,Center Forward,75,England,3857271,0,0.0,0,0,16,2,1,0,0,0,1,0,0,0
+11,Ehsan Hajsafi,Left Wing,103,Iran,3857271,0,0.0,0,0,28,0,0,0,0,0,0,1,0,0
+12,Jack Grealish,Left Wing,33,England,3857271,1,0.6262809,1,1,19,0,0,0,0,0,0,0,0,0
+13,Marcus Rashford,Right Wing,33,England,3857271,1,0.48580678,1,2,20,0,2,0,0,0,1,1,0,0
+14,Callum Wilson,Center Forward,28,England,3857271,0,0.0,0,0,5,1,0,0,0,0,1,0,0,0
+15,Sardar Azmoun,Left Center Forward,27,Iran,3857271,0,0.35130003,0,1,4,0,0,0,0,0,0,0,0,0
+16,Joshua Sargent,Center Forward,73,United States,3857282,0,0.25332773,0,1,11,0,0,0,0,2,1,1,0,0
+17,Timothy Weah,Right Wing,87,United States,3857282,1,0.20100605,1,1,28,0,0,0,0,1,1,0,0,0
+18,Christian Pulisic,Left Wing,100,United States,3857282,0,0.0,0,0,51,1,1,1,0,7,4,0,0,0
+19,Daniel James,Left Center Forward,46,Wales,3857282,0,0.0,0,0,8,0,0,0,0,1,4,0,0,0
+20,Gareth Frank Bale,Right Center Forward,100,Wales,3857282,1,0.7835,1,1,25,0,0,1,0,2,1,2,1,0
+21,Kieffer Roberto Francisco Moore,Left Center Forward,55,Wales,3857282,0,0.224836066,0,2,15,0,0,0,0,1,2,2,0,0
+22,Haji Wright,Center Forward,27,United States,3857282,0,0.027433796,0,1,4,0,0,0,0,0,2,0,0,0
+23,Jordan Morris,Right Wing,13,United States,3857282,0,0.0,0,0,3,0,0,0,0,0,0,0,0,0
+24,Vincent Janssen,Right Center Forward,61,Netherlands,3857285,0,0.15551722,0,2,12,0,1,2,0,0,2,1,0,0
+25,Ismaïla Sarr,Left Wing,99,Senegal,3857285,0,0.158767545,0,3,22,0,2,3,0,2,2,1,0,0
+26,Krépin Diatta,Right Wing,73,Senegal,3857285,0,0.08950830700000001,0,2,36,0,0,0,0,1,3,0,0,0
+27,Steven Bergwijn,Left Center Forward,78,Netherlands,3857285,0,0.0,0,0,19,0,0,1,0,0,3,0,0,0
+28,Boulaye Dia,Center Forward,68,Senegal,3857285,0,0.077079646,1,2,11,0,0,0,0,0,0,0,0,0
+29,Memphis Depay,Left Center Forward,38,Netherlands,3857285,0,0.102816984,1,1,12,0,1,0,0,1,3,0,0,0
+30,Nicolas Jackson,Right Wing,26,Senegal,3857285,0,0.0,0,0,10,0,0,0,0,0,1,1,0,0
+31,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,31,Senegal,3857285,0,0.23485426,0,2,3,0,0,1,0,0,1,1,0,0
+32,Kasper Dolberg,Left Center Forward,64,Denmark,3857254,0,0.380551344,0,2,11,0,0,0,0,1,3,2,0,0
+33,Andreas Skov Olsen,Right Center Forward,64,Denmark,3857254,0,0.0,0,0,28,0,0,0,0,3,2,0,0,0
+34,Issam Jebali,Center Forward,80,Tunisia,3857254,0,0.593087234,1,3,18,0,1,2,0,1,2,2,0,0
+35,Anis Ben Slimane,Right Wing,66,Tunisia,3857254,0,0.0,0,0,24,0,1,0,0,2,1,0,0,0
+36,Youssef Msakni,Left Wing,79,Tunisia,3857254,0,0.139569514,0,3,25,0,3,1,0,3,1,0,0,0
+37,Naïm Sliti,Right Wing,31,Tunisia,3857254,0,0.0,0,0,10,0,2,0,0,0,2,0,0,0
+38,Andreas Evald Cornelius,Center Forward,33,Denmark,3857254,0,0.735790536,2,3,4,0,1,0,0,1,4,0,0,0
+39,Hannibal Mejbri,Right Wing,18,Tunisia,3857254,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+40,Taha Yassine Khenissi,Center Forward,17,Tunisia,3857254,0,0.0,0,0,2,0,0,0,0,0,0,2,1,0
+41,Jesper Lindstrøm,Right Wing,33,Denmark,3857254,0,0.0,0,0,4,0,0,0,0,1,1,0,0,0
+42,Saleh Khalid Al Shehri,Center Forward,77,Saudi Arabia,3857300,1,0.080592275,1,1,15,0,1,2,0,0,4,2,0,0
+43,Lautaro Javier Martínez,Left Center Forward,103,Argentina,3857300,0,0.164921135,0,2,16,0,0,0,0,3,1,1,0,0
+44,Lionel Andrés Messi Cuccittini,Right Center Forward,103,Argentina,3857300,1,1.070924102,3,4,46,0,2,0,0,4,2,1,0,0
+45,Haitham Mohammed Asiri,Center Forward,15,Saudi Arabia,3857300,0,0.0,0,0,2,0,0,0,0,0,0,1,0,0
+46,Olivier Giroud,Center Forward,88,France,3857279,2,1.3466877299999997,2,5,11,0,0,0,0,0,1,1,0,0
+47,Kylian Mbappé Lottin,Left Wing,97,France,3857279,1,1.024786081,1,7,57,1,4,0,0,2,5,1,0,0
+48,Ousmane Dembélé,Right Wing,76,France,3857279,0,0.099969384,0,2,32,1,2,0,0,2,0,0,0,0
+49,Mitchell Thomas Duke,Center Forward,55,Australia,3857279,0,0.017896876,0,1,9,0,0,0,0,1,5,2,1,0
+50,Jason Cummings,Center Forward,42,Australia,3857279,0,0.0,0,0,6,0,0,0,0,1,0,0,0,0
+51,Kingsley Coman,Right Wing,21,France,3857279,0,0.0,0,0,13,0,1,0,0,0,2,0,0,0
+52,Marcus Thuram,Center Forward,9,France,3857279,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Henry Josué Martín Mex,Center Forward,70,Mexico,3857265,0,0.06434309,1,1,12,0,0,1,0,1,4,1,0,0
+54,Robert Lewandowski,Center Forward,97,Poland,3857265,0,0.8404645279999999,1,2,24,0,1,1,0,3,6,1,0,0
+55,Ernesto Alexis Vega Rojas,Left Wing,83,Mexico,3857265,0,0.208783141,0,5,32,0,1,1,0,4,2,0,0,0
+56,Hirving Rodrigo Lozano Bahena,Right Wing,97,Mexico,3857265,0,0.02413981,1,1,33,0,2,2,0,1,2,4,0,0
+57,Raúl Alonso Jiménez Rodríguez,Center Forward,27,Mexico,3857265,0,0.0,0,0,9,0,0,0,0,0,1,0,0,0
+58,Carlos Uriel Antuna Romero,Right Wing,14,Mexico,3857265,0,0.0400392,1,1,4,0,0,0,0,0,1,0,0,0
+59,Arkadiusz Milik,Right Center Forward,10,Poland,3857265,0,0.0,0,0,7,0,1,0,0,0,0,0,0,0
+60,Youssef En-Nesyri,Center Forward,80,Morocco,3857277,0,0.03416934,0,1,15,0,0,0,0,0,0,0,0,0
+61,Ivan Perišić,Left Wing,89,Croatia,3857277,0,0.00976612,0,1,41,0,0,2,0,1,1,1,0,0
+62,Andrej Kramarić,Center Forward,69,Croatia,3857277,0,0.0,0,0,12,0,1,0,0,2,1,0,0,0
+63,Nikola Vlašić,Right Wing,46,Croatia,3857277,0,0.51656157,1,2,10,0,0,0,0,3,2,1,0,0
+64,Mario Pašalić,Right Wing,50,Croatia,3857277,0,0.0,0,0,15,0,0,1,0,1,1,0,0,0
+65,Marko Livaja,Center Forward,26,Croatia,3857277,0,0.0,0,0,9,0,0,1,0,1,0,0,0,0
+66,Abderrazak Hamdallah,Center Forward,15,Morocco,3857277,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+67,Mislav Oršić,Left Wing,6,Croatia,3857277,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+68,Daniel Olmo Carvajal,Left Wing,98,Spain,3857291,1,0.748379587,2,4,71,1,0,0,0,1,0,1,0,0
+69,Ferrán Torres García,Right Wing,56,Spain,3857291,2,0.88848973,2,2,25,0,0,1,0,3,2,0,0,0
+70,Marco Asensio Willemsen,Center Forward,68,Spain,3857291,1,0.391805705,1,5,40,0,2,1,0,1,3,1,0,0
+71,Anthony Daniel Contreras Enríquez,Left Center Forward,60,Costa Rica,3857291,0,0.0,0,0,7,0,0,1,0,3,1,0,0,0
+72,Joel Nathaniel Campbell Samuels,Right Center Forward,98,Costa Rica,3857291,0,0.0,0,0,24,0,0,2,0,4,4,2,1,0
+73,Álvaro Borja Morata Martín,Center Forward,42,Spain,3857291,1,0.22854048999999999,1,2,9,1,0,0,0,1,0,0,0,0
+74,Bryan Ruiz González,Left Wing,38,Costa Rica,3857291,0,0.0,0,0,13,0,1,1,0,0,0,0,0,0
+75,Álvaro José Zamora Mata,Right Wing,38,Costa Rica,3857291,0,0.0,0,0,5,0,0,0,0,1,1,0,0,0
+76,Nicholas Williams Arthuer,Right Wing,30,Spain,3857291,0,0.0,0,0,9,0,2,0,0,2,1,0,0,0
+77,Jonathan David,Center Forward,95,Canada,3857268,0,0.75992735,0,7,24,0,0,0,0,1,6,1,0,0
+78,Michy Batshuayi Tunga,Center Forward,77,Belgium,3857268,1,0.485057431,2,5,13,0,0,0,0,3,3,3,0,0
+79,Cyle Larin,Center Forward,38,Canada,3857268,0,0.24979668400000002,1,3,11,0,0,0,0,0,2,0,0,0
+80,Ikoma Loïs Openda,Center Forward,18,Belgium,3857268,0,0.0,0,0,5,0,1,1,0,0,1,0,0,0
+81,Kai Havertz,Center Forward,78,Germany,3857284,0,0.0,0,0,22,0,0,1,0,1,1,2,0,0
+82,Daizen Maeda,Center Forward,56,Japan,3857284,0,0.07710243,0,1,5,0,0,0,0,0,1,1,0,0
+83,Jamal Musiala,Left Wing,78,Germany,3857284,0,0.26407773,0,3,44,0,1,1,0,7,2,0,0,0
+84,Serge Gnabry,Right Wing,89,Germany,3857284,0,0.448605553,3,6,50,0,0,1,0,1,1,0,0,0
+85,Junya Ito,Right Wing,98,Japan,3857284,0,0.06845111,1,1,18,0,0,1,0,3,1,0,0,0
+86,Takefusa Kubo,Left Wing,46,Japan,3857284,0,0.0,0,0,4,0,0,1,0,1,3,2,0,0
+87,Takuma Asano,Center Forward,42,Japan,3857284,1,0.225983355,1,5,6,0,0,0,0,0,1,2,0,0
+88,Jonas Hofmann,Right Wing,32,Germany,3857284,0,0.32657883,1,1,18,0,1,0,0,1,0,0,0,0
+89,Ritsu Doan,Right Wing,28,Japan,3857284,1,0.4777511,1,1,2,0,0,2,0,0,1,0,0,0
+90,Takumi Minamino,Left Wing,25,Japan,3857284,0,0.013784891,1,1,3,0,0,0,0,0,1,1,0,0
+91,Niclas Füllkrug,Center Forward,20,Germany,3857284,0,0.031593546,0,1,4,0,0,0,0,0,2,0,0,0
+92,Youssoufa Moukoko,Right Center Forward,9,Germany,3857284,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+93,Richarlison de Andrade,Center Forward,78,Brazil,3857258,2,0.68382945,2,3,14,0,0,0,0,0,5,1,0,0
+94,Vinícius José Paixão de Oliveira Júnior,Left Wing,75,Brazil,3857258,0,0.330003712,1,4,27,1,3,1,0,2,0,0,0,0
+95,Raphael Dias Belloli,Right Wing,86,Brazil,3857258,0,0.541620616,2,2,35,0,2,2,0,1,3,1,0,0
+96,Aleksandar Mitrović,Center Forward,82,Serbia,3857258,0,0.0,0,0,22,0,0,0,0,0,2,1,0,0
+97,Rodrygo Silva de Goes,Left Wing,22,Brazil,3857258,0,0.08841886600000001,1,2,14,0,0,0,0,1,0,0,0,0
+98,Antony Matheus dos Santos,Left Wing,18,Brazil,3857258,0,0.009657804,0,1,15,0,1,0,0,1,1,0,0,0
+99,Gabriel Fernando de Jesus,Center Forward,19,Brazil,3857258,0,0.0,0,0,8,0,1,0,0,0,1,1,0,0
+100,Gabriel Teodoro Martinelli Silva,Left Wing,11,Brazil,3857258,0,0.0,0,0,3,0,0,0,0,0,1,1,0,0
+101,Xherdan Shaqiri,Right Wing,71,Switzerland,3857290,0,0.0,0,0,41,1,0,0,0,0,0,0,0,0
+102,Bryan Mbeumo,Right Wing,80,Cameroon,3857290,0,0.016072592,1,1,43,0,2,0,0,2,3,0,0,0
+103,Ruben Vargas,Left Wing,80,Switzerland,3857290,0,0.1977995,1,1,36,0,1,0,0,1,1,2,0,0
+104,Breel-Donald Embolo,Center Forward,71,Switzerland,3857290,1,0.55189455,1,1,18,0,0,0,0,2,3,0,0,0
+105,Karl Brillant Toko Ekambi,Left Wing,73,Cameroon,3857290,0,0.15900026,0,1,31,0,0,0,0,2,1,0,0,0
+106,Jean-Eric Maxim Choupo-Moting,Center Forward,73,Cameroon,3857290,0,0.0541181275,1,2,19,0,1,0,0,1,2,0,0,0
+107,Georges-Kévin Nkoudou Mbida,Left Wing,22,Cameroon,3857290,0,0.0,0,0,3,0,1,1,0,2,1,1,0,0
+108,Vincent Paté Aboubakar,Center Forward,22,Cameroon,3857290,0,0.0,0,0,8,0,1,0,0,0,0,0,0,0
+109,Haris Seferović,Center Forward,24,Switzerland,3857290,0,0.27028984,0,1,5,0,0,0,0,0,1,1,0,0
+110,Fabian Rieder,Left Wing,15,Switzerland,3857290,0,0.0,0,0,9,0,0,1,0,0,1,0,0,0
+111,Noah Okafor,Right Wing,24,Switzerland,3857290,0,0.0,0,0,11,0,0,0,0,1,2,0,0,0
+112,Nicolas Moumi Ngamaleu,Right Wing,15,Cameroon,3857290,0,0.0,0,0,3,0,0,0,0,0,1,1,0,0
+113,Cristiano Ronaldo dos Santos Aveiro,Center Forward,87,Portugal,3857298,1,1.479147692,2,4,19,0,0,0,0,3,1,2,0,0
+114,João Félix Sequeira,Left Wing,87,Portugal,3857298,1,0.29352822,1,2,32,0,2,2,0,1,2,3,0,0
+115,André Ayew Pelé,Right Center Forward,76,Ghana,3857298,1,0.48524466,1,1,14,0,0,1,0,2,1,2,1,0
+116,Bruno Miguel Borges Fernandes,Right Wing,100,Portugal,3857298,0,0.0,0,0,57,2,0,1,0,2,0,1,1,0
+117,Iñaki Williams Arthuer,Left Center Forward,100,Ghana,3857298,0,0.020453067,0,1,16,0,1,0,0,2,2,1,0,0
+118,Osman Bukari,Right Center Forward,25,Ghana,3857298,1,0.1618494647,1,2,8,0,0,0,0,1,0,1,0,0
+119,Rafael Alexandre Conceição Leão,Left Wing,24,Portugal,3857298,1,0.181461744,1,2,9,0,0,0,0,3,1,1,0,0
+120,Gonçalo Matias Ramos,Center Forward,13,Portugal,3857298,0,0.0,0,0,7,0,0,0,0,0,0,0,0,0
+121,João Mário Naval da Costa Eduardo,Right Wing,13,Portugal,3857298,0,0.0,0,0,3,0,0,0,0,0,0,0,0,0
+122,Ui-Jo Hwang,Center Forward,73,South Korea,3857287,0,0.323128,0,1,8,0,1,0,0,0,4,0,0,0
+123,Darwin Gabriel Núñez Ribeiro,Left Wing,97,Uruguay,3857287,0,0.028178101,0,1,22,0,2,1,0,2,4,1,0,0
+124,Heung-Min Son,Left Wing,97,South Korea,3857287,0,0.0335565,0,1,30,0,1,1,0,1,3,0,0,0
+125,Luis Alberto Suárez Díaz,Center Forward,63,Uruguay,3857287,0,0.0,0,0,13,0,0,0,0,0,4,0,0,0
+126,Sang-Ho Na,Right Wing,74,South Korea,3857287,0,0.0,0,0,22,0,0,2,0,4,0,2,0,0
+127,Facundo Pellistri Rebollo,Right Wing,87,Uruguay,3857287,0,0.0,0,0,20,0,0,1,0,1,1,2,0,0
+128,Kang-In Lee,Right Wing,23,South Korea,3857287,0,0.023162797,0,1,9,0,1,1,0,1,0,1,0,0
+129,Gue-Sung Cho,Center Forward,24,South Korea,3857287,0,0.036145955,0,1,7,0,0,0,0,1,1,2,1,0
+130,Edinson Roberto Cavani Gómez,Right Center Forward,34,Uruguay,3857287,0,0.10494056,0,2,6,0,0,0,0,0,1,0,0,0
+131,Kieffer Roberto Francisco Moore,Left Center Forward,102,Wales,3857273,0,0.3495107,1,2,28,0,0,0,0,1,3,1,0,0
+132,Sardar Azmoun,Center Forward,67,Iran,3857273,0,0.609281293,2,4,15,0,0,0,0,1,0,0,0,0
+133,Gareth Frank Bale,Right Center Forward,102,Wales,3857273,0,0.02170084,1,1,25,0,1,0,0,2,3,0,0,0
+134,Karim Ansarifard,Center Forward,35,Iran,3857273,0,0.06399969,0,1,4,0,0,0,0,0,1,0,0,0
+135,Akram Hassan Afif,Left Center Forward,95,Qatar,3857301,0,0.019990891,0,1,49,0,1,0,0,2,1,1,0,0
+136,Krépin Diatta,Left Wing,63,Senegal,3857301,0,0.039485876,1,1,27,0,1,1,0,3,2,1,0,0
+137,Famara Diedhiou,Center Forward,73,Senegal,3857301,1,0.238120196,1,3,9,0,0,0,0,2,3,2,0,0
+138,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,95,Qatar,3857301,0,0.271142308,1,2,22,0,2,0,0,1,5,1,0,0
+139,Ismaïla Sarr,Right Wing,73,Senegal,3857301,0,0.103602664,0,2,16,0,3,1,0,1,2,0,0,0
+140,Iliman Ndiaye,Right Wing,22,Senegal,3857301,0,0.0,0,0,10,1,2,0,0,0,0,0,0,0
+141,Mohammed Muntari,Left Center Forward,21,Qatar,3857301,1,0.13964503499999997,1,2,2,0,0,0,0,0,0,1,0,0
+142,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,22,Senegal,3857301,1,0.11607656,1,1,4,0,0,0,0,1,2,2,0,0
+143,Haji Wright,Left Center Forward,82,United States,3857272,0,0.090269857,0,2,11,0,0,0,0,1,0,0,0,0
+144,Timothy Weah,Right Center Forward,82,United States,3857272,0,0.0,0,0,25,0,3,1,0,0,3,0,0,0
+145,Raheem Sterling,Left Wing,67,England,3857272,0,0.0,0,0,21,0,0,0,0,1,2,0,0,0
+146,Harry Kane,Center Forward,94,England,3857272,0,0.17599504,0,2,25,0,0,2,0,1,1,0,0,0
+147,Bukayo Saka,Right Wing,77,England,3857272,0,0.08680134,0,1,27,0,1,1,0,1,1,1,0,0
+148,Jack Grealish,Left Wing,27,England,3857272,0,0.0,0,0,13,0,0,0,0,0,0,0,0,0
+149,Joshua Sargent,Left Center Forward,12,United States,3857272,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+150,Marcus Rashford,Right Wing,17,England,3857272,0,0.009332121,1,1,2,0,1,0,0,0,0,0,0,0
+151,Giovanni Reyna,Right Center Forward,12,United States,3857272,0,0.0,0,0,4,0,0,0,0,0,0,0,0,0
+152,Michael Steveen Estrada Martínez,Center Forward,73,Ecuador,3857274,0,0.203843194,0,2,17,0,0,1,0,1,4,3,0,0
+153,Cody Mathès Gakpo,Right Center Forward,78,Netherlands,3857274,1,0.059259485,1,1,20,0,0,1,0,5,2,1,0,0
+154,Steven Bergwijn,Left Center Forward,47,Netherlands,3857274,0,0.0,0,0,16,0,1,0,0,1,0,1,0,0
+155,Memphis Depay,Left Center Forward,51,Netherlands,3857274,0,0.0,0,0,12,0,0,0,0,2,4,0,0,0
+156,Wout Weghorst,Right Center Forward,18,Netherlands,3857274,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+157,Kevin José Rodríguez Cortez,Center Forward,7,Ecuador,3857274,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+158,Riley McGree,Left Center Forward,63,Australia,3857288,0,0.0,0,0,20,0,0,0,0,0,1,3,0,0
+159,Issam Jebali,Center Forward,72,Tunisia,3857288,0,0.0,0,0,15,0,1,0,0,2,2,2,0,0
+160,Mitchell Thomas Duke,Right Center Forward,63,Australia,3857288,1,0.188942116,2,4,18,0,1,0,0,1,2,0,0,0
+161,Ajdin Hrustic,Right Center Forward,33,Australia,3857288,0,0.0,0,0,13,0,0,0,0,1,1,1,0,0
+162,Jamie MacLaren,Left Center Forward,33,Australia,3857288,0,0.0,0,0,10,0,0,0,0,0,0,0,0,0
+163,Taha Yassine Khenissi,Center Forward,24,Tunisia,3857288,0,0.012915949,0,1,1,0,0,0,0,1,0,1,0,0
+164,Lionel Andrés Messi Cuccittini,Right Center Forward,96,Argentina,3857289,1,0.101247489,1,2,45,1,2,1,0,5,2,3,0,0
+165,Hirving Rodrigo Lozano Bahena,Right Center Forward,72,Mexico,3857289,0,0.040303126,0,1,7,0,0,0,0,3,4,2,0,0
+166,Ernesto Alexis Vega Rojas,Left Center Forward,65,Mexico,3857289,0,0.0671939257,1,2,9,0,0,1,0,2,1,2,0,0
+167,Lautaro Javier Martínez,Left Center Forward,62,Argentina,3857289,0,0.13799548,0,1,7,0,1,0,0,1,4,0,0,0
+168,Raúl Alonso Jiménez Rodríguez,Center Forward,31,Mexico,3857289,0,0.0,0,0,14,0,0,0,0,0,1,1,0,0
+169,Carlos Uriel Antuna Romero,Right Wing,31,Mexico,3857289,0,0.0,0,0,6,0,1,2,0,0,1,0,0,0
+170,Julián Álvarez,Left Center Forward,34,Argentina,3857289,0,0.0,0,0,8,0,0,0,0,0,0,1,0,0
+171,Roberto Carlos Alvarado Hernández,Left Wing,24,Mexico,3857289,0,0.0,0,0,11,0,0,0,0,1,0,1,1,0
+172,Andreas Evald Cornelius,Center Forward,47,Denmark,3857266,0,0.048269883,0,1,15,0,0,0,0,2,0,3,1,0
+173,Jesper Lindstrøm,Right Wing,84,Denmark,3857266,0,0.18929456,1,1,24,0,2,0,0,0,3,1,0,0
+174,Ousmane Dembélé,Right Wing,74,France,3857266,0,0.094440772,0,2,27,0,4,1,0,3,0,1,0,0
+175,Mikkel Damsgaard,Left Wing,72,Denmark,3857266,0,0.0,0,0,29,0,0,1,0,2,1,0,0,0
+176,Kylian Mbappé Lottin,Left Wing,96,France,3857266,2,0.735812103,4,6,37,0,3,0,0,2,1,0,0,0
+177,Olivier Giroud,Center Forward,61,France,3857266,0,0.164060264,0,2,10,0,0,0,0,0,3,0,0,0
+178,Martin Braithwaite Christensen,Center Forward,51,Denmark,3857266,0,0.23786028,0,1,7,0,1,0,0,2,0,0,0,0
+179,Marcus Thuram,Center Forward,35,France,3857266,0,0.0,0,0,5,0,1,0,0,2,1,0,0,0
+180,Kingsley Coman,Right Wing,22,France,3857266,0,0.0,0,0,14,0,5,0,0,1,1,0,0,0
+181,Kasper Dolberg,Left Wing,24,Denmark,3857266,0,0.0,0,0,3,0,1,0,0,0,2,0,0,0
+182,Salem Mohammed Al Dawsari,Left Wing,97,Saudi Arabia,3857297,0,0.995616369,3,4,70,0,2,1,0,1,2,0,0,0
+183,Robert Lewandowski,Left Center Forward,97,Poland,3857297,1,1.2604797589999999,2,5,21,1,3,2,0,4,5,2,0,0
+184,Saleh Khalid Al Shehri,Center Forward,85,Saudi Arabia,3857297,0,0.044610713,0,1,15,0,1,1,0,0,2,3,0,0
+185,Arkadiusz Milik,Right Center Forward,70,Poland,3857297,0,0.13519733,0,1,15,0,0,1,0,2,1,1,1,0
+186,Firas Tariq Nasser Al Albirakan,Right Wing,97,Saudi Arabia,3857297,0,0.11089649,0,1,28,0,1,0,0,2,1,1,0,0
+187,Krzysztof Piątek,Left Center Forward,27,Poland,3857297,0,0.02819521,0,1,4,0,0,0,0,1,2,0,0,0
+188,Abdulrahman Al-Obood,Right Wing,13,Saudi Arabia,3857297,0,0.041744728,0,1,6,0,0,0,0,0,1,0,0,0
+189,Hattan Babhir,Left Center Forward,3,Saudi Arabia,3857297,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+190,Marko Livaja,Center Forward,59,Croatia,3857281,1,0.81880374,3,3,12,0,0,0,0,0,5,1,0,0
+191,Jonathan David,Left Center Forward,72,Canada,3857281,0,0.052886155,1,1,23,0,0,0,0,1,3,0,0,0
+192,Cyle Larin,Right Center Forward,46,Canada,3857281,0,0.0,0,0,9,0,0,0,0,0,3,0,0,0
+193,Andrej Kramarić,Right Wing,72,Croatia,3857281,2,0.6993455129999999,3,5,33,0,1,0,0,0,1,0,0,0
+194,Ivan Perišić,Left Wing,85,Croatia,3857281,0,0.055285826999999996,1,2,43,2,2,0,0,0,3,4,0,0
+195,Bruno Petković,Center Forward,36,Croatia,3857281,0,0.0,0,0,15,0,0,0,0,0,0,0,0,0
+196,Lucas Daniel Cavallini,Left Center Forward,23,Canada,3857281,0,0.0,0,0,3,0,0,0,0,0,1,1,0,0
+197,Nikola Vlašić,Right Wing,23,Croatia,3857281,0,0.0,0,0,5,0,0,0,0,1,0,0,0,0
+198,Mislav Oršić,Left Wing,10,Croatia,3857281,0,0.045590583,1,1,3,1,0,0,0,0,0,0,0,0
+199,Michy Batshuayi Tunga,Center Forward,74,Belgium,3857283,0,0.13561569,1,1,10,0,1,0,0,4,2,2,0,0
+200,Kevin De Bruyne,Right Wing,95,Belgium,3857283,0,0.052741134999999995,0,3,63,0,1,0,0,1,3,0,0,0
+201,Hakim Ziyech,Right Wing,95,Morocco,3857283,0,0.040893083999999996,1,2,30,1,3,1,0,2,1,2,0,0
+202,Thorgan Hazard,Left Wing,74,Belgium,3857283,0,0.0,0,0,48,0,0,2,0,0,1,2,0,0
+203,Sofiane Boufal,Left Wing,71,Morocco,3857283,0,0.01369968,0,1,22,0,2,0,0,2,0,0,0,0
+204,Youssef En-Nesyri,Center Forward,71,Morocco,3857283,0,0.0,0,0,6,0,1,0,0,0,2,0,0,0
+205,Leandro Trossard,Left Wing,21,Belgium,3857283,0,0.0,0,0,14,0,0,1,0,0,0,0,0,0
+206,Abderrazak Hamdallah,Center Forward,24,Morocco,3857283,0,0.036752854,1,1,4,0,0,0,0,1,1,1,0,0
+207,Zakaria Aboukhlal,Left Wing,24,Morocco,3857283,1,0.18104906,1,1,5,0,0,1,0,0,0,0,0,0
+208,Charles De Ketelaere,Right Wing,21,Belgium,3857283,0,0.0,0,0,4,0,0,0,0,1,0,0,0,0
+209,Romelu Lukaku Menama,Center Forward,15,Belgium,3857283,0,0.0,0,0,1,0,0,0,0,1,1,0,0,0
+210,Ferrán Torres García,Right Wing,53,Spain,3857263,0,0.11672238500000001,0,2,20,0,0,0,0,1,1,1,0,0
+211,Jamal Musiala,Left Wing,95,Germany,3857263,0,0.28996226,1,1,20,0,8,0,0,4,3,0,0,0
+212,Serge Gnabry,Right Wing,84,Germany,3857263,0,0.053443604,0,2,18,0,2,1,0,3,1,2,0,0
+213,Daniel Olmo Carvajal,Left Wing,95,Spain,3857263,0,0.0440084355,1,2,41,0,0,1,0,4,5,2,0,0
+214,Marco Asensio Willemsen,Center Forward,65,Spain,3857263,0,0.13836038,0,1,34,0,0,0,0,1,4,2,0,0
+215,Thomas Müller,Center Forward,69,Germany,3857263,0,0.0,0,0,12,0,0,1,0,0,1,0,0,0
+216,Álvaro Borja Morata Martín,Center Forward,42,Spain,3857263,1,0.31874228,1,1,8,0,0,0,0,1,2,0,0,0
+217,Nicholas Williams Arthuer,Right Wing,30,Spain,3857263,0,0.0,0,0,9,0,2,1,0,2,3,0,0,0
+218,Niclas Füllkrug,Center Forward,26,Germany,3857263,1,0.6025922260000001,1,3,7,0,1,0,0,0,0,0,0,0
+219,Leroy Sané,Right Wing,26,Germany,3857263,0,0.0,0,0,9,0,1,0,0,0,0,0,0,0
+220,Jonas Hofmann,Left Wing,11,Germany,3857263,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+221,Joel Nathaniel Campbell Samuels,Left Wing,94,Costa Rica,3857295,0,0.051288527,0,1,46,0,4,3,0,4,1,0,0,0
+222,Ayase Ueda,Right Center Forward,45,Japan,3857295,0,0.0,0,0,11,0,0,0,0,2,6,1,0,0
+223,Daichi Kamada,Left Center Forward,96,Japan,3857295,0,0.19429146,1,2,34,0,0,1,0,2,3,1,0,0
+224,Anthony Daniel Contreras Enríquez,Center Forward,64,Costa Rica,3857295,0,0.0,0,0,12,0,1,1,0,3,2,1,1,0
+225,Gerson Torres Barrantes,Right Wing,64,Costa Rica,3857295,0,0.01353695,0,1,17,0,2,0,0,2,3,2,0,0
+226,Takuma Asano,Center Forward,51,Japan,3857295,0,0.138847712,1,2,6,0,0,0,0,1,1,1,0,0
+227,Brandon Aguilera Zamora,Right Wing,32,Costa Rica,3857295,0,0.0,0,0,10,0,0,2,0,0,0,0,0,0
+228,Junya Ito,Right Wing,30,Japan,3857295,0,0.0,0,0,7,0,2,0,0,1,1,1,0,0
+229,Jewison Bennette,Left Wing,32,Costa Rica,3857295,0,0.0,0,0,3,0,0,0,0,1,0,0,0,0
+230,Takumi Minamino,Right Wing,15,Japan,3857295,0,0.0,0,0,7,0,0,1,0,0,1,0,0,0
+231,Youstin Delfin Salas Gómez,Right Wing,8,Costa Rica,3857295,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+232,Mohammed Kudus,Right Wing,82,Ghana,3857299,2,0.35499835999999996,2,2,21,0,0,2,0,2,0,0,0,0
+233,Chang-Hoon Kwon,Right Wing,56,South Korea,3857299,0,0.0,0,0,23,0,0,0,0,2,0,0,0,0
+234,Heung-Min Son,Left Wing,100,South Korea,3857299,0,0.125500534,0,2,38,0,1,0,0,3,2,0,0,0
+235,Jordan Ayew,Left Wing,77,Ghana,3857299,0,0.0,0,0,22,1,2,3,0,1,3,0,0,0
+236,Gue-Sung Cho,Center Forward,100,South Korea,3857299,2,0.635906938,4,6,18,0,1,0,0,5,0,3,0,0
+237,Iñaki Williams Arthuer,Center Forward,100,Ghana,3857299,0,0.10557394,0,1,14,0,0,0,0,1,1,3,0,0
+238,Sang-Ho Na,Right Wing,55,South Korea,3857299,0,0.05996953,1,1,16,0,0,0,0,1,0,0,0,0
+239,Kamaldeen Sulemana,Left Wing,23,Ghana,3857299,0,0.0,0,0,4,0,0,0,0,0,0,1,0,0
+240,Aleksandar Mitrović,Center Forward,96,Serbia,3857259,1,1.3493668570000001,2,7,22,0,1,2,0,1,1,0,0,0
+241,Jean-Eric Maxim Choupo-Moting,Center Forward,96,Cameroon,3857259,1,0.46942416,1,1,27,0,3,0,0,0,0,0,0,0
+242,Karl Brillant Toko Ekambi,Left Wing,66,Cameroon,3857259,0,0.02132554,1,1,11,0,0,0,0,2,0,0,0,0
+243,Bryan Mbeumo,Right Wing,80,Cameroon,3857259,0,0.0,0,0,23,0,0,1,0,1,1,0,0,0
+244,Christian Mougang Bassogog,Right Wing,30,Cameroon,3857259,0,0.0,0,0,9,0,2,0,0,0,0,0,0,0
+245,Georges-Kévin Nkoudou Mbida,Left Wing,16,Cameroon,3857259,0,0.0070103277,1,1,8,0,0,0,0,0,0,0,0,0
+246,Ruben Vargas,Left Wing,57,Switzerland,3857269,0,0.029704679,0,1,20,0,0,1,0,2,1,2,0,0
+247,Breel-Donald Embolo,Center Forward,74,Switzerland,3857269,0,0.0,0,0,12,0,0,0,0,2,1,0,0,0
+248,Raphael Dias Belloli,Right Wing,72,Brazil,3857269,0,0.02201561,1,1,35,0,0,0,0,0,0,0,0,0
+249,Richarlison de Andrade,Center Forward,72,Brazil,3857269,0,0.060543337,0,2,7,0,0,0,0,1,3,0,0,0
+250,Vinícius José Paixão de Oliveira Júnior,Left Wing,95,Brazil,3857269,0,0.21638125,1,1,22,0,1,1,0,8,3,0,0,0
+251,Fabian Rieder,Right Wing,58,Switzerland,3857269,0,0.0,0,0,18,0,1,2,0,2,0,4,1,0
+252,Edimilson Fernandes,Left Wing,38,Switzerland,3857269,0,0.029247057,0,1,13,0,1,0,0,0,1,0,0,0
+253,Renato Steffen,Right Wing,37,Switzerland,3857269,0,0.0,0,0,13,0,0,0,0,0,0,0,0,0
+254,Gabriel Fernando de Jesus,Center Forward,23,Brazil,3857269,0,0.0,0,0,6,0,0,1,0,0,0,0,0,0
+255,Haris Seferović,Center Forward,21,Switzerland,3857269,0,0.0,0,0,3,0,0,0,0,0,1,0,0,0
+256,Darwin Gabriel Núñez Ribeiro,Right Center Forward,71,Uruguay,3857270,0,0.03092143,1,1,17,0,0,0,0,2,4,1,0,0
+257,João Félix Sequeira,Left Center Forward,82,Portugal,3857270,0,0.092352426,0,3,36,0,0,0,0,0,1,4,1,0
+258,Cristiano Ronaldo dos Santos Aveiro,Right Center Forward,82,Portugal,3857270,0,0.063164471,0,3,40,0,0,0,0,0,1,0,0,0
+259,Edinson Roberto Cavani Gómez,Left Center Forward,72,Uruguay,3857270,0,0.07401822,0,1,20,0,0,0,0,0,1,0,0,0
+260,Luis Alberto Suárez Díaz,Right Center Forward,28,Uruguay,3857270,0,0.088375136,0,1,7,0,0,0,0,1,0,0,0,0
+261,Maximiliano Gómez González,Left Center Forward,29,Uruguay,3857270,0,0.047642853,0,1,4,0,0,0,0,0,0,1,0,0
+262,Gonçalo Matias Ramos,Center Forward,18,Portugal,3857270,0,0.0,0,0,5,0,0,0,0,0,1,1,0,0
+263,Memphis Depay,Left Center Forward,65,Netherlands,3857294,0,0.585236477,1,5,33,0,0,0,0,4,1,2,0,0
+264,Cody Mathès Gakpo,Right Center Forward,82,Netherlands,3857294,1,0.16396834200000002,1,2,40,0,0,1,0,0,2,1,0,0
+265,Akram Hassan Afif,Left Center Forward,96,Qatar,3857294,0,0.0,0,0,81,0,0,0,0,3,2,0,0,0
+266,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,64,Qatar,3857294,0,0.0,0,0,14,0,1,1,0,0,2,0,0,0
+267,Mohammed Muntari,Right Center Forward,32,Qatar,3857294,0,0.0,0,0,13,0,0,0,0,1,0,1,0,0
+268,Vincent Janssen,Left Center Forward,31,Netherlands,3857294,0,0.0,0,0,8,0,0,0,0,2,1,1,0,0
+269,Ahmed Alaa Eldin Abdelmotaal,Left Center Forward,12,Qatar,3857294,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+270,Wout Weghorst,Right Center Forward,14,Netherlands,3857294,0,0.0,0,0,2,0,0,0,0,0,1,2,0,0
+271,Harry Kane,Center Forward,57,England,3857261,0,0.058247065,0,2,9,1,0,0,0,1,1,0,0,0
+272,Phil Foden,Right Wing,93,England,3857261,1,1.22865907,1,5,36,0,2,0,0,0,2,2,0,0
+273,Marcus Rashford,Left Wing,75,England,3857261,2,0.662278414,4,6,31,0,3,2,0,0,3,0,0,0
+274,Gareth Frank Bale,Right Wing,45,Wales,3857261,0,0.0,0,0,5,0,0,0,0,0,1,0,0,0
+275,Kieffer Roberto Francisco Moore,Center Forward,93,Wales,3857261,0,0.065982343,1,2,17,0,0,0,0,1,4,2,0,0
+276,Daniel James,Left Wing,76,Wales,3857261,0,0.0,0,0,15,0,0,0,0,1,0,1,1,0
+277,Brennan Johnson,Right Wing,48,Wales,3857261,0,0.02192258,0,1,3,0,0,0,0,0,0,2,0,0
+278,Callum Wilson,Center Forward,36,England,3857261,0,0.0,0,0,7,0,0,0,0,2,2,0,0,0
+279,Jack Grealish,Right Wing,18,England,3857261,0,0.0,0,0,15,0,2,0,0,0,0,0,0,0
+280,Harry Wilson,Left Wing,17,Wales,3857261,0,0.031328887,0,1,7,0,0,0,0,0,0,0,0,0
+281,Sardar Azmoun,Center Forward,48,Iran,3857278,0,0.0,0,0,13,0,0,0,0,0,0,2,0,0
+282,Timothy Weah,Right Wing,81,United States,3857278,0,0.16742896000000002,1,2,32,0,1,0,0,1,4,1,0,0
+283,Christian Pulisic,Left Wing,50,United States,3857278,1,0.610759206,2,2,16,0,1,0,0,1,1,0,0,0
+284,Joshua Sargent,Center Forward,76,United States,3857278,0,0.10870075200000001,1,3,21,0,1,0,0,2,3,2,0,0
+285,Brenden Aaronson,Left Wing,54,United States,3857278,0,0.0,0,0,12,0,2,0,0,0,4,0,0,0
+286,Saman Ghoddos,Left Wing,54,Iran,3857278,0,0.39133456,0,1,21,0,0,1,0,1,3,2,0,0
+287,Karim Ansarifard,Right Center Forward,23,Iran,3857278,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0
+288,Haji Wright,Center Forward,23,United States,3857278,0,0.057746947,1,1,4,0,0,0,0,1,3,1,0,0
+289,Gonzalo Jordy Plata Jiménez,Right Wing,96,Ecuador,3857267,0,0.058988493,1,1,36,0,1,1,0,1,1,3,0,0
+290,Iliman Ndiaye,Right Wing,74,Senegal,3857267,0,0.07411676,0,2,16,0,5,0,0,0,1,0,0,0
+291,Enner Remberto Valencia Lastra,Left Wing,96,Ecuador,3857267,0,0.049651184,0,2,10,0,0,0,0,2,7,1,0,0
+292,Ismaïla Sarr,Left Wing,96,Senegal,3857267,1,0.849701335,1,3,23,0,3,0,0,4,2,2,0,0
+293,Michael Steveen Estrada Martínez,Center Forward,63,Ecuador,3857267,0,0.042533338,0,1,7,0,0,0,0,0,4,3,0,0
+294,Boulaye Dia,Center Forward,94,Senegal,3857267,0,0.21294739000000001,0,2,11,0,2,0,0,2,5,2,0,0
+295,Djorkaeff Neicer Reasco González,Right Center Forward,33,Ecuador,3857267,0,0.0,0,0,3,0,0,0,0,1,2,1,0,0
+296,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,22,Senegal,3857267,0,0.0,0,0,5,0,0,1,0,1,0,1,0,0
+297,Karol Świderski,Left Center Forward,48,Poland,3857264,0,0.0,0,0,8,0,0,0,0,1,1,0,0,0
+298,Julián Álvarez,Left Wing,78,Argentina,3857264,1,0.81140879,3,6,24,0,0,1,0,2,0,0,0,0
+299,Lionel Andrés Messi Cuccittini,Center Forward,95,Argentina,3857264,0,1.163422857,4,7,70,0,5,1,0,8,1,0,0,0
+300,Robert Lewandowski,Right Center Forward,95,Poland,3857264,0,0.0,0,0,19,0,0,0,0,2,3,1,0,0
+301,Ángel Fabián Di María Hernández,Right Wing,58,Argentina,3857264,0,0.044473081,2,3,51,0,7,1,0,1,1,0,0,0
+302,Lautaro Javier Martínez,Center Forward,17,Argentina,3857264,0,0.17955275,0,1,11,0,0,0,0,0,0,0,0,0
+303,Krzysztof Piątek,Right Center Forward,13,Poland,3857264,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+304,Thiago Ezequiel Almada,Left Wing,13,Argentina,3857264,0,0.0,0,0,13,0,0,0,0,0,0,0,0,0
+305,Wahbi Khazri,Center Forward,59,Tunisia,3857275,1,0.183698872,2,3,10,0,0,0,0,3,2,1,0,0
+306,Kingsley Coman,Right Wing,62,France,3857275,0,0.08786314,0,1,18,0,1,0,0,3,3,0,0,0
+307,Randal Kolo Muani,Center Forward,102,France,3857275,0,0.041042205,0,1,17,0,2,1,0,5,5,2,0,0
+308,Mattéo Guendouzi Olié,Left Wing,78,France,3857275,0,0.0,0,0,32,0,0,0,0,1,0,0,0,0
+309,Issam Jebali,Center Forward,43,Tunisia,3857275,0,0.0,0,0,4,0,0,0,0,3,1,3,0,0
+310,Kylian Mbappé Lottin,Left Wing,40,France,3857275,0,0.08112707899999999,2,3,25,0,2,0,0,2,2,0,0,0
+311,Ousmane Dembélé,Right Wing,24,France,3857275,0,0.020325886,1,1,18,0,0,1,0,0,1,0,0,0
+312,Henry Josué Martín Mex,Center Forward,76,Mexico,3857260,1,0.60433031,1,3,10,0,0,0,0,1,2,2,0,0
+313,Saleh Khalid Al Shehri,Right Center Forward,61,Saudi Arabia,3857260,0,0.02182735,1,1,16,0,0,0,0,1,2,2,1,0
+314,Mohammed Kanoo,Left Center Forward,97,Saudi Arabia,3857260,0,0.12136625200000001,0,2,27,0,1,1,0,1,2,2,0,0
+315,Hirving Rodrigo Lozano Bahena,Right Wing,97,Mexico,3857260,0,0.17596274439999998,2,4,34,0,3,1,0,3,6,1,0,0
+316,Ernesto Alexis Vega Rojas,Left Wing,50,Mexico,3857260,0,0.41603199,1,2,13,0,0,0,0,1,4,0,0,0
+317,Carlos Uriel Antuna Romero,Right Wing,52,Mexico,3857260,0,0.26870292,0,1,8,0,0,1,0,0,3,0,0,0
+318,Abdulrahman Al-Obood,Right Wing,36,Saudi Arabia,3857260,0,0.0,0,0,7,0,0,2,0,0,2,0,0,0
+319,Raúl Alonso Jiménez Rodríguez,Center Forward,21,Mexico,3857260,0,0.0,0,0,9,0,0,0,0,0,0,1,0,0
+320,Hattan Babhir,Right Wing,10,Saudi Arabia,3857260,0,0.0,0,0,4,1,0,0,0,0,0,2,1,0
+321,Rogelio Gabriel Funes Mori,Left Center Forward,12,Mexico,3857260,0,0.06664524,0,1,0,0,0,0,0,0,0,2,0,0
+322,Martin Braithwaite Christensen,Center Forward,58,Denmark,3857257,0,0.0,0,0,12,0,0,0,0,0,2,0,0,0
+323,Mitchell Thomas Duke,Left Center Forward,81,Australia,3857257,0,0.047893127,2,2,27,0,0,0,0,0,3,3,0,0
+324,Riley McGree,Right Center Forward,73,Australia,3857257,0,0.049720664,1,2,17,1,0,0,0,0,4,3,0,0
+325,Andreas Skov Olsen,Right Wing,68,Denmark,3857257,0,0.311829907,1,4,34,0,1,0,0,1,2,2,0,0
+326,Jesper Lindstrøm,Left Wing,96,Denmark,3857257,0,0.144888588,0,2,26,0,4,1,0,0,3,3,0,0
+327,Kasper Dolberg,Center Forward,38,Denmark,3857257,0,0.131434905,2,2,4,0,1,1,0,3,2,0,0,0
+328,Andreas Evald Cornelius,Right Center Forward,27,Denmark,3857257,0,0.017447446,0,1,13,0,0,0,0,0,2,1,0,0
+329,Jamie MacLaren,Center Forward,15,Australia,3857257,0,0.0,0,0,3,0,0,0,0,0,0,1,0,0
+330,Ajdin Hrustic,Left Wing,8,Australia,3857257,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+331,Youssef En-Nesyri,Center Forward,93,Morocco,3857276,1,0.19852830500000002,1,2,18,0,2,0,0,0,3,1,0,0
+332,Hakim Ziyech,Right Wing,75,Morocco,3857276,1,0.047101409999999996,1,2,40,0,2,2,0,1,1,1,0,0
+333,Sofiane Boufal,Left Wing,64,Morocco,3857276,0,0.06158555,0,1,18,0,0,2,0,1,3,5,0,0
+334,Cyle Larin,Center Forward,59,Canada,3857276,0,0.0,0,0,11,0,1,0,0,2,1,2,0,0
+335,Jonathan David,Center Forward,34,Canada,3857276,0,0.0,0,0,12,0,1,0,0,2,0,0,0,0
+336,Zakaria Aboukhlal,Left Wing,29,Morocco,3857276,0,0.0,0,0,4,0,0,0,0,1,0,1,0,0
+337,Abderrazak Hamdallah,Center Forward,18,Morocco,3857276,0,0.0,0,0,5,0,0,0,0,0,2,3,0,0
+338,Ivan Perišić,Left Wing,93,Croatia,3857296,0,0.12168773,0,2,42,0,3,0,0,0,4,1,0,0
+339,Marko Livaja,Center Forward,63,Croatia,3857296,0,0.104244776,0,1,14,0,0,0,0,0,1,4,0,0
+340,Andrej Kramarić,Right Wing,63,Croatia,3857296,0,0.0,0,0,32,0,0,0,0,1,1,0,0,0
+341,Yannick Ferreira Carrasco,Left Wing,71,Belgium,3857296,0,0.202310031,0,4,32,0,1,0,0,0,0,0,0,0
+342,Leandro Trossard,Center Forward,58,Belgium,3857296,0,0.0,0,0,30,0,1,0,0,1,2,0,0,0
+343,Kevin De Bruyne,Right Wing,93,Belgium,3857296,0,0.0549966988,1,2,38,0,2,0,0,3,1,0,0,0
+344,Romelu Lukaku Menama,Center Forward,48,Belgium,3857296,0,1.68415473,2,5,8,0,1,0,0,0,0,1,0,0
+345,Bruno Petković,Center Forward,30,Croatia,3857296,0,0.0,0,0,19,0,0,0,0,1,1,0,0,0
+346,Mario Pašalić,Right Wing,30,Croatia,3857296,0,0.0,0,0,5,0,0,0,0,0,0,1,0,0
+347,Jeremy Doku,Left Wing,22,Belgium,3857296,0,0.0,0,0,14,0,2,0,0,0,1,0,0,0
+348,Eden Hazard,Right Wing,7,Belgium,3857296,0,0.0,0,0,2,0,1,0,0,0,0,0,0,0
+349,Álvaro Borja Morata Martín,Center Forward,56,Spain,3857255,1,0.49576616999999995,3,3,15,0,0,1,0,1,0,0,0,0
+350,Nicholas Williams Arthuer,Right Wing,56,Spain,3857255,0,0.0,0,0,25,0,1,0,0,0,1,0,0,0
+351,Takefusa Kubo,Right Wing,45,Japan,3857255,0,0.0,0,0,9,0,0,0,0,1,1,0,0,0
+352,Daniel Olmo Carvajal,Left Wing,96,Spain,3857255,0,0.252609837,1,4,47,0,3,0,0,0,3,1,0,0
+353,Daichi Kamada,Left Wing,68,Japan,3857255,0,0.03356069,0,1,13,0,0,1,0,2,0,1,0,0
+354,Daizen Maeda,Center Forward,61,Japan,3857255,0,0.0,0,0,7,0,0,0,0,0,0,1,0,0
+355,Ritsu Doan,Right Wing,51,Japan,3857255,1,0.027777622,1,1,7,0,1,0,0,1,1,1,0,0
+356,Ferrán Torres García,Right Wing,40,Spain,3857255,0,0.0,0,0,17,0,1,1,0,0,1,0,0,0
+357,Takuma Asano,Center Forward,35,Japan,3857255,0,0.13121767,0,1,6,0,0,0,0,0,1,0,0,0
+358,Marco Asensio Willemsen,Center Forward,40,Spain,3857255,0,0.052459881,1,3,29,0,0,0,0,0,1,0,0,0
+359,Takehiro Tomiyasu,Left Wing,28,Japan,3857255,0,0.0,0,0,4,0,0,0,0,0,0,0,0,0
+360,Anssumane Fati,Left Wing,29,Spain,3857255,0,0.0,0,0,20,0,0,0,0,0,0,0,0,0
+361,Thomas Müller,Center Forward,65,Germany,3857292,0,0.270048914,0,3,19,0,0,0,0,0,2,0,0,0
+362,Brandon Aguilera Zamora,Left Wing,45,Costa Rica,3857292,0,0.0,0,0,19,0,2,0,0,2,1,0,0,0
+363,Joel Nathaniel Campbell Samuels,Right Wing,100,Costa Rica,3857292,0,0.0,0,0,67,0,3,1,0,2,5,1,0,0
+364,Serge Gnabry,Left Wing,100,Germany,3857292,1,0.22596979700000003,1,4,45,1,1,1,0,2,1,0,0,0
+365,Leroy Sané,Right Wing,100,Germany,3857292,0,0.18344244999999998,0,3,47,1,1,1,0,3,1,0,0,0
+366,Johan Alberto Venegas Ulloa,Center Forward,73,Costa Rica,3857292,0,0.0,0,0,14,0,0,0,0,0,1,1,0,0
+367,Niclas Füllkrug,Right Center Forward,47,Germany,3857292,1,1.054489313,2,4,14,1,0,0,0,0,0,0,0,0
+368,Ronald Alberto Matarrita Ulate,Left Wing,27,Costa Rica,3857292,0,0.0,0,0,17,0,0,0,0,0,1,1,0,0
+369,Kai Havertz,Left Center Forward,35,Germany,3857292,2,1.155300964,3,5,11,0,0,0,0,2,1,2,0,0
+370,Jewison Bennette,Right Wing,27,Costa Rica,3857292,0,0.037811525,0,1,7,0,0,0,0,1,3,0,0,0
+371,Anthony Daniel Contreras Enríquez,Left Wing,8,Costa Rica,3857292,0,0.0,0,0,6,0,0,0,0,1,0,0,0,0
+372,Gue-Sung Cho,Center Forward,92,South Korea,3857262,0,0.040536147,1,1,23,0,0,0,0,0,5,1,0,0
+373,Heung-Min Son,Left Wing,96,South Korea,3857262,0,0.145676741,2,5,20,1,1,1,0,6,1,0,0,0
+374,Jae-Sung Lee,Right Wing,65,South Korea,3857262,0,0.021393217,0,1,15,0,2,1,0,0,0,2,0,0
+375,João Mário Naval da Costa Eduardo,Left Wing,81,Portugal,3857262,0,0.0,0,0,37,0,0,1,0,0,0,0,0,0
+376,Cristiano Ronaldo dos Santos Aveiro,Center Forward,64,Portugal,3857262,0,0.311160401,0,2,19,0,0,0,0,2,1,0,0,0
+377,Ricardo Jorge Luz Horta,Right Wing,96,Portugal,3857262,1,0.458795408,2,3,22,0,0,0,0,0,0,1,0,0
+378,Hee-Chan Hwang,Left Wing,31,South Korea,3857262,1,0.42196128,1,1,4,0,1,0,0,1,3,0,0,0
+379,André Miguel Valente Silva,Center Forward,32,Portugal,3857262,0,0.0,0,0,11,0,0,0,0,1,1,0,0,0
+380,Ui-Jo Hwang,Center Forward,15,South Korea,3857262,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0
+381,Gabriel Fernando de Jesus,Center Forward,63,Brazil,3857280,0,0.323986363,1,2,13,0,0,1,0,1,0,0,0,0
+382,Jean-Eric Maxim Choupo-Moting,Left Center Forward,99,Cameroon,3857280,0,0.0,0,0,23,0,0,1,0,2,2,0,0,0
+383,Antony Matheus dos Santos,Right Wing,78,Brazil,3857280,0,0.11016431900000001,2,3,50,0,2,0,0,4,3,0,0,0
+384,Vincent Paté Aboubakar,Right Center Forward,99,Cameroon,3857280,1,0.168344176,1,3,15,0,0,0,0,1,2,2,1,0
+385,Gabriel Teodoro Martinelli Silva,Left Wing,99,Brazil,3857280,0,0.40582978700000005,3,4,31,0,3,0,0,3,3,1,0,0
+386,Pedro Guilherme Abreu dos Santos,Center Forward,36,Brazil,3857280,0,0.26126468,0,2,8,0,0,1,0,1,0,0,0,0
+387,Raphael Dias Belloli,Right Wing,21,Brazil,3857280,0,0.0,0,0,9,0,1,0,0,1,2,0,0,0
+388,Luis Alberto Suárez Díaz,Right Center Forward,65,Uruguay,3857293,0,0.2733873,1,1,20,1,2,0,0,1,0,0,0,0
+389,Iñaki Williams Arthuer,Right Wing,71,Ghana,3857293,0,0.0,0,0,14,0,3,1,0,2,1,0,0,0
+390,Jordan Ayew,Left Wing,50,Ghana,3857293,0,0.07146578,1,1,9,0,0,0,0,1,1,2,0,0
+391,Mohammed Kudus,Center Forward,97,Ghana,3857293,0,0.251843197,1,4,34,0,4,2,0,5,5,2,0,0
+392,Darwin Gabriel Núñez Ribeiro,Left Center Forward,79,Uruguay,3857293,0,0.15781382,0,1,15,0,1,2,0,3,3,0,0,0
+393,Osman Bukari,Right Wing,55,Ghana,3857293,0,0.08441304,0,1,13,0,0,0,0,1,0,0,0,0
+394,Kamaldeen Sulemana,Left Wing,55,Ghana,3857293,0,0.081227794,1,1,16,0,3,0,0,1,2,1,1,0
+395,Edinson Roberto Cavani Gómez,Right Center Forward,35,Uruguay,3857293,0,0.0,0,0,13,0,1,0,0,0,1,0,0,0
+396,Antoine Semenyo,Center Forward,29,Ghana,3857293,0,0.12024433,0,1,3,0,0,0,0,1,0,2,0,0
+397,Maximiliano Gómez González,Left Center Forward,21,Uruguay,3857293,0,0.030132728,1,1,3,0,0,0,0,0,0,0,0,0
+398,Abdul Fatawu Issahaku,Right Wing,3,Ghana,3857293,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Breel-Donald Embolo,Center Forward,95,Switzerland,3857256,1,1.74503562,2,3,17,0,1,0,0,3,3,2,0,0
+400,Xherdan Shaqiri,Right Wing,68,Switzerland,3857256,1,0.46316709,1,2,24,0,0,1,0,1,1,1,0,0
+401,Ruben Vargas,Left Wing,82,Switzerland,3857256,0,0.0683221,0,1,23,1,0,0,0,0,2,1,1,0
+402,Aleksandar Mitrović,Left Center Forward,99,Serbia,3857256,1,0.152275357,1,3,23,0,0,0,0,3,2,1,0,0
+403,Dušan Vlahović,Right Center Forward,54,Serbia,3857256,1,0.7624475099999999,3,3,5,0,0,0,0,1,3,0,0,0
+404,Luka Jović,Right Center Forward,45,Serbia,3857256,0,0.05817553,0,2,10,0,0,0,0,0,1,1,0,0
+405,Edimilson Fernandes,Right Wing,32,Switzerland,3857256,0,0.0,0,0,15,0,0,0,0,0,0,1,0,0
+406,Christian Fassnacht,Left Wing,17,Switzerland,3857256,0,0.31681746,1,1,10,0,2,0,0,0,0,0,0,0
+407,Noah Okafor,Center Forward,4,Switzerland,3857256,0,0.0,0,0,0,0,0,0,0,1,1,1,0,0
+408,Memphis Depay,Left Center Forward,82,Netherlands,3869117,1,0.493802531,3,4,30,0,2,0,0,1,1,0,0,0
+409,Timothy Weah,Right Wing,66,United States,3869117,0,0.071712936,1,2,24,0,0,0,0,0,0,0,0,0
+410,Christian Pulisic,Left Wing,96,United States,3869117,0,0.391275537,3,3,36,1,1,0,0,3,3,0,0,0
+411,Jesus Ferreira,Center Forward,45,United States,3869117,0,0.0,0,0,20,0,0,0,0,1,1,0,0,0
+412,Cody Mathès Gakpo,Right Center Forward,92,Netherlands,3869117,0,0.053106464,0,1,29,0,3,2,0,1,1,1,0,0
+413,Giovanni Reyna,Center Forward,51,United States,3869117,0,0.08602206000000001,0,2,31,0,1,0,0,1,4,0,0,0
+414,Steven Bergwijn,Right Center Forward,51,Netherlands,3869117,0,0.25042096,0,1,19,0,1,0,0,0,3,1,0,0
+415,Haji Wright,Center Forward,30,United States,3869117,1,0.48272233200000003,1,3,8,0,0,0,0,1,0,0,0,0
+416,Xavi Simons,Left Center Forward,14,Netherlands,3869117,0,0.0,0,0,10,0,0,0,0,0,0,0,0,0
+417,Wout Weghorst,Left Center Forward,4,Netherlands,3869117,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0
+418,Jackson Irvine,Left Center Forward,97,Australia,3869151,0,0.0,0,0,37,0,0,0,0,0,2,2,1,0
+419,Mitchell Thomas Duke,Right Center Forward,71,Australia,3869151,0,0.0,0,0,14,0,0,0,0,0,3,2,0,0
+420,Lionel Andrés Messi Cuccittini,Center Forward,97,Argentina,3869151,1,0.342740973,2,6,61,0,4,1,0,1,2,0,0,0
+421,Alejandro Darío Gómez,Left Wing,49,Argentina,3869151,0,0.011147299,0,1,33,0,2,0,0,0,0,0,0,0
+422,Julián Álvarez,Right Wing,71,Argentina,3869151,1,0.28060678,1,1,17,0,0,2,0,0,5,2,0,0
+423,Jamie MacLaren,Right Center Forward,26,Australia,3869151,0,0.0,0,0,3,0,0,0,0,0,1,0,0,0
+424,Lautaro Javier Martínez,Left Center Forward,26,Argentina,3869151,0,0.7485856280000001,2,4,10,0,1,0,0,0,0,1,0,0
+425,Garang Kuol,Left Center Forward,26,Australia,3869151,0,0.23394231,1,1,1,0,0,0,0,0,2,0,0,0
+426,Olivier Giroud,Center Forward,75,France,3869152,1,0.456669616,1,3,16,0,0,0,0,0,0,1,0,0
+427,Ousmane Dembélé,Right Wing,75,France,3869152,0,0.116911242,1,2,43,1,0,0,0,1,3,1,0,0
+428,Kylian Mbappé Lottin,Left Wing,98,France,3869152,2,0.26174300100000003,3,5,41,1,7,0,0,7,5,1,0,0
+429,Robert Lewandowski,Center Forward,98,Poland,3869152,1,1.024973515,1,5,27,0,0,0,0,1,2,2,0,0
+430,Nicola Zalewski,Right Wing,28,Poland,3869152,0,0.0,0,0,5,0,0,0,0,1,2,1,0,0
+431,Marcus Thuram,Left Wing,23,France,3869152,0,0.0,0,0,8,1,0,0,0,1,1,0,0,0
+432,Kingsley Coman,Right Wing,23,France,3869152,0,0.0,0,0,10,0,0,0,0,0,0,0,0,0
+433,Kamil Grosicki,Left Wing,12,Poland,3869152,0,0.0,0,0,6,0,1,0,0,0,0,0,0,0
+434,Krépin Diatta,Right Wing,45,Senegal,3869118,0,0.0,0,0,13,0,0,0,0,2,0,3,0,0
+435,Philip Foden,Left Wing,64,England,3869118,0,0.0,0,0,34,1,1,1,0,1,2,0,0,0
+436,Ismaïla Sarr,Left Wing,94,Senegal,3869118,0,0.736718675,0,2,20,0,1,0,0,0,5,0,0,0
+437,Harry Kane,Center Forward,94,England,3869118,1,0.406086861,2,3,25,0,2,0,0,1,6,1,0,0
+438,Bukayo Saka,Right Wing,64,England,3869118,1,0.2525772,1,2,30,0,0,2,0,0,0,1,0,0
+439,Boulaye Dia,Center Forward,71,Senegal,3869118,0,0.08923741,1,2,9,0,1,0,0,3,1,0,0,0
+440,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,49,Senegal,3869118,0,0.03296228,0,1,7,0,0,0,0,2,1,2,0,0
+441,Marcus Rashford,Right Wing,30,England,3869118,0,0.1459426,0,1,11,0,0,0,0,0,0,0,0,0
+442,Jack Grealish,Left Wing,30,England,3869118,0,0.0,0,0,9,0,0,1,0,2,0,0,0,0
+443,Famara Diedhiou,Center Forward,23,Senegal,3869118,0,0.0,0,0,5,0,0,0,0,1,0,0,0,0
+444,Heung-Min Son,Left Center Forward,93,South Korea,3869253,0,0.1490943,1,1,34,0,1,0,0,4,1,1,0,0
+445,Raphael Dias Belloli,Right Wing,93,Brazil,3869253,0,0.359294435,3,5,47,0,3,2,0,1,3,1,0,0
+446,Vinícius José Paixão de Oliveira Júnior,Left Wing,71,Brazil,3869253,1,0.18697343,1,2,29,1,2,0,0,3,1,0,0,0
+447,Gue-Sung Cho,Right Center Forward,79,South Korea,3869253,0,0.0,0,0,12,0,0,0,0,1,2,2,0,0
+448,Richarlison de Andrade,Center Forward,93,Brazil,3869253,1,0.8060856,2,2,21,0,2,1,0,2,2,3,0,0
+449,Gabriel Teodoro Martinelli Silva,Left Wing,22,Brazil,3869253,0,0.0,0,0,12,0,1,0,0,0,0,0,0,0
+450,Ui-Jo Hwang,Center Forward,14,South Korea,3869253,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Andrej Kramarić,Right Wing,67,Croatia,3869219,0,0.19622508700000002,0,2,19,0,0,1,0,1,3,0,0,0
+452,Bruno Petković,Center Forward,61,Croatia,3869219,0,0.0,0,0,17,0,0,2,0,1,2,0,0,0
+453,Ivan Perišić,Left Wing,106,Croatia,3869219,1,0.209131452,2,5,36,0,1,1,0,0,7,2,0,0
+454,Ritsu Doan,Right Wing,86,Japan,3869219,0,0.056113943,1,1,33,0,2,0,0,1,2,1,0,0
+455,Daichi Kamada,Left Wing,73,Japan,3869219,0,0.12899764,0,2,36,0,4,2,0,2,1,0,0,0
+456,Daizen Maeda,Center Forward,63,Japan,3869219,1,0.45874894,1,1,6,0,0,2,0,0,1,0,0,0
+457,Ante Budimir,Center Forward,59,Croatia,3869219,0,0.10111922,0,1,6,0,0,1,0,1,0,3,0,0
+458,Mario Pašalić,Right Wing,53,Croatia,3869219,0,0.088065211,0,2,17,0,0,0,0,0,3,0,0,0
+459,Takuma Asano,Center Forward,57,Japan,3869219,0,0.0,0,0,11,0,0,0,0,1,4,1,0,0
+460,Takumi Minamino,Left Wing,34,Japan,3869219,0,0.03667642,0,1,14,0,0,0,0,0,0,0,0,0
+461,Marko Livaja,Center Forward,15,Croatia,3869219,0,0.047236525,1,1,4,0,0,0,0,0,0,0,0,0
+462,Mislav Oršić,Left Wing,15,Croatia,3869219,0,0.009676031,0,1,5,0,1,0,0,0,0,0,0,0
+463,Breel-Donald Embolo,Right Center Forward,88,Switzerland,3869254,0,0.094266428,0,2,19,0,1,1,0,1,1,1,0,0
+464,João Félix Sequeira,Left Wing,72,Portugal,3869254,0,0.043932665,0,1,33,2,2,1,0,0,1,0,0,0
+465,Bruno Miguel Borges Fernandes,Right Wing,86,Portugal,3869254,0,0.0,0,0,41,1,0,2,0,0,4,1,0,0
+466,Xherdan Shaqiri,Left Center Forward,94,Switzerland,3869254,0,0.031760704,1,2,39,0,0,0,0,2,1,1,0,0
+467,Gonçalo Matias Ramos,Center Forward,72,Portugal,3869254,3,1.565149486,5,6,10,1,0,1,0,0,3,0,0,0
+468,Cristiano Ronaldo dos Santos Aveiro,Left Wing,22,Portugal,3869254,0,0.028790973,0,1,5,0,0,0,0,0,0,0,0,0
+469,Ricardo Jorge Luz Horta,Left Wing,22,Portugal,3869254,0,0.0,0,0,13,0,0,0,0,0,0,1,0,0
+470,Rafael Alexandre Conceição Leão,Right Wing,8,Portugal,3869254,1,0.010257767,1,1,3,0,0,0,0,0,0,0,0,0
+471,Ardon Jashari,Left Center Forward,6,Switzerland,3869254,0,0.0,0,0,6,0,0,0,0,0,0,0,0,0
+472,Daniel Olmo Carvajal,Left Wing,97,Spain,3869220,0,0.0391182452,1,2,37,0,1,3,0,5,2,2,0,0
+473,Ferrán Torres García,Right Wing,75,Spain,3869220,0,0.0,0,0,24,0,2,1,0,4,5,0,0,0
+474,Hakim Ziyech,Right Wing,122,Morocco,3869220,0,0.0,0,0,37,0,1,0,0,3,3,4,0,0
+475,Sofiane Boufal,Left Wing,65,Morocco,3869220,0,0.0,0,0,16,0,6,2,0,1,2,1,0,0
+476,Marco Asensio Willemsen,Center Forward,62,Spain,3869220,0,0.025564773,0,1,14,0,0,0,0,2,5,0,0,0
+477,Youssef En-Nesyri,Center Forward,81,Morocco,3869220,0,0.0,0,0,13,0,2,0,0,0,0,0,0,0
+478,Abdessamad Ezzalzouli,Left Wing,57,Morocco,3869220,0,0.0,0,0,10,0,0,1,0,0,5,1,0,0
+479,Álvaro Borja Morata Martín,Center Forward,60,Spain,3869220,0,0.06643173799999999,0,2,8,0,0,0,0,1,0,1,0,0
+480,Nicholas Williams Arthuer,Right Wing,47,Spain,3869220,0,0.0,0,0,19,0,2,0,0,1,3,0,0,0
+481,Walid Cheddira,Center Forward,41,Morocco,3869220,0,0.249388745,1,2,4,0,0,0,0,0,2,1,0,0
+482,Anssumane Fati,Left Wing,25,Spain,3869220,0,0.0,0,0,8,0,0,1,0,0,1,0,0,0
+483,Pablo Sarabia García,Right Wing,5,Spain,3869220,0,0.10407615,0,1,5,0,0,0,0,0,0,0,0,0
+484,Memphis Depay,Left Center Forward,77,Netherlands,3869321,0,0.0,0,0,40,0,0,0,0,0,2,2,0,0
+485,Lionel Andrés Messi Cuccittini,Right Center Forward,121,Argentina,3869321,1,1.0087190430000001,2,6,48,1,6,0,0,0,1,3,0,0
+486,Steven Bergwijn,Right Center Forward,102,Netherlands,3869321,0,0.089517,0,1,17,0,0,0,0,0,0,0,0,0
+487,Julián Álvarez,Left Center Forward,80,Argentina,3869321,0,0.0,0,0,17,0,0,0,0,1,5,2,0,0
+488,Wout Weghorst,Right Center Forward,44,Netherlands,3869321,2,0.267009997,2,2,11,0,0,0,0,0,0,3,0,0
+489,Lautaro Javier Martínez,Left Center Forward,41,Argentina,3869321,0,0.30697173,1,2,12,0,1,0,0,2,4,1,0,0
+490,Luuk de Jong,Left Center Forward,57,Netherlands,3869321,0,0.05290734,0,1,11,0,0,1,0,2,1,2,0,0
+491,Ángel Fabián Di María Hernández,Right Wing,10,Argentina,3869321,0,0.0,0,0,14,0,1,0,0,1,0,0,0,0
+492,Richarlison de Andrade,Center Forward,83,Brazil,3869420,0,0.067200735,0,1,12,0,0,1,0,1,3,2,0,0
+493,Andrej Kramarić,Center Forward,71,Croatia,3869420,0,0.057396183,0,2,25,0,0,0,0,0,2,1,0,0
+494,Mario Pašalić,Right Wing,71,Croatia,3869420,0,0.0,0,0,31,0,1,3,0,3,1,1,0,0
+495,Ivan Perišić,Left Wing,122,Croatia,3869420,0,0.312230685,0,3,34,0,0,1,0,1,2,3,0,0
+496,Bruno Petković,Center Forward,51,Croatia,3869420,1,0.09977819,1,1,6,0,2,1,0,7,2,1,0,0
+497,Nikola Vlašić,Right Wing,51,Croatia,3869420,0,0.026884926,0,1,10,0,2,0,0,0,1,4,0,0
+498,Pedro Guilherme Abreu dos Santos,Center Forward,39,Brazil,3869420,0,0.17089859400000001,1,2,7,0,0,1,0,0,2,2,0,0
+499,Ante Budimir,Left Center Forward,13,Croatia,3869420,0,0.0,0,0,0,0,0,0,0,0,0,1,0,0
+500,João Félix Sequeira,Left Wing,97,Portugal,3869486,0,0.239394161,2,5,21,0,1,0,0,1,1,1,0,0
+501,Bruno Miguel Borges Fernandes,Right Wing,97,Portugal,3869486,0,0.06403192070000001,0,2,74,0,2,1,0,0,3,1,0,0
+502,Youssef En-Nesyri,Center Forward,64,Morocco,3869486,1,0.36206218,1,3,9,0,1,1,0,1,3,0,0,0
+503,Gonçalo Matias Ramos,Center Forward,68,Portugal,3869486,0,0.10594022,0,1,8,0,0,0,0,0,2,1,0,0
+504,Cristiano Ronaldo dos Santos Aveiro,Center Forward,47,Portugal,3869486,0,0.05699573,1,1,7,0,0,0,0,0,2,0,0,0
+505,Rafael Alexandre Conceição Leão,Left Wing,29,Portugal,3869486,0,0.0,0,0,13,0,3,0,0,0,2,0,0,0
+506,Walid Cheddira,Center Forward,34,Morocco,3869486,0,0.0,0,0,4,0,0,0,0,0,1,5,1,1
+507,Ricardo Jorge Luz Horta,Right Wing,19,Portugal,3869486,0,0.0,0,0,12,0,0,0,0,0,0,1,0,0
+508,Zakaria Aboukhlal,Center Forward,17,Morocco,3869486,0,0.39109123,1,1,1,0,0,0,0,0,1,0,0,0
+509,Ousmane Dembélé,Right Wing,78,France,3869354,0,0.030820057,0,1,39,0,0,1,0,1,2,3,1,0
+510,Kylian Mbappé Lottin,Left Wing,100,France,3869354,0,0.06798863,0,1,29,0,4,0,0,1,2,0,0,0
+511,Bukayo Saka,Right Wing,78,England,3869354,0,0.07073746,1,1,25,0,0,2,0,1,3,3,0,0
+512,Harry Kane,Center Forward,100,England,3869354,1,1.6906509769999998,4,5,22,0,0,0,0,1,2,0,0,0
+513,Philip Foden,Left Wing,84,England,3869354,0,0.022691524,0,1,27,0,1,0,0,0,1,0,0,0
+514,Olivier Giroud,Center Forward,100,France,3869354,1,0.646010594,3,4,12,0,0,0,0,0,2,1,0,0
+515,Marcus Rashford,Left Wing,16,England,3869354,0,0.07922588,0,1,3,0,0,0,0,0,0,0,0,0
+516,Raheem Sterling,Right Wing,22,England,3869354,0,0.0,0,0,8,0,0,2,0,0,1,0,0,0
+517,Kingsley Coman,Right Wing,22,France,3869354,0,0.0,0,0,0,0,0,0,0,1,1,1,0,0
+518,Andrej Kramarić,Center Forward,71,Croatia,3869519,0,0.0,0,0,36,0,1,0,0,0,1,0,0,0
+519,Lionel Andrés Messi Cuccittini,Right Center Forward,94,Argentina,3869519,1,0.88931502,2,2,41,1,7,0,0,6,4,2,0,0
+520,Julián Álvarez,Left Center Forward,73,Argentina,3869519,2,0.69538802,2,2,18,0,0,0,0,2,1,3,0,0
+521,Ivan Perišić,Left Wing,94,Croatia,3869519,0,0.0475284123,1,3,58,0,1,1,0,1,2,0,0,0
+522,Mario Pašalić,Right Wing,46,Croatia,3869519,0,0.07864248,0,1,12,0,0,1,0,1,0,1,0,0
+523,Nikola Vlašić,Right Wing,49,Croatia,3869519,0,0.049129687,0,1,13,0,0,2,0,0,1,1,0,0
+524,Bruno Petković,Center Forward,45,Croatia,3869519,0,0.0,0,0,10,0,1,0,0,3,0,0,0,0
+525,Mislav Oršić,Left Wing,49,Croatia,3869519,0,0.032619266,0,2,15,0,1,0,0,0,1,1,0,0
+526,Paulo Bruno Exequiel Dybala,Left Center Forward,21,Argentina,3869519,0,0.0,0,0,10,0,0,2,0,1,1,1,0,0
+527,Sofiane Boufal,Left Wing,66,Morocco,3869552,0,0.035300843,0,1,20,0,0,1,0,0,3,2,1,0
+528,Ousmane Dembélé,Right Wing,78,France,3869552,0,0.0,0,0,19,0,2,1,0,2,1,2,0,0
+529,Hakim Ziyech,Right Wing,95,Morocco,3869552,0,0.06111174,0,1,66,0,0,0,0,5,2,0,0,0
+530,Kylian Mbappé Lottin,Left Wing,95,France,3869552,0,0.27924131599999996,0,3,17,0,4,0,0,3,4,5,0,0
+531,Youssef En-Nesyri,Center Forward,65,Morocco,3869552,0,0.0,0,0,3,0,0,0,0,0,0,0,0,0
+532,Olivier Giroud,Center Forward,64,France,3869552,0,0.42252706799999995,0,3,17,0,0,0,0,1,1,0,0,0
+533,Abderrazak Hamdallah,Center Forward,30,Morocco,3869552,0,0.50624365,0,1,6,0,1,0,0,1,0,0,0,0
+534,Marcus Thuram,Left Wing,31,France,3869552,0,0.115658596,0,1,10,0,1,1,0,1,1,1,0,0
+535,Zakaria Aboukhlal,Left Wing,29,Morocco,3869552,0,0.024939176,0,1,3,0,0,0,0,0,2,0,0,0
+536,Randal Kolo Muani,Right Wing,17,France,3869552,1,0.8521293,1,1,4,0,0,0,0,0,0,0,0,0
+537,Marko Livaja,Center Forward,66,Croatia,3869684,0,0.02019975,0,1,13,1,0,0,0,0,2,1,0,0
+538,Mislav Oršić,Left Wing,94,Croatia,3869684,1,0.18818511859999998,1,5,30,0,0,2,0,0,4,3,0,0
+539,Lovro Majer,Right Wing,66,Croatia,3869684,0,0.0,0,0,32,0,0,0,0,3,3,3,0,0
+540,Youssef En-Nesyri,Center Forward,96,Morocco,3869684,0,0.451114378,1,5,12,0,0,0,0,1,1,2,0,0
+541,Sofiane Boufal,Left Wing,63,Morocco,3869684,0,0.08611878,0,1,23,0,1,0,0,0,2,1,0,0
+542,Hakim Ziyech,Right Wing,96,Morocco,3869684,0,0.036385462,0,2,66,0,4,1,0,1,2,1,0,0
+543,Ilias Chair,Right Wing,51,Morocco,3869684,0,0.0,0,0,15,0,0,0,0,1,0,0,0,0
+544,Anass Zaroury,Left Wing,33,Morocco,3869684,0,0.0,0,0,12,0,0,0,0,0,0,0,0,0
+545,Nikola Vlašić,Right Wing,35,Croatia,3869684,0,0.03597725,0,1,8,0,1,0,0,0,1,0,0,0
+546,Bruno Petković,Center Forward,30,Croatia,3869684,0,0.0,0,0,13,0,0,1,0,2,0,2,0,0
+547,Lionel Andrés Messi Cuccittini,Right Wing,123,Argentina,3869685,2,1.455279741,4,5,60,0,0,1,0,6,3,2,0,0
+548,Ángel Fabián Di María Hernández,Left Wing,63,Argentina,3869685,1,0.410209694,1,2,29,0,5,0,0,1,1,0,0,0
+549,Olivier Giroud,Center Forward,94,France,3869685,0,0.0,0,0,9,0,0,0,0,0,0,1,0,0
+550,Kylian Mbappé Lottin,Left Wing,123,France,3869685,3,1.782553667,3,6,27,0,6,0,0,0,2,1,0,0
+551,Ousmane Dembélé,Right Wing,40,France,3869685,0,0.0,0,0,13,0,0,0,0,1,1,1,0,0
+552,Julián Álvarez,Center Forward,101,Argentina,3869685,0,0.05953379,1,1,32,0,0,0,0,1,3,8,0,0
+553,Randal Kolo Muani,Right Wing,83,France,3869685,0,0.37369772,1,2,15,0,1,3,0,5,3,3,0,0
+554,Marcus Thuram,Left Wing,82,France,3869685,0,0.0,0,0,22,1,2,1,0,1,5,2,1,0
+555,Marcos Javier Acuña,Left Wing,60,Argentina,3869685,0,0.0,0,0,28,0,0,1,0,3,1,2,1,0
+556,Lautaro Javier Martínez,Center Forward,22,Argentina,3869685,0,0.58352003,1,4,7,0,0,0,0,0,1,0,0,0

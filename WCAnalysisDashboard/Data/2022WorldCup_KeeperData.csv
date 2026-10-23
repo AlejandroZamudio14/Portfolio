@@ -1,0 +1,132 @@
+,Player,Position,Minutes,Team,game_id,Shots Faced,Saves,Goals Conceded,Passes,Clearances
+0,Saad Abdullah Al Sheeb,Goalkeeper,95,Qatar,3857286,5,1,1,21,0
+1,Hernán Ismael Galíndez,Goalkeeper,95,Ecuador,3857286,5,0,0,19,0
+2,Alireza Safar Beiranvand,Goalkeeper,19,Iran,3857271,1,0,0,3,0
+3,Jordan Pickford,Goalkeeper,103,England,3857271,6,0,1,29,0
+4,Seyed Hossein Hosseini,Goalkeeper,84,Iran,3857271,12,1,6,20,0
+5,Wayne Hennessey,Goalkeeper,100,Wales,3857282,6,0,1,32,0
+6,Matthew Charles Turner,Goalkeeper,100,United States,3857282,6,2,0,31,0
+7,Andries Noppert,Goalkeeper,99,Netherlands,3857285,15,4,0,28,0
+8,Edouard Mendy,Goalkeeper,99,Senegal,3857285,10,1,2,32,0
+9,Aymen Dahmen,Goalkeeper,97,Tunisia,3857254,11,5,0,38,0
+10,Kasper Schmeichel,Goalkeeper,97,Denmark,3857254,13,1,0,29,0
+11,Damián Emiliano Martínez,Goalkeeper,103,Argentina,3857300,3,0,2,22,0
+12,Mohammed Khalil Al Owais,Goalkeeper,103,Saudi Arabia,3857300,14,5,0,29,0
+13,Hugo Lloris,Goalkeeper,97,France,3857279,4,0,1,25,0
+14,Mathew Ryan,Goalkeeper,97,Australia,3857279,23,2,4,33,0
+15,Francisco Guillermo Ochoa Magaña,Goalkeeper,97,Mexico,3857265,5,1,0,33,0
+16,Wojciech Szczęsny,Goalkeeper,97,Poland,3857265,11,4,0,40,0
+17,Yassine Bounou,Goalkeeper,95,Morocco,3857277,5,1,0,27,0
+18,Dominik Livaković,Goalkeeper,95,Croatia,3857277,8,2,0,26,0
+19,Unai Simón Mendibil,Goalkeeper,98,Spain,3857291,0,0,0,36,0
+20,Keylor Navas Gamboa,Goalkeeper,98,Costa Rica,3857291,16,1,6,25,0
+21,Milan Borjan,Goalkeeper,95,Canada,3857268,9,2,1,33,0
+22,Thibaut Courtois,Goalkeeper,95,Belgium,3857268,21,2,0,50,0
+23,Manuel Neuer,Goalkeeper,98,Germany,3857284,12,2,2,55,0
+24,Shūichi Gonda,Goalkeeper,98,Japan,3857284,25,8,0,35,0
+25,Vanja Milinković Savić,Goalkeeper,97,Serbia,3857258,23,7,2,46,0
+26,Alisson Ramsés Becker,Goalkeeper,97,Brazil,3857258,5,0,0,24,0
+27,André Onana,Goalkeeper,95,Cameroon,3857290,7,2,1,60,0
+28,Yann Sommer,Goalkeeper,95,Switzerland,3857290,8,5,0,34,0
+29,Diogo Meireles Costa,Goalkeeper,100,Portugal,3857298,9,1,2,29,0
+30,Lawrence Ati-Zigi,Goalkeeper,100,Ghana,3857298,10,2,2,28,0
+31,Sergio Rochet Álvarez,Goalkeeper,97,Uruguay,3857287,7,0,0,23,0
+32,Seung-Gyu Kim,Goalkeeper,97,South Korea,3857287,10,1,0,33,0
+33,Wayne Hennessey,Goalkeeper,102,Wales,3857273,14,4,0,34,0
+34,Seyed Hossein Hosseini,Goalkeeper,102,Iran,3857273,9,3,0,28,0
+35,Daniel Ward,Goalkeeper,16,Wales,3857273,7,0,2,7,0
+36,Meshaal Aissa Barsham,Goalkeeper,95,Qatar,3857301,12,1,3,32,0
+37,Edouard Mendy,Goalkeeper,95,Senegal,3857301,10,2,1,32,0
+38,Matthew Charles Turner,Goalkeeper,94,United States,3857272,8,3,0,38,0
+39,Jordan Pickford,Goalkeeper,94,England,3857272,10,1,0,28,0
+40,Hernán Ismael Galíndez,Goalkeeper,96,Ecuador,3857274,2,0,1,20,0
+41,Andries Noppert,Goalkeeper,96,Netherlands,3857274,15,3,1,44,0
+42,Aymen Dahmen,Goalkeeper,96,Tunisia,3857288,9,1,1,23,0
+43,Mathew Ryan,Goalkeeper,96,Australia,3857288,14,4,0,38,0
+44,Damián Emiliano Martínez,Goalkeeper,96,Argentina,3857289,4,1,0,27,0
+45,Francisco Guillermo Ochoa Magaña,Goalkeeper,96,Mexico,3857289,5,0,2,31,0
+46,Kasper Schmeichel,Goalkeeper,96,Denmark,3857266,21,4,2,17,0
+47,Hugo Lloris,Goalkeeper,96,France,3857266,10,1,1,34,0
+48,Mohammed Khalil Al Owais,Goalkeeper,97,Saudi Arabia,3857297,9,1,2,25,0
+49,Wojciech Szczęsny,Goalkeeper,97,Poland,3857297,16,4,0,41,0
+50,Milan Borjan,Goalkeeper,95,Canada,3857281,13,6,4,39,0
+51,Dominik Livaković,Goalkeeper,95,Croatia,3857281,8,1,1,20,0
+52,Thibaut Courtois,Goalkeeper,95,Belgium,3857283,10,2,2,36,0
+53,Munir Mohand Mohamedi,Goalkeeper,95,Morocco,3857283,10,4,0,27,0
+54,Manuel Neuer,Goalkeeper,95,Germany,3857263,6,1,1,39,0
+55,Unai Simón Mendibil,Goalkeeper,95,Spain,3857263,11,3,1,51,0
+56,Keylor Navas Gamboa,Goalkeeper,96,Costa Rica,3857295,13,3,0,42,0
+57,Shūichi Gonda,Goalkeeper,96,Japan,3857295,4,0,1,19,0
+58,Lawrence Ati-Zigi,Goalkeeper,100,Ghana,3857299,21,4,2,22,0
+59,Seung-Gyu Kim,Goalkeeper,100,South Korea,3857299,7,0,3,24,1
+60,Devis Rogers Epassy Mboka,Goalkeeper,96,Cameroon,3857259,15,2,3,42,0
+61,Vanja Milinković Savić,Goalkeeper,96,Serbia,3857259,13,5,3,36,0
+62,Alisson Ramsés Becker,Goalkeeper,95,Brazil,3857269,6,0,0,17,0
+63,Yann Sommer,Goalkeeper,95,Switzerland,3857269,13,4,1,49,0
+64,Diogo Meireles Costa,Goalkeeper,100,Portugal,3857270,11,3,0,39,0
+65,Sergio Rochet Álvarez,Goalkeeper,100,Uruguay,3857270,14,1,1,26,0
+66,Meshaal Aissa Barsham,Goalkeeper,96,Qatar,3857294,13,2,2,31,0
+67,Andries Noppert,Goalkeeper,96,Netherlands,3857294,5,3,0,28,0
+68,Daniel Ward,Goalkeeper,93,Wales,3857261,18,4,3,32,0
+69,Jordan Pickford,Goalkeeper,93,England,3857261,7,1,0,32,0
+70,Matthew Charles Turner,Goalkeeper,99,United States,3857278,4,1,0,33,0
+71,Alireza Safar Beiranvand,Goalkeeper,99,Iran,3857278,12,4,1,28,0
+72,Hernán Ismael Galíndez,Goalkeeper,96,Ecuador,3857267,12,1,1,38,0
+73,Edouard Mendy,Goalkeeper,96,Senegal,3857267,9,3,1,27,0
+74,Wojciech Szczęsny,Goalkeeper,95,Poland,3857264,23,10,2,35,0
+75,Damián Emiliano Martínez,Goalkeeper,95,Argentina,3857264,4,0,0,14,0
+76,Steve Mandanda,Goalkeeper,102,France,3857275,5,2,1,31,0
+77,Aymen Dahmen,Goalkeeper,102,Tunisia,3857275,10,3,0,16,0
+78,Francisco Guillermo Ochoa Magaña,Goalkeeper,97,Mexico,3857260,10,1,1,44,0
+79,Mohammed Khalil Al Owais,Goalkeeper,97,Saudi Arabia,3857260,26,8,2,44,0
+80,Kasper Schmeichel,Goalkeeper,96,Denmark,3857257,8,3,1,41,0
+81,Mathew Ryan,Goalkeeper,96,Australia,3857257,14,4,0,39,1
+82,Yassine Bounou,Goalkeeper,93,Morocco,3857276,5,0,0,36,0
+83,Milan Borjan,Goalkeeper,93,Canada,3857276,7,0,2,24,0
+84,Thibaut Courtois,Goalkeeper,93,Belgium,3857296,11,4,0,36,0
+85,Dominik Livaković,Goalkeeper,93,Croatia,3857296,16,3,0,34,0
+86,Unai Simón Mendibil,Goalkeeper,96,Spain,3857255,6,1,2,37,0
+87,Shūichi Gonda,Goalkeeper,96,Japan,3857255,12,4,1,23,0
+88,Keylor Navas Gamboa,Goalkeeper,100,Costa Rica,3857292,31,7,4,34,1
+89,Manuel Neuer,Goalkeeper,100,Germany,3857292,7,4,1,29,0
+90,Seung-Gyu Kim,Goalkeeper,96,South Korea,3857262,13,5,1,43,0
+91,Diogo Meireles Costa,Goalkeeper,96,Portugal,3857262,12,4,2,33,0
+92,Ederson Santana de Moraes,Goalkeeper,99,Brazil,3857280,7,2,1,30,0
+93,Devis Rogers Epassy Mboka,Goalkeeper,99,Cameroon,3857280,21,8,0,42,0
+94,Lawrence Ati-Zigi,Goalkeeper,100,Ghana,3857293,12,4,2,26,0
+95,Sergio Rochet Álvarez,Goalkeeper,100,Uruguay,3857293,8,3,0,27,0
+96,Gregor Kobel,Goalkeeper,99,Switzerland,3857256,12,2,2,29,0
+97,Vanja Milinković Savić,Goalkeeper,99,Serbia,3857256,14,4,3,45,0
+98,Andries Noppert,Goalkeeper,96,Netherlands,3869117,18,5,1,37,0
+99,Matthew Charles Turner,Goalkeeper,96,United States,3869117,11,3,3,24,0
+100,Mathew Ryan,Goalkeeper,97,Australia,3869151,14,3,2,53,0
+101,Damián Emiliano Martínez,Goalkeeper,97,Argentina,3869151,5,1,0,31,0
+102,Hugo Lloris,Goalkeeper,98,France,3869152,11,1,0,29,0
+103,Wojciech Szczęsny,Goalkeeper,98,Poland,3869152,16,5,3,30,0
+104,Jordan Pickford,Goalkeeper,94,England,3869118,10,1,0,48,0
+105,Edouard Mendy,Goalkeeper,94,Senegal,3869118,8,1,3,26,0
+106,Alisson Ramsés Becker,Goalkeeper,79,Brazil,3869253,7,5,1,22,0
+107,Seung-Gyu Kim,Goalkeeper,93,South Korea,3869253,17,6,3,28,0
+108,Weverton Pereira da Silva,Goalkeeper,14,Brazil,3869253,1,0,0,5,0
+109,Dominik Livaković,Goalkeeper,120,Croatia,3869219,13,3,1,42,0
+110,Shūichi Gonda,Goalkeeper,120,Japan,3869219,17,3,1,36,0
+111,Diogo Meireles Costa,Goalkeeper,94,Portugal,3869254,10,2,1,33,0
+112,Yann Sommer,Goalkeeper,94,Switzerland,3869254,15,3,6,34,0
+113,Unai Simón Mendibil,Goalkeeper,122,Spain,3869220,5,2,0,34,0
+114,Yassine Bounou,Goalkeeper,122,Morocco,3869220,12,1,0,39,0
+115,Andries Noppert,Goalkeeper,121,Netherlands,3869321,13,3,1,54,0
+116,Damián Emiliano Martínez,Goalkeeper,121,Argentina,3869321,7,0,2,35,0
+117,Alisson Ramsés Becker,Goalkeeper,122,Brazil,3869420,9,0,1,31,0
+118,Dominik Livaković,Goalkeeper,122,Croatia,3869420,20,10,1,41,0
+119,Yassine Bounou,Goalkeeper,97,Morocco,3869486,12,3,0,32,0
+120,Diogo Meireles Costa,Goalkeeper,97,Portugal,3869486,9,2,1,25,0
+121,Jordan Pickford,Goalkeeper,100,England,3869354,8,3,2,24,0
+122,Hugo Lloris,Goalkeeper,100,France,3869354,15,6,0,26,0
+123,Dominik Livaković,Goalkeeper,94,Croatia,3869519,8,4,2,32,0
+124,Damián Emiliano Martínez,Goalkeeper,94,Argentina,3869519,12,2,0,24,1
+125,Yassine Bounou,Goalkeeper,95,Morocco,3869552,14,0,2,31,0
+126,Hugo Lloris,Goalkeeper,95,France,3869552,12,1,0,27,0
+127,Yassine Bounou,Goalkeeper,96,Morocco,3869684,12,2,2,45,0
+128,Dominik Livaković,Goalkeeper,96,Croatia,3869684,9,1,1,33,0
+129,Damián Emiliano Martínez,Goalkeeper,123,Argentina,3869685,8,2,1,33,0
+130,Hugo Lloris,Goalkeeper,123,France,3869685,19,7,2,41,0

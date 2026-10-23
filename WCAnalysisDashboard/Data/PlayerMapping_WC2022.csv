@@ -1,0 +1,682 @@
+﻿player,jersey_number,team,player_abbr
+Andreas Christensen,6,Denmark,Andreas Christensen
+Simon Thorup Kjær,4,Denmark,Simon Kjær
+Joachim Andersen,2,Denmark,Joachim Andersen
+Kasper Schmeichel,1,Denmark,Kasper Schmeichel
+Thomas Delaney,8,Denmark,Thomas Delaney
+Pierre-Emile Højbjerg,23,Denmark,Pierre-Emile Højbjerg
+Aymen Dahmen,16,Tunisia,Aymen Dahmen
+Kasper Dolberg,12,Denmark,Kasper Dolberg
+Aïssa Bilal Laïdouni,14,Tunisia,Aïssa Laïdouni
+Anis Ben Slimane,25,Tunisia,Anis Ben Slimane
+Ali Abdi,24,Tunisia,Ali Abdi
+Ellyes Joris Skhiri,17,Tunisia,Ellyes Skhiri
+Youssef Msakni,7,Tunisia,Youssef Msakni
+Issam Jebali,9,Tunisia,Issam Jebali
+Mohamed Dräger,20,Tunisia,Mohamed Dräger
+Montassar Omar Talbi,3,Tunisia,Montassar Talbi
+Dylan Daniel Mahmoud Bronn,6,Tunisia,Dylan Bronn
+Yassine Meriah,4,Tunisia,Yassine Meriah
+Andreas Skov Olsen,11,Denmark,Andreas Skov Olsen
+Christian Dannemann Eriksen,10,Denmark,Christian Eriksen
+Naïm Sliti,23,Tunisia,Naïm Sliti
+Wajdi Kechrida,21,Tunisia,Wajdi Kechrida
+Taha Yassine Khenissi,11,Tunisia,Taha Yassine Khenissi
+Hannibal Mejbri,8,Tunisia,Hannibal Mejbri
+Mikkel Damsgaard,14,Denmark,Mikkel Damsgaard
+Andreas Evald Cornelius,21,Denmark,Andreas Cornelius
+Jesper Lindstrøm,25,Denmark,Jesper Lindstrøm
+Mathias Jensen,7,Denmark,Mathias Jensen
+Ferjani Sassi,13,Tunisia,Ferjani Sassi
+Rasmus Nissen Kristensen,13,Denmark,Rasmus Kristensen
+Joakim Mæhle,5,Denmark,Joakim Mæhle
+Daizen Maeda,25,Japan,Daizen Maeda
+Alejandro Balde Martínez,14,Spain,Alejandro Balde
+Unai Simón Mendibil,23,Spain,Unai Simón
+Ko Itakura,4,Japan,Kō Itakura
+Nicholas Williams Arthuer,12,Spain,Nico Williams
+Shogo Taniguchi,3,Japan,Shōgo Taniguchi
+Maya Yoshida,22,Japan,Maya Yoshida
+Pedro González López,26,Spain,Pedri
+Shūichi Gonda,12,Japan,Shūichi Gonda
+Álvaro Borja Morata Martín,7,Spain,Álvaro Morata
+Junya Ito,14,Japan,Junya Itō
+Yuto Nagatomo,5,Japan,Yūto Nagatomo
+Daniel Olmo Carvajal,21,Spain,Dani Olmo
+Ao Tanaka,17,Japan,Ao Tanaka
+Hidemasa Morita,13,Japan,Hidemasa Morita
+Takefusa Kubo,11,Japan,Takefusa Kubo
+Pablo Martín Páez Gavira,9,Spain,Gavi
+Rodrigo Hernández Cascante,16,Spain,Rodri
+César Azpilicueta Tanco,2,Spain,César Azpilicueta
+Pau Francisco Torres,4,Spain,Pau Torres
+Takuma Asano,18,Japan,Takuma Asano
+Takehiro Tomiyasu,16,Japan,Takehiro Tomiyasu
+Anssumane Fati,25,Spain,Ansu Fati
+Jordi Alba Ramos,18,Spain,Jordi Alba
+Wataru Endo,6,Japan,Wataru Endo
+Kaoru Mitoma,9,Japan,Kaoru Mitoma
+Ferrán Torres García,11,Spain,Ferran Torres
+Marco Asensio Willemsen,10,Spain,Marco Asensio
+Sergio Busquets i Burgos,5,Spain,Sergio Busquets
+Daniel Carvajal Ramos,20,Spain,Dani Carvajal
+Ritsu Doan,8,Japan,Ritsu Dōan
+Daichi Kamada,15,Japan,Daichi Kamada
+Djibril Sow,15,Switzerland,Djibril Sow
+Fabian Lukas Schär,22,Switzerland,Fabian Schär
+Manuel Obafemi Akanji,5,Switzerland,Manuel Akanji
+Strahinja Pavlović,2,Serbia,Strahinja Pavlović
+Silvan Widmer,3,Switzerland,Silvan Widmer
+Andrija Živković,14,Serbia,Andrija Živković
+Noah Okafor,19,Switzerland,Noah Okafor
+Filip Đuričić,21,Serbia,Filip Đuričić
+Denis Lemi Zakaria Lako Lado,6,Switzerland,Denis Zakaria
+Xherdan Shaqiri,23,Switzerland,Xherdan Shaqiri
+Granit Xhaka,10,Switzerland,Granit Xhaka
+Remo Freuler,8,Switzerland,Remo Freuler
+Ricardo Iván Rodríguez Araya,13,Switzerland,Ricardo Rodriguez
+Nemanja Gudelj,8,Serbia,Nemanja Gudelj
+Luka Jović,11,Serbia,Luka Jović
+Nemanja Maksimović,6,Serbia,Nemanja Maksimović
+Edimilson Fernandes,2,Switzerland,Edimilson Fernandes
+Milos Veljkovic,5,Serbia,Miloš Veljković
+Nikola Milenković,4,Serbia,Nikola Milenković
+Vanja Milinković Savić,23,Serbia,Vanja Milinković-Savić
+Filip Kostić,17,Serbia,Filip Kostić
+Christian Fassnacht,16,Switzerland,Christian Fassnacht
+Gregor Kobel,21,Switzerland,Gregor Kobel
+Aleksandar Mitrović,9,Serbia,Aleksandar Mitrović
+Nemanja Radonjić,7,Serbia,Nemanja Radonjić
+Dušan Tadić,10,Serbia,Dušan Tadić
+Sergej Milinković-Savić,20,Serbia,Sergej Milinković-Savić
+Saša Lukić,16,Serbia,Saša Lukić
+Breel-Donald Embolo,7,Switzerland,Breel Embolo
+Ruben Vargas,17,Switzerland,Rubén Vargas
+Dušan Vlahović,18,Serbia,Dušan Vlahović
+Aaron Mooy,13,Australia,Aaron Mooy
+Keanu Baccus,26,Australia,Keanu Baccus
+Ajdin Hrustic,10,Australia,Ajdin Hrustic
+Jamie MacLaren,9,Australia,Jamie Maclaren
+Bailey Wright,8,Australia,Bailey Wright
+Martin Braithwaite Christensen,9,Denmark,Martin Braithwaite
+Harry Souttar,19,Australia,Harry Soutta
+Kye Rowles,4,Australia,Kye Rowles
+Aziz Eraltay Behich,16,Australia,Aziz Behich
+Alexander Hartmann Bah,26,Denmark,Alexander Bah
+Miloš Degenek,2,Australia,Miloš Degenek
+Jackson Irvine,22,Australia,Jackson Irvine
+Mathew Ryan,1,Australia,Mathew Ryan
+Robert Skov,24,Denmark,Robert Skov
+Mitchell Thomas Duke,15,Australia,Mitchell Duke
+Riley McGree,14,Australia,Riley McGree
+Craig Goodwin,23,Australia,Craig Goodwin
+Mathew Leckie,7,Australia,Mathew Leckie
+Marcos Aoás Corrêa,4,Brazil,Marquinhos
+Danilo Luiz da Silva,2,Brazil,Danilo
+Gabriel Teodoro Martinelli Silva,26,Brazil,Gabriel Martinelli
+Ivan Ilić,24,Serbia,Ivan Ilić
+Darko Lazović,22,Serbia,Darko Lazović
+Antony Matheus dos Santos,19,Brazil,Antony
+Carlos Henrique Casimiro,5,Brazil,Casemiro
+Lucas Tolentino Coelho de Lima,7,Brazil,Lucas Paquetá
+Alisson Ramsés Becker,1,Brazil,Alisson
+Thiago Emiliano da Silva,3,Brazil,Thiago Silva
+Alex Sandro Lobo Silva,6,Brazil,Alex Sandro
+Raphael Dias Belloli,11,Brazil,Raphinha
+Gabriel Fernando de Jesus,18,Brazil,Gabriel Jesus
+Filip Mladenović,25,Serbia,Filip Mladenović
+Richarlison de Andrade,9,Brazil,Richarlison
+Rodrygo Silva de Goes,21,Brazil,Rodrygo
+Frederico Rodrigues Santos,8,Brazil,Fred
+Neymar da Silva Santos Junior,10,Brazil,Neymar
+Vinícius José Paixão de Oliveira Júnior,20,Brazil,Vinícius Júnior
+Ngoran Suiru Fai Collins,19,Cameroon,Collins Fai
+Christian Mougang Bassogog,11,Cameroon,Christian Bassogog
+Vincent Paté Aboubakar,10,Cameroon,Vincent Aboubakar
+Stefan Mitrović,13,Serbia,Stefan Mitrović
+André-Frank Zambo Anguissa,8,Cameroon,André-Frank Zambo Anguissa
+Martin Hongla Yma II,18,Cameroon,Martin Hongla
+Nouhou Tolo,25,Cameroon,Nouhou Tolo
+Pierre Kunde Malong,15,Cameroon,Pierre Kunde
+Gaël Ondoua,5,Cameroon,Gaël Ondoua
+Srđan Babić,15,Serbia,Srđan Babić
+Marko Grujić,26,Serbia,Marko Grujić
+Samuel Yves Oum Gwet,14,Cameroon,Samuel Gouet
+Georges-Kévin Nkoudou Mbida,7,Cameroon,Georges-Kévin Nkoudou
+Bryan Mbeumo,20,Cameroon,Bryan Mbeumo
+Jean-Charles Castelletto,21,Cameroon,Jean-Charles Castelletto
+Nicolas Alexis Julio N'Koulou Ndoubena,3,Cameroon,Nicolas Nkoulou
+Jean-Eric Maxim Choupo-Moting,13,Cameroon,Eric Maxim Choupo-Moting
+Karl Brillant Toko Ekambi,12,Cameroon,Karl Toko Ekambi
+Devis Rogers Epassy Mboka,16,Cameroon,Devis Epassy
+Carlos Alberto Rodríguez Gómez,8,Mexico,Carlos Rodríguez
+Raúl Alonso Jiménez Rodríguez,9,Mexico,Raúl Jiménez
+Abdulrahman Al-Obood,20,Saudi Arabia,Abdulrahman Al-Aboud
+Riyadh Sharahili,26,Saudi Arabia,Riyadh Sharahili
+Jorge Eduardo Sánchez Ramos,19,Mexico,Jorge Sánchez
+Hassan Mohammed Al-Tambakti,17,Saudi Arabia,Hassan Al-Tambakti
+Ali Albulayhi,5,Saudi Arabia,Ali Al-Bulaihi
+Ali Al Hassan,15,Saudi Arabia,Ali Al-Hassan
+Carlos Uriel Antuna Romero,21,Mexico,Uriel Antuna
+Abdullah Mohammed Madu,3,Saudi Arabia,Abdullah Madu
+Sultan Abdullah Salim Al Ghannam,2,Saudi Arabia,Sultan Al-Ghannam
+Saleh Khalid Al Shehri,11,Saudi Arabia,Saleh Al-Shehri
+Francisco Guillermo Ochoa Magaña,13,Mexico,Guillermo Ochoa
+Saud Abdullah Abdul Hamid,12,Saudi Arabia,Saud Abdulhamid
+Firas Tariq Nasser Al Albirakan,9,Saudi Arabia,Firas Al-Buraikan
+Salem Mohammed Al Dawsari,10,Saudi Arabia,Salem Al-Dawsari
+Luis Gerardo Chávez Magallón,24,Mexico,Luis Chávez
+Orbelín Pineda Alvarado,17,Mexico,Orbelín Pineda
+Mohammed Kanoo,23,Saudi Arabia,Mohamed Kanno
+César Jasib Montes Castro,3,Mexico,César Montes
+Hirving Rodrigo Lozano Bahena,22,Mexico,Hirving Lozano
+Héctor Alfredo Moreno Herrera,15,Mexico,Héctor Moreno
+Jesús Daniel Gallardo Vasconcelos,23,Mexico,Jesús Gallardo
+Edson Omar Álvarez Velázquez,4,Mexico,Edson Álvarez
+Ernesto Alexis Vega Rojas,10,Mexico,Alexis Vega
+Abdulelah Al Amri,4,Saudi Arabia,Abdulelah Al-Amri
+Henry Josué Martín Mex,20,Mexico,Henry Martín
+Mohammed Khalil Al Owais,21,Saudi Arabia,Mohammed Al-Owais
+Rogelio Gabriel Funes Mori,11,Mexico,Rogelio Funes Mori
+Hattan Babhir,19,Saudi Arabia,Hattan Bahebri
+Kevin Nahin Álvarez Campos,26,Mexico,Kevin Álvarez
+Ben Davies,4,Wales,Ben Davies
+Kieffer Roberto Francisco Moore,13,Wales,Kieffer Moore
+Kyle Walker,2,England,Kyle Walker
+Jude Bellingham,22,England,Jude Bellingham
+Phil Foden,20,England,Phil Foden
+Declan Rice,4,England,Declan Rice
+Jordan Pickford,1,England,Jordan Pickford
+Harry Maguire,6,England,Harry Maguire
+Marcus Rashford,11,England,Marcus Rashford
+Jordan Brian Henderson,8,England,Jordan Henderson
+Harry Kane,9,England,Harry Kane
+Gareth Frank Bale,11,Wales,Gareth Bale
+Daniel James,20,Wales,Daniel James
+Connor Roberts,14,Wales,Connor Roberts
+Joe Allen,7,Wales,Joe Allen
+Joe Rodon,6,Wales,Joe Rodon
+Ethan Ampadu,15,Wales,Ethan Ampadu
+Rubin Colwill,25,Wales,Rubin Colwill
+Daniel Ward,12,Wales,Danny Ward
+Neco Williams,3,Wales,Neco Williams
+Brennan Johnson,9,Wales,Brennan Johnson
+Joseff Morrell,16,Wales,Joe Morrell
+Harry Wilson,8,Wales,Harry Wilson
+Jack Grealish,7,England,Jack Grealish
+Kieran Trippier,12,England,Kieran Trippier
+Luke Shaw,3,England,Luke Shaw
+John Stones,5,England,John Stones
+Kalvin Phillips,14,England,Kalvin Phillips
+Aaron Ramsey,10,Wales,Aaron Ramsey
+Trent Alexander-Arnold,18,England,Trent Alexander-Arnold
+Callum Wilson,24,England,Callum Wilson
+Chris Mepham,5,Wales,Chris Mepham
+Ui-Jo Hwang,16,South Korea,Hwang Ui-jo
+Kang-In Lee,18,South Korea,Lee Kang-in
+Jin-Su Kim,3,South Korea,Kim Jin-su
+Cristiano Ronaldo dos Santos Aveiro,7,Portugal,Cristiano Ronaldo
+Seung-Gyu Kim,1,South Korea,Kim Seung-gyu
+André Miguel Valente Silva,9,Portugal,André Silva
+Vitor Machado Ferreira,16,Portugal,Vitinha
+William Silva de Carvalho,14,Portugal,William Carvalho
+Bernardo Mota Veiga de Carvalho e Silva,10,Portugal,Bernardo Silva
+João Maria Lobo Alves Palhinha Gonçalves,6,Portugal,João Palhinha
+Yu-Min Cho,24,South Korea,Cho Yu-min
+Rafael Alexandre Conceição Leão,15,Portugal,Rafael Leão
+João Mário Naval da Costa Eduardo,17,Portugal,João Mário
+Matheus Luiz Nunes,23,Portugal,Matheus Nunes
+Diogo Meireles Costa,22,Portugal,Diogo Costa
+Gue-Sung Cho,9,South Korea,Cho Gue-sung
+Heung-Min Son,7,South Korea,Son Heung-min
+Hee-Chan Hwang,11,South Korea,Hwang Hee-chan
+Jun-Ho Son,13,South Korea,Son Jun-ho
+Woo-Young Jung,5,South Korea,Jung Woo-young
+In-Beom Hwang,6,South Korea,Hwang In-beom
+Jae-Sung Lee,10,South Korea,Lee Jae-sung
+Moon-Hwan Kim,15,South Korea,Kim Moon-hwan
+Ricardo Jorge Luz Horta,21,Portugal,Ricardo Horta
+Rúben Diogo Da Silva Neves,18,Portugal,Rúben Neves
+Kléper Laveran Lima Ferreira,3,Portugal,Pepe
+António João Pereira Albuquerque Tavares Silva,24,Portugal,António Silva
+João Pedro Cavaco Cancelo,20,Portugal,João Cancelo
+José Diogo Dalot Teixeira,2,Portugal,Diogo Dalot
+Kyung-Won Kwon,20,South Korea,Kwon Kyung-won
+Young-Gwon Kim,19,South Korea,Kim Young-gwon
+Niclas Füllkrug,9,Germany,Niclas Füllkrug
+Lukas Klostermann,16,Germany,Lukas Klostermann
+Jonas Hofmann,18,Germany,Jonas Hofmann
+Nico Schlotterbeck,23,Germany,Nico Schlotterbeck
+Serge Gnabry,10,Germany,Serge Gnabry
+Jamal Musiala,14,Germany,Jamal Musiala
+İlkay Gündoğan,21,Germany,İlkay Gündoğan
+Thomas Müller,13,Germany,Thomas Müller
+Antonio Rüdiger,2,Germany,Antonio Rüdiger
+Aymeric Laporte,24,Spain,Aymeric Laporte
+Leon Goretzka,8,Germany,Leon Goretzka
+Joshua Kimmich,6,Germany,Joshua Kimmich
+David Raum,3,Germany,David Raum
+Niklas Süle,15,Germany,Niklas Süle
+Thilo Kehrer,5,Germany,Thilo Kehrer
+Manuel Neuer,1,Germany,Manuel Neuer
+Jorge Resurrección Merodio,8,Spain,Koke
+Leroy Sané,19,Germany,Leroy Sané
+Julián Álvarez,9,Argentina,Julián Alvarez
+Ángel Fabián Di María Hernández,11,Argentina,Ángel Di María
+Alexis Mac Allister,20,Argentina,Alexis Mac Allister
+Rodrigo Javier De Paul,7,Argentina,Rodrigo De Paul
+Enzo Fernandez,24,Argentina,Enzo Fernández
+Marcos Javier Acuña,8,Argentina,Marcos Acuña
+Nicolás Hernán Otamendi,19,Argentina,Nicolás Otamendi
+Cristian Gabriel Romero,13,Argentina,Cristian Romero
+Nahuel Molina Lucero,26,Argentina,Nahuel Molina
+Damián Emiliano Martínez,23,Argentina,Emiliano Martínez
+Karol Świderski,16,Poland,Karol Świderski
+Robert Lewandowski,9,Poland,Robert Lewandowski
+Przemysław Frankowski,24,Poland,Przemysław Frankowski
+Lionel Andrés Messi Cuccittini,10,Argentina,Lionel Messi
+Krzysztof Piątek,23,Poland,Krzysztof Piątek
+Thiago Ezequiel Almada,16,Argentina,Thiago Almada
+Germán Alejandro Pezzella,6,Argentina,Germán Pezzella
+Lautaro Javier Martínez,22,Argentina,Lautaro Martínez
+Artur Jędrzejczyk,3,Poland,Artur Jędrzejczyk
+Damian Szymański,8,Poland,Damian Szymański
+Nicolás Alejandro Tagliafico,3,Argentina,Nicolás Tagliafico
+Leandro Daniel Paredes,5,Argentina,Leandro Paredes
+Jakub Kamiński,13,Poland,Jakub Kamiński
+Michał Skóraś,26,Poland,Michał Skóraś
+Piotr Zieliński,20,Poland,Piotr Zieliński
+Grzegorz Krychowiak,10,Poland,Grzegorz Krychowiak
+Krystian Bielik,6,Poland,Krystian Bielik
+Bartosz Bereszyński,18,Poland,Bartosz Bereszyński
+Jakub Piotr Kiwior,14,Poland,Jakub Kiwior
+Kamil Glik,15,Poland,Kamil Glik
+Matty Cash,2,Poland,Matty Cash
+Wojciech Szczęsny,1,Poland,Wojciech Szczęsny
+Arkadiusz Milik,7,Poland,Arkadiusz Milik
+Sebastian Szymański,19,Poland,Sebastian Szymański
+Nicola Zalewski,21,Poland,Nicola Zalewski
+Héctor Miguel Herrera López,16,Mexico,Héctor Herrera
+Ibrahima Konaté,24,France,Ibrahima Konaté
+Kingsley Coman,20,France,Kingsley Coman
+Christian Nørgaard,15,Denmark,Christian Nørgaard
+Olivier Giroud,9,France,Olivier Giroud
+Victor Nelsson,3,Denmark,Victor Nelsson
+Marcus Thuram,26,France,Marcus Thuram
+Youssouf Fofana,13,France,Youssouf Fofana
+Adrien Rabiot,14,France,Adrien Rabiot
+Ousmane Dembélé,11,France,Ousmane Dembélé
+Hugo Lloris,1,France,Hugo Lloris
+Jules Koundé,5,France,Jules Koundé
+Raphaël Varane,4,France,Raphaël Varane
+Dayotchanculle Upamecano,18,France,Dayot Upamecano
+Theo Bernard François Hernández,22,France,Théo Hernandez
+Aurélien Djani Tchouaméni,8,France,Aurélien Tchouaméni
+Antoine Griezmann,7,France,Antoine Griezmann
+Kylian Mbappé Lottin,10,France,Kylian Mbappé
+Cheikh Ahmadou Bamba Mbacke Dieng,20,Senegal,Bamba Dieng
+José Adoni Cifuentes Charcopa,5,Ecuador,José Cifuentes
+Jeremy Leonel Sarmiento Morante,16,Ecuador,Jeremy Sarmiento
+Jackson Gabriel Porozo Vernaza,25,Ecuador,Jackson Porozo
+Pape Abou Cissé,4,Senegal,Pape Abou Cissé
+Nampalys Mendy,6,Senegal,Nampalys Mendy
+Abdou Diallo,22,Senegal,Abdou Diallo
+Ismail Jakobs,14,Senegal,Ismail Jakobs
+Moisés Isaac Caicedo Corozo,23,Ecuador,Moisés Caicedo
+Alan Steven Franco Palma,21,Ecuador,Alan Franco
+Enner Remberto Valencia Lastra,13,Ecuador,Enner Valencia
+Gonzalo Jordy Plata Jiménez,19,Ecuador,Gonzalo Plata
+Piero Martín Hincapié Reyna,3,Ecuador,Piero Hincapié
+Felix Eduardo Torres Caicedo,2,Ecuador,Félix Torres
+Angelo Smit Preciado Quiñónez,17,Ecuador,Ángelo Preciado
+Hernán Ismael Galíndez,1,Ecuador,Hernán Galíndez
+Boulaye Dia,9,Senegal,Boulaye Dia
+Ismaïla Sarr,18,Senegal,Ismaïla Sarr
+Idrissa Gana Gueye,5,Senegal,Idrissa Gueye
+Iliman Ndiaye,13,Senegal,Iliman Ndiaye
+Pape Gueye,26,Senegal,Pape Gueye
+Pathé Ismaël Ciss,11,Senegal,Pathé Ciss
+Youssouf Sabaly,21,Senegal,Youssouf Sabaly
+Kalidou Koulibaly,3,Senegal,Kalidou Koulibaly
+Djorkaeff Neicer Reasco González,24,Ecuador,Djorkaeff Reasco
+Edouard Mendy,16,Senegal,Édouard Mendy
+Carlos Armando Gruezo Arboleda,8,Ecuador,Carlos Gruezo
+Pervis Josué Estupiñán Tenorio,7,Ecuador,Pervis Estupiñán
+Michael Steveen Estrada Martínez,11,Ecuador,Michael Estrada
+Yannick Ferreira Carrasco,11,Belgium,Yannick Carrasco
+Axel Witsel,6,Belgium,Axel Witsel
+Timothy Castagne,21,Belgium,Timothy Castagne
+Youri Tielemans,8,Belgium,Youri Tielemans
+Leandro Trossard,17,Belgium,Leandro Trossard
+Jonathan Osorio,21,Canada,Jonathan Osorio
+Ikoma Loïs Openda,24,Belgium,Loïs Openda
+Thomas Meunier,15,Belgium,Thomas Meunier
+Cyle Larin,17,Canada,Cyle Larin
+Kamal Miller,4,Canada,Kamal Miller
+Alphonso Davies,19,Canada,Alphonso Davies
+Richie Laryea,22,Canada,Richie Laryea
+Ismael Koné,15,Canada,Ismaël Koné
+Thibaut Courtois,1,Belgium,Thibaut Courtois
+David Junior Hoilett,10,Canada,Junior Hoilett
+Stephen Antunes Eustáquio,7,Canada,Stephen Eustáquio
+Jonathan David,20,Canada,Jonathan David
+Milan Borjan,18,Canada,Milan Borjan
+Alistair Johnston,2,Canada,Alistair Johnston
+Steven de Sousa Vitoria,5,Canada,Steven Vitória
+Tajon Buchanan,11,Canada,Tajon Buchanan
+Atiba Hutchinson,13,Canada,Atiba Hutchinson
+Michy Batshuayi Tunga,23,Belgium,Michy Batshuayi
+Kevin De Bruyne,7,Belgium,Kevin De Bruyne
+Eden Hazard,10,Belgium,Eden Hazard
+Leander Dendoncker,19,Belgium,Leander Dendoncker
+Jan Vertonghen,5,Belgium,Jan Vertonghen
+Liam Millar,23,Canada,Liam Millar
+Toby Alderweireld,2,Belgium,Toby Alderweireld
+Sam Adekugbe,3,Canada,Sam Adekugbe
+Amadou Onana,18,Belgium,Amadou Onana
+Renato Steffen,11,Switzerland,Renato Steffen
+Éder Gabriel Militão,14,Brazil,Éder Militão
+Fabian Rieder,25,Switzerland,Fabian Rieder
+Yann Sommer,1,Switzerland,Yann Sommer
+Nico Elvedi,4,Switzerland,Nico Elvedi
+Bruno Guimarães Rodriguez Moura,17,Brazil,Bruno Guimarães
+Fabian Frei,20,Switzerland,Fabian Frei
+Haris Seferović,9,Switzerland,Haris Seferovic
+Michel Aebischer,14,Switzerland,Michel Aebischer
+Alex Nicolao Telles,16,Brazil,Alex Telles
+Matías Vecino Falero,5,Uruguay,Matías Vecino
+Federico Santiago Valverde Dipetta,15,Uruguay,Federico Valverde
+Darwin Gabriel Núñez Ribeiro,11,Uruguay,Darwin Núñez
+Edinson Roberto Cavani Gómez,21,Uruguay,Edinson Cavani
+Rodrigo Bentancur Colmán,6,Uruguay,Rodrigo Bentancur
+Mathías Olivera Miramontes,16,Uruguay,Mathías Olivera
+Raphaël Adelino José Guerreiro,5,Portugal,Raphaël Guerreiro
+Facundo Pellistri Rebollo,8,Uruguay,Facundo Pellistri
+Matías Nicolás Viña Susperreguy,17,Uruguay,Matías Viña
+Luis Alberto Suárez Díaz,9,Uruguay,Luis Suárez
+Gonçalo Matias Ramos,26,Portugal,Gonçalo Ramos
+Giorgian Daniel De Arrascaeta Benedetti,10,Uruguay,Giorgian de Arrascaeta
+Maximiliano Gómez González,18,Uruguay,Maxi Gómez
+Bruno Miguel Borges Fernandes,8,Portugal,Bruno Fernandes
+Nuno Mendes,19,Portugal,Nuno Mendes
+Rúben Santos Gato Alves Dias,4,Portugal,Rúben Dias
+Guillermo Varela Olivera,13,Uruguay,Guillermo Varela
+Sebastián Coates Nión,19,Uruguay,Sebastián Coates
+João Félix Sequeira,11,Portugal,João Félix
+Sergio Rochet Álvarez,23,Uruguay,Sergio Rochet
+José María Giménez de Vargas,2,Uruguay,Kosé Giménez
+Diego Roberto Godín Leal,3,Uruguay,Diego Godín
+Mehdi Taremi,9,Iran,Mehdi Taremi
+Milad Mohammadi,5,Iran,Milad Mohammadi
+Sadegh Moharrami,2,Iran,Sadegh Moharrami
+Seyed Majid Hosseini,19,Iran,Majid Hosseini
+Ehsan Hajsafi,3,Iran,Ehsan Hajsafi
+Alireza Jahanbakhsh,7,Iran,Alireza Jahanbakhsh
+Ali Karimi,18,Iran,Ali Karimi
+Ahmad Nourollahi,21,Iran,Ahmad Nourollahi
+Sardar Azmoun,20,Iran,Sardar Azmoun
+Eric Dier,15,England,Eric Dier
+Mehdi Torabi,16,Iran,Mehdi Torabi
+Mohammad Hossein Kanani Zadegan,13,Iran,Hossein Kanaanizadegan
+Saeid Ezatolahi Afagh,6,Iran,Saeid Ezatolahi
+Ali Gholizadeh,17,Iran,Ali Gholizadeh
+Seyed Hossein Hosseini,24,Iran,Hossein Hosseini
+Roozbeh Cheshmi,15,Iran,Rouzbeh Cheshmi
+Morteza Pouraliganji,8,Iran,Morteza Pouraliganji
+Alireza Safar Beiranvand,1,Iran,Alireza Beiranvand
+Mason Mount,19,England,Mason Mount
+Raheem Sterling,10,England,Raheem Sterling
+Bukayo Saka,17,England,Bukayo Saka
+Christian Pulisic,10,United States,Christian Pulisic
+Weston McKennie,8,United States,Weston McKennie
+Yunus Dimoara Musah,6,United States,Yunus Musah
+Tyler Adams,4,United States,Tyler Adams 
+Antonee Robinson,5,United States,Antonee Robinson
+Tim Ream,13,United States,Tim Ream
+Walker Zimmerman,3,United States,Walker Zimmerman
+Sergino Dest,2,United States,Sergiño Dest
+Matthew Charles Turner,1,United States,Matt Turner
+Haji Wright,19,United States,Haji Wright
+Timothy Weah,21,United States,Timothy Weah
+Joshua Sargent,24,United States,Josh Sargent
+Shaquell Moore,18,United States,Shaq Moore
+Brenden Aaronson,11,United States,Brenden Aaronson
+Giovanni Reyna,7,United States,Giovanni Reyna
+Wayne Hennessey,1,Wales,Wayne Hennessey
+Ramin Rezaeian,23,Iran,Ramin Rezaeian
+Karim Ansarifard,10,Iran,Karim Ansarifard
+Cody Mathès Gakpo,8,Netherlands,Cody Gakpo
+Davy Klaassen,14,Netherlands,Davy Klaassen
+Marten de Roon,15,Netherlands,Marten de Roon
+Wout Weghorst,19,Netherlands,Wout Weghorst
+Romario Andrés Ibarra Mina,10,Ecuador,Romario Ibarra
+Kevin José Rodríguez Cortez,26,Ecuador,Kevin Rodríguez
+Steven Berghuis,11,Netherlands,Steven Berghuis
+Virgil van Dijk,4,Netherlands,Virgil van Dijk
+Nathan Aké,5,Netherlands,Nathan Aké
+Frenkie de Jong,21,Netherlands,Frenkie de Jong
+Teun Koopmeiners,20,Netherlands,Teun Koopmeiners
+Steven Bergwijn,7,Netherlands,Steven Bergwijn
+Andries Noppert,23,Netherlands,Andries Noppert
+Jurriën David Norman Timber,2,Netherlands,Jurriën Timber
+Daley Blind,17,Netherlands,Daley Blind
+Denzel Dumfries,22,Netherlands,Denzel Dumfries
+Jhegson Sebastián Méndez Carabalí,20,Ecuador,Sebas Méndez
+Memphis Depay,10,Netherlands,Memphis Depay
+Nader Ghandri,5,Tunisia,Nader Ghandri
+Randal Kolo Muani,12,France,Randal Kolo Muani
+Mattéo Guendouzi Olié,6,France,Mattéo Guendouzi
+Jordan Veretout,15,France,Jordan Veretout
+Steve Mandanda,16,France,Steve Mandanda
+William Saliba,17,France,William Saliba
+Ghilane Chalali,18,Tunisia,Ghailene Chaalali
+Eduardo Camavinga,25,France,Eduardo Camavinga
+Axel Disasi,3,France,Axel Disasi
+Mohamed Ali Ben Romdhane,15,Tunisia,Mohamed Ali Ben Romdhane
+Wahbi Khazri,10,Tunisia,Wahbi Khazri
+Ali Maâloul,12,Tunisia,Ali Maâloul
+Noussair Mazraoui,3,Morocco,Noussair Mazraoui
+Hakim Ziyech,7,Morocco,Hakim Ziyech
+Abdelhamid Sabiri,11,Morocco,Abdelhamid Sabiri
+Sofiane Boufal,17,Morocco,Sofiane Boufal
+Youssef En-Nesyri,19,Morocco,Youssef En-Nesyri
+Nayef Aguerd,5,Morocco,Nayef Aguerd
+Achraf Hakimi Mouh,2,Morocco,Achraf Hakimi
+Jawad El Yamiq,18,Morocco,Jawad El Yamiq
+Abderrazak Hamdallah,9,Morocco,Abderrazak Hamdallah
+David Wallace Wotherspoon,24,Canada,David Wotherspoon
+Yahya Jabrane,26,Morocco,Yahya Jabrane
+Zakaria Aboukhlal,14,Morocco,Zakaria Aboukhlal
+Mark Anthony Kaye,14,Canada,Mark-Anthony Kaye
+Romain Saïss,6,Morocco,Romain Saïss
+Selim Amallah,15,Morocco,Selim Amallah
+Azzedine Ounahi,8,Morocco,Azzedine Ounahi
+Yassine Bounou,1,Morocco,Yassine Bounou
+Sofyan Amrabat,4,Morocco,Sofyan Amrabat
+Abdessamad Ezzalzouli,16,Morocco,Abde Ezzalzouli
+Marko Livaja,14,Croatia,Marko Livaja
+Borna Sosa,19,Croatia,Borna Sosa
+Mislav Oršić,18,Croatia,Mislav Oršić
+Yahia Attiyat allah,25,Morocco,Yahia Attiyat Allah
+Mario Pašalić,15,Croatia,Mario Pašalić
+Lovro Majer,7,Croatia,Lovro Majer
+Mateo Kovačić,8,Croatia,Mateo Kovačić
+Marcelo Brozović,11,Croatia,Marcelo Brozović
+Josip Juranović,22,Croatia,Josip Juranović
+Joško Gvardiol,20,Croatia,Joško Gvardiol
+Nikola Vlašić,13,Croatia,Nikola Vlašić
+Dominik Livaković,1,Croatia,Dominik Livaković
+Dejan Lovren,6,Croatia,Dejan Lovren
+Luka Modrić,10,Croatia,Luka Modrić
+Andrej Kramarić,9,Croatia,Andrej Kramarić
+Ivan Perišić,4,Croatia,Ivan Perišić
+Kellyn Kai Perry-Acosta,23,United States,Kellyn Acosta
+Saman Ghoddos,14,Iran,Saman Ghoddos
+Abolfazl Jalali,25,Iran,Abolfazl Jalali
+Cameron Carter-Vickers,20,United States,Cameron Carter-Vickers
+Garang Kuol,21,Australia,Garang Kuol
+Awer Denis Bul Mabil,11,Australia,Awer Mabil
+Jason Cummings,25,Australia,Jason Cummings
+Nathaniel Atkinson,3,Australia,Nathaniel Atkinson
+Benjamin Pavard,2,France,Benjamin Pavard
+Lucas Hernández Pi,21,France,Lucas Hernandez
+Christopher Wooh,4,Cameroon,Christopher Wooh
+Fábio Henrique Tavares,15,Brazil,Fabinho
+Daniel Alves da Silva,13,Brazil,Dani Alves
+Ederson Santana de Moraes,23,Brazil,Ederson
+Nicolas Moumi Ngamaleu,6,Cameroon,Moumi Ngamaleu
+Gleison Bremer Silva Nascimento,24,Brazil,Bremer
+Enzo Ebosse,24,Cameroon,Enzo Ebosse
+Pedro Guilherme Abreu dos Santos,25,Brazil,Pedro
+Jerome Ngom Mbekeli,2,Cameroon,Jerome Ngom Mbekeli
+Jules Olivier Ntcham,22,Cameroon,Olivier Ntcham
+Éverton Augusto de Barros Ribeiro,22,Brazil,Éverton Ribeiro
+Bruno Petković,16,Croatia,Bruno Petković
+Lucas Daniel Cavallini,9,Canada,Lucas Cavallini
+Jordan Morris,16,United States,Jordan Morris
+Sorba Thomas,22,Wales,Sorba Thomas
+DeAndre Yedlin,22,United States,DeAndre Yedlin
+Munir Mohand Mohamedi,12,Morocco,Munir Mohamedi
+Thorgan Hazard,16,Belgium,Thorgan Hazard
+Romelu Lukaku Menama,9,Belgium,Romelu Lukaku
+Dries Mertens,14,Belgium,Dries Mertens
+Charles De Ketelaere,22,Belgium,Charles De Ketelaere
+Takumi Minamino,10,Japan,Takumi Minamino
+Mario Götze,11,Germany,Mario Götze
+Youssoufa Moukoko,26,Germany,Youssoufa Moukoko
+Hiroki Sakai,19,Japan,Hiroki Sakai
+Kai Havertz,7,Germany,Kai Havertz
+Cheikhou Kouyaté,8,Senegal,Cheikhou Kouyaté
+Matthijs de Ligt,3,Netherlands,Matthijs de Ligt
+Krépin Diatta,15,Senegal,Krépin Diatta
+Vincent Janssen,18,Netherlands,Vincent Janssen
+Nicolas Jackson,7,Senegal,Nicolas Jackson
+Saad Abdullah Al Sheeb,1,Qatar,Saad Al-Sheeb
+Boualem Khoukhi,16,Qatar,Boualem Khoukhi
+Abdelkarim Hassan Al Haj Fadlalla,3,Qatar,Abdelkarim Hassan
+Bassam Hisham Al Rawi,15,Qatar,Bassam Al-Rawi
+Pedro Miguel Correia,2,Qatar,Pedro Miguel
+Almoez Ali Zainalabiddin Abdulla,19,Qatar,Almoez Ali
+Karim Boudiaf,12,Qatar,Karim Boudiaf
+Hassan Khalid Al Heidos,10,Qatar,Hassan Al-Haydos
+Homam Alamin Ahmed,14,Qatar,Homam Ahmed
+Abdulaziz Hatem Mohammed Abdullah,6,Qatar,Abdulaziz Hatem
+Akram Hassan Afif,11,Qatar,Akram Afif
+Mohammed Waed Abdulwahhab Al Bayati,4,Qatar,Mohammed Waad
+Mohammed Muntari,9,Qatar,Mohammed Muntari
+Min Jae Kim,4,South Korea,Kim Min-jae
+José Martín Cáceres Silva,22,Uruguay,Martín Cáceres
+Sang-Ho Na,17,South Korea,Na Sang-ho
+Diego Nicolás De La Cruz Arcosa,7,Uruguay,Nicolás de la Cruz
+Fran Karačić,5,Australia,Fran Karačić
+Gonzalo Ariel Montiel,4,Argentina,Gonzalo Montiel
+Guido Rodríguez,18,Argentina,Guido Rodríguez
+Néstor Alejandro Araújo Razo,2,Mexico,Néstor Araujo
+Lisandro Martínez,25,Argentina,Lisandro Martínez
+Érick Gabriel Gutiérrez Galaviz,14,Mexico,Érick Gutiérrez
+Exequiel Alejandro Palacios,14,Argentina,Exequiel Palacios
+Roberto Carlos Alvarado Hernández,25,Mexico,Roberto Alvarado
+José Andrés Guardado Hernández,18,Mexico,Andrés Guardado
+André Onana,23,Cameroon,André Onana
+Eray Ervin Cömert,18,Switzerland,Eray Cömert
+Óscar Esau Duarte Gaitán,6,Costa Rica,Óscar Duarte
+Carlos Manuel Martínez Castro,16,Costa Rica,Carlos Martínez
+Keylor Navas Gamboa,1,Costa Rica,Keylor Navas
+Francisco Javier Calvo Quesada,15,Costa Rica,Francisco Calvo
+Bryan Oviedo,8,Costa Rica,Bryan Oviedo
+Keysher Fuller Spence,4,Costa Rica,Keysher Fuller
+Yeltsin Ignacio Tejeda Valverde,17,Costa Rica,Yeltsin Tejeda
+Celso Borges Mora,5,Costa Rica,Celso Borges
+Ronald Alberto Matarrita Ulate,22,Costa Rica,Rónald Matarrita
+Brandon Aguilera Zamora,20,Costa Rica,Brandon Aguilera
+Kendall Jamaal Waston Manley,19,Costa Rica,Kendall Waston
+Jewison Bennette,9,Costa Rica,Jewison Bennette
+Álvaro José Zamora Mata,26,Costa Rica,Álvaro Zamora
+Bryan Ruiz González,10,Costa Rica,Bryan Ruiz
+Anthony Daniel Contreras Enríquez,7,Costa Rica,Anthony Contreras
+Carlos Soler Barragán,19,Spain,Carlos Soler
+Joel Nathaniel Campbell Samuels,12,Costa Rica,Joel Campbell
+Juan Pablo Vargas Campos,3,Costa Rica,Juan Pablo Vargas
+Youstin Delfin Salas Gómez,14,Costa Rica,Youstin Salas
+Johan Alberto Venegas Ulloa,11,Costa Rica,Johan Venegas
+Roan Roberto Wilson Gordon,24,Costa Rica,Roan Wilson
+Matthias Ginter,4,Germany,Matthias Ginter
+Agustín Canobbio Graviz,24,Uruguay,Agustín Canobbio
+Daniel-Kofi Kyereh,8,Ghana,Daniel-Kofi Kyereh
+Antoine Semenyo,25,Ghana,Antoine Semenyo
+Mohammed Kudus,20,Ghana,Mohammed Kudus
+Alidu Seidu,26,Ghana,Alidu Seidu
+Lawrence Ati-Zigi,1,Ghana,Lawrence Ati-Zigi
+Mohamed Salisu,4,Ghana,Mohammed Salisu
+Daniel Amartey,18,Ghana,Daniel Amartey
+Abdul Rahman Baba,17,Ghana,Baba Rahman
+Thomas Teye Partey,5,Ghana,Thomas Partey
+André Ayew Pelé,10,Ghana,André Ayew
+Jordan Ayew,9,Ghana,Jordan Ayew
+Iñaki Williams Arthuer,19,Ghana,Iñaki Williams
+Salis Abdul Samed,21,Ghana,Salis Abdul Samed
+Abdul Fatawu Issahaku,7,Ghana,Abdul Fatawu Issahaku
+Kamaldeen Sulemana,22,Ghana,Kamaldeen Sulemana
+Osman Bukari,11,Ghana,Osman Bukari
+Meshaal Aissa Barsham,22,Qatar,Meshaal Barsham
+Ismaeel Mohammad Mohammad,17,Qatar,Ismaeel Mohammad
+Assim Omer Al Haj Madibo,23,Qatar,Assim Madibo
+Ali Assadalla Thaimn Qambar,8,Qatar,Ali Assadalla
+Mosaab Khoder Jibril,13,Qatar,Musab Kheder
+Ahmed Alaa Eldin Abdelmotaal,7,Qatar,Ahmed Alaaeldin
+Kenneth Taylor,24,Netherlands,Kenneth Taylor
+Gerson Torres Barrantes,13,Costa Rica,Gerson Torres
+Miki Yamane,2,Japan,Miki Yamane
+Daniel Alonso Chacón Salas,2,Costa Rica,Daniel Chacón
+Hiroki Ito,26,Japan,Hiroki Itō
+Yuki Soma,24,Japan,Yūki Sōma
+Ayase Ueda,21,Japan,Ayase Ueda
+Jeremy Doku,25,Belgium,Jérémy Doku
+Nasser Al Dawsari,24,Saudi Arabia,Nasser Al-Dawsari
+Sami Khalil Al Naji,16,Saudi Arabia,Sami Al-Najei
+Nawaf Shaker Al Abid,18,Saudi Arabia,Nawaf Al-Abed
+Abdulelah Saad Hameed Al-Malki,8,Saudi Arabia,Abdulellah Al-Malki
+Mohammed Al Burayk,6,Saudi Arabia,Mohammed Al-Breik
+Tariq Lamptey,2,Ghana,Tariq Lamptey
+Otávio Edmilson da Silva Monteiro,25,Portugal,Otávio
+Alexander Djiku,23,Ghana,Alexander Djiku
+Danilo Luís Hélio Pereira,13,Portugal,Danilo Pereira
+Gideon Mensah,14,Ghana,Gideon Mensah
+Denis Odoi,3,Ghana,Denis Odoi
+Woo-Yeong Jeong,25,South Korea,Jeong Woo-yeong
+Chang-Hoon Kwon,22,South Korea,Kwon Chang-hoon
+Alejandro Darío Gómez,17,Argentina,Papu Gómez
+Yasir Gharsan Al Shahrani,13,Saudi Arabia,Yasser Al-Shahrani
+Haitham Mohammed Asiri,25,Saudi Arabia,Haitham Asiri
+Salman Mohammed Al Faraj,7,Saudi Arabia,Salman Al-Faraj
+Pape Matar Sarr,17,Senegal,Pape Matar Sarr
+Tarek Salman Salman,5,Qatar,Tarek Salman
+Famara Diedhiou,19,Senegal,Famara Diédhiou
+Xavi Simons,25,Netherlands,Xavi Simons
+Jesus Ferreira,9,United States,Jesús Ferreira
+Fodé Ballo Touré,12,Senegal,Fodé Ballo-Touré
+Philip Foden,20,England,Phil Foden
+Kamil Grosicki,11,Poland,Kamil Grosicki
+Jan Bednarek,5,Poland,Jan Bednarek
+Ante Budimir,17,Croatia,Ante Budimir
+Borna Barišić,3,Croatia,Borna Barišić
+Marcos Llorente Moreno,6,Spain,Marcos Llorente
+Badr Banoun,24,Morocco,Badr Benoun
+Pablo Sarabia García,22,Spain,Pablo Sarabia
+Walid Cheddira,21,Morocco,Walid Cheddira
+Seung-Ho Paik,8,South Korea,Paik Seung-ho
+Chul Hong,14,South Korea,Hong Chul
+Weverton Pereira da Silva,12,Brazil,Weverton
+Ardon Jashari,26,Switzerland,Ardon Jashari
+Noa Lang,12,Netherlands,Noa Lang
+Luuk de Jong,9,Netherlands,Luuk de Jong
+Achraf Dari,20,Morocco,Achraf Dari
+Juan Marcos Foyth,2,Argentina,Juan Foyth
+Ángel Martín Correa,15,Argentina,Ángel Correa
+Paulo Bruno Exequiel Dybala,21,Argentina,Paulo Dybala
+Ilias Chair,13,Morocco,Ilias Chair
+Kristijan Jakić,26,Croatia,Kristijan Jakić
+Josip Šutalo,24,Croatia,Josip Šutalo
+Josip Stanišić,2,Croatia,Josip Stanišić
+Bilal El Khannous,23,Morocco,Bilal El Khannous
+Anass Zaroury,10,Morocco,Anass Zaroury

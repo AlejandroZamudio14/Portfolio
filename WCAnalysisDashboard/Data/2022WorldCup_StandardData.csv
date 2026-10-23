@@ -1,0 +1,1863 @@
+,Player,Position,Minutes,Team,game_id,Goals,Shots,Shots on Target,Passes,Pass Completion %,Assists,Fouls,Yellow Cards,Red Cards
+0,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,71,Qatar,3857286,0,1,0,10,70.0,0,1,1,0
+1,Akram Hassan Afif,Left Center Forward,95,Qatar,3857286,0,1,0,36,92.0,0,1,1,0
+2,Hassan Khalid Al Heidos,Right Center Midfield,71,Qatar,3857286,0,0,0,28,79.0,0,1,0,0
+3,Piero Martín Hincapié Reyna,Left Center Back,95,Ecuador,3857286,0,0,0,72,94.0,0,0,0,0
+4,Pervis Josué Estupiñán Tenorio,Left Back,95,Ecuador,3857286,0,0,0,75,80.0,0,3,0,0
+5,Angelo Smit Preciado Quiñónez,Right Back,95,Ecuador,3857286,0,1,0,53,79.0,1,2,0,0
+6,Michael Steveen Estrada Martínez,Left Center Forward,89,Ecuador,3857286,0,0,0,19,63.0,0,0,0,0
+7,Felix Eduardo Torres Caicedo,Right Center Back,95,Ecuador,3857286,0,0,0,63,79.0,0,0,0,0
+8,Boualem Khoukhi,Center Back,95,Qatar,3857286,0,0,0,76,87.0,0,0,0,0
+9,Bassam Hisham Al Rawi,Right Center Back,95,Qatar,3857286,0,0,0,57,84.0,0,2,0,0
+10,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,95,Qatar,3857286,0,1,0,66,86.0,0,0,0,0
+11,Abdulaziz Hatem Mohammed Abdullah,Left Center Midfield,95,Qatar,3857286,0,0,0,44,68.0,0,3,0,0
+12,Enner Remberto Valencia Lastra,Right Center Forward,75,Ecuador,3857286,2,2,2,20,70.0,0,1,0,0
+13,Homam Alamin Ahmed,Left Wing Back,95,Qatar,3857286,0,0,0,39,74.0,0,1,0,0
+14,Jhegson Sebastián Méndez Carabalí,Right Defensive Midfield,95,Ecuador,3857286,0,0,0,78,97.0,0,3,1,0
+15,Romario Andrés Ibarra Mina,Left Midfield,67,Ecuador,3857286,0,2,1,14,79.0,0,0,0,0
+16,Karim Boudiaf,Center Defensive Midfield,95,Qatar,3857286,0,0,0,49,86.0,0,3,1,0
+17,Pedro Miguel Correia,Right Wing Back,95,Qatar,3857286,0,1,0,34,76.0,0,3,0,0
+18,Moisés Isaac Caicedo Corozo,Left Defensive Midfield,89,Ecuador,3857286,0,0,0,49,90.0,0,1,1,0
+19,Gonzalo Jordy Plata Jiménez,Right Midfield,95,Ecuador,3857286,0,0,0,35,77.0,0,1,0,0
+20,Jeremy Leonel Sarmiento Morante,Left Midfield,28,Ecuador,3857286,0,0,0,7,86.0,0,0,0,0
+21,Mohammed Waed Abdulwahhab Al Bayati,Left Center Midfield,24,Qatar,3857286,0,0,0,4,50.0,0,1,0,0
+22,José Adoni Cifuentes Charcopa,Center Attacking Midfield,20,Ecuador,3857286,0,0,0,9,67.0,0,2,0,0
+23,Mohammed Muntari,Right Center Forward,24,Qatar,3857286,0,1,0,4,75.0,0,0,0,0
+24,Alan Steven Franco Palma,Left Defensive Midfield,6,Ecuador,3857286,0,0,0,6,100.0,0,0,0,0
+25,Kevin José Rodríguez Cortez,Center Forward,6,Ecuador,3857286,0,1,0,0,0.0,0,1,0,0
+26,Alireza Jahanbakhsh,Right Wing,58,Iran,3857271,0,1,0,8,62.0,0,2,1,0
+27,Morteza Pouraliganji,Right Center Back,103,Iran,3857271,0,0,0,28,64.0,0,4,1,0
+28,Mehdi Taremi,Center Forward,103,Iran,3857271,2,3,2,21,81.0,0,2,0,0
+29,Kieran Trippier,Right Back,103,England,3857271,0,1,0,104,81.0,0,0,0,0
+30,John Stones,Right Center Back,103,England,3857271,0,0,0,119,98.0,0,2,0,0
+31,Luke Shaw,Left Back,103,England,3857271,0,1,0,118,88.0,1,0,0,0
+32,Harry Maguire,Left Center Back,70,England,3857271,0,2,0,72,89.0,1,0,0,0
+33,Jude Bellingham,Right Defensive Midfield,103,England,3857271,1,1,1,102,92.0,0,1,0,0
+34,Declan Rice,Left Defensive Midfield,103,England,3857271,0,0,0,97,95.0,0,0,0,0
+35,Mason Mount,Center Attacking Midfield,70,England,3857271,0,1,0,37,86.0,0,2,0,0
+36,Bukayo Saka,Right Wing,70,England,3857271,2,3,3,29,76.0,0,2,0,0
+37,Roozbeh Cheshmi,Center Back,52,Iran,3857271,0,0,0,9,56.00000000000001,0,2,0,0
+38,Raheem Sterling,Left Wing,70,England,3857271,1,1,1,29,86.0,0,0,0,0
+39,Seyed Majid Hosseini,Left Center Back,103,Iran,3857271,0,0,0,19,63.0,0,1,0,0
+40,Harry Kane,Center Forward,75,England,3857271,0,0,0,16,62.0,2,0,0,0
+41,Ehsan Hajsafi,Left Wing,103,Iran,3857271,0,0,0,28,56.99999999999999,0,1,0,0
+42,Ali Karimi,Left Defensive Midfield,58,Iran,3857271,0,0,0,5,60.0,0,2,0,0
+43,Milad Mohammadi,Left Wing Back,62,Iran,3857271,0,0,0,12,75.0,0,1,0,0
+44,Ahmad Nourollahi,Right Defensive Midfield,76,Iran,3857271,0,1,0,18,67.0,0,3,0,0
+45,Sadegh Moharrami,Right Wing Back,103,Iran,3857271,0,0,0,26,73.0,0,3,0,0
+46,Saeid Ezatolahi Afagh,Left Defensive Midfield,58,Iran,3857271,0,1,0,9,100.0,0,0,0,0
+47,Mohammad Hossein Kanani Zadegan,Right Center Back,58,Iran,3857271,0,0,0,11,73.0,0,0,0,0
+48,Ali Gholizadeh,Right Attacking Midfield,58,Iran,3857271,0,0,0,16,62.0,1,0,0,0
+49,Mehdi Torabi,Left Attacking Midfield,41,Iran,3857271,0,1,0,10,90.0,0,0,0,0
+50,Eric Dier,Left Center Back,33,England,3857271,0,0,0,29,100.0,0,0,0,0
+51,Phil Foden,Center Attacking Midfield,33,England,3857271,0,0,0,21,81.0,0,1,0,0
+52,Jack Grealish,Left Wing,33,England,3857271,1,1,1,19,100.0,0,0,0,0
+53,Marcus Rashford,Right Wing,33,England,3857271,1,2,1,20,75.0,0,1,0,0
+54,Callum Wilson,Center Forward,28,England,3857271,0,0,0,5,80.0,1,0,0,0
+55,Sardar Azmoun,Left Center Forward,27,Iran,3857271,0,1,0,4,100.0,0,0,0,0
+56,Joshua Sargent,Center Forward,73,United States,3857282,0,1,0,11,91.0,0,1,0,0
+57,Tim Ream,Left Center Back,100,United States,3857282,0,0,0,74,92.0,0,1,1,0
+58,Harry Wilson,Left Center Midfield,92,Wales,3857282,0,0,0,28,82.0,0,1,0,0
+59,Walker Zimmerman,Right Center Back,100,United States,3857282,0,0,0,85,96.0,0,1,0,0
+60,Antonee Robinson,Left Back,100,United States,3857282,0,0,0,63,78.0,0,2,0,0
+61,Yunus Dimoara Musah,Left Center Midfield,74,United States,3857282,0,0,0,43,88.0,0,2,0,0
+62,Sergino Dest,Right Back,74,United States,3857282,0,1,0,68,96.0,0,1,1,0
+63,Aaron Ramsey,Right Center Midfield,100,Wales,3857282,0,0,0,30,80.0,0,0,0,0
+64,Chris Mepham,Right Center Back,100,Wales,3857282,0,0,0,56,82.0,0,2,1,0
+65,Connor Roberts,Right Wing Back,100,Wales,3857282,0,0,0,50,76.0,0,0,0,0
+66,Ethan Ampadu,Center Defensive Midfield,94,Wales,3857282,0,1,0,41,71.0,0,1,0,0
+67,Timothy Weah,Right Wing,87,United States,3857282,1,1,1,28,86.0,0,0,0,0
+68,Weston McKennie,Right Center Midfield,65,United States,3857282,0,0,0,35,77.0,0,4,1,0
+69,Neco Williams,Left Wing Back,78,Wales,3857282,0,0,0,35,69.0,0,0,0,0
+70,Tyler Adams,Center Defensive Midfield,100,United States,3857282,0,1,0,70,90.0,0,3,0,0
+71,Christian Pulisic,Left Wing,100,United States,3857282,0,0,0,51,59.0,1,0,0,0
+72,Ben Davies,Left Center Back,100,Wales,3857282,0,2,1,53,77.0,0,0,0,0
+73,Joe Rodon,Center Back,100,Wales,3857282,0,0,0,59,86.0,0,1,0,0
+74,Daniel James,Left Center Forward,46,Wales,3857282,0,0,0,8,88.0,0,0,0,0
+75,Gareth Frank Bale,Right Center Forward,100,Wales,3857282,1,1,1,25,56.00000000000001,0,2,1,0
+76,Kieffer Roberto Francisco Moore,Left Center Forward,55,Wales,3857282,0,2,0,15,87.0,0,2,0,0
+77,Brenden Aaronson,Right Center Midfield,35,United States,3857282,0,1,0,18,94.0,0,1,0,0
+78,Haji Wright,Center Forward,27,United States,3857282,0,1,0,4,100.0,0,0,0,0
+79,DeAndre Yedlin,Right Back,26,United States,3857282,0,0,0,18,67.0,0,0,0,0
+80,Brennan Johnson,Right Midfield,22,Wales,3857282,0,1,1,6,50.0,0,0,0,0
+81,Kellyn Kai Perry-Acosta,Left Center Midfield,26,United States,3857282,0,0,0,8,88.0,0,1,1,0
+82,Jordan Morris,Right Wing,13,United States,3857282,0,0,0,3,67.0,0,0,0,0
+83,Joseff Morrell,Left Defensive Midfield,6,Wales,3857282,0,0,0,1,100.0,0,1,0,0
+84,Sorba Thomas,Left Midfield,8,Wales,3857282,0,0,0,4,75.0,0,0,0,0
+85,Vincent Janssen,Right Center Forward,61,Netherlands,3857285,0,2,0,12,75.0,0,1,0,0
+86,Frenkie de Jong,Left Defensive Midfield,99,Netherlands,3857285,0,0,0,67,85.0,1,1,0,0
+87,Daley Blind,Left Wing Back,99,Netherlands,3857285,0,1,0,58,79.0,0,2,0,0
+88,Nathan Aké,Left Center Back,99,Netherlands,3857285,0,0,0,64,89.0,0,2,0,0
+89,Virgil van Dijk,Center Back,99,Netherlands,3857285,0,2,0,61,80.0,0,1,0,0
+90,Steven Berghuis,Right Defensive Midfield,78,Netherlands,3857285,0,2,0,44,86.0,0,0,0,0
+91,Ismaïla Sarr,Left Wing,99,Senegal,3857285,0,3,0,22,64.0,0,1,0,0
+92,Idrissa Gana Gueye,Center Attacking Midfield,99,Senegal,3857285,0,2,1,44,82.0,0,1,1,0
+93,Youssouf Sabaly,Right Back,99,Senegal,3857285,0,2,1,70,87.0,0,2,0,0
+94,Nampalys Mendy,Left Defensive Midfield,99,Senegal,3857285,0,0,0,50,76.0,0,2,1,0
+95,Krépin Diatta,Right Wing,73,Senegal,3857285,0,2,0,36,89.0,0,0,0,0
+96,Abdou Diallo,Left Back,61,Senegal,3857285,0,0,0,27,48.0,0,2,0,0
+97,Matthijs de Ligt,Right Center Back,99,Netherlands,3857285,0,0,0,45,89.0,0,5,1,0
+98,Denzel Dumfries,Right Wing Back,99,Netherlands,3857285,0,0,0,43,57.99999999999999,0,3,0,0
+99,Cody Mathès Gakpo,Center Attacking Midfield,93,Netherlands,3857285,1,1,1,27,52.0,0,1,0,0
+100,Kalidou Koulibaly,Right Center Back,99,Senegal,3857285,0,0,0,48,83.0,0,1,0,0
+101,Steven Bergwijn,Left Center Forward,78,Netherlands,3857285,0,0,0,19,84.0,0,0,0,0
+102,Cheikhou Kouyaté,Right Defensive Midfield,73,Senegal,3857285,0,0,0,26,81.0,0,1,0,0
+103,Boulaye Dia,Center Forward,68,Senegal,3857285,0,2,1,11,100.0,0,0,0,0
+104,Pape Abou Cissé,Left Center Back,99,Senegal,3857285,0,0,0,26,81.0,0,1,0,0
+105,Ismail Jakobs,Left Back,38,Senegal,3857285,0,1,0,11,91.0,0,0,0,0
+106,Memphis Depay,Left Center Forward,38,Netherlands,3857285,0,1,1,12,83.0,0,0,0,0
+107,Pape Gueye,Right Center Midfield,26,Senegal,3857285,0,1,1,14,64.0,0,0,0,0
+108,Nicolas Jackson,Right Wing,26,Senegal,3857285,0,0,0,10,90.0,0,1,0,0
+109,Teun Koopmeiners,Right Defensive Midfield,21,Netherlands,3857285,0,0,0,6,67.0,0,0,0,0
+110,Davy Klaassen,Center Attacking Midfield,21,Netherlands,3857285,1,1,1,4,75.0,0,0,0,0
+111,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,31,Senegal,3857285,0,2,0,3,67.0,0,1,0,0
+112,Marten de Roon,Right Defensive Midfield,6,Netherlands,3857285,0,0,0,1,0.0,0,0,0,0
+113,Kasper Dolberg,Left Center Forward,64,Denmark,3857254,0,2,0,11,91.0,0,2,0,0
+114,Christian Dannemann Eriksen,Left Center Midfield,97,Denmark,3857254,0,1,1,80,82.0,0,2,0,0
+115,Andreas Skov Olsen,Right Center Forward,64,Denmark,3857254,0,0,0,28,68.0,0,0,0,0
+116,Rasmus Nissen Kristensen,Right Wing Back,97,Denmark,3857254,0,0,0,58,76.0,0,1,1,0
+117,Joakim Mæhle,Left Wing Back,97,Denmark,3857254,0,1,0,52,83.0,0,1,0,0
+118,Pierre-Emile Højbjerg,Right Center Midfield,97,Denmark,3857254,0,1,1,74,92.0,0,0,0,0
+119,Andreas Christensen,Left Center Back,97,Denmark,3857254,0,1,0,82,95.0,0,0,0,0
+120,Dylan Daniel Mahmoud Bronn,Right Center Back,97,Tunisia,3857254,0,1,0,41,73.0,0,0,0,0
+121,Yassine Meriah,Center Back,97,Tunisia,3857254,0,1,0,53,83.0,0,2,0,0
+122,Issam Jebali,Center Forward,80,Tunisia,3857254,0,3,1,18,83.0,0,2,0,0
+123,Anis Ben Slimane,Right Wing,66,Tunisia,3857254,0,0,0,24,71.0,0,0,0,0
+124,Joachim Andersen,Right Center Back,97,Denmark,3857254,0,1,1,78,79.0,0,3,0,0
+125,Simon Thorup Kjær,Center Back,63,Denmark,3857254,0,0,0,55,91.0,0,0,0,0
+126,Thomas Delaney,Center Defensive Midfield,45,Denmark,3857254,0,0,0,31,84.0,0,1,0,0
+127,Ali Abdi,Left Wing Back,97,Tunisia,3857254,0,0,0,44,61.0,0,1,0,0
+128,Aïssa Bilal Laïdouni,Left Defensive Midfield,87,Tunisia,3857254,0,1,0,45,80.0,0,1,0,0
+129,Mohamed Dräger,Right Wing Back,87,Tunisia,3857254,0,2,0,31,74.0,0,1,0,0
+130,Montassar Omar Talbi,Left Center Back,97,Tunisia,3857254,0,0,0,46,83.0,0,0,0,0
+131,Ellyes Joris Skhiri,Right Defensive Midfield,97,Tunisia,3857254,0,2,0,35,86.0,0,1,0,0
+132,Youssef Msakni,Left Wing,79,Tunisia,3857254,0,3,0,25,76.0,0,0,0,0
+133,Mikkel Damsgaard,Center Defensive Midfield,52,Denmark,3857254,0,0,0,28,79.0,0,1,0,0
+134,Mathias Jensen,Center Back,34,Denmark,3857254,0,1,0,32,88.0,0,2,1,0
+135,Naïm Sliti,Right Wing,31,Tunisia,3857254,0,0,0,10,60.0,0,0,0,0
+136,Andreas Evald Cornelius,Center Forward,33,Denmark,3857254,0,3,2,4,75.0,0,0,0,0
+137,Hannibal Mejbri,Right Wing,18,Tunisia,3857254,0,0,0,2,100.0,0,0,0,0
+138,Taha Yassine Khenissi,Center Forward,17,Tunisia,3857254,0,0,0,2,50.0,0,2,1,0
+139,Wajdi Kechrida,Right Wing Back,10,Tunisia,3857254,0,0,0,1,100.0,0,0,0,0
+140,Ferjani Sassi,Left Defensive Midfield,10,Tunisia,3857254,0,0,0,2,50.0,0,0,0,0
+141,Jesper Lindstrøm,Right Wing,33,Denmark,3857254,0,0,0,4,75.0,0,0,0,0
+142,Saleh Khalid Al Shehri,Center Forward,77,Saudi Arabia,3857300,1,1,1,15,67.0,0,2,0,0
+143,Mohammed Kanoo,Left Center Midfield,103,Saudi Arabia,3857300,0,0,0,38,76.0,0,3,0,0
+144,Hassan Mohammed Al-Tambakti,Right Center Back,103,Saudi Arabia,3857300,0,0,0,29,76.0,0,0,0,0
+145,Nicolás Alejandro Tagliafico,Left Back,70,Argentina,3857300,0,1,1,34,79.0,0,0,0,0
+146,Lautaro Javier Martínez,Left Center Forward,103,Argentina,3857300,0,2,0,16,81.0,0,1,0,0
+147,Leandro Daniel Paredes,Left Defensive Midfield,58,Argentina,3857300,0,0,0,57,96.0,0,1,0,0
+148,Nicolás Hernán Otamendi,Left Center Back,103,Argentina,3857300,0,1,0,89,94.0,0,0,0,0
+149,Cristian Gabriel Romero,Right Center Back,58,Argentina,3857300,0,0,0,61,90.0,0,1,0,0
+150,Rodrigo Javier De Paul,Right Defensive Midfield,103,Argentina,3857300,0,1,0,86,77.0,0,1,0,0
+151,Nahuel Molina Lucero,Right Back,103,Argentina,3857300,0,0,0,68,84.0,0,1,0,0
+152,Ángel Fabián Di María Hernández,Right Midfield,103,Argentina,3857300,0,2,1,41,76.0,0,0,0,0
+153,Abdulelah Saad Hameed Al-Malki,Center Defensive Midfield,103,Saudi Arabia,3857300,0,0,0,37,78.0,0,5,1,0
+154,Salman Mohammed Al Faraj,Right Center Midfield,47,Saudi Arabia,3857300,0,0,0,15,67.0,0,0,0,0
+155,Ali Albulayhi,Left Center Back,103,Saudi Arabia,3857300,0,0,0,16,62.0,0,1,0,0
+156,Yasir Gharsan Al Shahrani,Left Back,98,Saudi Arabia,3857300,0,0,0,26,46.0,0,1,0,0
+157,Lionel Andrés Messi Cuccittini,Right Center Forward,103,Argentina,3857300,1,4,3,46,72.0,0,1,0,0
+158,Salem Mohammed Al Dawsari,Left Midfield,103,Saudi Arabia,3857300,1,1,1,24,71.0,0,1,0,0
+159,Saud Abdullah Abdul Hamid,Right Back,103,Saudi Arabia,3857300,0,0,0,28,75.0,0,6,1,0
+160,Alejandro Darío Gómez,Left Midfield,58,Argentina,3857300,0,1,0,25,80.0,0,1,0,0
+161,Firas Tariq Nasser Al Albirakan,Right Midfield,88,Saudi Arabia,3857300,0,0,0,15,73.0,1,1,0,0
+162,Nawaf Shaker Al Abid,Center Attacking Midfield,56,Saudi Arabia,3857300,0,1,0,6,100.0,0,1,0,0
+163,Lisandro Martínez,Left Center Back,45,Argentina,3857300,0,1,0,32,91.0,0,0,0,0
+164,Enzo Fernandez,Left Defensive Midfield,45,Argentina,3857300,0,1,0,38,87.0,0,0,0,0
+165,Julián Álvarez,Left Midfield,45,Argentina,3857300,0,1,1,8,0.0,0,0,0,0
+166,Marcos Javier Acuña,Left Back,33,Argentina,3857300,0,0,0,23,78.0,0,0,0,0
+167,Sultan Abdullah Salim Al Ghannam,Right Midfield,26,Saudi Arabia,3857300,0,0,0,4,25.0,0,0,0,0
+168,Haitham Mohammed Asiri,Center Forward,15,Saudi Arabia,3857300,0,0,0,2,50.0,0,1,0,0
+169,Mohammed Al Burayk,Left Midfield,5,Saudi Arabia,3857300,0,0,0,1,100.0,0,0,0,0
+170,Abdulelah Al Amri,Left Center Back,16,Saudi Arabia,3857300,0,0,0,1,0.0,0,0,0,0
+171,Olivier Giroud,Center Forward,88,France,3857279,2,5,2,11,91.0,0,1,0,0
+172,Aurélien Djani Tchouaméni,Right Defensive Midfield,76,France,3857279,0,1,0,78,95.0,0,0,0,0
+173,Adrien Rabiot,Left Defensive Midfield,97,France,3857279,1,1,1,66,92.0,1,1,0,0
+174,Dayotchanculle Upamecano,Left Center Back,97,France,3857279,0,0,0,118,95.0,0,0,0,0
+175,Benjamin Pavard,Right Back,88,France,3857279,0,0,0,88,92.0,0,0,0,0
+176,Ibrahima Konaté,Right Center Back,97,France,3857279,0,2,1,97,90.0,0,0,0,0
+177,Lucas Hernández Pi,Left Back,12,France,3857279,0,0,0,10,60.0,0,0,0,0
+178,Kylian Mbappé Lottin,Left Wing,97,France,3857279,1,7,1,57,74.0,1,1,0,0
+179,Antoine Griezmann,Center Attacking Midfield,97,France,3857279,0,3,0,76,87.0,0,0,0,0
+180,Ousmane Dembélé,Right Wing,76,France,3857279,0,2,0,32,78.0,1,0,0,0
+181,Nathaniel Atkinson,Right Back,84,Australia,3857279,0,0,0,37,81.0,0,0,0,0
+182,Harry Souttar,Right Center Back,97,Australia,3857279,0,0,0,52,83.0,0,0,0,0
+183,Kye Rowles,Left Center Back,97,Australia,3857279,0,0,0,61,97.0,0,0,0,0
+184,Aziz Eraltay Behich,Left Back,97,Australia,3857279,0,0,0,66,83.0,0,1,0,0
+185,Mathew Leckie,Right Midfield,97,Australia,3857279,0,0,0,29,72.0,1,0,0,0
+186,Jackson Irvine,Right Center Midfield,84,Australia,3857279,0,1,0,35,80.0,0,4,1,0
+187,Mitchell Thomas Duke,Center Forward,55,Australia,3857279,0,1,0,9,78.0,0,2,1,0
+188,Craig Goodwin,Left Midfield,72,Australia,3857279,1,1,1,25,72.0,0,1,0,0
+189,Riley McGree,Left Center Midfield,72,Australia,3857279,0,1,0,21,86.0,0,3,0,0
+190,Aaron Mooy,Center Defensive Midfield,97,Australia,3857279,0,0,0,67,87.0,0,2,1,0
+191,Theo Bernard François Hernández,Left Back,85,France,3857279,0,2,1,66,91.0,1,1,0,0
+192,Jason Cummings,Center Forward,42,Australia,3857279,0,0,0,6,67.0,0,0,0,0
+193,Garang Kuol,Right Midfield,25,Australia,3857279,0,0,0,3,67.0,0,1,0,0
+194,Awer Denis Bul Mabil,Left Midfield,25,Australia,3857279,0,0,0,13,69.0,0,0,0,0
+195,Youssouf Fofana,Right Defensive Midfield,21,France,3857279,0,0,0,18,100.0,0,0,0,0
+196,Kingsley Coman,Right Wing,21,France,3857279,0,0,0,13,92.0,0,0,0,0
+197,Miloš Degenek,Right Back,13,Australia,3857279,0,0,0,10,100.0,0,0,0,0
+198,Keanu Baccus,Left Center Midfield,13,Australia,3857279,0,0,0,8,75.0,0,0,0,0
+199,Jules Koundé,Right Back,9,France,3857279,0,0,0,8,88.0,0,0,0,0
+200,Marcus Thuram,Center Forward,9,France,3857279,0,0,0,0,0.0,0,0,0,0
+201,Henry Josué Martín Mex,Center Forward,70,Mexico,3857265,0,1,1,12,67.0,0,1,0,0
+202,Héctor Miguel Herrera López,Right Center Midfield,70,Mexico,3857265,0,0,0,33,79.0,0,0,0,0
+203,Luis Gerardo Chávez Magallón,Left Center Midfield,97,Mexico,3857265,0,1,0,56,80.0,0,0,0,0
+204,Jesús Daniel Gallardo Vasconcelos,Left Back,97,Mexico,3857265,0,0,0,53,75.0,0,1,0,0
+205,Héctor Alfredo Moreno Herrera,Left Center Back,97,Mexico,3857265,0,1,0,82,89.0,0,1,1,0
+206,Grzegorz Krychowiak,Center Defensive Midfield,97,Poland,3857265,0,1,0,30,63.0,0,3,0,0
+207,Robert Lewandowski,Center Forward,97,Poland,3857265,0,2,1,24,54.0,0,1,0,0
+208,Matty Cash,Right Back,97,Poland,3857265,0,0,0,35,77.0,0,2,0,0
+209,Piotr Zieliński,Right Center Midfield,87,Poland,3857265,0,0,0,29,72.0,0,1,0,0
+210,Sebastian Szymański,Left Center Midfield,71,Poland,3857265,0,0,0,25,64.0,0,1,0,0
+211,Ernesto Alexis Vega Rojas,Left Wing,83,Mexico,3857265,0,5,0,32,78.0,0,0,0,0
+212,Edson Omar Álvarez Velázquez,Center Defensive Midfield,97,Mexico,3857265,0,0,0,58,76.0,0,1,0,0
+213,César Jasib Montes Castro,Right Center Back,97,Mexico,3857265,0,0,0,67,85.0,0,2,0,0
+214,Jorge Eduardo Sánchez Ramos,Right Back,97,Mexico,3857265,0,1,1,52,83.0,0,3,1,0
+215,Bartosz Bereszyński,Left Back,97,Poland,3857265,0,0,0,38,79.0,0,2,0,0
+216,Jakub Piotr Kiwior,Left Center Back,97,Poland,3857265,0,1,0,48,71.0,0,0,0,0
+217,Kamil Glik,Right Center Back,97,Poland,3857265,0,0,0,27,93.0,0,1,0,0
+218,Hirving Rodrigo Lozano Bahena,Right Wing,97,Mexico,3857265,0,1,1,33,57.99999999999999,0,4,0,0
+219,Jakub Kamiński,Right Midfield,97,Poland,3857265,0,2,1,17,53.0,0,3,0,0
+220,Nicola Zalewski,Left Midfield,46,Poland,3857265,0,0,0,13,92.0,0,0,0,0
+221,Krystian Bielik,Left Defensive Midfield,52,Poland,3857265,0,0,0,20,90.0,0,0,0,0
+222,Carlos Alberto Rodríguez Gómez,Right Center Midfield,27,Mexico,3857265,0,0,0,20,85.0,0,1,0,0
+223,Przemysław Frankowski,Left Midfield,26,Poland,3857265,0,0,0,9,78.0,0,1,1,0
+224,Raúl Alonso Jiménez Rodríguez,Center Forward,27,Mexico,3857265,0,0,0,9,67.0,0,0,0,0
+225,Carlos Uriel Antuna Romero,Right Wing,14,Mexico,3857265,0,1,1,4,50.0,0,0,0,0
+226,Arkadiusz Milik,Right Center Forward,10,Poland,3857265,0,0,0,7,56.99999999999999,0,0,0,0
+227,Youssef En-Nesyri,Center Forward,80,Morocco,3857277,0,1,0,15,47.0,0,0,0,0
+228,Sofyan Amrabat,Center Defensive Midfield,95,Morocco,3857277,0,0,0,47,87.0,0,3,1,0
+229,Noussair Mazraoui,Left Back,59,Morocco,3857277,0,2,1,20,85.0,0,1,0,0
+230,Romain Saïss,Left Center Back,95,Morocco,3857277,0,0,0,51,88.0,0,0,0,0
+231,Dejan Lovren,Right Center Back,95,Croatia,3857277,0,1,0,93,88.0,0,0,0,0
+232,Nayef Aguerd,Right Center Back,95,Morocco,3857277,0,0,0,47,87.0,0,0,0,0
+233,Josip Juranović,Right Back,95,Croatia,3857277,0,0,0,56,80.0,0,0,0,0
+234,Joško Gvardiol,Left Center Back,95,Croatia,3857277,0,0,0,115,89.0,0,1,0,0
+235,Mateo Kovačić,Left Center Midfield,78,Croatia,3857277,0,0,0,54,89.0,0,0,0,0
+236,Borna Sosa,Left Back,95,Croatia,3857277,0,0,0,61,77.0,0,1,0,0
+237,Luka Modrić,Right Center Midfield,95,Croatia,3857277,0,1,0,93,83.0,0,5,0,0
+238,Ivan Perišić,Left Wing,89,Croatia,3857277,0,1,0,41,71.0,0,1,0,0
+239,Sofiane Boufal,Left Midfield,64,Morocco,3857277,0,2,0,17,82.0,0,2,0,0
+240,Marcelo Brozović,Center Defensive Midfield,95,Croatia,3857277,0,0,0,89,87.0,0,3,0,0
+241,Andrej Kramarić,Center Forward,69,Croatia,3857277,0,0,0,12,83.0,0,0,0,0
+242,Achraf Hakimi Mouh,Right Back,95,Morocco,3857277,0,1,1,51,84.0,0,1,0,0
+243,Azzedine Ounahi,Right Center Midfield,81,Morocco,3857277,0,0,0,31,71.0,0,0,0,0
+244,Nikola Vlašić,Right Wing,46,Croatia,3857277,0,2,1,10,70.0,0,1,0,0
+245,Hakim Ziyech,Right Midfield,95,Morocco,3857277,0,2,0,34,59.0,0,3,0,0
+246,Selim Amallah,Left Center Midfield,95,Morocco,3857277,0,0,0,13,77.0,0,4,0,0
+247,Mario Pašalić,Right Wing,50,Croatia,3857277,0,0,0,15,93.0,0,0,0,0
+248,Yahia Attiyat allah,Left Back,36,Morocco,3857277,0,0,0,19,74.0,0,1,0,0
+249,Marko Livaja,Center Forward,26,Croatia,3857277,0,0,0,9,33.0,0,0,0,0
+250,Lovro Majer,Left Center Midfield,17,Croatia,3857277,0,0,0,11,82.0,0,0,0,0
+251,Abdelhamid Sabiri,Right Center Midfield,14,Morocco,3857277,0,0,0,9,78.0,0,0,0,0
+252,Abderrazak Hamdallah,Center Forward,15,Morocco,3857277,0,0,0,1,0.0,0,0,0,0
+253,Abdessamad Ezzalzouli,Left Midfield,31,Morocco,3857277,0,0,0,2,0.0,0,3,0,0
+254,Mislav Oršić,Left Wing,6,Croatia,3857277,0,0,0,1,100.0,0,0,0,0
+255,Pablo Martín Páez Gavira,Right Center Midfield,98,Spain,3857291,1,1,1,73,90.0,0,1,0,0
+256,Aymeric Laporte,Left Center Back,98,Spain,3857291,0,0,0,151,95.0,0,2,0,0
+257,Francisco Javier Calvo Quesada,Left Center Back,98,Costa Rica,3857291,0,0,0,26,69.0,0,3,1,0
+258,César Azpilicueta Tanco,Right Back,98,Spain,3857291,0,0,0,106,93.0,0,2,0,0
+259,Rodrigo Hernández Cascante,Right Center Back,98,Spain,3857291,0,0,0,142,98.0,0,0,0,0
+260,Jordi Alba Ramos,Left Back,63,Spain,3857291,0,0,0,119,92.0,1,1,0,0
+261,Daniel Olmo Carvajal,Left Wing,98,Spain,3857291,1,4,2,71,83.0,1,1,0,0
+262,Bryan Oviedo,Left Back,81,Costa Rica,3857291,0,0,0,19,63.0,0,1,0,0
+263,Sergio Busquets i Burgos,Center Defensive Midfield,63,Spain,3857291,0,0,0,96,92.0,0,0,0,0
+264,Pedro González López,Left Center Midfield,56,Spain,3857291,0,0,0,87,98.0,0,0,0,0
+265,Celso Borges Mora,Right Defensive Midfield,71,Costa Rica,3857291,0,0,0,19,84.0,0,1,0,0
+266,Jewison Bennette,Left Midfield,60,Costa Rica,3857291,0,0,0,5,60.0,0,0,0,0
+267,Yeltsin Ignacio Tejeda Valverde,Left Defensive Midfield,98,Costa Rica,3857291,0,0,0,19,63.0,0,0,0,0
+268,Ferrán Torres García,Right Wing,56,Spain,3857291,2,2,2,25,76.0,0,0,0,0
+269,Marco Asensio Willemsen,Center Forward,68,Spain,3857291,1,5,1,40,80.0,0,1,0,0
+270,Carlos Manuel Martínez Castro,Right Back,45,Costa Rica,3857291,0,0,0,14,71.0,0,1,0,0
+271,Óscar Esau Duarte Gaitán,Right Center Back,98,Costa Rica,3857291,0,0,0,27,67.0,0,3,0,0
+272,Anthony Daniel Contreras Enríquez,Left Center Forward,60,Costa Rica,3857291,0,0,0,7,56.99999999999999,0,0,0,0
+273,Joel Nathaniel Campbell Samuels,Right Center Forward,98,Costa Rica,3857291,0,0,0,24,71.0,0,2,1,0
+274,Keysher Fuller Spence,Right Midfield,98,Costa Rica,3857291,0,0,0,15,67.0,0,0,0,0
+275,Kendall Jamaal Waston Manley,Right Center Back,53,Costa Rica,3857291,0,0,0,14,79.0,0,1,0,0
+276,Carlos Soler Barragán,Left Center Midfield,42,Spain,3857291,1,3,1,44,98.0,0,0,0,0
+277,Álvaro Borja Morata Martín,Center Forward,42,Spain,3857291,1,2,1,9,78.0,1,0,0,0
+278,Bryan Ruiz González,Left Wing,38,Costa Rica,3857291,0,0,0,13,62.0,0,0,0,0
+279,Álvaro José Zamora Mata,Right Wing,38,Costa Rica,3857291,0,0,0,5,100.0,0,0,0,0
+280,Alejandro Balde Martínez,Left Back,35,Spain,3857291,0,0,0,32,97.0,0,0,0,0
+281,Jorge Resurrección Merodio,Center Defensive Midfield,35,Spain,3857291,0,0,0,50,96.0,0,0,0,0
+282,Brandon Aguilera Zamora,Right Center Midfield,27,Costa Rica,3857291,0,0,0,6,100.0,0,2,0,0
+283,Nicholas Williams Arthuer,Right Wing,30,Spain,3857291,0,0,0,9,78.0,0,0,0,0
+284,Ronald Alberto Matarrita Ulate,Left Wing Back,17,Costa Rica,3857291,0,0,0,12,75.0,0,0,0,0
+285,Jonathan David,Center Forward,95,Canada,3857268,0,7,0,24,71.0,0,1,0,0
+286,Stephen Antunes Eustáquio,Left Defensive Midfield,80,Canada,3857268,0,3,0,66,88.0,0,1,0,0
+287,Richie Laryea,Right Wing Back,73,Canada,3857268,0,2,0,17,82.0,0,1,0,0
+288,Alistair Johnston,Right Center Back,95,Canada,3857268,0,1,1,58,79.0,0,3,1,0
+289,Kamal Miller,Left Center Back,95,Canada,3857268,0,0,0,42,93.0,0,0,0,0
+290,Atiba Hutchinson,Right Defensive Midfield,57,Canada,3857268,0,1,0,31,87.0,0,2,0,0
+291,Steven de Sousa Vitoria,Center Back,95,Canada,3857268,0,0,0,50,88.0,0,1,0,0
+292,Alphonso Davies,Left Wing Back,95,Canada,3857268,0,1,1,41,80.0,0,3,1,0
+293,David Junior Hoilett,Left Attacking Midfield,57,Canada,3857268,0,1,0,10,60.0,0,0,0,0
+294,Kevin De Bruyne,Right Attacking Midfield,95,Belgium,3857268,0,2,1,39,74.0,0,0,0,0
+295,Youri Tielemans,Right Defensive Midfield,48,Belgium,3857268,0,0,0,19,74.0,0,0,0,0
+296,Toby Alderweireld,Center Back,95,Belgium,3857268,0,0,0,75,92.0,1,0,0,0
+297,Axel Witsel,Left Defensive Midfield,95,Belgium,3857268,0,0,0,47,96.0,0,1,0,0
+298,Eden Hazard,Left Attacking Midfield,61,Belgium,3857268,0,0,0,27,74.0,0,0,0,0
+299,Leander Dendoncker,Right Center Back,95,Belgium,3857268,0,1,0,73,100.0,0,1,0,0
+300,Timothy Castagne,Right Wing Back,95,Belgium,3857268,0,0,0,43,79.0,0,1,0,0
+301,Jan Vertonghen,Left Center Back,95,Belgium,3857268,0,0,0,71,77.0,0,0,0,0
+302,Tajon Buchanan,Right Attacking Midfield,80,Canada,3857268,0,3,0,25,72.0,0,2,0,0
+303,Yannick Ferreira Carrasco,Left Wing Back,49,Belgium,3857268,0,0,0,14,93.0,0,1,1,0
+304,Michy Batshuayi Tunga,Center Forward,77,Belgium,3857268,1,5,2,13,62.0,0,3,0,0
+305,Amadou Onana,Right Defensive Midfield,50,Belgium,3857268,0,0,0,20,90.0,0,2,1,0
+306,Thomas Meunier,Left Wing Back,50,Belgium,3857268,0,1,0,25,68.0,0,2,1,0
+307,Ismael Koné,Right Defensive Midfield,38,Canada,3857268,0,0,0,32,94.0,0,0,0,0
+308,Leandro Trossard,Left Attacking Midfield,34,Belgium,3857268,0,0,0,13,85.0,0,0,0,0
+309,Cyle Larin,Center Forward,38,Canada,3857268,0,3,1,11,82.0,0,0,0,0
+310,Sam Adekugbe,Left Wing Back,22,Canada,3857268,0,0,0,22,91.0,0,0,0,0
+311,Ikoma Loïs Openda,Center Forward,18,Belgium,3857268,0,0,0,5,60.0,0,0,0,0
+312,Jonathan Osorio,Left Defensive Midfield,15,Canada,3857268,0,0,0,9,89.0,0,0,0,0
+313,Liam Millar,Left Midfield,15,Canada,3857268,0,0,0,9,56.00000000000001,0,1,0,0
+314,Kai Havertz,Center Forward,78,Germany,3857284,0,0,0,22,77.0,0,2,0,0
+315,Joshua Kimmich,Right Defensive Midfield,98,Germany,3857284,0,4,2,97,85.0,0,0,0,0
+316,Ko Itakura,Right Center Back,98,Japan,3857284,0,1,0,25,88.0,1,3,0,0
+317,Ao Tanaka,Left Defensive Midfield,70,Japan,3857284,0,0,0,30,77.0,0,0,0,0
+318,Daizen Maeda,Center Forward,56,Japan,3857284,0,1,0,5,40.0,0,1,0,0
+319,Nico Schlotterbeck,Left Center Back,98,Germany,3857284,0,0,0,119,92.0,0,2,0,0
+320,Antonio Rüdiger,Right Center Back,98,Germany,3857284,0,3,0,113,94.0,0,0,0,0
+321,Niklas Süle,Right Back,98,Germany,3857284,0,1,0,102,93.0,0,0,0,0
+322,Wataru Endo,Right Defensive Midfield,98,Japan,3857284,0,0,0,31,77.0,0,3,0,0
+323,Yuto Nagatomo,Left Back,56,Japan,3857284,0,0,0,14,71.0,0,0,0,0
+324,David Raum,Left Back,98,Germany,3857284,0,0,0,76,79.0,0,1,0,0
+325,Jamal Musiala,Left Wing,78,Germany,3857284,0,3,0,44,86.0,0,0,0,0
+326,Serge Gnabry,Right Wing,89,Germany,3857284,0,6,3,50,78.0,0,0,0,0
+327,Thomas Müller,Center Attacking Midfield,66,Germany,3857284,0,0,0,41,78.0,0,0,0,0
+328,Hiroki Sakai,Right Back,73,Japan,3857284,0,1,0,24,71.0,0,1,0,0
+329,Junya Ito,Right Wing,98,Japan,3857284,0,1,1,18,39.0,0,0,0,0
+330,İlkay Gündoğan,Left Defensive Midfield,67,Germany,3857284,1,6,3,69,93.0,0,1,0,0
+331,Daichi Kamada,Center Attacking Midfield,98,Japan,3857284,0,1,0,21,71.0,0,0,0,0
+332,Maya Yoshida,Left Center Back,98,Japan,3857284,0,0,0,40,80.0,0,1,0,0
+333,Takefusa Kubo,Left Wing,46,Japan,3857284,0,0,0,4,25.0,0,2,0,0
+334,Takehiro Tomiyasu,Left Center Back,53,Japan,3857284,0,0,0,19,95.0,0,0,0,0
+335,Takuma Asano,Center Forward,42,Japan,3857284,1,5,1,6,83.0,0,2,0,0
+336,Kaoru Mitoma,Left Wing Back,42,Japan,3857284,0,0,0,17,76.0,0,0,0,0
+337,Jonas Hofmann,Right Wing,32,Germany,3857284,0,1,1,18,83.0,0,0,0,0
+338,Leon Goretzka,Left Defensive Midfield,31,Germany,3857284,0,1,0,9,78.0,0,1,0,0
+339,Ritsu Doan,Right Wing,28,Japan,3857284,1,1,1,2,100.0,0,0,0,0
+340,Takumi Minamino,Left Wing,25,Japan,3857284,0,1,1,3,33.0,0,1,0,0
+341,Mario Götze,Center Attacking Midfield,20,Germany,3857284,0,0,0,5,80.0,0,0,0,0
+342,Niclas Füllkrug,Center Forward,20,Germany,3857284,0,1,0,4,75.0,0,0,0,0
+343,Youssoufa Moukoko,Right Center Forward,9,Germany,3857284,0,0,0,2,100.0,0,0,0,0
+344,Richarlison de Andrade,Center Forward,78,Brazil,3857258,2,3,2,14,86.0,0,1,0,0
+345,Neymar da Silva Santos Junior,Center Attacking Midfield,79,Brazil,3857258,0,4,1,46,78.0,0,1,0,0
+346,Alex Sandro Lobo Silva,Left Back,97,Brazil,3857258,0,1,0,90,92.0,0,1,0,0
+347,Carlos Henrique Casimiro,Left Defensive Midfield,97,Brazil,3857258,0,3,1,63,90.0,0,0,0,0
+348,Thiago Emiliano da Silva,Left Center Back,97,Brazil,3857258,0,1,0,72,96.0,0,0,0,0
+349,Saša Lukić,Right Defensive Midfield,65,Serbia,3857258,0,0,0,31,90.0,0,3,0,0
+350,Milos Veljkovic,Center Back,97,Serbia,3857258,0,0,0,45,89.0,0,0,0,0
+351,Nemanja Gudelj,Left Defensive Midfield,56,Serbia,3857258,0,0,0,34,85.0,0,1,1,0
+352,Marcos Aoás Corrêa,Right Center Back,97,Brazil,3857258,0,0,0,64,97.0,0,0,0,0
+353,Danilo Luiz da Silva,Right Back,97,Brazil,3857258,0,1,0,84,86.0,0,0,0,0
+354,Lucas Tolentino Coelho de Lima,Right Defensive Midfield,74,Brazil,3857258,0,0,0,41,73.0,0,1,0,0
+355,Vinícius José Paixão de Oliveira Júnior,Left Wing,75,Brazil,3857258,0,4,1,27,78.0,1,0,0,0
+356,Raphael Dias Belloli,Right Wing,86,Brazil,3857258,0,2,2,35,80.0,0,1,0,0
+357,Filip Mladenović,Left Wing Back,65,Serbia,3857258,0,1,0,24,79.0,0,0,0,0
+358,Sergej Milinković-Savić,Left Attacking Midfield,97,Serbia,3857258,0,0,0,39,72.0,0,0,0,0
+359,Nikola Milenković,Right Center Back,97,Serbia,3857258,0,1,0,50,84.0,0,3,0,0
+360,Aleksandar Mitrović,Center Forward,82,Serbia,3857258,0,0,0,22,77.0,0,1,0,0
+361,Andrija Živković,Right Wing Back,56,Serbia,3857258,0,0,0,25,80.0,0,1,0,0
+362,Dušan Tadić,Right Attacking Midfield,97,Serbia,3857258,0,0,0,34,59.0,0,1,0,0
+363,Strahinja Pavlović,Left Center Back,97,Serbia,3857258,0,1,0,40,78.0,0,1,1,0
+364,Ivan Ilić,Left Defensive Midfield,41,Serbia,3857258,0,0,0,20,95.0,0,0,0,0
+365,Dušan Vlahović,Left Wing Back,32,Serbia,3857258,0,0,0,8,50.0,0,0,0,0
+366,Nemanja Radonjić,Right Wing Back,41,Serbia,3857258,0,1,0,11,64.0,0,0,0,0
+367,Darko Lazović,Right Defensive Midfield,32,Serbia,3857258,0,1,0,11,64.0,0,0,0,0
+368,Frederico Rodrigues Santos,Right Defensive Midfield,23,Brazil,3857258,0,1,1,18,78.0,0,1,0,0
+369,Rodrygo Silva de Goes,Left Wing,22,Brazil,3857258,0,2,1,14,86.0,0,0,0,0
+370,Antony Matheus dos Santos,Left Wing,18,Brazil,3857258,0,1,0,15,100.0,0,0,0,0
+371,Gabriel Fernando de Jesus,Center Forward,19,Brazil,3857258,0,0,0,8,88.0,0,1,0,0
+372,Nemanja Maksimović,Center Defensive Midfield,15,Serbia,3857258,0,0,0,6,83.0,0,0,0,0
+373,Gabriel Teodoro Martinelli Silva,Left Wing,11,Brazil,3857258,0,0,0,3,33.0,0,1,0,0
+374,Xherdan Shaqiri,Right Wing,71,Switzerland,3857290,0,0,0,41,59.0,1,0,0,0
+375,Manuel Obafemi Akanji,Right Center Back,95,Switzerland,3857290,0,1,0,65,89.0,0,1,1,0
+376,Ngoran Suiru Fai Collins,Right Back,95,Cameroon,3857290,0,1,0,60,67.0,0,2,1,0
+377,Bryan Mbeumo,Right Wing,80,Cameroon,3857290,0,1,1,43,72.0,0,0,0,0
+378,Granit Xhaka,Left Defensive Midfield,95,Switzerland,3857290,0,2,1,43,88.0,0,0,0,0
+379,Nico Elvedi,Left Center Back,95,Switzerland,3857290,0,1,0,69,94.0,0,1,1,0
+380,Nicolas Alexis Julio N'Koulou Ndoubena,Left Center Back,95,Cameroon,3857290,0,1,1,60,87.0,0,1,0,0
+381,Samuel Yves Oum Gwet,Center Defensive Midfield,95,Cameroon,3857290,0,0,0,51,94.0,0,0,0,0
+382,Djibril Sow,Center Attacking Midfield,70,Switzerland,3857290,0,0,0,34,91.0,0,2,0,0
+383,Martin Hongla Yma II,Left Center Midfield,67,Cameroon,3857290,0,1,1,35,86.0,0,0,0,0
+384,Ricardo Iván Rodríguez Araya,Left Back,89,Switzerland,3857290,0,0,0,57,86.0,0,4,0,0
+385,Remo Freuler,Right Defensive Midfield,95,Switzerland,3857290,0,0,0,64,92.0,0,2,0,0
+386,Silvan Widmer,Right Back,95,Switzerland,3857290,0,0,0,50,84.0,0,0,0,0
+387,André-Frank Zambo Anguissa,Right Center Midfield,95,Cameroon,3857290,0,1,1,60,93.0,0,2,0,0
+388,Ruben Vargas,Left Wing,80,Switzerland,3857290,0,1,1,36,67.0,0,2,0,0
+389,Breel-Donald Embolo,Center Forward,71,Switzerland,3857290,1,1,1,18,78.0,0,0,0,0
+390,Nouhou Tolo,Left Back,95,Cameroon,3857290,0,0,0,46,87.0,0,2,0,0
+391,Karl Brillant Toko Ekambi,Left Wing,73,Cameroon,3857290,0,1,0,31,87.0,0,0,0,0
+392,Jean-Charles Castelletto,Right Center Back,95,Cameroon,3857290,0,0,0,45,87.0,0,0,0,0
+393,Jean-Eric Maxim Choupo-Moting,Center Forward,73,Cameroon,3857290,0,2,1,19,79.0,0,0,0,0
+394,Gaël Ondoua,Left Center Midfield,28,Cameroon,3857290,0,0,0,9,78.0,0,1,0,0
+395,Georges-Kévin Nkoudou Mbida,Left Wing,22,Cameroon,3857290,0,0,0,3,100.0,0,1,0,0
+396,Vincent Paté Aboubakar,Center Forward,22,Cameroon,3857290,0,0,0,8,75.0,0,0,0,0
+397,Fabian Frei,Center Attacking Midfield,25,Switzerland,3857290,0,0,0,10,70.0,0,1,0,0
+398,Haris Seferović,Center Forward,24,Switzerland,3857290,0,1,0,5,80.0,0,1,0,0
+399,Fabian Rieder,Left Wing,15,Switzerland,3857290,0,0,0,9,56.00000000000001,0,0,0,0
+400,Noah Okafor,Right Wing,24,Switzerland,3857290,0,0,0,11,82.0,0,0,0,0
+401,Nicolas Moumi Ngamaleu,Right Wing,15,Cameroon,3857290,0,0,0,3,67.0,0,1,0,0
+402,Eray Ervin Cömert,Left Back,6,Switzerland,3857290,0,0,0,3,67.0,0,0,0,0
+403,Cristiano Ronaldo dos Santos Aveiro,Center Forward,87,Portugal,3857298,1,4,2,19,74.0,0,2,0,0
+404,Bernardo Mota Veiga de Carvalho e Silva,Right Center Midfield,87,Portugal,3857298,0,0,0,73,95.0,0,1,0,0
+405,Rúben Diogo Da Silva Neves,Center Defensive Midfield,76,Portugal,3857298,0,1,0,64,92.0,0,2,0,0
+406,Rúben Santos Gato Alves Dias,Right Center Back,100,Portugal,3857298,0,0,0,66,95.0,0,1,0,0
+407,João Pedro Cavaco Cancelo,Right Back,100,Portugal,3857298,0,0,0,71,83.0,0,0,0,0
+408,Danilo Luís Hélio Pereira,Left Center Back,100,Portugal,3857298,0,0,0,80,90.0,0,1,1,0
+409,Raphaël Adelino José Guerreiro,Left Back,100,Portugal,3857298,0,0,0,82,84.0,0,0,0,0
+410,João Félix Sequeira,Left Wing,87,Portugal,3857298,1,2,1,32,69.0,0,3,0,0
+411,Otávio Edmilson da Silva Monteiro,Left Center Midfield,55,Portugal,3857298,0,2,1,41,71.0,0,3,0,0
+412,Mohamed Salisu,Left Center Back,100,Ghana,3857298,0,1,0,47,68.0,0,3,0,0
+413,Abdul Rahman Baba,Left Wing Back,100,Ghana,3857298,0,0,0,42,64.0,0,3,0,0
+414,Alexander Djiku,Center Back,91,Ghana,3857298,0,0,0,26,88.0,0,1,0,0
+415,Daniel Amartey,Right Center Back,100,Ghana,3857298,0,0,0,52,88.0,0,2,0,0
+416,André Ayew Pelé,Right Center Forward,76,Ghana,3857298,1,1,1,14,93.0,0,2,1,0
+417,Alidu Seidu,Right Wing Back,65,Ghana,3857298,0,1,0,23,83.0,0,3,1,0
+418,Thomas Teye Partey,Right Center Midfield,100,Ghana,3857298,0,1,0,54,87.0,0,1,0,0
+419,Bruno Miguel Borges Fernandes,Right Wing,100,Portugal,3857298,0,0,0,57,86.0,2,1,1,0
+420,Iñaki Williams Arthuer,Left Center Forward,100,Ghana,3857298,0,1,0,16,88.0,0,1,0,0
+421,Salis Abdul Samed,Center Defensive Midfield,92,Ghana,3857298,0,0,0,49,96.0,0,1,0,0
+422,Mohammed Kudus,Left Center Midfield,75,Ghana,3857298,0,2,1,27,63.0,0,1,1,0
+423,William Silva de Carvalho,Left Center Midfield,45,Portugal,3857298,0,0,0,29,93.0,0,0,0,0
+424,Tariq Lamptey,Right Wing Back,35,Ghana,3857298,0,0,0,14,71.0,0,1,0,0
+425,Jordan Ayew,Left Center Midfield,24,Ghana,3857298,0,0,0,13,92.0,0,0,0,0
+426,Osman Bukari,Right Center Forward,25,Ghana,3857298,1,2,1,8,88.0,0,1,0,0
+427,Rafael Alexandre Conceição Leão,Left Wing,24,Portugal,3857298,1,2,1,9,78.0,0,1,0,0
+428,João Maria Lobo Alves Palhinha Gonçalves,Left Defensive Midfield,13,Portugal,3857298,0,0,0,3,100.0,0,0,0,0
+429,Gonçalo Matias Ramos,Center Forward,13,Portugal,3857298,0,0,0,7,86.0,0,0,0,0
+430,João Mário Naval da Costa Eduardo,Right Wing,13,Portugal,3857298,0,0,0,3,100.0,0,0,0,0
+431,Daniel-Kofi Kyereh,Left Center Midfield,8,Ghana,3857298,0,0,0,2,100.0,0,0,0,0
+432,Antoine Semenyo,Center Attacking Midfield,9,Ghana,3857298,0,0,0,0,0.0,0,0,0,0
+433,Ui-Jo Hwang,Center Forward,73,South Korea,3857287,0,1,0,8,75.0,0,0,0,0
+434,Woo-Young Jung,Left Defensive Midfield,96,South Korea,3857287,0,0,0,57,81.0,0,4,0,0
+435,Young-Gwon Kim,Left Center Back,96,South Korea,3857287,0,0,0,43,77.0,0,0,0,0
+436,Matías Vecino Falero,Left Center Midfield,77,Uruguay,3857287,0,1,1,40,82.0,0,1,0,0
+437,Rodrigo Bentancur Colmán,Center Defensive Midfield,96,Uruguay,3857287,0,1,0,78,87.0,0,0,0,0
+438,Mathías Olivera Miramontes,Left Back,78,Uruguay,3857287,0,0,0,48,83.0,0,0,0,0
+439,Darwin Gabriel Núñez Ribeiro,Left Wing,96,Uruguay,3857287,0,1,0,22,59.0,0,1,0,0
+440,Min Jae Kim,Right Center Back,96,South Korea,3857287,0,1,0,52,85.0,0,0,0,0
+441,Heung-Min Son,Left Wing,96,South Korea,3857287,0,1,0,30,63.0,0,0,0,0
+442,José Martín Cáceres Silva,Right Back,96,Uruguay,3857287,0,0,0,81,84.0,0,1,1,0
+443,Jae-Sung Lee,Center Attacking Midfield,73,South Korea,3857287,0,0,0,35,91.0,0,0,0,0
+444,Jin-Su Kim,Left Back,96,South Korea,3857287,0,0,0,29,66.0,0,0,0,0
+445,In-Beom Hwang,Right Defensive Midfield,96,South Korea,3857287,0,2,0,62,74.0,0,2,0,0
+446,Luis Alberto Suárez Díaz,Center Forward,63,Uruguay,3857287,0,0,0,13,54.0,0,0,0,0
+447,Moon-Hwan Kim,Right Back,96,South Korea,3857287,0,0,0,63,83.0,0,0,0,0
+448,Diego Roberto Godín Leal,Right Center Back,96,Uruguay,3857287,0,1,0,75,88.0,0,0,0,0
+449,José María Giménez de Vargas,Left Center Back,96,Uruguay,3857287,0,1,0,79,85.0,0,0,0,0
+450,Sang-Ho Na,Right Wing,74,South Korea,3857287,0,0,0,22,59.0,0,2,0,0
+451,Federico Santiago Valverde Dipetta,Right Center Midfield,96,Uruguay,3857287,0,3,0,61,84.0,0,0,0,0
+452,Facundo Pellistri Rebollo,Right Wing,87,Uruguay,3857287,0,0,0,20,80.0,0,2,0,0
+453,Jun-Ho Son,Center Attacking Midfield,23,South Korea,3857287,0,0,0,13,77.0,0,0,0,0
+454,Kang-In Lee,Right Wing,22,South Korea,3857287,0,1,0,9,89.0,0,1,0,0
+455,Gue-Sung Cho,Center Forward,23,South Korea,3857287,0,1,0,7,56.99999999999999,0,2,1,0
+456,Edinson Roberto Cavani Gómez,Right Center Forward,33,Uruguay,3857287,0,2,0,6,100.0,0,0,0,0
+457,Diego Nicolás De La Cruz Arcosa,Left Midfield,19,Uruguay,3857287,0,0,0,12,83.0,0,0,0,0
+458,Matías Nicolás Viña Susperreguy,Left Back,18,Uruguay,3857287,0,0,0,9,89.0,0,1,0,0
+459,Guillermo Varela Olivera,Right Midfield,9,Uruguay,3857287,0,0,0,3,100.0,0,1,0,0
+460,Aaron Ramsey,Right Center Midfield,86,Wales,3857273,0,1,0,50,76.0,0,0,0,0
+461,Chris Mepham,Right Center Back,102,Wales,3857273,0,0,0,61,80.0,0,2,0,0
+462,Ramin Rezaeian,Right Back,102,Iran,3857273,1,2,1,47,68.0,0,0,0,0
+463,Ali Gholizadeh,Right Midfield,75,Iran,3857273,0,1,0,33,64.0,0,2,0,0
+464,Joe Rodon,Center Back,102,Wales,3857273,0,0,0,57,95.0,0,1,1,0
+465,Ethan Ampadu,Center Defensive Midfield,76,Wales,3857273,0,0,0,68,79.0,0,2,0,0
+466,Seyed Majid Hosseini,Right Center Back,102,Iran,3857273,0,0,0,32,75.0,0,2,0,0
+467,Saeid Ezatolahi Afagh,Right Defensive Midfield,82,Iran,3857273,0,1,1,27,67.0,0,1,0,0
+468,Mehdi Taremi,Center Attacking Midfield,102,Iran,3857273,0,2,0,26,65.0,1,0,0,0
+469,Ehsan Hajsafi,Left Midfield,75,Iran,3857273,0,1,0,34,62.0,0,0,0,0
+470,Morteza Pouraliganji,Left Center Back,102,Iran,3857273,0,1,0,28,54.0,0,1,0,0
+471,Ben Davies,Left Center Back,102,Wales,3857273,0,1,1,78,83.0,0,0,0,0
+472,Ahmad Nourollahi,Left Defensive Midfield,77,Iran,3857273,0,4,1,20,65.0,0,0,0,0
+473,Connor Roberts,Right Wing Back,56,Wales,3857273,0,0,0,39,69.0,0,0,0,0
+474,Neco Williams,Left Wing Back,102,Wales,3857273,0,3,0,56,75.0,0,2,0,0
+475,Kieffer Roberto Francisco Moore,Left Center Forward,102,Wales,3857273,0,2,1,28,61.0,0,1,0,0
+476,Harry Wilson,Left Center Midfield,56,Wales,3857273,0,1,0,27,70.0,0,0,0,0
+477,Sardar Azmoun,Center Forward,67,Iran,3857273,0,4,2,15,53.0,0,0,0,0
+478,Milad Mohammadi,Left Back,102,Iran,3857273,0,0,0,39,59.0,0,2,0,0
+479,Gareth Frank Bale,Right Center Forward,102,Wales,3857273,0,1,1,25,76.0,0,0,0,0
+480,Daniel James,Left Center Midfield,46,Wales,3857273,0,0,0,11,55.00000000000001,0,0,0,0
+481,Brennan Johnson,Right Midfield,46,Wales,3857273,0,1,0,9,78.0,0,0,0,0
+482,Karim Ansarifard,Center Forward,35,Iran,3857273,0,1,0,4,75.0,0,0,0,0
+483,Joe Allen,Right Defensive Midfield,26,Wales,3857273,0,0,0,9,78.0,0,0,0,0
+484,Roozbeh Cheshmi,Left Defensive Midfield,25,Iran,3857273,1,1,1,5,40.0,0,0,0,0
+485,Mehdi Torabi,Left Midfield,27,Iran,3857273,0,1,0,10,60.0,0,0,0,0
+486,Alireza Jahanbakhsh,Right Midfield,27,Iran,3857273,0,2,0,8,75.0,0,1,1,0
+487,Ali Karimi,Right Defensive Midfield,20,Iran,3857273,0,0,0,7,43.0,0,1,0,0
+488,Akram Hassan Afif,Left Center Forward,95,Qatar,3857301,0,1,0,49,82.0,0,1,0,0
+489,Boualem Khoukhi,Center Back,95,Qatar,3857301,0,0,0,64,89.0,0,1,0,0
+490,Youssouf Sabaly,Right Back,95,Senegal,3857301,0,0,0,79,87.0,0,1,0,0
+491,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,95,Qatar,3857301,0,4,0,47,72.0,0,1,0,0
+492,Homam Alamin Ahmed,Left Wing Back,82,Qatar,3857301,0,0,0,34,71.0,0,2,1,0
+493,Karim Boudiaf,Right Center Midfield,68,Qatar,3857301,0,0,0,35,89.0,0,0,0,0
+494,Ismaeel Mohammad Mohammad,Right Wing Back,95,Qatar,3857301,0,1,1,38,74.0,1,1,1,0
+495,Pedro Miguel Correia,Right Center Back,82,Qatar,3857301,0,0,0,36,64.0,0,1,0,0
+496,Kalidou Koulibaly,Right Center Back,95,Senegal,3857301,0,0,0,67,90.0,0,1,0,0
+497,Nampalys Mendy,Right Defensive Midfield,76,Senegal,3857301,0,2,0,48,96.0,0,1,0,0
+498,Abdou Diallo,Left Center Back,95,Senegal,3857301,0,0,0,75,88.0,0,0,0,0
+499,Ismail Jakobs,Left Back,76,Senegal,3857301,0,0,0,63,78.0,1,2,1,0
+500,Hassan Khalid Al Heidos,Left Center Midfield,74,Qatar,3857301,0,0,0,25,84.0,0,1,0,0
+501,Idrissa Gana Gueye,Left Defensive Midfield,95,Senegal,3857301,0,1,0,56,86.0,0,0,0,0
+502,Krépin Diatta,Left Wing,63,Senegal,3857301,0,1,1,27,78.0,0,1,0,0
+503,Famara Diedhiou,Center Forward,73,Senegal,3857301,1,3,1,9,67.0,0,2,0,0
+504,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,95,Qatar,3857301,0,2,1,22,73.0,0,1,0,0
+505,Assim Omer Al Haj Madibo,Center Defensive Midfield,95,Qatar,3857301,0,0,0,41,93.0,0,1,1,0
+506,Boulaye Dia,Center Attacking Midfield,95,Senegal,3857301,1,2,1,22,73.0,0,2,1,0
+507,Ismaïla Sarr,Right Wing,73,Senegal,3857301,0,2,0,16,69.0,0,0,0,0
+508,Pathé Ismaël Ciss,Center Defensive Midfield,32,Senegal,3857301,0,0,0,12,92.0,0,1,1,0
+509,Abdulaziz Hatem Mohammed Abdullah,Right Center Midfield,27,Qatar,3857301,0,0,0,8,88.0,0,0,0,0
+510,Iliman Ndiaye,Right Wing,22,Senegal,3857301,0,0,0,10,90.0,1,0,0,0
+511,Mohammed Muntari,Left Center Forward,21,Qatar,3857301,1,2,1,2,100.0,0,1,0,0
+512,Pape Matar Sarr,Right Center Midfield,19,Senegal,3857301,0,0,0,15,87.0,0,0,0,0
+513,Pape Abou Cissé,Left Center Back,19,Senegal,3857301,0,0,0,12,75.0,0,0,0,0
+514,Tarek Salman Salman,Left Wing Back,13,Qatar,3857301,0,0,0,11,64.0,0,0,0,0
+515,Mohammed Waed Abdulwahhab Al Bayati,Left Center Back,13,Qatar,3857301,0,0,0,8,88.0,0,0,0,0
+516,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,22,Senegal,3857301,1,1,1,4,75.0,0,2,0,0
+517,Mason Mount,Center Attacking Midfield,94,England,3857272,0,2,1,32,84.0,0,3,0,0
+518,John Stones,Right Center Back,94,England,3857272,0,1,0,90,96.0,0,1,0,0
+519,Harry Maguire,Left Center Back,94,England,3857272,0,1,1,79,89.0,0,2,0,0
+520,Luke Shaw,Left Back,94,England,3857272,0,0,0,83,83.0,0,2,0,0
+521,Walker Zimmerman,Right Center Back,94,United States,3857272,0,0,0,70,89.0,0,1,0,0
+522,Declan Rice,Left Defensive Midfield,94,England,3857272,0,0,0,60,93.0,0,0,0,0
+523,Tyler Adams,Right Defensive Midfield,94,United States,3857272,0,0,0,44,93.0,0,2,0,0
+524,Haji Wright,Left Center Forward,82,United States,3857272,0,2,0,11,64.0,0,0,0,0
+525,Timothy Weah,Right Center Forward,82,United States,3857272,0,0,0,25,76.0,0,0,0,0
+526,Weston McKennie,Right Midfield,76,United States,3857272,0,2,0,33,88.0,0,1,0,0
+527,Kieran Trippier,Right Back,94,England,3857272,0,0,0,74,86.0,0,2,0,0
+528,Tim Ream,Left Center Back,94,United States,3857272,0,0,0,54,87.0,0,0,0,0
+529,Sergino Dest,Right Back,77,United States,3857272,0,1,0,40,82.0,0,3,0,0
+530,Jude Bellingham,Right Defensive Midfield,68,England,3857272,0,0,0,36,92.0,0,0,0,0
+531,Christian Pulisic,Left Midfield,94,United States,3857272,0,4,0,36,64.0,0,2,0,0
+532,Raheem Sterling,Left Wing,67,England,3857272,0,0,0,21,86.0,0,0,0,0
+533,Yunus Dimoara Musah,Left Defensive Midfield,94,United States,3857272,0,1,1,35,86.0,0,4,0,0
+534,Antonee Robinson,Left Back,94,United States,3857272,0,0,0,41,80.0,0,0,0,0
+535,Harry Kane,Center Forward,94,England,3857272,0,2,0,25,64.0,0,0,0,0
+536,Bukayo Saka,Right Wing,77,England,3857272,0,1,0,27,74.0,0,1,0,0
+537,Jordan Brian Henderson,Right Defensive Midfield,26,England,3857272,0,0,0,12,75.0,0,0,0,0
+538,Jack Grealish,Left Wing,27,England,3857272,0,0,0,13,69.0,0,0,0,0
+539,Shaquell Moore,Right Back,17,United States,3857272,0,0,0,14,86.0,0,3,0,0
+540,Brenden Aaronson,Right Midfield,18,United States,3857272,0,0,0,9,100.0,0,0,0,0
+541,Joshua Sargent,Left Center Forward,12,United States,3857272,0,0,0,2,50.0,0,0,0,0
+542,Marcus Rashford,Right Wing,17,England,3857272,0,1,1,2,100.0,0,0,0,0
+543,Giovanni Reyna,Right Center Forward,12,United States,3857272,0,0,0,4,50.0,0,0,0,0
+544,Gonzalo Jordy Plata Jiménez,Right Attacking Midfield,89,Ecuador,3857274,0,1,0,33,82.0,0,0,0,0
+545,Piero Martín Hincapié Reyna,Left Center Back,96,Ecuador,3857274,0,0,0,44,66.0,0,3,0,0
+546,Denzel Dumfries,Right Wing Back,96,Netherlands,3857274,0,0,0,30,63.0,0,4,0,0
+547,Davy Klaassen,Center Attacking Midfield,68,Netherlands,3857274,0,0,0,26,81.0,1,0,0,0
+548,Felix Eduardo Torres Caicedo,Center Back,96,Ecuador,3857274,0,0,0,64,83.0,0,0,0,0
+549,Angelo Smit Preciado Quiñónez,Right Wing Back,96,Ecuador,3857274,0,3,1,37,70.0,0,0,0,0
+550,Nathan Aké,Left Center Back,96,Netherlands,3857274,0,0,0,82,89.0,0,0,0,0
+551,Michael Steveen Estrada Martínez,Center Forward,73,Ecuador,3857274,0,2,0,17,88.0,0,3,0,0
+552,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3857274,0,0,0,64,88.0,0,6,0,0
+553,Teun Koopmeiners,Right Defensive Midfield,79,Netherlands,3857274,0,1,0,37,78.0,0,2,0,0
+554,Frenkie de Jong,Left Defensive Midfield,96,Netherlands,3857274,0,0,0,73,92.0,0,1,0,0
+555,Daley Blind,Left Wing Back,96,Netherlands,3857274,0,0,0,66,85.0,0,0,0,0
+556,Virgil van Dijk,Center Back,96,Netherlands,3857274,0,0,0,55,87.0,0,0,0,0
+557,Cody Mathès Gakpo,Right Center Forward,78,Netherlands,3857274,1,1,1,20,60.0,0,1,0,0
+558,Pervis Josué Estupiñán Tenorio,Left Wing Back,96,Ecuador,3857274,0,2,1,59,75.0,0,2,0,0
+559,Moisés Isaac Caicedo Corozo,Left Defensive Midfield,96,Ecuador,3857274,0,2,0,55,78.0,0,3,0,0
+560,Jackson Gabriel Porozo Vernaza,Right Center Back,96,Ecuador,3857274,0,0,0,37,89.0,0,0,0,0
+561,Steven Bergwijn,Left Center Forward,47,Netherlands,3857274,0,0,0,16,94.0,0,1,0,0
+562,Jhegson Sebastián Méndez Carabalí,Right Defensive Midfield,96,Ecuador,3857274,0,0,0,63,86.0,0,1,1,0
+563,Enner Remberto Valencia Lastra,Left Attacking Midfield,89,Ecuador,3857274,1,5,2,21,81.0,0,1,0,0
+564,Memphis Depay,Left Center Forward,51,Netherlands,3857274,0,0,0,12,75.0,0,0,0,0
+565,Steven Berghuis,Center Attacking Midfield,28,Netherlands,3857274,0,0,0,16,50.0,0,1,0,0
+566,Jeremy Leonel Sarmiento Morante,Left Attacking Midfield,23,Ecuador,3857274,0,0,0,10,60.0,0,0,0,0
+567,Wout Weghorst,Right Center Forward,18,Netherlands,3857274,0,0,0,2,50.0,0,0,0,0
+568,Marten de Roon,Right Defensive Midfield,17,Netherlands,3857274,0,0,0,9,78.0,0,0,0,0
+569,Romario Andrés Ibarra Mina,Right Attacking Midfield,7,Ecuador,3857274,0,0,0,2,0.0,0,0,0,0
+570,Kevin José Rodríguez Cortez,Center Forward,7,Ecuador,3857274,0,0,0,1,0.0,0,0,0,0
+571,Riley McGree,Left Center Forward,63,Australia,3857288,0,0,0,20,70.0,0,3,0,0
+572,Aaron Mooy,Left Defensive Midfield,95,Australia,3857288,0,1,0,51,75.0,0,2,0,0
+573,Aziz Eraltay Behich,Left Back,95,Australia,3857288,0,0,0,42,67.0,0,1,0,0
+574,Kye Rowles,Left Center Back,95,Australia,3857288,0,0,0,33,76.0,0,1,0,0
+575,Montassar Omar Talbi,Left Center Back,95,Tunisia,3857288,0,1,1,58,90.0,0,3,0,0
+576,Issam Jebali,Center Forward,72,Tunisia,3857288,0,0,0,15,73.0,0,2,0,0
+577,Aïssa Bilal Laïdouni,Left Defensive Midfield,66,Tunisia,3857288,0,0,0,31,77.0,0,1,1,0
+578,Youssef Msakni,Left Attacking Midfield,95,Tunisia,3857288,0,6,2,45,69.0,0,0,0,0
+579,Yassine Meriah,Center Back,95,Tunisia,3857288,0,0,0,80,78.0,0,0,0,0
+580,Ali Abdi,Left Wing Back,95,Tunisia,3857288,0,0,0,64,69.0,0,4,1,0
+581,Ellyes Joris Skhiri,Right Defensive Midfield,95,Tunisia,3857288,0,0,0,57,86.0,0,0,0,0
+582,Fran Karačić,Right Back,74,Australia,3857288,0,3,0,39,59.0,0,2,0,0
+583,Mohamed Dräger,Right Wing Back,49,Tunisia,3857288,0,2,0,20,60.0,0,2,0,0
+584,Dylan Daniel Mahmoud Bronn,Right Center Back,72,Tunisia,3857288,0,0,0,54,76.0,0,1,0,0
+585,Mitchell Thomas Duke,Right Center Forward,63,Australia,3857288,1,4,2,18,56.00000000000001,0,0,0,0
+586,Harry Souttar,Right Center Back,95,Australia,3857288,0,0,0,34,74.0,0,0,0,0
+587,Jackson Irvine,Right Defensive Midfield,95,Australia,3857288,0,1,0,32,91.0,0,3,0,0
+588,Craig Goodwin,Left Midfield,84,Australia,3857288,0,0,0,33,64.0,0,0,0,0
+589,Mathew Leckie,Right Midfield,84,Australia,3857288,0,0,0,28,71.0,0,3,0,0
+590,Naïm Sliti,Right Attacking Midfield,95,Tunisia,3857288,0,1,0,40,56.99999999999999,0,0,0,0
+591,Ferjani Sassi,Right Center Midfield,50,Tunisia,3857288,0,1,0,32,75.0,0,1,1,0
+592,Ajdin Hrustic,Right Center Forward,32,Australia,3857288,0,0,0,13,77.0,0,1,0,0
+593,Wahbi Khazri,Center Attacking Midfield,29,Tunisia,3857288,0,2,1,10,40.0,0,0,0,0
+594,Jamie MacLaren,Left Center Forward,32,Australia,3857288,0,0,0,10,50.0,0,0,0,0
+595,Wajdi Kechrida,Right Back,23,Tunisia,3857288,0,0,0,18,72.0,0,0,0,0
+596,Miloš Degenek,Right Back,21,Australia,3857288,0,0,0,7,71.0,0,0,0,0
+597,Keanu Baccus,Right Midfield,11,Australia,3857288,0,0,0,5,60.0,0,0,0,0
+598,Awer Denis Bul Mabil,Left Midfield,11,Australia,3857288,0,0,0,1,100.0,0,0,0,0
+599,Taha Yassine Khenissi,Center Forward,23,Tunisia,3857288,0,1,0,1,100.0,0,1,0,0
+600,José Andrés Guardado Hernández,Left Center Midfield,40,Mexico,3857289,0,0,0,16,69.0,0,2,0,0
+601,Héctor Miguel Herrera López,Center Defensive Midfield,96,Mexico,3857289,0,0,0,42,88.0,0,5,1,0
+602,Nicolás Hernán Otamendi,Right Center Back,96,Argentina,3857289,0,0,0,84,90.0,0,3,0,0
+603,Gonzalo Ariel Montiel,Right Back,62,Argentina,3857289,0,0,0,53,92.0,0,2,1,0
+604,Ángel Fabián Di María Hernández,Right Midfield,68,Argentina,3857289,0,0,0,29,72.0,1,0,0,0
+605,Marcos Javier Acuña,Left Back,96,Argentina,3857289,0,0,0,37,76.0,0,1,0,0
+606,Lisandro Martínez,Left Center Back,96,Argentina,3857289,0,0,0,56,86.0,0,2,0,0
+607,Rodrigo Javier De Paul,Right Defensive Midfield,96,Argentina,3857289,0,0,0,70,84.0,0,0,0,0
+608,Guido Rodríguez,Left Defensive Midfield,56,Argentina,3857289,0,0,0,62,87.0,0,0,0,0
+609,Lionel Andrés Messi Cuccittini,Right Center Forward,96,Argentina,3857289,1,2,1,45,84.0,1,3,0,0
+610,Alexis Mac Allister,Left Midfield,68,Argentina,3857289,0,0,0,38,89.0,0,1,0,0
+611,Jesús Daniel Gallardo Vasconcelos,Left Wing Back,96,Mexico,3857289,0,0,0,28,68.0,0,2,0,0
+612,Héctor Alfredo Moreno Herrera,Left Center Back,96,Mexico,3857289,0,0,0,48,79.0,0,1,0,0
+613,Hirving Rodrigo Lozano Bahena,Right Center Forward,72,Mexico,3857289,0,1,0,7,43.0,0,2,0,0
+614,Ernesto Alexis Vega Rojas,Left Center Forward,65,Mexico,3857289,0,2,1,9,33.0,0,2,0,0
+615,Néstor Alejandro Araújo Razo,Right Center Back,96,Mexico,3857289,0,0,0,56,84.0,0,2,1,0
+616,Kevin Nahin Álvarez Campos,Right Wing Back,65,Mexico,3857289,0,0,0,17,88.0,0,0,0,0
+617,Luis Gerardo Chávez Magallón,Right Center Midfield,96,Mexico,3857289,0,0,0,30,70.0,0,2,0,0
+618,César Jasib Montes Castro,Center Back,96,Mexico,3857289,0,1,0,58,84.0,0,0,0,0
+619,Lautaro Javier Martínez,Left Center Forward,62,Argentina,3857289,0,1,0,7,43.0,0,0,0,0
+620,Érick Gabriel Gutiérrez Galaviz,Left Center Midfield,56,Mexico,3857289,0,0,0,30,83.0,0,1,1,0
+621,Enzo Fernandez,Left Defensive Midfield,40,Argentina,3857289,1,1,1,28,82.0,0,1,0,0
+622,Nahuel Molina Lucero,Right Back,34,Argentina,3857289,0,1,0,13,77.0,0,0,0,0
+623,Raúl Alonso Jiménez Rodríguez,Center Forward,31,Mexico,3857289,0,0,0,14,56.99999999999999,0,1,0,0
+624,Carlos Uriel Antuna Romero,Right Wing,31,Mexico,3857289,0,0,0,6,50.0,0,0,0,0
+625,Exequiel Alejandro Palacios,Left Center Midfield,28,Argentina,3857289,0,0,0,6,100.0,0,1,0,0
+626,Julián Álvarez,Left Center Forward,34,Argentina,3857289,0,0,0,8,75.0,0,1,0,0
+627,Cristian Gabriel Romero,Center Back,28,Argentina,3857289,0,0,0,4,75.0,0,0,0,0
+628,Roberto Carlos Alvarado Hernández,Left Wing,24,Mexico,3857289,0,0,0,11,45.0,0,1,1,0
+629,Andreas Evald Cornelius,Center Forward,47,Denmark,3857266,0,1,0,15,67.0,0,3,1,0
+630,Christian Dannemann Eriksen,Left Defensive Midfield,96,Denmark,3857266,0,2,0,71,82.0,0,1,0,0
+631,Rasmus Nissen Kristensen,Right Wing Back,91,Denmark,3857266,0,0,0,76,74.0,0,2,0,0
+632,Jesper Lindstrøm,Right Wing,84,Denmark,3857266,0,1,1,24,62.0,0,1,0,0
+633,Pierre-Emile Højbjerg,Right Defensive Midfield,96,Denmark,3857266,0,1,0,70,87.0,0,0,0,0
+634,Joakim Mæhle,Left Wing Back,96,Denmark,3857266,0,1,0,43,86.0,0,0,0,0
+635,Victor Nelsson,Left Center Back,96,Denmark,3857266,0,0,0,72,94.0,0,0,0,0
+636,Andreas Christensen,Center Back,96,Denmark,3857266,1,1,1,72,96.0,0,1,1,0
+637,Joachim Andersen,Right Center Back,96,Denmark,3857266,0,2,0,46,91.0,0,2,0,0
+638,Ousmane Dembélé,Right Wing,74,France,3857266,0,2,0,27,85.0,0,1,0,0
+639,Jules Koundé,Right Back,96,France,3857266,0,2,0,68,78.0,0,1,1,0
+640,Adrien Rabiot,Left Defensive Midfield,96,France,3857266,0,4,1,44,93.0,0,1,0,0
+641,Mikkel Damsgaard,Left Wing,72,Denmark,3857266,0,0,0,29,79.0,0,0,0,0
+642,Dayotchanculle Upamecano,Left Center Back,96,France,3857266,0,0,0,58,93.0,0,0,0,0
+643,Theo Bernard François Hernández,Left Back,96,France,3857266,0,0,0,72,92.0,1,0,0,0
+644,Aurélien Djani Tchouaméni,Right Defensive Midfield,96,France,3857266,0,2,0,68,99.0,0,1,0,0
+645,Kylian Mbappé Lottin,Left Wing,96,France,3857266,2,6,4,37,81.0,0,0,0,0
+646,Raphaël Varane,Right Center Back,73,France,3857266,0,1,0,38,92.0,0,0,0,0
+647,Antoine Griezmann,Center Attacking Midfield,92,France,3857266,0,2,1,50,74.0,1,0,0,0
+648,Olivier Giroud,Center Forward,61,France,3857266,0,2,0,10,80.0,0,0,0,0
+649,Martin Braithwaite Christensen,Center Forward,51,Denmark,3857266,0,1,0,7,43.0,0,0,0,0
+650,Marcus Thuram,Center Forward,35,France,3857266,0,0,0,5,80.0,0,0,0,0
+651,Ibrahima Konaté,Right Center Back,23,France,3857266,0,0,0,13,85.0,0,0,0,0
+652,Kingsley Coman,Right Wing,22,France,3857266,0,0,0,14,93.0,0,0,0,0
+653,Kasper Dolberg,Left Wing,24,Denmark,3857266,0,0,0,3,100.0,0,0,0,0
+654,Christian Nørgaard,Center Defensive Midfield,12,Denmark,3857266,0,0,0,15,93.0,0,0,0,0
+655,Alexander Hartmann Bah,Right Wing Back,5,Denmark,3857266,0,0,0,7,56.99999999999999,0,1,0,0
+656,Youssouf Fofana,Left Center Midfield,4,France,3857266,0,0,0,2,100.0,0,0,0,0
+657,Piotr Zieliński,Right Midfield,62,Poland,3857297,1,1,1,20,80.0,0,2,0,0
+658,Jakub Piotr Kiwior,Left Center Back,97,Poland,3857297,0,0,0,36,83.0,0,1,1,0
+659,Mohammed Al Burayk,Left Back,64,Saudi Arabia,3857297,0,2,1,47,81.0,0,0,0,0
+660,Ali Albulayhi,Left Center Back,97,Saudi Arabia,3857297,0,0,0,59,86.0,0,0,0,0
+661,Salem Mohammed Al Dawsari,Left Wing,97,Saudi Arabia,3857297,0,4,3,70,86.0,0,0,0,0
+662,Mohammed Kanoo,Right Defensive Midfield,97,Saudi Arabia,3857297,0,4,1,80,85.0,0,3,0,0
+663,Przemysław Frankowski,Left Midfield,97,Poland,3857297,0,0,0,30,67.0,0,0,0,0
+664,Abdulelah Al Amri,Right Center Back,97,Saudi Arabia,3857297,0,0,0,59,88.0,0,2,1,0
+665,Saud Abdullah Abdul Hamid,Right Back,97,Saudi Arabia,3857297,0,1,0,65,86.0,0,1,0,0
+666,Abdulelah Saad Hameed Al-Malki,Left Defensive Midfield,84,Saudi Arabia,3857297,0,2,0,49,86.0,0,3,0,0
+667,Krystian Bielik,Right Defensive Midfield,97,Poland,3857297,0,1,0,30,93.0,0,4,0,0
+668,Matty Cash,Right Back,97,Poland,3857297,0,0,0,40,72.0,0,4,1,0
+669,Robert Lewandowski,Left Center Forward,97,Poland,3857297,1,5,2,21,76.0,1,2,0,0
+670,Bartosz Bereszyński,Left Back,97,Poland,3857297,0,0,0,32,69.0,0,0,0,0
+671,Saleh Khalid Al Shehri,Center Forward,85,Saudi Arabia,3857297,0,1,0,15,80.0,0,3,0,0
+672,Kamil Glik,Right Center Back,97,Poland,3857297,0,0,0,29,93.0,0,0,0,0
+673,Sami Khalil Al Naji,Center Attacking Midfield,54,Saudi Arabia,3857297,0,0,0,21,71.0,0,0,0,0
+674,Arkadiusz Milik,Right Center Forward,70,Poland,3857297,0,1,0,15,87.0,0,1,1,0
+675,Firas Tariq Nasser Al Albirakan,Right Wing,97,Saudi Arabia,3857297,0,1,0,28,79.0,0,1,0,0
+676,Grzegorz Krychowiak,Left Defensive Midfield,97,Poland,3857297,0,0,0,26,77.0,0,2,0,0
+677,Nawaf Shaker Al Abid,Center Attacking Midfield,52,Saudi Arabia,3857297,0,1,0,32,88.0,0,1,0,0
+678,Jakub Kamiński,Center Attacking Midfield,35,Poland,3857297,0,0,0,13,77.0,0,2,0,0
+679,Sultan Abdullah Salim Al Ghannam,Right Back,33,Saudi Arabia,3857297,0,0,0,15,87.0,0,1,0,0
+680,Krzysztof Piątek,Left Center Forward,27,Poland,3857297,0,1,0,4,50.0,0,0,0,0
+681,Abdulrahman Al-Obood,Right Wing,13,Saudi Arabia,3857297,0,1,0,6,33.0,0,0,0,0
+682,Nasser Al Dawsari,Left Defensive Midfield,12,Saudi Arabia,3857297,0,0,0,10,100.0,0,1,0,0
+683,Hattan Babhir,Left Center Forward,3,Saudi Arabia,3857297,0,0,0,1,100.0,0,0,0,0
+684,Marko Livaja,Center Forward,59,Croatia,3857281,1,3,3,12,67.0,0,1,0,0
+685,Marcelo Brozović,Center Defensive Midfield,95,Croatia,3857281,0,1,1,63,87.0,0,2,0,0
+686,Borna Sosa,Left Back,95,Croatia,3857281,0,0,0,57,79.0,0,1,0,0
+687,Joško Gvardiol,Left Center Back,95,Croatia,3857281,0,0,0,51,86.0,0,1,0,0
+688,Dejan Lovren,Right Center Back,95,Croatia,3857281,0,0,0,45,96.0,0,2,1,0
+689,Kamal Miller,Left Center Back,95,Canada,3857281,0,0,0,66,94.0,0,0,0,0
+690,Alistair Johnston,Right Back,95,Canada,3857281,0,0,0,64,81.0,0,0,0,0
+691,Jonathan David,Left Center Forward,72,Canada,3857281,0,1,1,23,65.0,0,0,0,0
+692,Tajon Buchanan,Right Midfield,95,Canada,3857281,0,1,0,35,63.0,1,1,1,0
+693,Steven de Sousa Vitoria,Right Center Back,95,Canada,3857281,0,0,0,54,85.0,0,2,0,0
+694,Cyle Larin,Right Center Forward,46,Canada,3857281,0,0,0,9,67.0,0,0,0,0
+695,Alphonso Davies,Left Midfield,95,Canada,3857281,1,2,1,44,68.0,0,1,0,0
+696,Atiba Hutchinson,Right Defensive Midfield,72,Canada,3857281,0,0,0,51,94.0,0,0,0,0
+697,Stephen Antunes Eustáquio,Left Defensive Midfield,48,Canada,3857281,0,0,0,27,100.0,0,0,0,0
+698,Josip Juranović,Right Back,95,Croatia,3857281,0,0,0,51,73.0,1,0,0,0
+699,Richie Laryea,Left Back,61,Canada,3857281,0,0,0,21,76.0,0,1,0,0
+700,Luka Modrić,Right Center Midfield,85,Croatia,3857281,0,0,0,54,83.0,0,3,0,0
+701,Mateo Kovačić,Left Center Midfield,85,Croatia,3857281,0,0,0,46,91.0,0,0,0,0
+702,Andrej Kramarić,Right Wing,72,Croatia,3857281,2,5,3,33,85.0,0,0,0,0
+703,Ivan Perišić,Left Wing,85,Croatia,3857281,0,2,1,43,70.0,2,4,0,0
+704,Ismael Koné,Left Center Midfield,50,Canada,3857281,0,0,0,41,95.0,0,0,0,0
+705,Jonathan Osorio,Right Center Midfield,50,Canada,3857281,0,1,0,22,86.0,0,0,0,0
+706,Bruno Petković,Center Forward,36,Croatia,3857281,0,0,0,15,40.0,0,0,0,0
+707,David Junior Hoilett,Right Wing Back,34,Canada,3857281,0,3,0,17,82.0,0,0,0,0
+708,Sam Adekugbe,Left Wing Back,23,Canada,3857281,0,0,0,13,85.0,0,0,0,0
+709,Lucas Daniel Cavallini,Left Center Forward,23,Canada,3857281,0,0,0,3,100.0,0,1,0,0
+710,Nikola Vlašić,Right Wing,23,Croatia,3857281,0,0,0,5,80.0,0,0,0,0
+711,Mario Pašalić,Left Center Midfield,10,Croatia,3857281,0,0,0,5,100.0,0,0,0,0
+712,Lovro Majer,Right Center Midfield,10,Croatia,3857281,1,1,1,4,50.0,0,1,0,0
+713,Mislav Oršić,Left Wing,10,Croatia,3857281,0,1,1,3,100.0,1,0,0,0
+714,Michy Batshuayi Tunga,Center Forward,74,Belgium,3857283,0,1,1,10,70.0,0,2,0,0
+715,Axel Witsel,Left Defensive Midfield,95,Belgium,3857283,0,0,0,79,97.0,0,1,0,0
+716,Toby Alderweireld,Right Center Back,95,Belgium,3857283,0,0,0,100,94.0,0,0,0,0
+717,Amadou Onana,Right Defensive Midfield,59,Belgium,3857283,0,2,0,43,91.0,0,2,1,0
+718,Jan Vertonghen,Left Center Back,95,Belgium,3857283,0,1,0,104,93.0,0,0,0,0
+719,Thomas Meunier,Right Back,80,Belgium,3857283,0,1,1,48,81.0,0,2,0,0
+720,Kevin De Bruyne,Right Wing,95,Belgium,3857283,0,3,0,63,71.0,0,0,0,0
+721,Hakim Ziyech,Right Wing,95,Morocco,3857283,0,2,1,30,70.0,1,2,0,0
+722,Timothy Castagne,Left Back,95,Belgium,3857283,0,0,0,75,87.0,0,1,0,0
+723,Thorgan Hazard,Left Wing,74,Belgium,3857283,0,0,0,48,62.0,0,2,0,0
+724,Selim Amallah,Right Center Midfield,66,Morocco,3857283,0,1,0,19,89.0,0,3,0,0
+725,Romain Saïss,Left Center Back,95,Morocco,3857283,1,1,1,39,82.0,0,2,0,0
+726,Nayef Aguerd,Right Center Back,95,Morocco,3857283,0,0,0,42,90.0,0,1,0,0
+727,Achraf Hakimi Mouh,Right Back,66,Morocco,3857283,0,1,0,38,79.0,0,0,0,0
+728,Sofiane Boufal,Left Wing,71,Morocco,3857283,0,1,0,22,95.0,0,0,0,0
+729,Sofyan Amrabat,Center Defensive Midfield,95,Morocco,3857283,0,0,0,40,88.0,0,3,0,0
+730,Eden Hazard,Center Attacking Midfield,59,Belgium,3857283,0,1,1,30,83.0,0,0,0,0
+731,Youssef En-Nesyri,Center Forward,71,Morocco,3857283,0,0,0,6,67.0,0,0,0,0
+732,Azzedine Ounahi,Left Center Midfield,77,Morocco,3857283,0,1,0,30,87.0,0,0,0,0
+733,Noussair Mazraoui,Left Back,95,Morocco,3857283,0,1,0,31,90.0,0,1,0,0
+734,Youri Tielemans,Right Defensive Midfield,36,Belgium,3857283,0,0,0,30,90.0,0,0,0,0
+735,Dries Mertens,Center Attacking Midfield,36,Belgium,3857283,0,1,1,18,61.0,0,0,0,0
+736,Yahia Attiyat allah,Right Center Midfield,29,Morocco,3857283,0,0,0,6,67.0,0,0,0,0
+737,Abdelhamid Sabiri,Right Back,29,Morocco,3857283,0,0,0,6,83.0,1,2,1,0
+738,Leandro Trossard,Left Wing,21,Belgium,3857283,0,0,0,14,71.0,0,0,0,0
+739,Abderrazak Hamdallah,Center Forward,24,Morocco,3857283,0,1,1,4,75.0,0,1,0,0
+740,Zakaria Aboukhlal,Left Wing,24,Morocco,3857283,1,1,1,5,60.0,0,0,0,0
+741,Jawad El Yamiq,Right Center Back,18,Morocco,3857283,0,0,0,2,100.0,0,1,0,0
+742,Charles De Ketelaere,Right Wing,21,Belgium,3857283,0,0,0,4,75.0,0,0,0,0
+743,Romelu Lukaku Menama,Center Forward,15,Belgium,3857283,0,0,0,1,100.0,0,0,0,0
+744,Pablo Martín Páez Gavira,Right Center Midfield,65,Spain,3857263,0,0,0,12,83.0,0,4,0,0
+745,Aymeric Laporte,Left Center Back,95,Spain,3857263,0,0,0,98,91.0,0,0,0,0
+746,Rodrigo Hernández Cascante,Right Center Back,95,Spain,3857263,0,0,0,105,90.0,0,2,0,0
+747,Ferrán Torres García,Right Wing,53,Spain,3857263,0,2,0,20,55.00000000000001,0,1,0,0
+748,Niklas Süle,Right Center Back,95,Germany,3857263,0,0,0,47,87.0,0,0,0,0
+749,Jordi Alba Ramos,Left Back,81,Spain,3857263,0,1,0,82,87.0,1,1,0,0
+750,Leon Goretzka,Left Defensive Midfield,95,Germany,3857263,0,1,0,26,73.0,0,4,1,0
+751,Daniel Carvajal Ramos,Right Back,95,Spain,3857263,0,0,0,74,88.0,0,0,0,0
+752,Pedro González López,Left Center Midfield,95,Spain,3857263,0,0,0,63,94.0,0,0,0,0
+753,Thilo Kehrer,Right Back,69,Germany,3857263,0,0,0,28,75.0,0,4,1,0
+754,Antonio Rüdiger,Left Center Back,95,Germany,3857263,0,2,1,48,85.0,0,0,0,0
+755,David Raum,Left Back,86,Germany,3857263,0,0,0,46,72.0,0,2,0,0
+756,Jamal Musiala,Left Wing,95,Germany,3857263,0,1,1,20,85.0,0,0,0,0
+757,Serge Gnabry,Right Wing,84,Germany,3857263,0,2,0,18,67.0,0,2,0,0
+758,Sergio Busquets i Burgos,Center Defensive Midfield,95,Spain,3857263,0,0,0,44,93.0,0,2,1,0
+759,Daniel Olmo Carvajal,Left Wing,95,Spain,3857263,0,2,1,41,80.0,0,2,0,0
+760,Joshua Kimmich,Right Defensive Midfield,95,Germany,3857263,0,2,1,39,77.0,0,2,1,0
+761,İlkay Gündoğan,Center Attacking Midfield,69,Germany,3857263,0,0,0,17,76.0,0,0,0,0
+762,Marco Asensio Willemsen,Center Forward,65,Spain,3857263,0,1,0,34,85.0,0,2,0,0
+763,Thomas Müller,Center Forward,69,Germany,3857263,0,0,0,12,67.0,0,0,0,0
+764,Álvaro Borja Morata Martín,Center Forward,42,Spain,3857263,1,1,1,8,50.0,0,0,0,0
+765,Jorge Resurrección Merodio,Right Center Midfield,30,Spain,3857263,0,0,0,13,62.0,0,0,0,0
+766,Nicholas Williams Arthuer,Right Wing,30,Spain,3857263,0,0,0,9,89.0,0,0,0,0
+767,Lukas Klostermann,Right Back,26,Germany,3857263,0,0,0,9,89.0,0,0,0,0
+768,Niclas Füllkrug,Center Forward,26,Germany,3857263,1,3,1,7,71.0,0,0,0,0
+769,Leroy Sané,Right Wing,26,Germany,3857263,0,0,0,9,78.0,0,0,0,0
+770,Alejandro Balde Martínez,Left Back,14,Spain,3857263,0,0,0,9,89.0,0,0,0,0
+771,Nico Schlotterbeck,Left Back,9,Germany,3857263,0,0,0,4,75.0,0,1,0,0
+772,Jonas Hofmann,Left Wing,11,Germany,3857263,0,0,0,2,50.0,0,0,0,0
+773,Joel Nathaniel Campbell Samuels,Left Wing,94,Costa Rica,3857295,0,1,0,46,83.0,0,0,0,0
+774,Francisco Javier Calvo Quesada,Left Center Back,96,Costa Rica,3857295,0,1,0,75,89.0,0,3,1,0
+775,Wataru Endo,Right Defensive Midfield,96,Japan,3857295,0,3,0,89,81.0,0,3,1,0
+776,Yeltsin Ignacio Tejeda Valverde,Left Defensive Midfield,96,Costa Rica,3857295,0,0,0,49,88.0,1,1,0,0
+777,Hidemasa Morita,Left Defensive Midfield,96,Japan,3857295,0,1,1,68,87.0,0,1,0,0
+778,Ayase Ueda,Right Center Forward,45,Japan,3857295,0,0,0,11,64.0,0,1,0,0
+779,Yuki Soma,Left Midfield,81,Japan,3857295,0,3,0,20,65.0,0,2,0,0
+780,Yuto Nagatomo,Left Back,45,Japan,3857295,0,0,0,48,85.0,0,4,0,0
+781,Daichi Kamada,Left Center Forward,96,Japan,3857295,0,2,1,34,76.0,0,1,0,0
+782,Óscar Esau Duarte Gaitán,Right Center Back,96,Costa Rica,3857295,0,0,0,48,79.0,0,0,0,0
+783,Kendall Jamaal Waston Manley,Center Back,96,Costa Rica,3857295,0,0,0,42,90.0,0,1,0,0
+784,Bryan Oviedo,Left Wing Back,96,Costa Rica,3857295,0,0,0,43,72.0,0,2,0,0
+785,Ko Itakura,Right Center Back,96,Japan,3857295,0,1,0,68,94.0,0,1,1,0
+786,Celso Borges Mora,Right Defensive Midfield,88,Costa Rica,3857295,0,0,0,58,81.0,0,1,1,0
+787,Maya Yoshida,Left Center Back,96,Japan,3857295,0,0,0,117,96.0,0,0,0,0
+788,Miki Yamane,Right Back,61,Japan,3857295,0,0,0,33,76.0,0,3,1,0
+789,Anthony Daniel Contreras Enríquez,Center Forward,64,Costa Rica,3857295,0,0,0,12,67.0,0,1,1,0
+790,Gerson Torres Barrantes,Right Wing,64,Costa Rica,3857295,0,1,0,17,100.0,0,2,0,0
+791,Keysher Fuller Spence,Right Wing Back,96,Costa Rica,3857295,1,1,1,24,75.0,0,2,0,0
+792,Ritsu Doan,Right Midfield,66,Japan,3857295,0,1,0,15,67.0,0,2,0,0
+793,Hiroki Ito,Left Center Back,51,Japan,3857295,0,0,0,63,92.0,0,3,0,0
+794,Takuma Asano,Center Forward,51,Japan,3857295,0,2,1,6,83.0,0,1,0,0
+795,Kaoru Mitoma,Left Wing Back,35,Japan,3857295,0,0,0,14,79.0,0,1,0,0
+796,Brandon Aguilera Zamora,Right Wing,32,Costa Rica,3857295,0,0,0,10,50.0,0,0,0,0
+797,Junya Ito,Right Wing,30,Japan,3857295,0,0,0,7,28.999999999999996,0,1,0,0
+798,Jewison Bennette,Left Wing,32,Costa Rica,3857295,0,0,0,3,67.0,0,0,0,0
+799,Takumi Minamino,Right Wing,15,Japan,3857295,0,0,0,7,43.0,0,0,0,0
+800,Daniel Alonso Chacón Salas,Left Defensive Midfield,2,Costa Rica,3857295,0,0,0,1,100.0,0,0,0,0
+801,Youstin Delfin Salas Gómez,Right Wing,8,Costa Rica,3857295,0,0,0,0,0.0,0,0,0,0
+802,Woo-Yeong Jeong,Center Attacking Midfield,47,South Korea,3857299,0,1,0,16,81.0,0,1,0,0
+803,Woo-Young Jung,Right Defensive Midfield,78,South Korea,3857299,0,1,0,59,90.0,0,4,1,0
+804,Moon-Hwan Kim,Right Back,100,South Korea,3857299,0,0,0,89,84.0,0,1,0,0
+805,Young-Gwon Kim,Left Center Back,100,South Korea,3857299,0,1,0,66,89.0,0,1,1,0
+806,Jin-Su Kim,Left Back,100,South Korea,3857299,0,3,0,50,72.0,1,1,0,0
+807,Salis Abdul Samed,Left Defensive Midfield,100,Ghana,3857299,0,1,0,42,88.0,0,1,0,0
+808,Daniel Amartey,Right Center Back,100,Ghana,3857299,0,0,0,37,97.0,0,1,1,0
+809,Thomas Teye Partey,Right Defensive Midfield,100,Ghana,3857299,0,1,0,49,88.0,0,0,0,0
+810,André Ayew Pelé,Center Attacking Midfield,77,Ghana,3857299,0,0,0,15,80.0,0,0,0,0
+811,Gideon Mensah,Left Back,87,Ghana,3857299,0,0,0,45,78.0,0,0,0,0
+812,Mohamed Salisu,Left Center Back,100,Ghana,3857299,1,1,1,43,74.0,0,1,0,0
+813,Min Jae Kim,Right Center Back,91,South Korea,3857299,0,1,0,70,84.0,0,0,0,0
+814,Tariq Lamptey,Right Back,77,Ghana,3857299,0,1,0,19,57.99999999999999,0,2,1,0
+815,Mohammed Kudus,Right Wing,82,Ghana,3857299,2,2,2,21,81.0,0,0,0,0
+816,Chang-Hoon Kwon,Right Wing,56,South Korea,3857299,0,0,0,23,83.0,0,0,0,0
+817,Heung-Min Son,Left Wing,100,South Korea,3857299,0,2,0,38,71.0,0,0,0,0
+818,In-Beom Hwang,Left Defensive Midfield,100,South Korea,3857299,0,1,0,93,86.0,0,3,0,0
+819,Jordan Ayew,Left Wing,77,Ghana,3857299,0,0,0,22,73.0,1,0,0,0
+820,Gue-Sung Cho,Center Forward,100,South Korea,3857299,2,6,4,18,67.0,0,3,0,0
+821,Iñaki Williams Arthuer,Center Forward,100,Ghana,3857299,0,1,0,14,64.0,0,3,0,0
+822,Sang-Ho Na,Right Wing,55,South Korea,3857299,0,1,1,16,75.0,0,0,0,0
+823,Kang-In Lee,Center Attacking Midfield,44,South Korea,3857299,0,3,1,33,73.0,1,1,0,0
+824,Denis Odoi,Right Back,23,Ghana,3857299,0,0,0,2,100.0,0,0,0,0
+825,Daniel-Kofi Kyereh,Center Attacking Midfield,23,Ghana,3857299,0,0,0,4,50.0,0,0,0,0
+826,Kamaldeen Sulemana,Left Wing,23,Ghana,3857299,0,0,0,4,50.0,0,1,0,0
+827,Ui-Jo Hwang,Center Attacking Midfield,22,South Korea,3857299,0,0,0,1,0.0,0,0,0,0
+828,Alexander Djiku,Center Back,18,Ghana,3857299,0,0,0,1,0.0,0,0,0,0
+829,Kyung-Won Kwon,Right Center Back,9,South Korea,3857299,0,1,0,9,89.0,0,0,0,0
+830,Abdul Rahman Baba,Left Wing Back,13,Ghana,3857299,0,0,0,0,0.0,0,1,0,0
+831,Aleksandar Mitrović,Center Forward,96,Serbia,3857259,1,7,2,22,82.0,0,0,0,0
+832,Saša Lukić,Left Defensive Midfield,96,Serbia,3857259,0,1,0,72,86.0,0,0,0,0
+833,Strahinja Pavlović,Left Center Back,55,Serbia,3857259,1,1,1,27,89.0,0,2,0,0
+834,Milos Veljkovic,Center Back,77,Serbia,3857259,0,0,0,35,86.0,0,0,0,0
+835,Nikola Milenković,Right Center Back,96,Serbia,3857259,0,1,0,49,88.0,0,4,1,0
+836,Andrija Živković,Right Wing Back,77,Serbia,3857259,0,0,0,43,74.0,2,1,0,0
+837,Ngoran Suiru Fai Collins,Right Back,96,Cameroon,3857259,0,0,0,67,66.0,0,2,0,0
+838,Martin Hongla Yma II,Center Defensive Midfield,54,Cameroon,3857259,0,0,0,29,76.0,0,1,0,0
+839,Jean-Charles Castelletto,Right Center Back,96,Cameroon,3857259,1,1,1,33,73.0,1,1,0,0
+840,Jean-Eric Maxim Choupo-Moting,Center Forward,96,Cameroon,3857259,1,1,1,27,70.0,0,0,0,0
+841,Pierre Kunde Malong,Left Center Midfield,67,Cameroon,3857259,0,4,2,26,65.0,0,1,0,0
+842,André-Frank Zambo Anguissa,Right Center Midfield,80,Cameroon,3857259,0,0,0,25,80.0,0,1,0,0
+843,Nicolas Alexis Julio N'Koulou Ndoubena,Left Center Back,96,Cameroon,3857259,0,2,0,33,82.0,0,1,1,0
+844,Nouhou Tolo,Left Back,96,Cameroon,3857259,0,0,0,38,66.0,0,0,0,0
+845,Sergej Milinković-Savić,Left Attacking Midfield,78,Serbia,3857259,1,3,1,48,75.0,0,0,0,0
+846,Nemanja Maksimović,Right Defensive Midfield,96,Serbia,3857259,0,0,0,33,88.0,0,0,0,0
+847,Karl Brillant Toko Ekambi,Left Wing,66,Cameroon,3857259,0,1,1,11,64.0,0,0,0,0
+848,Filip Kostić,Left Wing Back,90,Serbia,3857259,0,1,0,56,68.0,0,2,0,0
+849,Dušan Tadić,Right Attacking Midfield,96,Serbia,3857259,0,0,0,56,71.0,1,6,0,0
+850,Bryan Mbeumo,Right Wing,80,Cameroon,3857259,0,0,0,23,56.99999999999999,0,0,0,0
+851,Stefan Mitrović,Left Center Back,41,Serbia,3857259,0,0,0,19,89.0,0,0,0,0
+852,Vincent Paté Aboubakar,Center Attacking Midfield,42,Cameroon,3857259,1,3,2,8,88.0,1,1,0,0
+853,Christian Mougang Bassogog,Right Wing,30,Cameroon,3857259,0,0,0,9,56.00000000000001,0,0,0,0
+854,Gaël Ondoua,Right Defensive Midfield,29,Cameroon,3857259,0,0,0,10,100.0,0,1,0,0
+855,Marko Grujić,Right Center Midfield,18,Serbia,3857259,0,1,1,17,82.0,0,1,0,0
+856,Srđan Babić,Left Center Back,19,Serbia,3857259,0,0,0,15,73.0,0,0,0,0
+857,Georges-Kévin Nkoudou Mbida,Left Wing,16,Cameroon,3857259,0,1,1,8,75.0,0,0,0,0
+858,Samuel Yves Oum Gwet,Left Defensive Midfield,16,Cameroon,3857259,0,0,0,6,67.0,0,0,0,0
+859,Nemanja Radonjić,Right Wing Back,19,Serbia,3857259,0,0,0,5,80.0,0,0,0,0
+860,Filip Đuričić,Left Wing Back,6,Serbia,3857259,0,0,0,3,100.0,0,0,0,0
+861,Djibril Sow,Center Attacking Midfield,74,Switzerland,3857269,0,2,0,20,95.0,0,0,0,0
+862,Manuel Obafemi Akanji,Right Center Back,95,Switzerland,3857269,0,1,0,74,91.0,0,2,0,0
+863,Nico Elvedi,Left Center Back,95,Switzerland,3857269,0,0,0,72,93.0,0,2,0,0
+864,Ricardo Iván Rodríguez Araya,Left Back,95,Switzerland,3857269,0,0,0,56,73.0,0,1,0,0
+865,Ruben Vargas,Left Wing,57,Switzerland,3857269,0,1,0,20,65.0,0,2,0,0
+866,Marcos Aoás Corrêa,Right Center Back,95,Brazil,3857269,0,1,0,96,96.0,0,0,0,0
+867,Carlos Henrique Casimiro,Center Defensive Midfield,95,Brazil,3857269,1,2,1,50,80.0,0,3,0,0
+868,Lucas Tolentino Coelho de Lima,Left Center Midfield,45,Brazil,3857269,0,0,0,39,85.0,0,0,0,0
+869,Alex Sandro Lobo Silva,Left Back,85,Brazil,3857269,0,0,0,74,85.0,0,1,0,0
+870,Thiago Emiliano da Silva,Left Center Back,95,Brazil,3857269,0,1,0,81,95.0,0,2,0,0
+871,Éder Gabriel Militão,Right Back,95,Brazil,3857269,0,1,0,67,84.0,0,3,0,0
+872,Breel-Donald Embolo,Center Forward,74,Switzerland,3857269,0,0,0,12,67.0,0,0,0,0
+873,Raphael Dias Belloli,Right Wing,72,Brazil,3857269,0,1,1,35,71.0,0,0,0,0
+874,Richarlison de Andrade,Center Forward,72,Brazil,3857269,0,2,0,7,43.0,0,0,0,0
+875,Remo Freuler,Right Defensive Midfield,95,Switzerland,3857269,0,0,0,39,90.0,0,1,0,0
+876,Silvan Widmer,Right Back,85,Switzerland,3857269,0,1,0,50,70.0,0,3,0,0
+877,Granit Xhaka,Left Defensive Midfield,95,Switzerland,3857269,0,0,0,67,88.0,0,2,0,0
+878,Frederico Rodrigues Santos,Right Center Midfield,57,Brazil,3857269,0,0,0,27,85.0,0,1,1,0
+879,Vinícius José Paixão de Oliveira Júnior,Left Wing,95,Brazil,3857269,0,1,1,22,82.0,0,0,0,0
+880,Fabian Rieder,Right Wing,58,Switzerland,3857269,0,0,0,18,50.0,0,4,1,0
+881,Rodrygo Silva de Goes,Center Attacking Midfield,50,Brazil,3857269,0,2,1,26,81.0,1,0,0,0
+882,Edimilson Fernandes,Left Wing,38,Switzerland,3857269,0,1,0,13,85.0,0,0,0,0
+883,Renato Steffen,Right Wing,37,Switzerland,3857269,0,0,0,13,92.0,0,0,0,0
+884,Bruno Guimarães Rodriguez Moura,Right Defensive Midfield,38,Brazil,3857269,0,1,1,24,83.0,0,0,0,0
+885,Antony Matheus dos Santos,Right Midfield,23,Brazil,3857269,0,1,0,15,73.0,0,0,0,0
+886,Michel Aebischer,Center Attacking Midfield,21,Switzerland,3857269,0,0,0,4,50.0,0,1,0,0
+887,Gabriel Fernando de Jesus,Center Forward,23,Brazil,3857269,0,0,0,6,67.0,0,0,0,0
+888,Haris Seferović,Center Forward,21,Switzerland,3857269,0,0,0,3,67.0,0,0,0,0
+889,Alex Nicolao Telles,Left Back,10,Brazil,3857269,0,0,0,11,91.0,0,0,0,0
+890,Fabian Frei,Right Back,10,Switzerland,3857269,0,0,0,3,67.0,0,0,0,0
+891,Darwin Gabriel Núñez Ribeiro,Right Center Forward,71,Uruguay,3857270,0,1,1,17,65.0,0,1,0,0
+892,Matías Vecino Falero,Left Center Midfield,61,Uruguay,3857270,0,0,0,17,65.0,0,3,0,0
+893,José María Giménez de Vargas,Right Center Back,100,Uruguay,3857270,0,1,0,51,78.0,0,4,0,0
+894,Bruno Miguel Borges Fernandes,Center Attacking Midfield,100,Portugal,3857270,2,6,3,59,81.0,0,1,0,0
+895,João Félix Sequeira,Left Center Forward,82,Portugal,3857270,0,3,0,36,83.0,0,4,1,0
+896,Cristiano Ronaldo dos Santos Aveiro,Right Center Forward,82,Portugal,3857270,0,3,0,40,75.0,0,0,0,0
+897,William Silva de Carvalho,Left Center Midfield,82,Portugal,3857270,0,1,0,63,94.0,0,0,0,0
+898,Nuno Mendes,Left Back,41,Portugal,3857270,0,0,0,34,88.0,0,0,0,0
+899,Rúben Santos Gato Alves Dias,Left Center Back,100,Portugal,3857270,0,0,0,61,93.0,0,0,0,0
+900,Kléper Laveran Lima Ferreira,Right Center Back,100,Portugal,3857270,0,0,0,60,85.0,0,0,0,0
+901,Bernardo Mota Veiga de Carvalho e Silva,Right Center Midfield,100,Portugal,3857270,0,0,0,65,85.0,0,1,0,0
+902,Diego Roberto Godín Leal,Center Back,61,Uruguay,3857270,0,0,0,23,83.0,0,0,0,0
+903,João Pedro Cavaco Cancelo,Right Back,100,Portugal,3857270,0,0,0,60,85.0,0,1,0,0
+904,Rúben Diogo Da Silva Neves,Center Defensive Midfield,68,Portugal,3857270,0,1,0,52,85.0,0,1,1,0
+905,Mathías Olivera Miramontes,Left Wing Back,85,Uruguay,3857270,0,2,0,33,82.0,0,1,0,0
+906,Edinson Roberto Cavani Gómez,Left Center Forward,72,Uruguay,3857270,0,1,0,20,65.0,0,0,0,0
+907,Sebastián Coates Nión,Left Center Back,100,Uruguay,3857270,0,0,0,50,76.0,0,1,0,0
+908,Federico Santiago Valverde Dipetta,Right Center Midfield,100,Uruguay,3857270,0,1,0,49,78.0,0,3,0,0
+909,Rodrigo Bentancur Colmán,Center Defensive Midfield,100,Uruguay,3857270,0,2,1,61,80.0,0,2,1,0
+910,Guillermo Varela Olivera,Right Wing Back,100,Uruguay,3857270,0,0,0,33,70.0,0,0,0,0
+911,Raphaël Adelino José Guerreiro,Left Back,59,Portugal,3857270,0,0,0,28,86.0,1,0,0,0
+912,Giorgian Daniel De Arrascaeta Benedetti,Left Midfield,39,Uruguay,3857270,0,1,1,25,80.0,0,0,0,0
+913,Facundo Pellistri Rebollo,Right Midfield,39,Uruguay,3857270,0,0,0,11,82.0,0,0,0,0
+914,Rafael Alexandre Conceição Leão,Center Defensive Midfield,32,Portugal,3857270,0,1,0,10,80.0,0,1,0,0
+915,Luis Alberto Suárez Díaz,Right Center Forward,28,Uruguay,3857270,0,1,0,7,71.0,0,0,0,0
+916,Maximiliano Gómez González,Left Center Forward,29,Uruguay,3857270,0,1,0,4,50.0,0,1,0,0
+917,Gonçalo Matias Ramos,Center Forward,18,Portugal,3857270,0,0,0,5,100.0,0,1,0,0
+918,João Maria Lobo Alves Palhinha Gonçalves,Left Defensive Midfield,18,Portugal,3857270,0,0,0,10,70.0,0,1,0,0
+919,Matheus Luiz Nunes,Right Defensive Midfield,18,Portugal,3857270,0,0,0,4,100.0,0,0,0,0
+920,Matías Nicolás Viña Susperreguy,Left Back,15,Uruguay,3857270,0,0,0,11,36.0,0,0,0,0
+921,Memphis Depay,Left Center Forward,65,Netherlands,3857294,0,5,1,33,82.0,0,2,0,0
+922,Frenkie de Jong,Left Defensive Midfield,85,Netherlands,3857294,1,2,1,94,93.0,0,0,0,0
+923,Marten de Roon,Right Defensive Midfield,82,Netherlands,3857294,0,0,0,69,81.0,0,1,0,0
+924,Nathan Aké,Left Center Back,96,Netherlands,3857294,0,0,0,99,98.0,0,1,1,0
+925,Daley Blind,Left Wing Back,96,Netherlands,3857294,0,2,1,110,93.0,0,2,0,0
+926,Virgil van Dijk,Center Back,96,Netherlands,3857294,0,0,0,86,93.0,0,0,0,0
+927,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3857294,0,0,0,115,93.0,0,2,0,0
+928,Boualem Khoukhi,Center Back,96,Qatar,3857294,0,0,0,54,81.0,0,0,0,0
+929,Pedro Miguel Correia,Right Center Back,96,Qatar,3857294,0,1,0,45,76.0,0,0,0,0
+930,Davy Klaassen,Center Attacking Midfield,65,Netherlands,3857294,0,1,0,35,77.0,1,1,0,0
+931,Cody Mathès Gakpo,Right Center Forward,82,Netherlands,3857294,1,2,1,40,72.0,0,1,0,0
+932,Denzel Dumfries,Right Wing Back,96,Netherlands,3857294,0,0,0,56,86.0,0,4,0,0
+933,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,96,Qatar,3857294,0,1,0,45,76.0,0,1,0,0
+934,Ismaeel Mohammad Mohammad,Right Wing Back,84,Qatar,3857294,0,1,1,29,86.0,0,0,0,0
+935,Assim Omer Al Haj Madibo,Center Defensive Midfield,63,Qatar,3857294,0,0,0,30,80.0,0,1,0,0
+936,Akram Hassan Afif,Left Center Forward,96,Qatar,3857294,0,0,0,81,84.0,0,0,0,0
+937,Hassan Khalid Al Heidos,Right Center Midfield,63,Qatar,3857294,0,1,1,24,83.0,0,2,0,0
+938,Homam Alamin Ahmed,Left Wing Back,96,Qatar,3857294,0,0,0,30,80.0,0,2,0,0
+939,Abdulaziz Hatem Mohammed Abdullah,Left Center Midfield,84,Qatar,3857294,0,1,1,39,90.0,0,1,0,0
+940,Almoez Ali Zainalabiddin Abdulla,Right Center Forward,64,Qatar,3857294,0,0,0,14,93.0,0,0,0,0
+941,Karim Boudiaf,Center Defensive Midfield,33,Qatar,3857294,0,0,0,23,91.0,0,0,0,0
+942,Mohammed Muntari,Right Center Forward,32,Qatar,3857294,0,0,0,13,92.0,0,1,0,0
+943,Ali Assadalla Thaimn Qambar,Left Center Midfield,33,Qatar,3857294,0,0,0,23,96.0,0,0,0,0
+944,Steven Berghuis,Center Attacking Midfield,31,Netherlands,3857294,0,1,0,33,85.0,0,0,0,0
+945,Vincent Janssen,Left Center Forward,31,Netherlands,3857294,0,0,0,8,88.0,0,1,0,0
+946,Teun Koopmeiners,Right Defensive Midfield,14,Netherlands,3857294,0,0,0,15,93.0,0,2,0,0
+947,Mosaab Khoder Jibril,Right Wing Back,12,Qatar,3857294,0,0,0,3,100.0,0,0,0,0
+948,Kenneth Taylor,Left Defensive Midfield,11,Netherlands,3857294,0,0,0,9,100.0,0,0,0,0
+949,Ahmed Alaa Eldin Abdelmotaal,Left Center Forward,12,Qatar,3857294,0,0,0,2,0.0,0,0,0,0
+950,Wout Weghorst,Right Center Forward,14,Netherlands,3857294,0,0,0,2,100.0,0,2,0,0
+951,Aaron Ramsey,Center Attacking Midfield,93,Wales,3857261,0,0,0,30,80.0,0,3,1,0
+952,Ben Davies,Left Back,58,Wales,3857261,0,0,0,29,52.0,0,1,0,0
+953,Declan Rice,Center Defensive Midfield,57,England,3857261,0,0,0,48,94.0,0,1,0,0
+954,John Stones,Right Center Back,93,England,3857261,0,2,1,82,91.0,0,0,0,0
+955,Joe Rodon,Left Center Back,93,Wales,3857261,0,0,0,46,91.0,0,1,0,0
+956,Ethan Ampadu,Left Defensive Midfield,93,Wales,3857261,0,0,0,35,77.0,0,2,0,0
+957,Jordan Brian Henderson,Right Center Midfield,93,England,3857261,0,0,0,61,82.0,0,3,0,0
+958,Jude Bellingham,Left Center Midfield,93,England,3857261,0,2,1,52,90.0,0,0,0,0
+959,Harry Kane,Center Forward,57,England,3857261,0,2,0,9,78.0,1,0,0,0
+960,Phil Foden,Right Wing,93,England,3857261,1,5,1,36,75.0,0,2,0,0
+961,Chris Mepham,Right Center Back,93,Wales,3857261,0,0,0,53,91.0,0,3,0,0
+962,Kyle Walker,Right Back,56,England,3857261,0,0,0,55,91.0,0,1,0,0
+963,Harry Maguire,Left Center Back,93,England,3857261,0,1,0,87,89.0,0,2,0,0
+964,Marcus Rashford,Left Wing,75,England,3857261,2,6,4,31,74.0,0,0,0,0
+965,Luke Shaw,Left Back,64,England,3857261,0,0,0,60,85.0,0,0,0,0
+966,Neco Williams,Right Back,35,Wales,3857261,0,0,0,6,83.0,0,2,0,0
+967,Gareth Frank Bale,Right Wing,45,Wales,3857261,0,0,0,5,20.0,0,0,0,0
+968,Joe Allen,Right Defensive Midfield,80,Wales,3857261,0,2,0,27,85.0,0,1,0,0
+969,Kieffer Roberto Francisco Moore,Center Forward,93,Wales,3857261,0,2,1,17,65.0,0,2,0,0
+970,Daniel James,Left Wing,76,Wales,3857261,0,0,0,15,67.0,0,1,1,0
+971,Connor Roberts,Right Back,58,Wales,3857261,0,0,0,30,90.0,0,0,0,0
+972,Brennan Johnson,Right Wing,48,Wales,3857261,0,1,0,3,67.0,0,2,0,0
+973,Joseff Morrell,Left Defensive Midfield,35,Wales,3857261,0,0,0,12,92.0,0,1,0,0
+974,Trent Alexander-Arnold,Right Back,37,England,3857261,0,0,0,23,91.0,0,1,0,0
+975,Callum Wilson,Center Forward,36,England,3857261,0,0,0,7,71.0,0,0,0,0
+976,Kieran Trippier,Left Back,29,England,3857261,0,0,0,17,100.0,0,0,0,0
+977,Kalvin Phillips,Center Defensive Midfield,36,England,3857261,0,0,0,15,100.0,1,1,0,0
+978,Jack Grealish,Right Wing,18,England,3857261,0,0,0,15,93.0,0,0,0,0
+979,Harry Wilson,Left Wing,17,Wales,3857261,0,1,0,7,86.0,0,0,0,0
+980,Rubin Colwill,Right Defensive Midfield,13,Wales,3857261,0,1,0,4,50.0,0,0,0,0
+981,Mehdi Taremi,Center Attacking Midfield,99,Iran,3857278,0,1,1,35,77.0,0,3,0,0
+982,Ehsan Hajsafi,Left Midfield,71,Iran,3857278,0,0,0,37,73.0,0,1,0,0
+983,Ramin Rezaeian,Right Back,99,Iran,3857278,0,0,0,58,67.0,0,4,0,0
+984,Sergino Dest,Right Back,81,United States,3857278,0,2,0,55,78.0,1,0,0,0
+985,Milad Mohammadi,Left Back,47,Iran,3857278,0,0,0,15,87.0,0,0,0,0
+986,Tyler Adams,Center Defensive Midfield,99,United States,3857278,0,0,0,69,91.0,0,2,1,0
+987,Ahmad Nourollahi,Right Defensive Midfield,70,Iran,3857278,0,0,0,17,82.0,0,0,0,0
+988,Sardar Azmoun,Center Forward,48,Iran,3857278,0,0,0,13,46.0,0,2,0,0
+989,Yunus Dimoara Musah,Right Center Midfield,99,United States,3857278,0,2,0,52,90.0,0,4,0,0
+990,Timothy Weah,Right Wing,81,United States,3857278,0,2,1,32,84.0,0,1,0,0
+991,Cameron Carter-Vickers,Right Center Back,99,United States,3857278,0,0,0,55,91.0,0,0,0,0
+992,Tim Ream,Left Center Back,99,United States,3857278,0,0,0,58,93.0,0,0,0,0
+993,Ali Gholizadeh,Right Midfield,76,Iran,3857278,0,0,0,24,67.0,0,1,0,0
+994,Antonee Robinson,Left Back,99,United States,3857278,0,0,0,58,62.0,0,1,0,0
+995,Saeid Ezatolahi Afagh,Left Defensive Midfield,99,Iran,3857278,0,1,0,57,77.0,0,1,0,0
+996,Morteza Pouraliganji,Left Center Back,99,Iran,3857278,0,1,0,72,83.0,0,1,0,0
+997,Weston McKennie,Left Center Midfield,64,United States,3857278,0,0,0,38,82.0,0,2,0,0
+998,Christian Pulisic,Left Wing,50,United States,3857278,1,2,2,16,75.0,0,0,0,0
+999,Joshua Sargent,Center Forward,76,United States,3857278,0,3,1,21,90.0,0,2,0,0
+1000,Seyed Majid Hosseini,Right Center Back,99,Iran,3857278,0,0,0,57,89.0,0,2,1,0
+1001,Ali Karimi,Left Center Midfield,52,Iran,3857278,0,0,0,33,91.0,0,3,0,0
+1002,Brenden Aaronson,Left Wing,54,United States,3857278,0,0,0,12,57.99999999999999,0,0,0,0
+1003,Saman Ghoddos,Left Wing,54,Iran,3857278,0,1,0,21,71.0,0,2,0,0
+1004,Kellyn Kai Perry-Acosta,Left Defensive Midfield,35,United States,3857278,0,0,0,4,75.0,0,0,0,0
+1005,Abolfazl Jalali,Left Back,28,Iran,3857278,0,0,0,29,72.0,0,1,1,0
+1006,Mehdi Torabi,Right Center Midfield,29,Iran,3857278,0,0,0,17,94.0,0,0,0,0
+1007,Karim Ansarifard,Right Center Forward,23,Iran,3857278,0,0,0,2,100.0,0,0,0,0
+1008,Shaquell Moore,Right Wing Back,18,United States,3857278,0,0,0,7,28.999999999999996,0,0,0,0
+1009,Haji Wright,Center Forward,23,United States,3857278,0,1,1,4,25.0,0,1,0,0
+1010,Walker Zimmerman,Center Back,18,United States,3857278,0,0,0,3,67.0,0,0,0,0
+1011,Gonzalo Jordy Plata Jiménez,Right Wing,95,Ecuador,3857267,0,1,1,36,67.0,0,3,0,0
+1012,Piero Martín Hincapié Reyna,Left Center Back,95,Ecuador,3857267,0,0,0,83,89.0,0,2,0,0
+1013,Ismail Jakobs,Left Back,95,Senegal,3857267,0,0,0,44,48.0,0,0,0,0
+1014,Angelo Smit Preciado Quiñónez,Right Back,84,Ecuador,3857267,0,0,0,39,74.0,0,6,0,0
+1015,Felix Eduardo Torres Caicedo,Right Center Back,95,Ecuador,3857267,0,1,0,72,78.0,0,1,0,0
+1016,Pervis Josué Estupiñán Tenorio,Left Back,95,Ecuador,3857267,0,0,0,53,79.0,0,2,0,0
+1017,Kalidou Koulibaly,Right Center Back,95,Senegal,3857267,1,1,1,30,67.0,0,0,0,0
+1018,Idrissa Gana Gueye,Center Attacking Midfield,95,Senegal,3857267,0,1,0,31,71.0,0,2,1,0
+1019,Alan Steven Franco Palma,Right Center Midfield,50,Ecuador,3857267,0,0,0,5,80.0,0,0,0,0
+1020,Pape Gueye,Left Defensive Midfield,95,Senegal,3857267,0,2,1,27,74.0,0,0,0,0
+1021,Abdou Diallo,Left Center Back,95,Senegal,3857267,0,1,0,28,71.0,0,0,0,0
+1022,Youssouf Sabaly,Right Back,95,Senegal,3857267,0,0,0,32,84.0,0,0,0,0
+1023,Iliman Ndiaye,Right Wing,74,Senegal,3857267,0,2,0,16,69.0,0,0,0,0
+1024,Carlos Armando Gruezo Arboleda,Center Defensive Midfield,50,Ecuador,3857267,0,0,0,14,93.0,0,0,0,0
+1025,Enner Remberto Valencia Lastra,Left Wing,95,Ecuador,3857267,0,2,0,10,80.0,0,1,0,0
+1026,Ismaïla Sarr,Left Wing,95,Senegal,3857267,1,3,1,23,65.0,0,2,0,0
+1027,Pathé Ismaël Ciss,Right Defensive Midfield,73,Senegal,3857267,0,1,0,25,88.0,0,2,0,0
+1028,Moisés Isaac Caicedo Corozo,Left Center Midfield,95,Ecuador,3857267,1,1,1,50,82.0,0,0,0,0
+1029,Michael Steveen Estrada Martínez,Center Forward,63,Ecuador,3857267,0,1,0,7,43.0,0,3,0,0
+1030,Boulaye Dia,Center Forward,94,Senegal,3857267,0,2,0,11,45.0,0,2,0,0
+1031,Jeremy Leonel Sarmiento Morante,Left Midfield,50,Ecuador,3857267,0,1,1,16,75.0,0,2,0,0
+1032,José Adoni Cifuentes Charcopa,Right Defensive Midfield,50,Ecuador,3857267,0,1,1,34,79.0,0,1,0,0
+1033,Djorkaeff Neicer Reasco González,Right Center Forward,32,Ecuador,3857267,0,0,0,3,100.0,0,1,0,0
+1034,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,21,Senegal,3857267,0,0,0,5,60.0,0,1,0,0
+1035,Nampalys Mendy,Right Defensive Midfield,22,Senegal,3857267,0,0,0,12,92.0,0,1,0,0
+1036,Jackson Gabriel Porozo Vernaza,Right Back,11,Ecuador,3857267,0,1,0,5,80.0,0,1,0,0
+1037,Pape Abou Cissé,Right Center Back,1,Senegal,3857267,0,0,0,0,0.0,0,0,0,0
+1038,Karol Świderski,Left Center Forward,48,Poland,3857264,0,0,0,8,88.0,0,0,0,0
+1039,Jakub Piotr Kiwior,Left Center Back,95,Poland,3857264,0,0,0,43,88.0,0,0,0,0
+1040,Marcos Javier Acuña,Left Back,58,Argentina,3857264,0,2,0,43,81.0,0,2,1,0
+1041,Julián Álvarez,Left Wing,78,Argentina,3857264,1,6,3,24,83.0,0,0,0,0
+1042,Grzegorz Krychowiak,Left Defensive Midfield,82,Poland,3857264,0,0,0,25,80.0,0,2,1,0
+1043,Kamil Glik,Right Center Back,95,Poland,3857264,0,2,0,34,94.0,0,0,0,0
+1044,Bartosz Bereszyński,Left Back,72,Poland,3857264,0,0,0,29,90.0,0,1,0,0
+1045,Nahuel Molina Lucero,Right Back,95,Argentina,3857264,0,0,0,78,91.0,1,1,0,0
+1046,Rodrigo Javier De Paul,Right Center Midfield,95,Argentina,3857264,0,1,1,153,93.0,0,3,0,0
+1047,Cristian Gabriel Romero,Right Center Back,95,Argentina,3857264,0,0,0,76,88.0,0,3,0,0
+1048,Nicolás Hernán Otamendi,Left Center Back,95,Argentina,3857264,0,0,0,93,96.0,0,2,0,0
+1049,Enzo Fernandez,Center Defensive Midfield,78,Argentina,3857264,0,1,0,93,92.0,1,0,0,0
+1050,Alexis Mac Allister,Left Center Midfield,82,Argentina,3857264,1,2,2,54,93.0,0,0,0,0
+1051,Lionel Andrés Messi Cuccittini,Center Forward,95,Argentina,3857264,0,7,4,70,84.0,0,0,0,0
+1052,Matty Cash,Right Back,95,Poland,3857264,0,0,0,35,77.0,0,0,0,0
+1053,Piotr Zieliński,Right Midfield,95,Poland,3857264,0,0,0,35,77.0,0,0,0,0
+1054,Robert Lewandowski,Right Center Forward,95,Poland,3857264,0,0,0,19,63.0,0,1,0,0
+1055,Przemysław Frankowski,Left Midfield,46,Poland,3857264,0,0,0,12,67.0,0,0,0,0
+1056,Ángel Fabián Di María Hernández,Right Wing,58,Argentina,3857264,0,3,2,51,78.0,0,0,0,0
+1057,Krystian Bielik,Right Defensive Midfield,61,Poland,3857264,0,1,0,27,89.0,0,2,0,0
+1058,Michał Skóraś,Right Midfield,50,Poland,3857264,0,1,0,9,89.0,0,1,0,0
+1059,Jakub Kamiński,Left Midfield,50,Poland,3857264,0,0,0,10,40.0,0,0,0,0
+1060,Nicolás Alejandro Tagliafico,Left Back,37,Argentina,3857264,0,1,1,38,100.0,0,0,0,0
+1061,Leandro Daniel Paredes,Center Defensive Midfield,37,Argentina,3857264,0,0,0,80,96.0,0,1,0,0
+1062,Damian Szymański,Right Defensive Midfield,34,Poland,3857264,0,0,0,9,100.0,0,1,0,0
+1063,Artur Jędrzejczyk,Left Back,23,Poland,3857264,0,0,0,5,80.0,0,0,0,0
+1064,Germán Alejandro Pezzella,Center Back,17,Argentina,3857264,0,0,0,18,100.0,0,0,0,0
+1065,Lautaro Javier Martínez,Center Forward,17,Argentina,3857264,0,1,0,11,91.0,0,0,0,0
+1066,Krzysztof Piątek,Right Center Forward,13,Poland,3857264,0,0,0,2,50.0,0,0,0,0
+1067,Thiago Ezequiel Almada,Left Wing,13,Argentina,3857264,0,0,0,13,92.0,0,0,0,0
+1068,Ellyes Joris Skhiri,Right Defensive Midfield,102,Tunisia,3857275,0,0,0,36,83.0,0,3,0,0
+1069,Wahbi Khazri,Center Forward,59,Tunisia,3857275,1,3,2,10,80.0,0,1,0,0
+1070,Anis Ben Slimane,Right Attacking Midfield,82,Tunisia,3857275,0,1,1,25,72.0,0,1,0,0
+1071,Wajdi Kechrida,Right Wing Back,102,Tunisia,3857275,0,0,0,47,62.0,0,2,1,0
+1072,Yassine Meriah,Right Center Back,102,Tunisia,3857275,0,0,0,35,91.0,0,1,0,0
+1073,Nader Ghandri,Center Back,102,Tunisia,3857275,0,0,0,30,90.0,0,0,0,0
+1074,Montassar Omar Talbi,Left Center Back,102,Tunisia,3857275,0,0,0,29,86.0,0,0,0,0
+1075,Ali Maâloul,Left Wing Back,102,Tunisia,3857275,0,0,0,61,64.0,0,0,0,0
+1076,Raphaël Varane,Right Center Back,62,France,3857275,0,0,0,46,89.0,0,0,0,0
+1077,Axel Disasi,Right Back,102,France,3857275,0,1,0,72,76.0,0,0,0,0
+1078,Aïssa Bilal Laïdouni,Left Defensive Midfield,102,Tunisia,3857275,0,1,0,43,86.0,1,3,0,0
+1079,Ibrahima Konaté,Left Center Back,102,France,3857275,0,0,0,68,97.0,0,0,0,0
+1080,Eduardo Camavinga,Left Back,102,France,3857275,0,0,0,79,89.0,0,1,0,0
+1081,Mohamed Ali Ben Romdhane,Left Attacking Midfield,73,Tunisia,3857275,0,0,0,19,74.0,0,1,0,0
+1082,Kingsley Coman,Right Wing,62,France,3857275,0,1,0,18,89.0,0,0,0,0
+1083,Aurélien Djani Tchouaméni,Center Defensive Midfield,102,France,3857275,0,0,0,95,94.0,0,2,0,0
+1084,Jordan Veretout,Left Center Midfield,62,France,3857275,0,0,0,35,91.0,0,2,0,0
+1085,Youssouf Fofana,Right Center Midfield,72,France,3857275,0,1,0,36,75.0,0,1,0,0
+1086,Randal Kolo Muani,Center Forward,102,France,3857275,0,1,0,17,71.0,0,2,0,0
+1087,Mattéo Guendouzi Olié,Left Wing,78,France,3857275,0,0,0,32,88.0,0,0,0,0
+1088,William Saliba,Right Center Back,40,France,3857275,0,0,0,37,100.0,0,0,0,0
+1089,Issam Jebali,Center Forward,43,Tunisia,3857275,0,0,0,4,75.0,0,3,0,0
+1090,Adrien Rabiot,Left Center Midfield,40,France,3857275,0,2,0,17,82.0,0,0,0,0
+1091,Kylian Mbappé Lottin,Left Wing,40,France,3857275,0,3,2,25,68.0,0,0,0,0
+1092,Antoine Griezmann,Right Center Midfield,30,France,3857275,0,0,0,35,83.0,0,0,0,0
+1093,Ousmane Dembélé,Right Wing,24,France,3857275,0,1,1,18,72.0,0,0,0,0
+1094,Ghilane Chalali,Left Attacking Midfield,29,Tunisia,3857275,0,0,0,5,80.0,0,1,0,0
+1095,Ali Abdi,Left Attacking Midfield,20,Tunisia,3857275,0,0,0,1,100.0,0,0,0,0
+1096,Henry Josué Martín Mex,Center Forward,76,Mexico,3857260,1,3,1,10,70.0,0,2,0,0
+1097,Luis Gerardo Chávez Magallón,Left Defensive Midfield,97,Mexico,3857260,1,9,4,58,66.0,0,1,0,0
+1098,Jorge Eduardo Sánchez Ramos,Right Back,85,Mexico,3857260,0,0,0,34,85.0,0,2,0,0
+1099,César Jasib Montes Castro,Right Center Back,97,Mexico,3857260,0,0,0,67,85.0,1,2,0,0
+1100,Héctor Alfredo Moreno Herrera,Left Center Back,97,Mexico,3857260,0,0,0,61,90.0,0,1,0,0
+1101,Edson Omar Álvarez Velázquez,Right Defensive Midfield,85,Mexico,3857260,0,1,1,51,80.0,0,3,1,0
+1102,Ali Albulayhi,Left Back,36,Saudi Arabia,3857260,0,0,0,14,71.0,0,0,0,0
+1103,Orbelín Pineda Alvarado,Center Attacking Midfield,76,Mexico,3857260,0,4,1,26,77.0,0,2,0,0
+1104,Abdulelah Al Amri,Right Center Back,97,Saudi Arabia,3857260,0,1,0,41,59.0,0,2,1,0
+1105,Saleh Khalid Al Shehri,Right Center Forward,61,Saudi Arabia,3857260,0,1,1,16,62.0,0,2,1,0
+1106,Sultan Abdullah Salim Al Ghannam,Right Back,87,Saudi Arabia,3857260,0,2,0,36,61.0,0,1,0,0
+1107,Mohammed Kanoo,Left Center Forward,97,Saudi Arabia,3857260,0,2,0,27,78.0,0,2,0,0
+1108,Saud Abdullah Abdul Hamid,Left Defensive Midfield,97,Saudi Arabia,3857260,0,0,0,26,54.0,0,0,0,0
+1109,Salem Mohammed Al Dawsari,Left Midfield,97,Saudi Arabia,3857260,1,2,1,23,65.0,0,2,0,0
+1110,Ali Al Hassan,Right Defensive Midfield,50,Saudi Arabia,3857260,0,1,0,8,50.0,0,2,1,0
+1111,Jesús Daniel Gallardo Vasconcelos,Left Back,97,Mexico,3857260,0,1,0,57,67.0,0,1,0,0
+1112,Hirving Rodrigo Lozano Bahena,Right Wing,97,Mexico,3857260,0,4,2,34,56.00000000000001,0,1,0,0
+1113,Firas Tariq Nasser Al Albirakan,Right Midfield,97,Saudi Arabia,3857260,0,1,0,26,50.0,0,0,0,0
+1114,Hassan Mohammed Al-Tambakti,Left Center Back,97,Saudi Arabia,3857260,0,0,0,20,75.0,0,2,1,0
+1115,Ernesto Alexis Vega Rojas,Left Wing,50,Mexico,3857260,0,2,1,13,77.0,0,0,0,0
+1116,Riyadh Sharahili,Left Defensive Midfield,61,Saudi Arabia,3857260,0,0,0,19,89.0,0,5,0,0
+1117,Abdullah Mohammed Madu,Left Center Back,52,Saudi Arabia,3857260,0,0,0,11,36.0,0,1,1,0
+1118,Carlos Uriel Antuna Romero,Right Wing,52,Mexico,3857260,0,1,0,8,50.0,0,0,0,0
+1119,Abdulrahman Al-Obood,Right Wing,36,Saudi Arabia,3857260,0,0,0,7,86.0,0,0,0,0
+1120,Raúl Alonso Jiménez Rodríguez,Center Forward,21,Mexico,3857260,0,0,0,9,56.00000000000001,0,1,0,0
+1121,Carlos Alberto Rodríguez Gómez,Center Attacking Midfield,21,Mexico,3857260,0,0,0,9,33.0,0,0,0,0
+1122,Kevin Nahin Álvarez Campos,Right Back,12,Mexico,3857260,0,0,0,7,43.0,0,0,0,0
+1123,Hattan Babhir,Right Wing,10,Saudi Arabia,3857260,0,0,0,4,50.0,1,2,1,0
+1124,Rogelio Gabriel Funes Mori,Left Center Forward,12,Mexico,3857260,0,1,0,0,0.0,0,2,0,0
+1125,Martin Braithwaite Christensen,Center Forward,58,Denmark,3857257,0,0,0,12,83.0,0,0,0,0
+1126,Christian Dannemann Eriksen,Left Center Midfield,96,Denmark,3857257,0,1,0,80,86.0,0,1,0,0
+1127,Joakim Mæhle,Left Back,69,Denmark,3857257,0,0,0,50,80.0,0,0,0,0
+1128,Andreas Christensen,Left Center Back,96,Denmark,3857257,0,0,0,96,93.0,0,1,0,0
+1129,Joachim Andersen,Right Center Back,96,Denmark,3857257,0,1,0,121,79.0,0,0,0,0
+1130,Pierre-Emile Højbjerg,Center Defensive Midfield,96,Denmark,3857257,0,0,0,80,89.0,0,0,0,0
+1131,Rasmus Nissen Kristensen,Right Back,46,Denmark,3857257,0,0,0,44,89.0,0,0,0,0
+1132,Mathias Jensen,Right Center Midfield,58,Denmark,3857257,0,1,1,36,69.0,0,0,0,0
+1133,Miloš Degenek,Right Back,96,Australia,3857257,0,0,0,38,57.99999999999999,0,1,1,0
+1134,Mitchell Thomas Duke,Left Center Forward,81,Australia,3857257,0,2,2,27,48.0,0,3,0,0
+1135,Kye Rowles,Left Center Back,96,Australia,3857257,0,0,0,30,70.0,0,0,0,0
+1136,Harry Souttar,Right Center Back,96,Australia,3857257,0,0,0,19,74.0,0,0,0,0
+1137,Mathew Leckie,Right Midfield,88,Australia,3857257,1,1,1,30,60.0,0,3,0,0
+1138,Aziz Eraltay Behich,Left Back,96,Australia,3857257,0,1,0,42,69.0,0,1,1,0
+1139,Riley McGree,Right Center Forward,73,Australia,3857257,0,2,1,17,65.0,1,3,0,0
+1140,Craig Goodwin,Left Midfield,46,Australia,3857257,0,0,0,21,56.99999999999999,0,0,0,0
+1141,Andreas Skov Olsen,Right Wing,68,Denmark,3857257,0,4,1,34,74.0,0,2,0,0
+1142,Aaron Mooy,Right Defensive Midfield,96,Australia,3857257,0,0,0,42,55.00000000000001,0,0,0,0
+1143,Jesper Lindstrøm,Left Wing,96,Denmark,3857257,0,2,0,26,77.0,0,3,0,0
+1144,Jackson Irvine,Left Defensive Midfield,96,Australia,3857257,0,1,0,25,84.0,0,0,0,0
+1145,Keanu Baccus,Left Midfield,51,Australia,3857257,0,1,0,12,57.99999999999999,0,0,0,0
+1146,Alexander Hartmann Bah,Right Back,51,Denmark,3857257,0,2,0,43,77.0,0,0,0,0
+1147,Mikkel Damsgaard,Right Center Midfield,38,Denmark,3857257,0,0,0,14,86.0,0,1,0,0
+1148,Kasper Dolberg,Center Forward,38,Denmark,3857257,0,2,2,4,100.0,0,0,0,0
+1149,Robert Skov,Left Back,28,Denmark,3857257,0,0,0,21,76.0,0,1,1,0
+1150,Andreas Evald Cornelius,Right Center Forward,27,Denmark,3857257,0,1,0,13,62.0,0,1,0,0
+1151,Bailey Wright,Right Center Back,23,Australia,3857257,0,0,0,4,25.0,0,0,0,0
+1152,Jamie MacLaren,Center Forward,15,Australia,3857257,0,0,0,3,67.0,0,1,0,0
+1153,Ajdin Hrustic,Left Wing,8,Australia,3857257,0,0,0,1,100.0,0,0,0,0
+1154,Youssef En-Nesyri,Center Forward,93,Morocco,3857276,1,2,1,18,67.0,0,1,0,0
+1155,Sofyan Amrabat,Center Defensive Midfield,93,Morocco,3857276,0,0,0,47,91.0,0,3,0,0
+1156,Nayef Aguerd,Right Center Back,93,Morocco,3857276,0,0,0,41,85.0,0,0,0,0
+1157,Romain Saïss,Left Center Back,93,Morocco,3857276,0,0,0,39,77.0,0,0,0,0
+1158,Achraf Hakimi Mouh,Right Back,84,Morocco,3857276,0,0,0,58,84.0,1,0,0,0
+1159,Hakim Ziyech,Right Wing,75,Morocco,3857276,1,2,1,40,65.0,0,1,0,0
+1160,Abdelhamid Sabiri,Left Center Midfield,64,Morocco,3857276,0,2,0,26,81.0,0,0,0,0
+1161,Sofiane Boufal,Left Wing,64,Morocco,3857276,0,1,0,18,83.0,0,5,0,0
+1162,Noussair Mazraoui,Left Back,93,Morocco,3857276,0,0,0,22,82.0,0,0,0,0
+1163,Kamal Miller,Left Center Back,93,Canada,3857276,0,0,0,91,91.0,0,0,0,0
+1164,David Junior Hoilett,Center Attacking Midfield,75,Canada,3857276,0,0,0,28,71.0,0,1,1,0
+1165,Cyle Larin,Center Forward,59,Canada,3857276,0,0,0,11,55.00000000000001,0,2,0,0
+1166,Alphonso Davies,Right Midfield,93,Canada,3857276,0,1,0,29,66.0,0,0,0,0
+1167,Steven de Sousa Vitoria,Right Center Back,93,Canada,3857276,0,0,0,79,89.0,0,4,1,0
+1168,Azzedine Ounahi,Right Center Midfield,75,Morocco,3857276,0,0,0,33,82.0,0,1,0,0
+1169,Alistair Johnston,Right Back,93,Canada,3857276,0,1,0,65,89.0,0,2,0,0
+1170,Jonathan Osorio,Right Defensive Midfield,65,Canada,3857276,0,0,0,29,93.0,0,2,1,0
+1171,Mark Anthony Kaye,Left Defensive Midfield,59,Canada,3857276,0,1,0,57,88.0,0,1,0,0
+1172,Sam Adekugbe,Left Back,60,Canada,3857276,0,0,0,37,84.0,0,1,1,0
+1173,Tajon Buchanan,Left Midfield,93,Canada,3857276,0,1,0,28,75.0,0,3,0,0
+1174,Atiba Hutchinson,Left Defensive Midfield,34,Canada,3857276,0,1,0,30,93.0,0,0,0,0
+1175,Ismael Koné,Right Defensive Midfield,33,Canada,3857276,0,0,0,29,93.0,0,0,0,0
+1176,Jonathan David,Center Forward,34,Canada,3857276,0,0,0,12,92.0,0,0,0,0
+1177,Zakaria Aboukhlal,Left Wing,29,Morocco,3857276,0,0,0,4,75.0,0,1,0,0
+1178,Richie Laryea,Right Midfield,28,Canada,3857276,0,0,0,7,71.0,0,0,0,0
+1179,Selim Amallah,Left Center Midfield,29,Morocco,3857276,0,0,0,2,0.0,0,0,0,0
+1180,David Wallace Wotherspoon,Left Midfield,18,Canada,3857276,0,0,0,6,50.0,0,0,0,0
+1181,Abderrazak Hamdallah,Center Forward,18,Morocco,3857276,0,0,0,5,60.0,0,3,0,0
+1182,Jawad El Yamiq,Right Center Back,18,Morocco,3857276,0,0,0,1,100.0,0,0,0,0
+1183,Yahya Jabrane,Left Defensive Midfield,9,Morocco,3857276,0,0,0,3,67.0,0,0,0,0
+1184,Mateo Kovačić,Left Center Midfield,90,Croatia,3857296,0,1,1,64,92.0,0,0,0,0
+1185,Marcelo Brozović,Center Defensive Midfield,93,Croatia,3857296,0,2,1,87,91.0,0,2,0,0
+1186,Luka Modrić,Right Center Midfield,93,Croatia,3857296,0,2,2,57,79.0,0,1,0,0
+1187,Josip Juranović,Right Back,93,Croatia,3857296,0,1,0,58,72.0,0,0,0,0
+1188,Dejan Lovren,Right Center Back,93,Croatia,3857296,0,0,0,50,80.0,0,0,0,0
+1189,Borna Sosa,Left Back,93,Croatia,3857296,0,2,0,84,88.0,0,0,0,0
+1190,Ivan Perišić,Left Wing,93,Croatia,3857296,0,2,0,42,79.0,0,1,0,0
+1191,Marko Livaja,Center Forward,63,Croatia,3857296,0,1,0,14,64.0,0,4,0,0
+1192,Andrej Kramarić,Right Wing,63,Croatia,3857296,0,0,0,32,91.0,0,0,0,0
+1193,Yannick Ferreira Carrasco,Left Wing,71,Belgium,3857296,0,4,0,32,81.0,0,0,0,0
+1194,Dries Mertens,Center Attacking Midfield,47,Belgium,3857296,0,2,0,18,72.0,0,0,0,0
+1195,Timothy Castagne,Left Back,93,Belgium,3857296,0,0,0,83,93.0,0,1,0,0
+1196,Axel Witsel,Left Defensive Midfield,93,Belgium,3857296,0,1,0,50,94.0,0,4,0,0
+1197,Leandro Trossard,Center Forward,58,Belgium,3857296,0,0,0,30,73.0,0,0,0,0
+1198,Thomas Meunier,Right Back,86,Belgium,3857296,0,1,0,69,77.0,0,0,0,0
+1199,Kevin De Bruyne,Right Wing,93,Belgium,3857296,0,2,1,38,68.0,0,0,0,0
+1200,Toby Alderweireld,Right Center Back,93,Belgium,3857296,0,0,0,92,88.0,0,0,0,0
+1201,Jan Vertonghen,Left Center Back,93,Belgium,3857296,0,1,0,89,96.0,0,0,0,0
+1202,Leander Dendoncker,Right Defensive Midfield,71,Belgium,3857296,0,0,0,46,96.0,0,2,1,0
+1203,Joško Gvardiol,Left Center Back,93,Croatia,3857296,0,0,0,61,97.0,0,2,0,0
+1204,Romelu Lukaku Menama,Center Forward,48,Belgium,3857296,0,5,2,8,75.0,0,1,0,0
+1205,Thorgan Hazard,Center Attacking Midfield,35,Belgium,3857296,0,0,0,11,100.0,0,0,0,0
+1206,Bruno Petković,Center Forward,30,Croatia,3857296,0,0,0,19,63.0,0,0,0,0
+1207,Mario Pašalić,Right Wing,30,Croatia,3857296,0,0,0,5,80.0,0,1,0,0
+1208,Youri Tielemans,Right Defensive Midfield,22,Belgium,3857296,0,0,0,12,83.0,0,2,0,0
+1209,Jeremy Doku,Left Wing,22,Belgium,3857296,0,0,0,14,56.99999999999999,0,0,0,0
+1210,Eden Hazard,Right Wing,7,Belgium,3857296,0,0,0,2,50.0,0,0,0,0
+1211,Lovro Majer,Left Center Midfield,3,Croatia,3857296,0,0,0,2,50.0,0,0,0,0
+1212,Pablo Martín Páez Gavira,Right Center Midfield,67,Spain,3857255,0,0,0,45,91.0,0,0,0,0
+1213,Pau Francisco Torres,Left Center Back,96,Spain,3857255,0,0,0,190,90.0,0,1,0,0
+1214,César Azpilicueta Tanco,Right Back,45,Spain,3857255,0,0,0,73,96.0,1,0,0,0
+1215,Rodrigo Hernández Cascante,Right Center Back,96,Spain,3857255,0,0,0,212,97.0,0,2,0,0
+1216,Pedro González López,Left Center Midfield,96,Spain,3857255,0,0,0,129,90.0,0,1,0,0
+1217,Sergio Busquets i Burgos,Center Defensive Midfield,96,Spain,3857255,0,1,0,74,93.0,0,1,0,0
+1218,Álvaro Borja Morata Martín,Center Forward,56,Spain,3857255,1,3,3,15,73.0,0,0,0,0
+1219,Alejandro Balde Martínez,Left Back,68,Spain,3857255,0,0,0,63,92.0,0,2,0,0
+1220,Nicholas Williams Arthuer,Right Wing,56,Spain,3857255,0,0,0,25,88.0,0,0,0,0
+1221,Junya Ito,Right Wing Back,96,Japan,3857255,0,1,0,24,83.0,1,0,0,0
+1222,Takefusa Kubo,Right Wing,45,Japan,3857255,0,0,0,9,67.0,0,0,0,0
+1223,Daniel Olmo Carvajal,Left Wing,96,Spain,3857255,0,4,1,47,77.0,0,1,0,0
+1224,Hidemasa Morita,Left Defensive Midfield,96,Japan,3857255,0,0,0,36,72.0,0,1,0,0
+1225,Daichi Kamada,Left Wing,68,Japan,3857255,0,1,0,13,77.0,0,1,0,0
+1226,Ao Tanaka,Right Defensive Midfield,86,Japan,3857255,1,1,1,29,69.0,0,0,0,0
+1227,Ko Itakura,Right Center Back,96,Japan,3857255,0,1,1,18,89.0,0,1,1,0
+1228,Maya Yoshida,Center Back,96,Japan,3857255,0,0,0,22,77.0,0,1,1,0
+1229,Yuto Nagatomo,Left Wing Back,45,Japan,3857255,0,0,0,12,57.99999999999999,0,0,0,0
+1230,Shogo Taniguchi,Left Center Back,96,Japan,3857255,0,0,0,30,87.0,0,3,1,0
+1231,Daizen Maeda,Center Forward,61,Japan,3857255,0,0,0,7,43.0,0,1,0,0
+1232,Kaoru Mitoma,Left Wing Back,51,Japan,3857255,0,0,0,11,73.0,1,2,0,0
+1233,Ritsu Doan,Right Wing,51,Japan,3857255,1,1,1,7,28.999999999999996,0,1,0,0
+1234,Daniel Carvajal Ramos,Right Back,51,Spain,3857255,0,0,0,61,93.0,0,0,0,0
+1235,Ferrán Torres García,Right Wing,40,Spain,3857255,0,0,0,17,76.0,0,0,0,0
+1236,Takuma Asano,Center Forward,35,Japan,3857255,0,1,0,6,67.0,0,0,0,0
+1237,Marco Asensio Willemsen,Center Forward,40,Spain,3857255,0,3,1,29,69.0,0,0,0,0
+1238,Takehiro Tomiyasu,Left Wing,28,Japan,3857255,0,0,0,4,25.0,0,0,0,0
+1239,Jordi Alba Ramos,Left Back,28,Spain,3857255,0,1,0,56,88.0,0,0,0,0
+1240,Anssumane Fati,Left Wing,29,Spain,3857255,0,0,0,20,85.0,0,0,0,0
+1241,Wataru Endo,Right Defensive Midfield,10,Japan,3857255,0,0,0,2,0.0,0,0,0,0
+1242,Thomas Müller,Center Forward,65,Germany,3857292,0,3,0,19,74.0,0,0,0,0
+1243,Antonio Rüdiger,Left Center Back,100,Germany,3857292,0,1,0,86,93.0,0,0,0,0
+1244,Joshua Kimmich,Right Back,100,Germany,3857292,0,1,1,135,87.0,0,1,0,0
+1245,Brandon Aguilera Zamora,Left Wing,45,Costa Rica,3857292,0,0,0,19,74.0,0,0,0,0
+1246,Jamal Musiala,Center Attacking Midfield,100,Germany,3857292,0,7,2,53,74.0,0,1,0,0
+1247,Celso Borges Mora,Right Defensive Midfield,100,Costa Rica,3857292,0,0,0,36,86.0,0,0,0,0
+1248,İlkay Gündoğan,Left Defensive Midfield,53,Germany,3857292,0,0,0,77,92.0,0,2,0,0
+1249,Niklas Süle,Right Center Back,93,Germany,3857292,0,0,0,103,94.0,0,0,0,0
+1250,David Raum,Left Back,65,Germany,3857292,0,0,0,71,82.0,1,2,0,0
+1251,Keysher Fuller Spence,Right Wing Back,73,Costa Rica,3857292,0,2,1,22,68.0,0,0,0,0
+1252,Joel Nathaniel Campbell Samuels,Right Wing,100,Costa Rica,3857292,0,0,0,67,75.0,0,1,0,0
+1253,Serge Gnabry,Left Wing,100,Germany,3857292,1,4,1,45,76.0,1,0,0,0
+1254,Juan Pablo Vargas Campos,Left Center Back,100,Costa Rica,3857292,0,1,1,28,79.0,0,0,0,0
+1255,Leon Goretzka,Right Defensive Midfield,45,Germany,3857292,0,2,1,24,83.0,0,0,0,0
+1256,Leroy Sané,Right Wing,100,Germany,3857292,0,3,0,47,87.0,1,0,0,0
+1257,Óscar Esau Duarte Gaitán,Center Back,100,Costa Rica,3857292,0,0,0,22,55.00000000000001,0,1,1,0
+1258,Kendall Jamaal Waston Manley,Right Center Back,100,Costa Rica,3857292,0,1,1,21,76.0,0,0,0,0
+1259,Johan Alberto Venegas Ulloa,Center Forward,73,Costa Rica,3857292,0,0,0,14,79.0,0,1,0,0
+1260,Yeltsin Ignacio Tejeda Valverde,Left Defensive Midfield,92,Costa Rica,3857292,1,2,2,30,80.0,0,0,0,0
+1261,Bryan Oviedo,Left Wing Back,92,Costa Rica,3857292,0,0,0,27,93.0,0,0,0,0
+1262,Lukas Klostermann,Right Back,55,Germany,3857292,0,0,0,38,100.0,0,1,0,0
+1263,Youstin Delfin Salas Gómez,Right Wing Back,55,Costa Rica,3857292,0,0,0,18,83.0,0,0,0,0
+1264,Niclas Füllkrug,Right Center Forward,47,Germany,3857292,1,4,2,14,56.99999999999999,1,0,0,0
+1265,Mario Götze,Right Center Midfield,35,Germany,3857292,0,1,1,11,100.0,0,0,0,0
+1266,Ronald Alberto Matarrita Ulate,Left Wing,27,Costa Rica,3857292,0,0,0,17,65.0,0,1,0,0
+1267,Kai Havertz,Left Center Forward,35,Germany,3857292,2,5,3,11,82.0,0,2,0,0
+1268,Jewison Bennette,Right Wing,27,Costa Rica,3857292,0,1,0,7,86.0,0,0,0,0
+1269,Roan Roberto Wilson Gordon,Left Defensive Midfield,8,Costa Rica,3857292,0,0,0,6,100.0,0,0,0,0
+1270,Anthony Daniel Contreras Enríquez,Left Wing,8,Costa Rica,3857292,0,0,0,6,83.0,0,0,0,0
+1271,Matthias Ginter,Center Back,7,Germany,3857292,0,0,0,3,100.0,0,0,0,0
+1272,Gue-Sung Cho,Center Forward,92,South Korea,3857262,0,1,1,23,56.99999999999999,0,1,0,0
+1273,Woo-Young Jung,Center Defensive Midfield,96,South Korea,3857262,0,0,0,56,86.0,0,2,0,0
+1274,Young-Gwon Kim,Left Center Back,80,South Korea,3857262,1,1,1,39,85.0,0,0,0,0
+1275,Jin-Su Kim,Left Back,96,South Korea,3857262,0,0,0,36,72.0,0,0,0,0
+1276,Heung-Min Son,Left Wing,96,South Korea,3857262,0,5,2,20,80.0,1,0,0,0
+1277,Kang-In Lee,Left Center Midfield,81,South Korea,3857262,0,1,0,27,81.0,0,1,1,0
+1278,In-Beom Hwang,Right Center Midfield,96,South Korea,3857262,0,2,1,43,77.0,0,1,0,0
+1279,Kyung-Won Kwon,Right Center Back,96,South Korea,3857262,0,0,0,34,94.0,0,0,0,0
+1280,Moon-Hwan Kim,Right Back,96,South Korea,3857262,0,0,0,38,82.0,0,0,0,0
+1281,Jae-Sung Lee,Right Wing,65,South Korea,3857262,0,1,0,15,80.0,0,2,0,0
+1282,João Pedro Cavaco Cancelo,Left Back,96,Portugal,3857262,0,2,1,91,85.0,0,1,0,0
+1283,Rúben Diogo Da Silva Neves,Center Defensive Midfield,64,Portugal,3857262,0,0,0,64,97.0,0,0,0,0
+1284,José Diogo Dalot Teixeira,Right Back,96,Portugal,3857262,0,1,1,66,80.0,1,1,0,0
+1285,António João Pereira Albuquerque Tavares Silva,Left Center Back,96,Portugal,3857262,0,0,0,58,98.0,0,2,0,0
+1286,Vitor Machado Ferreira,Left Center Midfield,81,Portugal,3857262,0,2,2,62,95.0,0,0,0,0
+1287,Kléper Laveran Lima Ferreira,Right Center Back,96,Portugal,3857262,0,0,0,78,86.0,0,0,0,0
+1288,João Mário Naval da Costa Eduardo,Left Wing,81,Portugal,3857262,0,0,0,37,92.0,0,0,0,0
+1289,Cristiano Ronaldo dos Santos Aveiro,Center Forward,64,Portugal,3857262,0,2,0,19,79.0,0,0,0,0
+1290,Matheus Luiz Nunes,Right Center Midfield,64,Portugal,3857262,0,1,0,29,72.0,0,2,0,0
+1291,Ricardo Jorge Luz Horta,Right Wing,96,Portugal,3857262,1,3,2,22,59.0,0,1,0,0
+1292,Hee-Chan Hwang,Left Wing,31,South Korea,3857262,1,1,1,4,75.0,0,0,0,0
+1293,Rafael Alexandre Conceição Leão,Center Defensive Midfield,32,Portugal,3857262,0,1,0,10,70.0,0,1,0,0
+1294,João Maria Lobo Alves Palhinha Gonçalves,Right Center Midfield,32,Portugal,3857262,0,1,0,17,94.0,0,1,0,0
+1295,André Miguel Valente Silva,Center Forward,32,Portugal,3857262,0,0,0,11,91.0,0,0,0,0
+1296,Jun-Ho Son,Left Defensive Midfield,16,South Korea,3857262,0,0,0,8,88.0,0,2,0,0
+1297,William Silva de Carvalho,Right Center Midfield,15,Portugal,3857262,0,0,0,14,93.0,0,1,0,0
+1298,Bernardo Mota Veiga de Carvalho e Silva,Left Center Midfield,15,Portugal,3857262,0,0,0,8,88.0,0,0,0,0
+1299,Ui-Jo Hwang,Center Forward,15,South Korea,3857262,0,0,0,2,100.0,0,0,0,0
+1300,Yu-Min Cho,Right Center Back,4,South Korea,3857262,0,0,0,0,0.0,0,0,0,0
+1301,Gabriel Fernando de Jesus,Center Forward,63,Brazil,3857280,0,2,1,13,92.0,0,0,0,0
+1302,Fábio Henrique Tavares,Left Defensive Midfield,99,Brazil,3857280,0,0,0,56,89.0,0,2,0,0
+1303,Rodrygo Silva de Goes,Center Attacking Midfield,54,Brazil,3857280,0,2,0,29,76.0,0,0,0,0
+1304,Alex Nicolao Telles,Left Back,54,Brazil,3857280,0,0,0,33,76.0,0,1,0,0
+1305,Gleison Bremer Silva Nascimento,Left Center Back,99,Brazil,3857280,0,0,0,66,94.0,0,1,0,0
+1306,Éder Gabriel Militão,Right Center Back,99,Brazil,3857280,0,1,1,75,92.0,0,2,1,0
+1307,Ngoran Suiru Fai Collins,Right Back,99,Cameroon,3857280,0,0,0,25,76.0,0,2,1,0
+1308,Jean-Eric Maxim Choupo-Moting,Left Center Forward,99,Cameroon,3857280,0,0,0,23,56.99999999999999,0,0,0,0
+1309,André-Frank Zambo Anguissa,Left Defensive Midfield,99,Cameroon,3857280,0,0,0,49,80.0,0,3,0,0
+1310,Antony Matheus dos Santos,Right Wing,78,Brazil,3857280,0,3,2,50,72.0,0,0,0,0
+1311,Frederico Rodrigues Santos,Right Defensive Midfield,54,Brazil,3857280,0,2,0,33,88.0,0,1,0,0
+1312,Daniel Alves da Silva,Right Back,99,Brazil,3857280,0,1,0,80,89.0,0,5,0,0
+1313,Nouhou Tolo,Left Back,99,Cameroon,3857280,0,0,0,22,73.0,0,1,1,0
+1314,Vincent Paté Aboubakar,Right Center Forward,99,Cameroon,3857280,1,3,1,15,47.0,0,2,1,0
+1315,Pierre Kunde Malong,Right Defensive Midfield,67,Cameroon,3857280,0,1,0,25,88.0,0,3,1,0
+1316,Enzo Ebosse,Left Center Back,99,Cameroon,3857280,0,0,0,39,87.0,0,1,0,0
+1317,Christopher Wooh,Right Center Back,99,Cameroon,3857280,0,1,0,33,82.0,0,2,0,0
+1318,Nicolas Moumi Ngamaleu,Left Midfield,84,Cameroon,3857280,0,0,0,21,90.0,0,2,0,0
+1319,Bryan Mbeumo,Right Midfield,63,Cameroon,3857280,0,1,1,15,53.0,0,1,0,0
+1320,Gabriel Teodoro Martinelli Silva,Left Wing,99,Brazil,3857280,0,4,3,31,74.0,0,1,0,0
+1321,Marcos Aoás Corrêa,Left Back,45,Brazil,3857280,0,0,0,32,100.0,0,0,0,0
+1322,Éverton Augusto de Barros Ribeiro,Center Attacking Midfield,45,Brazil,3857280,0,0,0,17,88.0,0,0,0,0
+1323,Bruno Guimarães Rodriguez Moura,Right Defensive Midfield,45,Brazil,3857280,0,4,1,31,84.0,0,2,1,0
+1324,Pedro Guilherme Abreu dos Santos,Center Forward,36,Brazil,3857280,0,2,0,8,62.0,0,0,0,0
+1325,Karl Brillant Toko Ekambi,Left Midfield,36,Cameroon,3857280,0,0,0,10,80.0,0,0,0,0
+1326,Jules Olivier Ntcham,Right Defensive Midfield,32,Cameroon,3857280,0,1,1,12,92.0,0,0,0,0
+1327,Raphael Dias Belloli,Right Wing,21,Brazil,3857280,0,0,0,9,78.0,0,0,0,0
+1328,Jerome Ngom Mbekeli,Right Midfield,15,Cameroon,3857280,0,0,0,2,50.0,1,0,0,0
+1329,Luis Alberto Suárez Díaz,Right Center Forward,65,Uruguay,3857293,0,1,1,20,70.0,1,0,0,0
+1330,Federico Santiago Valverde Dipetta,Right Defensive Midfield,100,Uruguay,3857293,0,3,1,76,83.0,0,3,0,0
+1331,Mathías Olivera Miramontes,Left Back,100,Uruguay,3857293,0,0,0,52,79.0,0,1,0,0
+1332,Giorgian Daniel De Arrascaeta Benedetti,Left Midfield,79,Uruguay,3857293,2,2,2,26,54.0,0,0,0,0
+1333,André Ayew Pelé,Center Attacking Midfield,52,Ghana,3857293,0,1,1,8,75.0,0,0,0,0
+1334,Iñaki Williams Arthuer,Right Wing,71,Ghana,3857293,0,0,0,14,71.0,0,0,0,0
+1335,Thomas Teye Partey,Right Defensive Midfield,100,Ghana,3857293,0,0,0,78,81.0,0,2,0,0
+1336,Alidu Seidu,Right Back,100,Ghana,3857293,0,0,0,52,79.0,0,2,1,0
+1337,Daniel Amartey,Right Center Back,100,Ghana,3857293,0,0,0,51,92.0,0,1,0,0
+1338,Mohamed Salisu,Left Center Back,100,Ghana,3857293,0,0,0,59,71.0,0,2,0,0
+1339,Jordan Ayew,Left Wing,50,Ghana,3857293,0,1,1,9,67.0,0,2,0,0
+1340,Abdul Rahman Baba,Left Back,100,Ghana,3857293,0,0,0,61,70.0,0,4,0,0
+1341,Salis Abdul Samed,Left Defensive Midfield,71,Ghana,3857293,0,0,0,51,90.0,0,3,0,0
+1342,José María Giménez de Vargas,Right Center Back,100,Uruguay,3857293,0,1,0,37,89.0,0,0,0,0
+1343,Guillermo Varela Olivera,Right Back,100,Uruguay,3857293,0,0,0,55,65.0,0,2,0,0
+1344,Facundo Pellistri Rebollo,Right Midfield,65,Uruguay,3857293,0,1,0,14,71.0,0,0,0,0
+1345,Sebastián Coates Nión,Left Center Back,100,Uruguay,3857293,0,1,0,47,85.0,0,1,1,0
+1346,Mohammed Kudus,Center Forward,97,Ghana,3857293,0,4,1,34,79.0,0,2,0,0
+1347,Rodrigo Bentancur Colmán,Left Defensive Midfield,33,Uruguay,3857293,0,0,0,19,89.0,0,3,0,0
+1348,Darwin Gabriel Núñez Ribeiro,Left Center Forward,79,Uruguay,3857293,0,1,0,15,80.0,0,0,0,0
+1349,Matías Vecino Falero,Left Defensive Midfield,67,Uruguay,3857293,0,0,0,46,83.0,0,0,0,0
+1350,Osman Bukari,Right Wing,55,Ghana,3857293,0,1,0,13,77.0,0,0,0,0
+1351,Kamaldeen Sulemana,Left Wing,55,Ghana,3857293,0,1,1,16,56.00000000000001,0,1,1,0
+1352,Edinson Roberto Cavani Gómez,Right Center Forward,35,Uruguay,3857293,0,0,0,13,77.0,0,0,0,0
+1353,Diego Nicolás De La Cruz Arcosa,Right Midfield,35,Uruguay,3857293,0,1,1,12,83.0,0,0,0,0
+1354,Daniel-Kofi Kyereh,Left Defensive Midfield,29,Ghana,3857293,0,0,0,18,78.0,0,0,0,0
+1355,Antoine Semenyo,Center Forward,29,Ghana,3857293,0,1,0,3,33.0,0,2,0,0
+1356,Agustín Canobbio Graviz,Right Midfield,21,Uruguay,3857293,0,0,0,7,71.0,0,0,0,0
+1357,Maximiliano Gómez González,Left Center Forward,21,Uruguay,3857293,0,1,1,3,67.0,0,0,0,0
+1358,Abdul Fatawu Issahaku,Right Wing,3,Ghana,3857293,0,0,0,0,0.0,0,0,0,0
+1359,Breel-Donald Embolo,Center Forward,95,Switzerland,3857256,1,3,2,17,82.0,0,2,0,0
+1360,Remo Freuler,Right Defensive Midfield,99,Switzerland,3857256,1,2,1,23,61.0,0,1,0,0
+1361,Silvan Widmer,Right Back,99,Switzerland,3857256,0,0,0,64,78.0,1,1,1,0
+1362,Fabian Lukas Schär,Right Center Back,99,Switzerland,3857256,0,1,0,44,80.0,0,1,1,0
+1363,Djibril Sow,Center Attacking Midfield,67,Switzerland,3857256,0,0,0,27,85.0,1,0,0,0
+1364,Xherdan Shaqiri,Right Wing,68,Switzerland,3857256,1,2,1,24,67.0,0,1,0,0
+1365,Manuel Obafemi Akanji,Left Center Back,99,Switzerland,3857256,0,1,0,53,87.0,0,1,0,0
+1366,Andrija Živković,Right Wing Back,77,Serbia,3857256,0,1,0,31,68.0,0,0,0,0
+1367,Saša Lukić,Right Defensive Midfield,99,Serbia,3857256,0,0,0,59,90.0,0,7,1,0
+1368,Ruben Vargas,Left Wing,82,Switzerland,3857256,0,1,0,23,74.0,1,1,1,0
+1369,Ricardo Iván Rodríguez Araya,Left Back,99,Switzerland,3857256,0,0,0,50,62.0,0,1,0,0
+1370,Nikola Milenković,Right Center Back,99,Serbia,3857256,0,1,0,58,88.0,0,2,0,0
+1371,Sergej Milinković-Savić,Left Defensive Midfield,66,Serbia,3857256,0,0,0,33,79.0,0,2,1,0
+1372,Filip Kostić,Left Wing Back,99,Serbia,3857256,0,0,0,56,62.0,0,2,0,0
+1373,Strahinja Pavlović,Left Center Back,99,Serbia,3857256,0,0,0,85,78.0,0,3,1,0
+1374,Milos Veljkovic,Center Back,54,Serbia,3857256,0,0,0,32,91.0,0,1,0,0
+1375,Granit Xhaka,Left Defensive Midfield,99,Switzerland,3857256,0,3,2,57,91.0,0,3,0,0
+1376,Dušan Tadić,Center Attacking Midfield,77,Serbia,3857256,0,1,0,35,80.0,1,0,0,0
+1377,Aleksandar Mitrović,Left Center Forward,99,Serbia,3857256,1,3,1,23,74.0,0,1,0,0
+1378,Dušan Vlahović,Right Center Forward,54,Serbia,3857256,1,3,3,5,60.0,0,0,0,0
+1379,Nemanja Gudelj,Center Back,45,Serbia,3857256,0,0,0,21,81.0,0,2,1,0
+1380,Luka Jović,Right Center Forward,45,Serbia,3857256,0,2,0,10,70.0,0,1,0,0
+1381,Edimilson Fernandes,Right Wing,32,Switzerland,3857256,0,0,0,15,87.0,0,1,0,0
+1382,Nemanja Maksimović,Right Defensive Midfield,33,Serbia,3857256,0,0,0,18,94.0,0,0,0,0
+1383,Denis Lemi Zakaria Lako Lado,Right Defensive Midfield,31,Switzerland,3857256,0,0,0,9,89.0,0,0,0,0
+1384,Christian Fassnacht,Left Wing,17,Switzerland,3857256,0,1,1,10,80.0,0,0,0,0
+1385,Nemanja Radonjić,Right Wing Back,22,Serbia,3857256,0,1,0,7,71.0,0,0,0,0
+1386,Filip Đuričić,Center Attacking Midfield,22,Serbia,3857256,0,0,0,3,67.0,0,0,0,0
+1387,Noah Okafor,Center Forward,4,Switzerland,3857256,0,0,0,0,0.0,0,1,0,0
+1388,Memphis Depay,Left Center Forward,82,Netherlands,3869117,1,4,3,30,77.0,0,0,0,0
+1389,Frenkie de Jong,Left Defensive Midfield,96,Netherlands,3869117,0,0,0,43,81.0,0,2,1,0
+1390,Marten de Roon,Right Defensive Midfield,45,Netherlands,3869117,0,0,0,17,71.0,0,0,0,0
+1391,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3869117,0,0,0,44,82.0,0,3,0,0
+1392,Sergino Dest,Right Back,74,United States,3869117,0,2,0,38,87.0,0,0,0,0
+1393,Walker Zimmerman,Right Center Back,96,United States,3869117,0,1,0,75,88.0,0,1,0,0
+1394,Tim Ream,Left Center Back,96,United States,3869117,0,1,1,84,86.0,0,0,0,0
+1395,Timothy Weah,Right Wing,66,United States,3869117,0,2,1,24,88.0,0,0,0,0
+1396,Tyler Adams,Center Defensive Midfield,96,United States,3869117,0,0,0,86,92.0,0,0,0,0
+1397,Antonee Robinson,Left Back,91,United States,3869117,0,0,0,78,73.0,0,0,0,0
+1398,Christian Pulisic,Left Wing,96,United States,3869117,0,3,3,36,53.0,1,0,0,0
+1399,Weston McKennie,Left Center Midfield,66,United States,3869117,0,3,0,40,75.0,0,0,0,0
+1400,Yunus Dimoara Musah,Right Center Midfield,96,United States,3869117,0,1,0,52,75.0,0,0,0,0
+1401,Jesus Ferreira,Center Forward,45,United States,3869117,0,0,0,20,85.0,0,0,0,0
+1402,Nathan Aké,Left Center Back,92,Netherlands,3869117,0,0,0,32,94.0,0,0,0,0
+1403,Daley Blind,Left Wing Back,96,Netherlands,3869117,1,2,1,41,78.0,1,0,0,0
+1404,Virgil van Dijk,Center Back,96,Netherlands,3869117,0,1,0,47,91.0,0,2,0,0
+1405,Denzel Dumfries,Right Wing Back,96,Netherlands,3869117,1,1,1,48,56.00000000000001,2,1,0,0
+1406,Davy Klaassen,Center Attacking Midfield,45,Netherlands,3869117,0,0,0,16,56.00000000000001,0,0,0,0
+1407,Cody Mathès Gakpo,Right Center Forward,92,Netherlands,3869117,0,1,0,29,76.0,0,1,0,0
+1408,Giovanni Reyna,Center Forward,51,United States,3869117,0,2,0,31,77.0,0,0,0,0
+1409,Steven Bergwijn,Right Center Forward,51,Netherlands,3869117,0,1,0,19,95.0,0,1,0,0
+1410,Teun Koopmeiners,Right Defensive Midfield,51,Netherlands,3869117,0,1,1,25,64.0,0,1,1,0
+1411,Haji Wright,Center Forward,30,United States,3869117,1,3,1,8,100.0,0,0,0,0
+1412,Brenden Aaronson,Left Center Midfield,30,United States,3869117,0,0,0,9,89.0,0,2,0,0
+1413,DeAndre Yedlin,Right Back,22,United States,3869117,0,0,0,12,67.0,0,2,0,0
+1414,Xavi Simons,Left Center Forward,14,Netherlands,3869117,0,0,0,10,60.0,0,0,0,0
+1415,Jordan Morris,Right Back,5,United States,3869117,0,0,0,1,0.0,0,0,0,0
+1416,Wout Weghorst,Left Center Forward,4,Netherlands,3869117,0,0,0,1,0.0,0,0,0,0
+1417,Matthijs de Ligt,Left Center Back,4,Netherlands,3869117,0,0,0,0,0.0,0,0,0,0
+1418,Jackson Irvine,Left Center Forward,97,Australia,3869151,0,0,0,37,78.0,0,2,1,0
+1419,Kye Rowles,Left Center Back,97,Australia,3869151,0,0,0,71,92.0,0,0,0,0
+1420,Mathew Leckie,Right Midfield,71,Australia,3869151,0,0,0,16,62.0,0,2,0,0
+1421,Mitchell Thomas Duke,Right Center Forward,71,Australia,3869151,0,0,0,14,43.0,0,2,0,0
+1422,Miloš Degenek,Right Back,71,Australia,3869151,0,0,0,42,76.0,0,1,1,0
+1423,Enzo Fernandez,Center Defensive Midfield,97,Argentina,3869151,0,0,0,100,94.0,0,1,0,0
+1424,Lionel Andrés Messi Cuccittini,Center Forward,97,Argentina,3869151,1,6,2,61,87.0,0,0,0,0
+1425,Alejandro Darío Gómez,Left Wing,49,Argentina,3869151,0,1,0,33,97.0,0,0,0,0
+1426,Marcos Javier Acuña,Left Back,71,Argentina,3869151,0,0,0,60,87.0,0,3,0,0
+1427,Nicolás Hernán Otamendi,Left Center Back,97,Argentina,3869151,0,0,0,96,95.0,1,1,0,0
+1428,Cristian Gabriel Romero,Right Center Back,97,Argentina,3869151,0,0,0,78,92.0,0,1,0,0
+1429,Nahuel Molina Lucero,Right Back,79,Argentina,3869151,0,0,0,61,90.0,0,0,0,0
+1430,Rodrigo Javier De Paul,Right Center Midfield,97,Argentina,3869151,0,0,0,91,84.0,0,0,0,0
+1431,Aziz Eraltay Behich,Left Back,97,Australia,3869151,0,1,0,54,78.0,0,1,0,0
+1432,Harry Souttar,Right Center Back,97,Australia,3869151,0,1,0,58,91.0,0,1,0,0
+1433,Aaron Mooy,Left Defensive Midfield,97,Australia,3869151,0,0,0,59,88.0,0,2,0,0
+1434,Alexis Mac Allister,Left Center Midfield,79,Argentina,3869151,0,0,0,46,87.0,0,0,0,0
+1435,Riley McGree,Left Midfield,57,Australia,3869151,0,0,0,15,93.0,0,1,0,0
+1436,Julián Álvarez,Right Wing,71,Argentina,3869151,1,1,1,17,88.0,0,2,0,0
+1437,Keanu Baccus,Right Defensive Midfield,57,Australia,3869151,0,0,0,15,67.0,0,5,0,0
+1438,Lisandro Martínez,Right Midfield,48,Argentina,3869151,0,0,0,19,95.0,0,0,0,0
+1439,Craig Goodwin,Left Midfield,40,Australia,3869151,0,1,0,15,40.0,0,0,0,0
+1440,Ajdin Hrustic,Right Midfield,40,Australia,3869151,0,1,0,9,78.0,0,0,0,0
+1441,Nicolás Alejandro Tagliafico,Left Wing Back,26,Argentina,3869151,0,1,0,13,77.0,0,0,0,0
+1442,Fran Karačić,Right Back,26,Australia,3869151,0,0,0,16,75.0,0,1,0,0
+1443,Jamie MacLaren,Right Center Forward,26,Australia,3869151,0,0,0,3,0.0,0,0,0,0
+1444,Lautaro Javier Martínez,Left Center Forward,26,Argentina,3869151,0,4,2,10,70.0,0,1,0,0
+1445,Gonzalo Ariel Montiel,Right Wing Back,18,Argentina,3869151,0,0,0,5,80.0,0,0,0,0
+1446,Exequiel Alejandro Palacios,Left Center Midfield,18,Argentina,3869151,0,1,0,7,71.0,0,0,0,0
+1447,Garang Kuol,Left Center Forward,26,Australia,3869151,0,1,1,1,100.0,0,0,0,0
+1448,Olivier Giroud,Center Forward,75,France,3869152,1,3,1,16,75.0,0,1,0,0
+1449,Aurélien Djani Tchouaméni,Right Defensive Midfield,65,France,3869152,0,1,1,72,90.0,0,1,1,0
+1450,Jules Koundé,Right Back,91,France,3869152,0,1,1,68,94.0,0,0,0,0
+1451,Adrien Rabiot,Left Defensive Midfield,98,France,3869152,0,0,0,61,85.0,0,1,0,0
+1452,Antoine Griezmann,Center Attacking Midfield,98,France,3869152,0,1,1,56,71.0,0,0,0,0
+1453,Theo Bernard François Hernández,Left Back,98,France,3869152,0,2,0,72,93.0,0,1,0,0
+1454,Dayotchanculle Upamecano,Left Center Back,98,France,3869152,0,0,0,59,88.0,0,3,0,0
+1455,Raphaël Varane,Right Center Back,98,France,3869152,0,1,0,42,88.0,0,1,0,0
+1456,Ousmane Dembélé,Right Wing,75,France,3869152,0,2,1,43,81.0,1,1,0,0
+1457,Kylian Mbappé Lottin,Left Wing,98,France,3869152,2,5,3,41,83.0,1,1,0,0
+1458,Grzegorz Krychowiak,Center Defensive Midfield,70,Poland,3869152,0,0,0,46,83.0,0,2,0,0
+1459,Kamil Glik,Right Center Back,98,Poland,3869152,0,1,0,40,95.0,0,1,0,0
+1460,Matty Cash,Right Back,98,Poland,3869152,0,1,0,46,83.0,0,1,1,0
+1461,Jakub Piotr Kiwior,Left Center Back,86,Poland,3869152,0,0,0,74,91.0,0,0,0,0
+1462,Przemysław Frankowski,Left Midfield,86,Poland,3869152,0,1,0,22,73.0,0,1,0,0
+1463,Jakub Kamiński,Right Midfield,70,Poland,3869152,0,2,0,19,63.0,0,0,0,0
+1464,Sebastian Szymański,Left Center Midfield,63,Poland,3869152,0,0,0,15,73.0,0,0,0,0
+1465,Piotr Zieliński,Right Center Midfield,98,Poland,3869152,0,2,1,69,87.0,0,0,0,0
+1466,Robert Lewandowski,Center Forward,98,Poland,3869152,1,5,1,27,89.0,0,2,0,0
+1467,Bartosz Bereszyński,Left Back,98,Poland,3869152,0,0,0,51,84.0,0,2,1,0
+1468,Arkadiusz Milik,Center Attacking Midfield,35,Poland,3869152,0,0,0,11,64.0,0,0,0,0
+1469,Youssouf Fofana,Right Defensive Midfield,33,France,3869152,0,0,0,13,92.0,0,1,0,0
+1470,Krystian Bielik,Left Defensive Midfield,28,Poland,3869152,0,0,0,21,95.0,0,0,0,0
+1471,Nicola Zalewski,Right Wing,28,Poland,3869152,0,0,0,5,80.0,0,1,0,0
+1472,Marcus Thuram,Left Wing,23,France,3869152,0,0,0,8,88.0,1,0,0,0
+1473,Kingsley Coman,Right Wing,23,France,3869152,0,0,0,10,80.0,0,0,0,0
+1474,Jan Bednarek,Left Center Back,12,Poland,3869152,0,0,0,6,100.0,0,0,0,0
+1475,Kamil Grosicki,Left Wing,12,Poland,3869152,0,0,0,6,67.0,0,0,0,0
+1476,Axel Disasi,Right Back,7,France,3869152,0,0,0,3,100.0,0,0,0,0
+1477,Iliman Ndiaye,Center Attacking Midfield,45,Senegal,3869118,0,0,0,9,89.0,0,0,0,0
+1478,Kalidou Koulibaly,Right Center Back,94,Senegal,3869118,0,0,0,51,63.0,0,1,1,0
+1479,Pathé Ismaël Ciss,Right Defensive Midfield,47,Senegal,3869118,0,0,0,23,78.0,0,1,0,0
+1480,Abdou Diallo,Left Center Back,94,Senegal,3869118,0,0,0,53,81.0,0,2,0,0
+1481,Nampalys Mendy,Left Defensive Midfield,94,Senegal,3869118,0,0,0,52,96.0,0,1,0,0
+1482,Youssouf Sabaly,Right Back,94,Senegal,3869118,0,0,0,41,85.0,0,0,0,0
+1483,Krépin Diatta,Right Wing,45,Senegal,3869118,0,0,0,13,69.0,0,3,0,0
+1484,Philip Foden,Left Wing,64,England,3869118,0,0,0,34,79.0,1,0,0,0
+1485,Declan Rice,Center Defensive Midfield,94,England,3869118,0,0,0,57,93.0,0,2,0,0
+1486,Ismaïla Sarr,Left Wing,94,Senegal,3869118,0,2,0,20,85.0,0,0,0,0
+1487,Luke Shaw,Left Back,94,England,3869118,0,0,0,67,90.0,0,3,0,0
+1488,Harry Maguire,Left Center Back,94,England,3869118,0,0,0,75,84.0,0,1,0,0
+1489,John Stones,Right Center Back,76,England,3869118,0,1,0,89,92.0,0,1,0,0
+1490,Kyle Walker,Right Back,94,England,3869118,0,0,0,76,89.0,0,2,0,0
+1491,Jude Bellingham,Left Center Midfield,75,England,3869118,0,0,0,37,86.0,1,2,0,0
+1492,Jordan Brian Henderson,Right Center Midfield,81,England,3869118,1,1,1,48,85.0,0,0,0,0
+1493,Harry Kane,Center Forward,94,England,3869118,1,3,2,25,68.0,0,1,0,0
+1494,Ismail Jakobs,Left Back,83,Senegal,3869118,0,0,0,39,64.0,0,0,0,0
+1495,Bukayo Saka,Right Wing,64,England,3869118,1,2,1,30,80.0,0,1,0,0
+1496,Boulaye Dia,Center Forward,71,Senegal,3869118,0,2,1,9,78.0,0,0,0,0
+1497,Pape Matar Sarr,Center Attacking Midfield,49,Senegal,3869118,0,4,0,32,84.0,0,0,0,0
+1498,Pape Gueye,Right Defensive Midfield,49,Senegal,3869118,0,1,0,20,85.0,0,3,0,0
+1499,Cheikh Ahmadou Bamba Mbacke Dieng,Center Forward,49,Senegal,3869118,0,1,0,7,43.0,0,2,0,0
+1500,Marcus Rashford,Right Wing,30,England,3869118,0,1,0,11,64.0,0,0,0,0
+1501,Jack Grealish,Left Wing,30,England,3869118,0,0,0,9,78.0,0,0,0,0
+1502,Famara Diedhiou,Center Forward,23,Senegal,3869118,0,0,0,5,80.0,0,0,0,0
+1503,Mason Mount,Left Center Midfield,19,England,3869118,0,0,0,3,100.0,0,2,0,0
+1504,Eric Dier,Right Center Back,18,England,3869118,0,0,0,13,85.0,0,1,0,0
+1505,Fodé Ballo Touré,Left Back,11,Senegal,3869118,0,0,0,8,75.0,0,0,0,0
+1506,Kalvin Phillips,Right Defensive Midfield,13,England,3869118,0,0,0,4,75.0,0,0,0,0
+1507,Heung-Min Son,Left Center Forward,93,South Korea,3869253,0,1,1,34,65.0,0,1,0,0
+1508,Woo-Young Jung,Right Defensive Midfield,49,South Korea,3869253,0,0,0,36,89.0,0,2,1,0
+1509,In-Beom Hwang,Left Defensive Midfield,64,South Korea,3869253,0,1,0,49,82.0,0,1,0,0
+1510,Young-Gwon Kim,Left Center Back,93,South Korea,3869253,0,0,0,62,89.0,0,0,0,0
+1511,Min Jae Kim,Right Center Back,93,South Korea,3869253,0,0,0,65,95.0,0,0,0,0
+1512,Thiago Emiliano da Silva,Left Center Back,93,Brazil,3869253,0,0,0,86,95.0,1,0,0,0
+1513,Raphael Dias Belloli,Right Wing,93,Brazil,3869253,0,5,3,47,77.0,0,1,0,0
+1514,Jin-Su Kim,Left Back,48,South Korea,3869253,0,0,0,26,81.0,0,0,0,0
+1515,Marcos Aoás Corrêa,Right Center Back,93,Brazil,3869253,0,0,0,72,92.0,0,0,0,0
+1516,Danilo Luiz da Silva,Left Back,71,Brazil,3869253,0,0,0,74,91.0,0,1,0,0
+1517,Vinícius José Paixão de Oliveira Júnior,Left Wing,71,Brazil,3869253,1,2,1,29,79.0,1,0,0,0
+1518,Moon-Hwan Kim,Right Back,93,South Korea,3869253,0,0,0,52,90.0,0,0,0,0
+1519,Gue-Sung Cho,Right Center Forward,79,South Korea,3869253,0,0,0,12,83.0,0,2,0,0
+1520,Jae-Sung Lee,Right Midfield,73,South Korea,3869253,0,0,0,46,87.0,0,0,0,0
+1521,Carlos Henrique Casimiro,Left Defensive Midfield,93,Brazil,3869253,0,1,0,76,86.0,0,2,0,0
+1522,Éder Gabriel Militão,Right Back,62,Brazil,3869253,0,0,0,48,98.0,0,0,0,0
+1523,Richarlison de Andrade,Center Forward,93,Brazil,3869253,1,2,2,21,81.0,0,3,0,0
+1524,Hee-Chan Hwang,Left Midfield,93,South Korea,3869253,0,5,4,53,81.0,0,3,0,0
+1525,Neymar da Silva Santos Junior,Center Attacking Midfield,80,Brazil,3869253,1,3,1,46,80.0,0,0,0,0
+1526,Lucas Tolentino Coelho de Lima,Right Defensive Midfield,93,Brazil,3869253,1,2,2,58,91.0,0,0,0,0
+1527,Jun-Ho Son,Center Defensive Midfield,48,South Korea,3869253,0,0,0,40,97.0,0,2,0,0
+1528,Chul Hong,Left Back,48,South Korea,3869253,0,0,0,20,85.0,0,0,0,0
+1529,Daniel Alves da Silva,Right Back,31,Brazil,3869253,0,2,0,19,89.0,0,0,0,0
+1530,Seung-Ho Paik,Right Center Midfield,29,South Korea,3869253,1,1,1,24,79.0,0,1,0,0
+1531,Gabriel Teodoro Martinelli Silva,Left Wing,22,Brazil,3869253,0,0,0,12,83.0,0,0,0,0
+1532,Gleison Bremer Silva Nascimento,Left Back,22,Brazil,3869253,0,1,1,19,89.0,0,1,0,0
+1533,Kang-In Lee,Left Center Midfield,20,South Korea,3869253,0,0,0,8,88.0,0,0,0,0
+1534,Rodrygo Silva de Goes,Center Attacking Midfield,13,Brazil,3869253,0,0,0,7,71.0,0,0,0,0
+1535,Ui-Jo Hwang,Center Forward,14,South Korea,3869253,0,0,0,0,0.0,0,0,0,0
+1536,Andrej Kramarić,Right Wing,67,Croatia,3869219,0,2,0,19,89.0,0,0,0,0
+1537,Dejan Lovren,Right Center Back,120,Croatia,3869219,0,0,0,103,90.0,1,1,0,0
+1538,Bruno Petković,Center Forward,61,Croatia,3869219,0,0,0,17,47.0,0,0,0,0
+1539,Ivan Perišić,Left Wing,106,Croatia,3869219,1,5,2,36,61.0,0,2,0,0
+1540,Mateo Kovačić,Left Center Midfield,98,Croatia,3869219,0,1,0,59,90.0,0,1,1,0
+1541,Joško Gvardiol,Left Center Back,120,Croatia,3869219,0,1,0,88,86.0,0,1,0,0
+1542,Borna Barišić,Left Back,120,Croatia,3869219,0,1,0,67,75.0,0,5,1,0
+1543,Marcelo Brozović,Center Defensive Midfield,120,Croatia,3869219,0,0,0,131,89.0,0,1,0,0
+1544,Josip Juranović,Right Back,120,Croatia,3869219,0,0,0,98,84.0,0,0,0,0
+1545,Yuto Nagatomo,Left Wing Back,63,Japan,3869219,0,0,0,34,68.0,0,2,0,0
+1546,Hidemasa Morita,Left Defensive Midfield,105,Japan,3869219,0,2,0,57,75.0,0,2,0,0
+1547,Ritsu Doan,Right Wing,86,Japan,3869219,0,1,1,33,70.0,0,1,0,0
+1548,Daichi Kamada,Left Wing,73,Japan,3869219,0,2,0,36,89.0,0,0,0,0
+1549,Takehiro Tomiyasu,Right Center Back,120,Japan,3869219,0,0,0,75,72.0,0,1,0,0
+1550,Junya Ito,Right Wing Back,120,Japan,3869219,0,0,0,49,69.0,0,0,0,0
+1551,Wataru Endo,Right Defensive Midfield,120,Japan,3869219,0,3,1,65,88.0,0,1,0,0
+1552,Luka Modrić,Right Center Midfield,98,Croatia,3869219,0,1,1,77,83.0,0,2,0,0
+1553,Maya Yoshida,Center Back,120,Japan,3869219,0,0,0,48,83.0,0,2,0,0
+1554,Shogo Taniguchi,Left Center Back,120,Japan,3869219,0,2,0,56,89.0,0,0,0,0
+1555,Daizen Maeda,Center Forward,63,Japan,3869219,1,1,1,6,50.0,0,0,0,0
+1556,Kaoru Mitoma,Left Wing Back,57,Japan,3869219,0,1,1,31,71.0,0,0,0,0
+1557,Ante Budimir,Center Forward,59,Croatia,3869219,0,1,0,6,67.0,0,3,0,0
+1558,Mario Pašalić,Right Wing,53,Croatia,3869219,0,2,0,17,59.0,0,0,0,0
+1559,Takuma Asano,Center Forward,57,Japan,3869219,0,0,0,11,73.0,0,1,0,0
+1560,Hiroki Sakai,Right Wing Back,47,Japan,3869219,0,0,0,22,64.0,0,2,0,0
+1561,Takumi Minamino,Left Wing,34,Japan,3869219,0,1,0,14,71.0,0,0,0,0
+1562,Lovro Majer,Right Center Midfield,22,Croatia,3869219,0,1,0,18,94.0,0,0,0,0
+1563,Nikola Vlašić,Left Center Midfield,22,Croatia,3869219,0,0,0,9,89.0,0,0,0,0
+1564,Marko Livaja,Center Forward,15,Croatia,3869219,0,1,1,4,75.0,0,0,0,0
+1565,Ao Tanaka,Left Defensive Midfield,15,Japan,3869219,0,0,0,9,78.0,0,1,0,0
+1566,Mislav Oršić,Left Wing,15,Croatia,3869219,0,1,0,5,60.0,0,0,0,0
+1567,Breel-Donald Embolo,Right Center Forward,88,Switzerland,3869254,0,2,0,19,74.0,0,1,0,0
+1568,Manuel Obafemi Akanji,Right Center Back,94,Switzerland,3869254,1,1,1,63,92.0,0,2,0,0
+1569,Ricardo Iván Rodríguez Araya,Left Center Back,94,Switzerland,3869254,0,0,0,64,80.0,0,0,0,0
+1570,William Silva de Carvalho,Center Defensive Midfield,94,Portugal,3869254,0,0,0,59,92.0,0,3,0,0
+1571,José Diogo Dalot Teixeira,Right Back,94,Portugal,3869254,0,0,0,36,83.0,0,0,0,0
+1572,João Félix Sequeira,Left Wing,72,Portugal,3869254,0,1,0,33,85.0,2,0,0,0
+1573,Bernardo Mota Veiga de Carvalho e Silva,Right Center Midfield,80,Portugal,3869254,0,0,0,46,87.0,0,0,0,0
+1574,Otávio Edmilson da Silva Monteiro,Left Center Midfield,73,Portugal,3869254,0,1,1,37,86.0,0,3,0,0
+1575,Rúben Santos Gato Alves Dias,Left Center Back,94,Portugal,3869254,0,1,0,45,84.0,0,2,0,0
+1576,Kléper Laveran Lima Ferreira,Right Center Back,94,Portugal,3869254,1,2,1,53,75.0,0,2,0,0
+1577,Raphaël Adelino José Guerreiro,Left Back,94,Portugal,3869254,1,2,1,49,94.0,1,2,0,0
+1578,Edimilson Fernandes,Right Wing Back,94,Switzerland,3869254,0,0,0,53,79.0,0,0,0,0
+1579,Bruno Miguel Borges Fernandes,Right Wing,86,Portugal,3869254,0,0,0,41,78.0,1,1,0,0
+1580,Fabian Lukas Schär,Center Back,47,Switzerland,3869254,0,1,0,36,81.0,0,1,1,0
+1581,Granit Xhaka,Center Defensive Midfield,94,Switzerland,3869254,0,1,0,73,85.0,0,0,0,0
+1582,Ruben Vargas,Left Wing Back,65,Switzerland,3869254,0,0,0,35,77.0,0,0,0,0
+1583,Xherdan Shaqiri,Left Center Forward,94,Switzerland,3869254,0,2,1,39,72.0,0,1,0,0
+1584,Remo Freuler,Left Center Midfield,53,Switzerland,3869254,0,1,1,23,78.0,0,3,0,0
+1585,Gonçalo Matias Ramos,Center Forward,72,Portugal,3869254,3,6,5,10,70.0,1,0,0,0
+1586,Djibril Sow,Right Center Midfield,53,Switzerland,3869254,0,0,0,16,94.0,0,1,0,0
+1587,Eray Ervin Cömert,Center Back,49,Switzerland,3869254,0,0,0,38,92.0,0,4,1,0
+1588,Haris Seferović,Right Center Midfield,41,Switzerland,3869254,0,0,0,6,67.0,0,0,0,0
+1589,Denis Lemi Zakaria Lako Lado,Left Center Midfield,41,Switzerland,3869254,0,1,0,13,85.0,0,1,0,0
+1590,Noah Okafor,Left Midfield,29,Switzerland,3869254,0,1,0,10,80.0,0,1,0,0
+1591,Cristiano Ronaldo dos Santos Aveiro,Left Wing,22,Portugal,3869254,0,1,0,5,80.0,0,0,0,0
+1592,Vitor Machado Ferreira,Left Center Midfield,21,Portugal,3869254,0,0,0,12,83.0,0,0,0,0
+1593,Ricardo Jorge Luz Horta,Left Wing,22,Portugal,3869254,0,0,0,13,69.0,0,1,0,0
+1594,Rúben Diogo Da Silva Neves,Center Defensive Midfield,14,Portugal,3869254,0,0,0,13,100.0,0,0,0,0
+1595,Rafael Alexandre Conceição Leão,Right Wing,8,Portugal,3869254,1,1,1,3,67.0,0,0,0,0
+1596,Ardon Jashari,Left Center Forward,6,Switzerland,3869254,0,0,0,6,83.0,0,0,0,0
+1597,Pablo Martín Páez Gavira,Right Center Midfield,62,Spain,3869220,0,0,0,23,78.0,0,4,0,0
+1598,Aymeric Laporte,Left Center Back,122,Spain,3869220,0,1,0,180,96.0,0,1,1,0
+1599,Rodrigo Hernández Cascante,Right Center Back,122,Spain,3869220,0,1,0,220,93.0,0,2,0,0
+1600,Daniel Olmo Carvajal,Left Wing,97,Spain,3869220,0,2,1,37,86.0,0,2,0,0
+1601,Pedro González López,Left Center Midfield,122,Spain,3869220,0,0,0,147,92.0,0,1,0,0
+1602,Marcos Llorente Moreno,Right Back,122,Spain,3869220,0,1,0,104,90.0,0,1,0,0
+1603,Jordi Alba Ramos,Left Back,97,Spain,3869220,0,0,0,114,87.0,0,2,0,0
+1604,Noussair Mazraoui,Left Back,82,Morocco,3869220,0,1,1,26,77.0,0,1,0,0
+1605,Selim Amallah,Left Center Midfield,81,Morocco,3869220,0,0,0,9,89.0,0,1,0,0
+1606,Azzedine Ounahi,Right Center Midfield,119,Morocco,3869220,0,0,0,44,77.0,0,2,0,0
+1607,Sofyan Amrabat,Center Defensive Midfield,122,Morocco,3869220,0,0,0,36,78.0,0,0,0,0
+1608,Nayef Aguerd,Right Center Back,84,Morocco,3869220,0,1,0,24,79.0,0,1,0,0
+1609,Achraf Hakimi Mouh,Right Back,122,Morocco,3869220,0,1,0,54,70.0,0,3,0,0
+1610,Ferrán Torres García,Right Wing,75,Spain,3869220,0,0,0,24,79.0,0,0,0,0
+1611,Sergio Busquets i Burgos,Center Defensive Midfield,122,Spain,3869220,0,1,0,76,88.0,0,0,0,0
+1612,Hakim Ziyech,Right Wing,122,Morocco,3869220,0,0,0,37,70.0,0,4,0,0
+1613,Sofiane Boufal,Left Wing,65,Morocco,3869220,0,0,0,16,50.0,0,1,0,0
+1614,Romain Saïss,Left Center Back,122,Morocco,3869220,0,0,0,32,72.0,0,3,1,0
+1615,Marco Asensio Willemsen,Center Forward,62,Spain,3869220,0,1,0,14,79.0,0,0,0,0
+1616,Youssef En-Nesyri,Center Forward,81,Morocco,3869220,0,0,0,13,62.0,0,0,0,0
+1617,Carlos Soler Barragán,Left Center Midfield,60,Spain,3869220,0,1,0,40,88.0,0,0,0,0
+1618,Abdessamad Ezzalzouli,Left Wing,57,Morocco,3869220,0,0,0,10,70.0,0,1,0,0
+1619,Álvaro Borja Morata Martín,Center Forward,60,Spain,3869220,0,2,0,8,62.0,0,1,0,0
+1620,Nicholas Williams Arthuer,Right Wing,47,Spain,3869220,0,0,0,19,79.0,0,0,0,0
+1621,Jawad El Yamiq,Right Center Back,38,Morocco,3869220,0,0,0,3,33.0,0,0,0,0
+1622,Yahia Attiyat allah,Left Back,40,Morocco,3869220,0,0,0,11,36.0,0,1,0,0
+1623,Abdelhamid Sabiri,Left Center Midfield,41,Morocco,3869220,0,1,0,7,56.99999999999999,0,0,0,0
+1624,Walid Cheddira,Center Forward,41,Morocco,3869220,0,2,1,4,75.0,0,1,0,0
+1625,Alejandro Balde Martínez,Left Back,25,Spain,3869220,0,1,0,15,93.0,0,0,0,0
+1626,Anssumane Fati,Left Wing,25,Spain,3869220,0,0,0,8,88.0,0,0,0,0
+1627,Pablo Sarabia García,Right Wing,5,Spain,3869220,0,1,0,5,40.0,0,0,0,0
+1628,Badr Banoun,Left Center Back,3,Morocco,3869220,0,0,0,0,0.0,0,0,0,0
+1629,Memphis Depay,Left Center Forward,77,Netherlands,3869321,0,0,0,40,68.0,0,2,0,0
+1630,Nathan Aké,Left Center Back,121,Netherlands,3869321,0,0,0,75,83.0,0,2,0,0
+1631,Denzel Dumfries,Right Wing Back,121,Netherlands,3869321,0,1,0,41,71.0,0,7,0,0
+1632,Enzo Fernandez,Center Defensive Midfield,121,Argentina,3869321,0,2,0,70,86.0,0,2,0,0
+1633,Nicolás Hernán Otamendi,Center Back,121,Argentina,3869321,0,0,0,87,92.0,0,3,0,0
+1634,Cristian Gabriel Romero,Right Center Back,77,Argentina,3869321,0,0,0,48,92.0,0,2,1,0
+1635,Nahuel Molina Lucero,Right Wing Back,105,Argentina,3869321,1,1,1,44,82.0,0,0,0,0
+1636,Frenkie de Jong,Left Defensive Midfield,121,Netherlands,3869321,0,0,0,87,93.0,0,2,0,0
+1637,Cody Mathès Gakpo,Center Attacking Midfield,112,Netherlands,3869321,0,0,0,38,55.00000000000001,0,6,0,0
+1638,Virgil van Dijk,Center Back,121,Netherlands,3869321,0,0,0,94,90.0,0,2,0,0
+1639,Marten de Roon,Right Defensive Midfield,48,Netherlands,3869321,0,0,0,26,92.0,0,2,0,0
+1640,Jurriën David Norman Timber,Right Center Back,121,Netherlands,3869321,0,0,0,93,94.0,0,5,0,0
+1641,Daley Blind,Left Wing Back,64,Netherlands,3869321,0,0,0,29,83.0,0,0,0,0
+1642,Rodrigo Javier De Paul,Right Center Midfield,65,Argentina,3869321,0,2,1,53,77.0,0,2,0,0
+1643,Alexis Mac Allister,Left Center Midfield,121,Argentina,3869321,0,0,0,47,91.0,0,0,0,0
+1644,Marcos Javier Acuña,Left Wing Back,77,Argentina,3869321,0,0,0,26,69.0,0,1,1,0
+1645,Lisandro Martínez,Left Center Back,111,Argentina,3869321,0,0,0,38,76.0,0,0,0,0
+1646,Lionel Andrés Messi Cuccittini,Right Center Forward,121,Argentina,3869321,1,6,2,48,83.0,1,3,0,0
+1647,Steven Bergwijn,Right Center Forward,102,Netherlands,3869321,0,1,0,17,94.0,0,0,0,0
+1648,Julián Álvarez,Left Center Forward,80,Argentina,3869321,0,0,0,17,71.0,0,2,0,0
+1649,Steven Berghuis,Center Attacking Midfield,76,Netherlands,3869321,0,2,0,35,69.0,1,3,0,0
+1650,Teun Koopmeiners,Right Defensive Midfield,76,Netherlands,3869321,0,0,0,37,86.0,1,1,0,0
+1651,Leandro Daniel Paredes,Center Defensive Midfield,56,Argentina,3869321,0,0,0,49,90.0,0,3,1,0
+1652,Germán Alejandro Pezzella,Right Center Back,44,Argentina,3869321,0,1,0,30,93.0,0,2,1,0
+1653,Wout Weghorst,Right Center Forward,44,Netherlands,3869321,2,2,2,11,55.00000000000001,0,3,0,0
+1654,Lautaro Javier Martínez,Left Center Forward,41,Argentina,3869321,0,2,1,12,67.0,0,1,0,0
+1655,Luuk de Jong,Left Center Forward,57,Netherlands,3869321,0,1,0,11,73.0,0,2,0,0
+1656,Nicolás Alejandro Tagliafico,Left Wing Back,44,Argentina,3869321,0,0,0,11,91.0,0,1,0,0
+1657,Gonzalo Ariel Montiel,Right Wing Back,16,Argentina,3869321,0,0,0,11,91.0,0,0,0,0
+1658,Ángel Fabián Di María Hernández,Right Wing,10,Argentina,3869321,0,0,0,14,64.0,0,0,0,0
+1659,Noa Lang,Left Midfield,9,Netherlands,3869321,0,0,0,3,0.0,0,0,0,0
+1660,Luka Modrić,Right Center Midfield,121,Croatia,3869420,0,0,0,117,87.0,0,3,0,0
+1661,Marcelo Brozović,Center Defensive Midfield,113,Croatia,3869420,0,1,0,109,90.0,0,4,1,0
+1662,Dejan Lovren,Right Center Back,121,Croatia,3869420,0,0,0,89,92.0,0,0,0,0
+1663,Josip Juranović,Right Back,121,Croatia,3869420,0,0,0,79,87.0,0,0,0,0
+1664,Danilo Luiz da Silva,Left Back,121,Brazil,3869420,0,1,0,109,85.0,0,2,1,0
+1665,Carlos Henrique Casimiro,Left Defensive Midfield,121,Brazil,3869420,0,3,1,69,80.0,0,3,1,0
+1666,Thiago Emiliano da Silva,Left Center Back,121,Brazil,3869420,0,0,0,96,96.0,0,0,0,0
+1667,Marcos Aoás Corrêa,Right Center Back,121,Brazil,3869420,0,0,0,95,98.0,0,1,1,0
+1668,Éder Gabriel Militão,Right Back,105,Brazil,3869420,0,3,0,87,91.0,0,2,0,0
+1669,Neymar da Silva Santos Junior,Center Attacking Midfield,121,Brazil,3869420,1,5,5,64,78.0,0,3,0,0
+1670,Raphael Dias Belloli,Right Midfield,55,Brazil,3869420,0,0,0,24,79.0,0,0,0,0
+1671,Lucas Tolentino Coelho de Lima,Right Defensive Midfield,105,Brazil,3869420,0,2,2,64,88.0,1,3,0,0
+1672,Richarlison de Andrade,Center Forward,83,Brazil,3869420,0,1,0,12,57.99999999999999,0,2,0,0
+1673,Borna Sosa,Left Back,109,Croatia,3869420,0,0,0,40,75.0,0,2,0,0
+1674,Mateo Kovačić,Left Center Midfield,107,Croatia,3869420,0,0,0,75,89.0,0,2,0,0
+1675,Joško Gvardiol,Left Center Back,121,Croatia,3869420,0,0,0,63,95.0,0,1,0,0
+1676,Andrej Kramarić,Center Forward,71,Croatia,3869420,0,2,0,25,84.0,0,1,0,0
+1677,Vinícius José Paixão de Oliveira Júnior,Left Midfield,63,Brazil,3869420,0,2,1,13,62.0,0,0,0,0
+1678,Mario Pašalić,Right Wing,71,Croatia,3869420,0,0,0,31,90.0,0,1,0,0
+1679,Ivan Perišić,Left Wing,121,Croatia,3869420,0,3,0,34,53.0,0,3,0,0
+1680,Antony Matheus dos Santos,Right Midfield,66,Brazil,3869420,0,1,1,33,88.0,0,2,0,0
+1681,Rodrygo Silva de Goes,Left Midfield,58,Brazil,3869420,0,0,0,36,81.0,0,3,0,0
+1682,Bruno Petković,Center Forward,50,Croatia,3869420,1,1,1,6,100.0,0,1,0,0
+1683,Nikola Vlašić,Right Wing,50,Croatia,3869420,0,1,0,10,80.0,0,4,0,0
+1684,Pedro Guilherme Abreu dos Santos,Center Forward,38,Brazil,3869420,0,2,1,7,100.0,0,2,0,0
+1685,Lovro Majer,Left Center Midfield,16,Croatia,3869420,0,1,0,17,88.0,0,0,0,0
+1686,Alex Sandro Lobo Silva,Left Back,16,Brazil,3869420,0,0,0,5,80.0,0,1,0,0
+1687,Frederico Rodrigues Santos,Right Defensive Midfield,16,Brazil,3869420,0,0,0,2,100.0,0,1,0,0
+1688,Mislav Oršić,Left Midfield,8,Croatia,3869420,0,0,0,1,100.0,1,0,0,0
+1689,Ante Budimir,Left Center Forward,12,Croatia,3869420,0,0,0,0,0.0,0,1,0,0
+1690,Otávio Edmilson da Silva Monteiro,Left Center Midfield,68,Portugal,3869486,0,0,0,53,75.0,0,0,0,0
+1691,Rúben Diogo Da Silva Neves,Center Defensive Midfield,50,Portugal,3869486,0,0,0,66,91.0,0,2,0,0
+1692,Kléper Laveran Lima Ferreira,Right Center Back,97,Portugal,3869486,0,1,0,104,90.0,0,1,0,0
+1693,Rúben Santos Gato Alves Dias,Left Center Back,97,Portugal,3869486,0,0,0,94,94.0,0,1,0,0
+1694,Achraf Hakimi Mouh,Right Back,97,Morocco,3869486,0,0,0,34,82.0,0,3,0,0
+1695,Raphaël Adelino José Guerreiro,Left Back,50,Portugal,3869486,0,1,0,32,75.0,0,0,0,0
+1696,Jawad El Yamiq,Right Center Back,97,Morocco,3869486,0,0,0,24,75.0,0,0,0,0
+1697,Sofyan Amrabat,Center Defensive Midfield,97,Morocco,3869486,0,0,0,20,65.0,0,2,0,0
+1698,João Félix Sequeira,Left Wing,97,Portugal,3869486,0,5,2,21,67.0,0,1,0,0
+1699,Hakim Ziyech,Right Midfield,80,Morocco,3869486,0,1,0,27,63.0,0,0,0,0
+1700,Bruno Miguel Borges Fernandes,Right Wing,97,Portugal,3869486,0,2,0,74,77.0,0,1,0,0
+1701,Bernardo Mota Veiga de Carvalho e Silva,Right Center Midfield,97,Portugal,3869486,0,1,0,100,88.0,0,0,0,0
+1702,José Diogo Dalot Teixeira,Right Back,78,Portugal,3869486,0,0,0,40,80.0,0,0,0,0
+1703,Yahia Attiyat allah,Left Back,97,Morocco,3869486,0,1,0,25,64.0,1,2,0,0
+1704,Youssef En-Nesyri,Center Forward,64,Morocco,3869486,1,3,1,9,56.00000000000001,0,0,0,0
+1705,Selim Amallah,Left Center Midfield,63,Morocco,3869486,0,1,0,9,89.0,0,3,0,0
+1706,Romain Saïss,Left Center Back,56,Morocco,3869486,0,0,0,15,80.0,0,0,0,0
+1707,Azzedine Ounahi,Right Center Midfield,97,Morocco,3869486,0,1,0,23,87.0,0,0,0,0
+1708,Sofiane Boufal,Left Midfield,80,Morocco,3869486,0,1,1,18,94.0,0,1,0,0
+1709,Gonçalo Matias Ramos,Center Forward,68,Portugal,3869486,0,1,0,8,75.0,0,1,0,0
+1710,Cristiano Ronaldo dos Santos Aveiro,Center Forward,47,Portugal,3869486,0,1,1,7,56.99999999999999,0,0,0,0
+1711,João Pedro Cavaco Cancelo,Left Back,47,Portugal,3869486,0,0,0,47,79.0,0,0,0,0
+1712,Achraf Dari,Right Center Back,41,Morocco,3869486,0,0,0,7,56.99999999999999,0,1,1,0
+1713,Vitor Machado Ferreira,Right Defensive Midfield,29,Portugal,3869486,0,0,0,35,94.0,0,1,1,0
+1714,Rafael Alexandre Conceição Leão,Left Wing,29,Portugal,3869486,0,0,0,13,62.0,0,0,0,0
+1715,Walid Cheddira,Center Forward,34,Morocco,3869486,0,0,0,4,50.0,0,5,1,1
+1716,Ricardo Jorge Luz Horta,Right Wing,19,Portugal,3869486,0,0,0,12,75.0,0,1,0,0
+1717,Yahya Jabrane,Right Defensive Midfield,17,Morocco,3869486,0,0,0,1,0.0,0,0,0,0
+1718,Zakaria Aboukhlal,Center Forward,17,Morocco,3869486,0,1,1,1,0.0,0,0,0,0
+1719,Badr Banoun,Center Back,33,Morocco,3869486,0,0,0,0,0.0,0,1,0,0
+1720,Antoine Griezmann,Center Attacking Midfield,100,France,3869354,0,0,0,46,85.0,2,3,1,0
+1721,Aurélien Djani Tchouaméni,Right Defensive Midfield,100,France,3869354,1,1,1,43,91.0,0,2,0,0
+1722,Jude Bellingham,Left Center Midfield,100,England,3869354,0,2,1,48,75.0,0,2,0,0
+1723,Harry Maguire,Left Center Back,100,England,3869354,0,2,0,95,83.0,0,1,1,0
+1724,Ousmane Dembélé,Right Wing,78,France,3869354,0,1,0,39,77.0,0,3,1,0
+1725,John Stones,Right Center Back,97,England,3869354,0,0,0,70,100.0,0,0,0,0
+1726,Declan Rice,Center Defensive Midfield,100,England,3869354,0,0,0,65,92.0,0,0,0,0
+1727,Luke Shaw,Left Back,100,England,3869354,0,2,1,74,74.0,0,0,0,0
+1728,Jules Koundé,Right Back,100,France,3869354,0,0,0,49,80.0,0,0,0,0
+1729,Dayotchanculle Upamecano,Left Center Back,100,France,3869354,0,0,0,46,78.0,0,0,0,0
+1730,Theo Bernard François Hernández,Left Back,100,France,3869354,0,0,0,39,87.0,0,2,1,0
+1731,Kylian Mbappé Lottin,Left Wing,100,France,3869354,0,1,0,29,90.0,0,0,0,0
+1732,Adrien Rabiot,Left Defensive Midfield,100,France,3869354,0,1,1,46,76.0,0,3,0,0
+1733,Raphaël Varane,Right Center Back,100,France,3869354,0,0,0,37,84.0,0,0,0,0
+1734,Bukayo Saka,Right Wing,78,England,3869354,0,1,1,25,72.0,0,3,0,0
+1735,Harry Kane,Center Forward,100,England,3869354,1,5,4,22,64.0,0,0,0,0
+1736,Jordan Brian Henderson,Right Center Midfield,78,England,3869354,0,1,0,45,91.0,0,3,0,0
+1737,Philip Foden,Left Wing,84,England,3869354,0,1,0,27,81.0,0,0,0,0
+1738,Kyle Walker,Right Back,100,England,3869354,0,0,0,46,89.0,0,0,0,0
+1739,Olivier Giroud,Center Forward,100,France,3869354,1,4,3,12,50.0,0,1,0,0
+1740,Mason Mount,Right Center Midfield,22,England,3869354,0,1,0,2,100.0,0,1,0,0
+1741,Marcus Rashford,Left Wing,16,England,3869354,0,1,0,3,100.0,0,0,0,0
+1742,Raheem Sterling,Right Wing,22,England,3869354,0,0,0,8,50.0,0,0,0,0
+1743,Kingsley Coman,Right Wing,22,France,3869354,0,0,0,0,0.0,0,1,0,0
+1744,Jack Grealish,Left Center Midfield,3,England,3869354,0,0,0,0,0.0,0,0,0,0
+1745,Andrej Kramarić,Center Forward,71,Croatia,3869519,0,0,0,36,94.0,0,0,0,0
+1746,Dejan Lovren,Right Center Back,94,Croatia,3869519,0,3,0,74,91.0,0,0,0,0
+1747,Nicolás Hernán Otamendi,Left Center Back,94,Argentina,3869519,0,0,0,41,95.0,0,2,0,0
+1748,Marcelo Brozović,Center Defensive Midfield,49,Croatia,3869519,0,0,0,50,94.0,0,2,0,0
+1749,Josip Juranović,Right Back,94,Croatia,3869519,0,0,0,64,80.0,0,1,0,0
+1750,Borna Sosa,Left Back,47,Croatia,3869519,0,0,0,34,76.0,0,0,0,0
+1751,Joško Gvardiol,Left Center Back,94,Croatia,3869519,0,0,0,65,94.0,0,0,0,0
+1752,Alexis Mac Allister,Left Midfield,85,Argentina,3869519,0,2,1,34,88.0,0,0,0,0
+1753,Nicolás Alejandro Tagliafico,Left Back,94,Argentina,3869519,0,0,0,30,80.0,0,3,0,0
+1754,Cristian Gabriel Romero,Right Center Back,94,Argentina,3869519,0,0,0,34,85.0,0,3,1,0
+1755,Rodrigo Javier De Paul,Right Midfield,73,Argentina,3869519,0,1,0,42,81.0,0,2,0,0
+1756,Nahuel Molina Lucero,Right Back,85,Argentina,3869519,0,0,0,40,70.0,0,0,0,0
+1757,Leandro Daniel Paredes,Right Defensive Midfield,61,Argentina,3869519,0,1,1,39,92.0,0,1,0,0
+1758,Mateo Kovačić,Left Center Midfield,94,Croatia,3869519,0,0,0,89,94.0,0,0,0,0
+1759,Luka Modrić,Right Center Midfield,80,Croatia,3869519,0,1,0,77,86.0,0,1,0,0
+1760,Enzo Fernandez,Left Defensive Midfield,94,Argentina,3869519,0,1,1,47,87.0,0,1,0,0
+1761,Lionel Andrés Messi Cuccittini,Right Center Forward,94,Argentina,3869519,1,2,2,41,83.0,1,2,0,0
+1762,Julián Álvarez,Left Center Forward,73,Argentina,3869519,2,2,2,18,78.0,0,3,0,0
+1763,Ivan Perišić,Left Wing,94,Croatia,3869519,0,3,1,58,71.0,0,0,0,0
+1764,Mario Pašalić,Right Wing,46,Croatia,3869519,0,1,0,12,75.0,0,1,0,0
+1765,Nikola Vlašić,Right Wing,49,Croatia,3869519,0,1,0,13,85.0,0,1,0,0
+1766,Bruno Petković,Center Forward,45,Croatia,3869519,0,0,0,10,80.0,0,0,0,0
+1767,Mislav Oršić,Left Wing,49,Croatia,3869519,0,2,0,15,80.0,0,1,0,0
+1768,Lisandro Martínez,Left Center Back,33,Argentina,3869519,0,0,0,9,89.0,0,0,0,0
+1769,Marko Livaja,Center Attacking Midfield,23,Croatia,3869519,0,0,0,5,80.0,0,1,0,0
+1770,Paulo Bruno Exequiel Dybala,Left Center Forward,21,Argentina,3869519,0,0,0,10,80.0,0,1,0,0
+1771,Exequiel Alejandro Palacios,Right Center Midfield,21,Argentina,3869519,0,0,0,15,87.0,0,2,0,0
+1772,Lovro Majer,Right Defensive Midfield,14,Croatia,3869519,0,1,1,14,79.0,0,1,0,0
+1773,Juan Marcos Foyth,Right Wing Back,9,Argentina,3869519,0,0,0,4,75.0,0,0,0,0
+1774,Ángel Martín Correa,Left Center Midfield,9,Argentina,3869519,0,0,0,4,100.0,0,0,0,0
+1775,Sofyan Amrabat,Right Defensive Midfield,95,Morocco,3869552,0,1,0,81,85.0,0,3,0,0
+1776,Achraf Dari,Right Center Back,95,Morocco,3869552,0,0,0,69,91.0,0,2,0,0
+1777,Jawad El Yamiq,Left Center Back,95,Morocco,3869552,0,1,0,95,95.0,0,0,0,0
+1778,Romain Saïss,Center Back,20,Morocco,3869552,0,0,0,17,94.0,0,0,0,0
+1779,Azzedine Ounahi,Left Defensive Midfield,95,Morocco,3869552,0,4,1,80,85.0,0,0,0,0
+1780,Sofiane Boufal,Left Wing,66,Morocco,3869552,0,1,0,20,70.0,0,2,1,0
+1781,Aurélien Djani Tchouaméni,Right Defensive Midfield,95,France,3869552,0,1,0,45,91.0,0,0,0,0
+1782,Antoine Griezmann,Center Attacking Midfield,95,France,3869552,0,0,0,30,77.0,0,0,0,0
+1783,Ousmane Dembélé,Right Wing,78,France,3869552,0,0,0,19,74.0,0,2,0,0
+1784,Jules Koundé,Right Back,95,France,3869552,0,1,0,48,90.0,0,2,0,0
+1785,Noussair Mazraoui,Left Wing Back,46,Morocco,3869552,0,0,0,22,91.0,0,0,0,0
+1786,Hakim Ziyech,Right Wing,95,Morocco,3869552,0,1,0,66,76.0,0,0,0,0
+1787,Achraf Hakimi Mouh,Right Wing Back,95,Morocco,3869552,0,1,0,72,88.0,0,1,0,0
+1788,Youssouf Fofana,Left Defensive Midfield,95,France,3869552,0,2,0,32,84.0,0,2,0,0
+1789,Theo Bernard François Hernández,Left Back,95,France,3869552,1,1,1,34,74.0,0,0,0,0
+1790,Ibrahima Konaté,Left Center Back,95,France,3869552,0,0,0,48,92.0,0,2,0,0
+1791,Raphaël Varane,Right Center Back,95,France,3869552,0,1,0,56,93.0,0,0,0,0
+1792,Kylian Mbappé Lottin,Left Wing,95,France,3869552,0,3,0,17,71.0,0,5,0,0
+1793,Youssef En-Nesyri,Center Forward,65,Morocco,3869552,0,0,0,3,100.0,0,0,0,0
+1794,Olivier Giroud,Center Forward,64,France,3869552,0,3,0,17,47.0,0,0,0,0
+1795,Selim Amallah,Right Center Midfield,75,Morocco,3869552,0,0,0,20,80.0,0,3,0,0
+1796,Yahia Attiyat allah,Left Back,50,Morocco,3869552,0,1,0,26,73.0,0,3,0,0
+1797,Abderrazak Hamdallah,Center Forward,30,Morocco,3869552,0,1,0,6,33.0,0,0,0,0
+1798,Marcus Thuram,Left Wing,31,France,3869552,0,1,0,10,60.0,0,1,0,0
+1799,Zakaria Aboukhlal,Left Wing,29,Morocco,3869552,0,1,0,3,67.0,0,0,0,0
+1800,Randal Kolo Muani,Right Wing,17,France,3869552,1,1,1,4,50.0,0,0,0,0
+1801,Abdessamad Ezzalzouli,Left Midfield,18,Morocco,3869552,0,1,0,4,100.0,0,0,0,0
+1802,Mateo Kovačić,Left Defensive Midfield,95,Croatia,3869684,0,1,0,69,91.0,0,0,0,0
+1803,Joško Gvardiol,Left Center Back,95,Croatia,3869684,1,1,1,67,91.0,0,3,0,0
+1804,Josip Stanišić,Right Back,95,Croatia,3869684,0,1,0,49,73.0,0,1,0,0
+1805,Josip Šutalo,Right Center Back,95,Croatia,3869684,0,0,0,66,94.0,0,0,0,0
+1806,Luka Modrić,Right Defensive Midfield,95,Croatia,3869684,0,1,1,74,86.0,0,0,0,0
+1807,Marko Livaja,Center Forward,66,Croatia,3869684,0,1,0,13,62.0,1,1,0,0
+1808,Mislav Oršić,Left Wing,94,Croatia,3869684,1,5,1,30,73.0,0,3,0,0
+1809,Andrej Kramarić,Center Attacking Midfield,61,Croatia,3869684,0,1,1,16,75.0,0,0,0,0
+1810,Ivan Perišić,Left Back,95,Croatia,3869684,0,0,0,50,82.0,1,0,0,0
+1811,Lovro Majer,Right Wing,66,Croatia,3869684,0,0,0,32,78.0,0,3,0,0
+1812,Youssef En-Nesyri,Center Forward,95,Morocco,3869684,0,5,1,12,75.0,0,2,0,0
+1813,Jawad El Yamiq,Right Center Back,66,Morocco,3869684,0,0,0,35,89.0,0,1,0,0
+1814,Achraf Hakimi Mouh,Right Back,95,Morocco,3869684,0,0,0,73,86.0,0,2,0,0
+1815,Yahia Attiyat allah,Left Back,95,Morocco,3869684,0,0,0,51,78.0,0,2,0,0
+1816,Achraf Dari,Left Center Back,63,Morocco,3869684,1,1,1,31,94.0,0,0,0,0
+1817,Bilal El Khannous,Right Center Midfield,55,Morocco,3869684,0,0,0,24,83.0,0,0,0,0
+1818,Sofiane Boufal,Left Wing,63,Morocco,3869684,0,1,0,23,78.0,0,1,0,0
+1819,Abdelhamid Sabiri,Left Center Midfield,46,Morocco,3869684,0,0,0,10,90.0,0,1,0,0
+1820,Hakim Ziyech,Right Wing,95,Morocco,3869684,0,2,0,66,76.0,0,1,0,0
+1821,Sofyan Amrabat,Center Defensive Midfield,95,Morocco,3869684,0,0,0,52,87.0,0,2,0,0
+1822,Ilias Chair,Right Wing,50,Morocco,3869684,0,0,0,15,87.0,0,0,0,0
+1823,Azzedine Ounahi,Left Center Midfield,40,Morocco,3869684,0,0,0,26,92.0,0,0,0,0
+1824,Badr Banoun,Left Center Back,32,Morocco,3869684,0,0,0,21,100.0,0,1,0,0
+1825,Anass Zaroury,Left Wing,32,Morocco,3869684,0,0,0,12,83.0,0,0,0,0
+1826,Nikola Vlašić,Right Wing,34,Croatia,3869684,0,1,0,8,62.0,0,0,0,0
+1827,Bruno Petković,Center Forward,29,Croatia,3869684,0,0,0,13,31.0,0,2,0,0
+1828,Selim Amallah,Left Center Midfield,29,Morocco,3869684,0,0,0,16,69.0,0,2,0,0
+1829,Mario Pašalić,Center Attacking Midfield,29,Croatia,3869684,0,0,0,8,88.0,0,1,0,0
+1830,Antoine Griezmann,Center Attacking Midfield,70,France,3869685,0,0,0,30,70.0,0,0,0,0
+1831,Aurélien Djani Tchouaméni,Right Defensive Midfield,123,France,3869685,0,0,0,69,81.0,0,2,0,0
+1832,Nahuel Molina Lucero,Right Back,95,Argentina,3869685,0,0,0,56,70.0,0,0,0,0
+1833,Rodrigo Javier De Paul,Right Center Midfield,101,Argentina,3869685,0,2,1,68,84.0,0,2,0,0
+1834,Cristian Gabriel Romero,Right Center Back,123,Argentina,3869685,0,0,0,71,85.0,0,3,0,0
+1835,Nicolás Hernán Otamendi,Left Center Back,123,Argentina,3869685,0,0,0,75,92.0,0,2,0,0
+1836,Nicolás Alejandro Tagliafico,Left Back,120,Argentina,3869685,0,0,0,56,79.0,0,3,0,0
+1837,Theo Bernard François Hernández,Left Back,70,France,3869685,0,0,0,49,78.0,0,2,0,0
+1838,Adrien Rabiot,Left Defensive Midfield,98,France,3869685,0,1,1,51,84.0,0,3,1,0
+1839,Raphaël Varane,Right Center Back,112,France,3869685,0,0,0,61,90.0,0,0,0,0
+1840,Jules Koundé,Right Back,120,France,3869685,0,0,0,67,78.0,0,2,0,0
+1841,Alexis Mac Allister,Left Center Midfield,115,Argentina,3869685,0,3,1,52,87.0,1,0,0,0
+1842,Lionel Andrés Messi Cuccittini,Right Wing,123,Argentina,3869685,2,5,4,60,82.0,0,2,0,0
+1843,Ángel Fabián Di María Hernández,Left Wing,63,Argentina,3869685,1,2,1,29,86.0,0,0,0,0
+1844,Olivier Giroud,Center Forward,94,France,3869685,0,0,0,9,56.00000000000001,0,1,0,0
+1845,Enzo Fernandez,Center Defensive Midfield,123,Argentina,3869685,0,2,1,94,84.0,0,4,1,0
+1846,Kylian Mbappé Lottin,Left Wing,123,France,3869685,3,6,3,27,70.0,0,1,0,0
+1847,Ousmane Dembélé,Right Wing,40,France,3869685,0,0,0,13,69.0,0,1,0,0
+1848,Julián Álvarez,Center Forward,101,Argentina,3869685,0,1,1,32,81.0,0,8,0,0
+1849,Dayotchanculle Upamecano,Left Center Back,123,France,3869685,0,0,0,64,80.0,0,1,0,0
+1850,Randal Kolo Muani,Right Wing,83,France,3869685,0,2,1,15,73.0,0,3,0,0
+1851,Marcus Thuram,Left Wing,82,France,3869685,0,0,0,22,68.0,1,2,1,0
+1852,Marcos Javier Acuña,Left Wing,60,Argentina,3869685,0,0,0,28,68.0,0,2,1,0
+1853,Eduardo Camavinga,Left Back,53,France,3869685,0,0,0,24,88.0,0,1,0,0
+1854,Kingsley Coman,Right Midfield,53,France,3869685,0,0,0,15,33.0,0,0,0,0
+1855,Gonzalo Ariel Montiel,Right Back,33,Argentina,3869685,0,1,0,13,62.0,0,2,1,0
+1856,Youssouf Fofana,Left Defensive Midfield,28,France,3869685,0,1,0,11,82.0,0,0,0,0
+1857,Leandro Daniel Paredes,Center Defensive Midfield,22,Argentina,3869685,0,0,0,15,100.0,0,1,1,0
+1858,Lautaro Javier Martínez,Center Forward,22,Argentina,3869685,0,4,1,7,71.0,0,0,0,0
+1859,Ibrahima Konaté,Right Center Back,11,France,3869685,0,0,0,2,50.0,0,0,0,0
+1860,Paulo Bruno Exequiel Dybala,Left Center Midfield,3,Argentina,3869685,0,0,0,3,33.0,0,0,0,0
+1861,Germán Alejandro Pezzella,Center Back,8,Argentina,3869685,0,0,0,1,100.0,0,0,0,0

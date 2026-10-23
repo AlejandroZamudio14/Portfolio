@@ -1,0 +1,588 @@
+,team,match_id,minute,player,type,substitution_replacement
+3291,Ecuador,3857286,67,Romario Andrés Ibarra Mina,Substitution,Jeremy Leonel Sarmiento Morante
+3292,Qatar,3857286,71,Hassan Khalid Al Heidos,Substitution,Mohammed Waed Abdulwahhab Al Bayati
+3293,Qatar,3857286,71,Almoez Ali Zainalabiddin Abdulla,Substitution,Mohammed Muntari
+3294,Ecuador,3857286,75,Enner Remberto Valencia Lastra,Substitution,José Adoni Cifuentes Charcopa
+3295,Ecuador,3857286,89,Michael Steveen Estrada Martínez,Substitution,Kevin José Rodríguez Cortez
+3296,Ecuador,3857286,89,Moisés Isaac Caicedo Corozo,Substitution,Alan Steven Franco Palma
+6897,Iran,3857271,19,Alireza Safar Beiranvand,Substitution,Seyed Hossein Hosseini
+6898,Iran,3857271,45,Ali Karimi,Substitution,Saeid Ezatolahi Afagh
+6899,Iran,3857271,45,Alireza Jahanbakhsh,Substitution,Ali Gholizadeh
+6900,Iran,3857271,45,Roozbeh Cheshmi,Substitution,Mohammad Hossein Kanani Zadegan
+6901,Iran,3857271,62,Milad Mohammadi,Substitution,Mehdi Torabi
+6902,England,3857271,70,Raheem Sterling,Substitution,Jack Grealish
+6903,England,3857271,70,Bukayo Saka,Substitution,Marcus Rashford
+6904,England,3857271,70,Harry Maguire,Substitution,Eric Dier
+6905,England,3857271,70,Mason Mount,Substitution,Phil Foden
+6906,England,3857271,75,Harry Kane,Substitution,Callum Wilson
+6907,Iran,3857271,76,Ahmad Nourollahi,Substitution,Sardar Azmoun
+10598,Wales,3857282,45,Daniel James,Substitution,Kieffer Roberto Francisco Moore
+10599,United States,3857282,65,Weston McKennie,Substitution,Brenden Aaronson
+10600,United States,3857282,73,Joshua Sargent,Substitution,Haji Wright
+10601,United States,3857282,74,Sergino Dest,Substitution,DeAndre Yedlin
+10602,United States,3857282,74,Yunus Dimoara Musah,Substitution,Kellyn Kai Perry-Acosta
+10603,Wales,3857282,78,Neco Williams,Substitution,Brennan Johnson
+10604,United States,3857282,87,Timothy Weah,Substitution,Jordan Morris
+10605,Wales,3857282,92,Harry Wilson,Substitution,Sorba Thomas
+10606,Wales,3857282,94,Ethan Ampadu,Substitution,Joseff Morrell
+13752,Netherlands,3857285,61,Vincent Janssen,Substitution,Memphis Depay
+13753,Senegal,3857285,61,Abdou Diallo,Substitution,Ismail Jakobs
+13754,Senegal,3857285,68,Boulaye Dia,Substitution,Cheikh Ahmadou Bamba Mbacke Dieng
+13755,Senegal,3857285,73,Cheikhou Kouyaté,Substitution,Pape Gueye
+13756,Senegal,3857285,73,Krépin Diatta,Substitution,Nicolas Jackson
+13757,Netherlands,3857285,78,Steven Bergwijn,Substitution,Davy Klaassen
+13758,Netherlands,3857285,78,Steven Berghuis,Substitution,Teun Koopmeiners
+13759,Netherlands,3857285,93,Cody Mathès Gakpo,Substitution,Marten de Roon
+17431,Denmark,3857254,45,Thomas Delaney,Substitution,Mikkel Damsgaard
+17432,Denmark,3857254,63,Simon Thorup Kjær,Substitution,Mathias Jensen
+17433,Denmark,3857254,64,Andreas Skov Olsen,Substitution,Jesper Lindstrøm
+17434,Denmark,3857254,64,Kasper Dolberg,Substitution,Andreas Evald Cornelius
+17435,Tunisia,3857254,66,Anis Ben Slimane,Substitution,Naïm Sliti
+17436,Tunisia,3857254,79,Youssef Msakni,Substitution,Hannibal Mejbri
+17437,Tunisia,3857254,80,Issam Jebali,Substitution,Taha Yassine Khenissi
+17438,Tunisia,3857254,87,Mohamed Dräger,Substitution,Wajdi Kechrida
+17439,Tunisia,3857254,87,Aïssa Bilal Laïdouni,Substitution,Ferjani Sassi
+20747,Saudi Arabia,3857300,47,Salman Mohammed Al Faraj,Substitution,Nawaf Shaker Al Abid
+20748,Argentina,3857300,58,Cristian Gabriel Romero,Substitution,Lisandro Martínez
+20749,Argentina,3857300,58,Alejandro Darío Gómez,Substitution,Julián Álvarez
+20750,Argentina,3857300,58,Leandro Daniel Paredes,Substitution,Enzo Fernandez
+20751,Argentina,3857300,70,Nicolás Alejandro Tagliafico,Substitution,Marcos Javier Acuña
+20752,Saudi Arabia,3857300,77,Saleh Khalid Al Shehri,Substitution,Sultan Abdullah Salim Al Ghannam
+20753,Saudi Arabia,3857300,87,Nawaf Shaker Al Abid,Substitution,Abdulelah Al Amri
+20754,Saudi Arabia,3857300,88,Firas Tariq Nasser Al Albirakan,Substitution,Haitham Mohammed Asiri
+20755,Saudi Arabia,3857300,98,Yasir Gharsan Al Shahrani,Substitution,Mohammed Al Burayk
+24680,France,3857279,12,Lucas Hernández Pi,Substitution,Theo Bernard François Hernández
+24681,Australia,3857279,55,Mitchell Thomas Duke,Substitution,Jason Cummings
+24682,Australia,3857279,72,Riley McGree,Substitution,Awer Denis Bul Mabil
+24683,Australia,3857279,72,Craig Goodwin,Substitution,Garang Kuol
+24684,France,3857279,76,Aurélien Djani Tchouaméni,Substitution,Youssouf Fofana
+24685,France,3857279,76,Ousmane Dembélé,Substitution,Kingsley Coman
+24686,Australia,3857279,84,Jackson Irvine,Substitution,Keanu Baccus
+24687,Australia,3857279,84,Nathaniel Atkinson,Substitution,Miloš Degenek
+24688,France,3857279,88,Benjamin Pavard,Substitution,Jules Koundé
+24689,France,3857279,88,Olivier Giroud,Substitution,Marcus Thuram
+27914,Poland,3857265,45,Nicola Zalewski,Substitution,Krystian Bielik
+27915,Mexico,3857265,70,Héctor Miguel Herrera López,Substitution,Carlos Alberto Rodríguez Gómez
+27916,Mexico,3857265,70,Henry Josué Martín Mex,Substitution,Raúl Alonso Jiménez Rodríguez
+27917,Poland,3857265,71,Sebastian Szymański,Substitution,Przemysław Frankowski
+27918,Mexico,3857265,83,Ernesto Alexis Vega Rojas,Substitution,Carlos Uriel Antuna Romero
+27919,Poland,3857265,87,Piotr Zieliński,Substitution,Arkadiusz Milik
+31630,Croatia,3857277,45,Nikola Vlašić,Substitution,Mario Pašalić
+31631,Morocco,3857277,59,Noussair Mazraoui,Substitution,Yahia Attiyat allah
+31632,Morocco,3857277,64,Sofiane Boufal,Substitution,Abdessamad Ezzalzouli
+31633,Croatia,3857277,69,Andrej Kramarić,Substitution,Marko Livaja
+31634,Croatia,3857277,78,Mateo Kovačić,Substitution,Lovro Majer
+31635,Morocco,3857277,80,Youssef En-Nesyri,Substitution,Abderrazak Hamdallah
+31636,Morocco,3857277,81,Azzedine Ounahi,Substitution,Abdelhamid Sabiri
+31637,Croatia,3857277,89,Ivan Perišić,Substitution,Mislav Oršić
+35984,Costa Rica,3857291,45,Carlos Manuel Martínez Castro,Substitution,Kendall Jamaal Waston Manley
+35985,Spain,3857291,56,Ferrán Torres García,Substitution,Álvaro Borja Morata Martín
+35986,Spain,3857291,56,Pedro González López,Substitution,Carlos Soler Barragán
+35987,Costa Rica,3857291,60,Anthony Daniel Contreras Enríquez,Substitution,Álvaro José Zamora Mata
+35988,Costa Rica,3857291,60,Jewison Bennette,Substitution,Bryan Ruiz González
+35989,Spain,3857291,63,Jordi Alba Ramos,Substitution,Alejandro Balde Martínez
+35990,Spain,3857291,63,Sergio Busquets i Burgos,Substitution,Jorge Resurrección Merodio
+35991,Spain,3857291,68,Marco Asensio Willemsen,Substitution,Nicholas Williams Arthuer
+35992,Costa Rica,3857291,71,Celso Borges Mora,Substitution,Brandon Aguilera Zamora
+35993,Costa Rica,3857291,81,Bryan Oviedo,Substitution,Ronald Alberto Matarrita Ulate
+39478,Belgium,3857268,45,Youri Tielemans,Substitution,Amadou Onana
+39479,Belgium,3857268,45,Yannick Ferreira Carrasco,Substitution,Thomas Meunier
+39480,Canada,3857268,57,David Junior Hoilett,Substitution,Cyle Larin
+39481,Canada,3857268,57,Atiba Hutchinson,Substitution,Ismael Koné
+39482,Belgium,3857268,61,Eden Hazard,Substitution,Leandro Trossard
+39483,Canada,3857268,73,Richie Laryea,Substitution,Sam Adekugbe
+39484,Belgium,3857268,77,Michy Batshuayi Tunga,Substitution,Ikoma Loïs Openda
+39485,Canada,3857268,80,Tajon Buchanan,Substitution,Liam Millar
+39486,Canada,3857268,80,Stephen Antunes Eustáquio,Substitution,Jonathan Osorio
+43177,Japan,3857284,45,Takefusa Kubo,Substitution,Takehiro Tomiyasu
+43178,Japan,3857284,56,Yuto Nagatomo,Substitution,Kaoru Mitoma
+43179,Japan,3857284,56,Daizen Maeda,Substitution,Takuma Asano
+43180,Germany,3857284,66,Thomas Müller,Substitution,Jonas Hofmann
+43181,Germany,3857284,67,İlkay Gündoğan,Substitution,Leon Goretzka
+43182,Japan,3857284,70,Ao Tanaka,Substitution,Ritsu Doan
+43183,Japan,3857284,73,Hiroki Sakai,Substitution,Takumi Minamino
+43184,Germany,3857284,78,Jamal Musiala,Substitution,Mario Götze
+43185,Germany,3857284,78,Kai Havertz,Substitution,Niclas Füllkrug
+43186,Germany,3857284,89,Serge Gnabry,Substitution,Youssoufa Moukoko
+46849,Serbia,3857258,56,Nemanja Gudelj,Substitution,Ivan Ilić
+46850,Serbia,3857258,56,Andrija Živković,Substitution,Nemanja Radonjić
+46851,Serbia,3857258,65,Saša Lukić,Substitution,Darko Lazović
+46852,Serbia,3857258,65,Filip Mladenović,Substitution,Dušan Vlahović
+46853,Brazil,3857258,74,Lucas Tolentino Coelho de Lima,Substitution,Frederico Rodrigues Santos
+46854,Brazil,3857258,75,Vinícius José Paixão de Oliveira Júnior,Substitution,Rodrygo Silva de Goes
+46855,Brazil,3857258,78,Richarlison de Andrade,Substitution,Gabriel Fernando de Jesus
+46856,Brazil,3857258,79,Neymar da Silva Santos Junior,Substitution,Antony Matheus dos Santos
+46857,Serbia,3857258,82,Aleksandar Mitrović,Substitution,Nemanja Maksimović
+46858,Brazil,3857258,86,Raphael Dias Belloli,Substitution,Gabriel Teodoro Martinelli Silva
+50458,Cameroon,3857290,67,Martin Hongla Yma II,Substitution,Gaël Ondoua
+50459,Switzerland,3857290,70,Djibril Sow,Substitution,Fabian Frei
+50460,Switzerland,3857290,71,Xherdan Shaqiri,Substitution,Noah Okafor
+50461,Switzerland,3857290,71,Breel-Donald Embolo,Substitution,Haris Seferović
+50462,Cameroon,3857290,73,Karl Brillant Toko Ekambi,Substitution,Georges-Kévin Nkoudou Mbida
+50463,Cameroon,3857290,73,Jean-Eric Maxim Choupo-Moting,Substitution,Vincent Paté Aboubakar
+50464,Switzerland,3857290,80,Ruben Vargas,Substitution,Fabian Rieder
+50465,Cameroon,3857290,80,Bryan Mbeumo,Substitution,Nicolas Moumi Ngamaleu
+50466,Switzerland,3857290,89,Ricardo Iván Rodríguez Araya,Substitution,Eray Ervin Cömert
+54184,Portugal,3857298,55,Otávio Edmilson da Silva Monteiro,Substitution,William Silva de Carvalho
+54185,Ghana,3857298,65,Alidu Seidu,Substitution,Tariq Lamptey
+54186,Ghana,3857298,75,Mohammed Kudus,Substitution,Osman Bukari
+54187,Ghana,3857298,76,André Ayew Pelé,Substitution,Jordan Ayew
+54188,Portugal,3857298,76,Rúben Diogo Da Silva Neves,Substitution,Rafael Alexandre Conceição Leão
+54189,Portugal,3857298,87,Cristiano Ronaldo dos Santos Aveiro,Substitution,Gonçalo Matias Ramos
+54190,Portugal,3857298,87,João Félix Sequeira,Substitution,João Mário Naval da Costa Eduardo
+54191,Portugal,3857298,87,Bernardo Mota Veiga de Carvalho e Silva,Substitution,João Maria Lobo Alves Palhinha Gonçalves
+54192,Ghana,3857298,91,Alexander Djiku,Substitution,Antoine Semenyo
+54193,Ghana,3857298,92,Salis Abdul Samed,Substitution,Daniel-Kofi Kyereh
+57654,Uruguay,3857287,63,Luis Alberto Suárez Díaz,Substitution,Edinson Roberto Cavani Gómez
+57655,South Korea,3857287,73,Ui-Jo Hwang,Substitution,Gue-Sung Cho
+57656,South Korea,3857287,73,Jae-Sung Lee,Substitution,Jun-Ho Son
+57657,South Korea,3857287,74,Sang-Ho Na,Substitution,Kang-In Lee
+57658,Uruguay,3857287,77,Matías Vecino Falero,Substitution,Diego Nicolás De La Cruz Arcosa
+57659,Uruguay,3857287,78,Mathías Olivera Miramontes,Substitution,Matías Nicolás Viña Susperreguy
+57660,Uruguay,3857287,87,Facundo Pellistri Rebollo,Substitution,Guillermo Varela Olivera
+60785,Wales,3857273,56,Connor Roberts,Substitution,Brennan Johnson
+60786,Wales,3857273,56,Harry Wilson,Substitution,Daniel James
+60787,Iran,3857273,67,Sardar Azmoun,Substitution,Karim Ansarifard
+60788,Iran,3857273,75,Ali Gholizadeh,Substitution,Alireza Jahanbakhsh
+60789,Iran,3857273,75,Ehsan Hajsafi,Substitution,Mehdi Torabi
+60790,Wales,3857273,76,Ethan Ampadu,Substitution,Joe Allen
+60791,Iran,3857273,77,Ahmad Nourollahi,Substitution,Roozbeh Cheshmi
+60792,Iran,3857273,82,Saeid Ezatolahi Afagh,Substitution,Ali Karimi
+60793,Wales,3857273,86,Aaron Ramsey,Substitution,Daniel Ward
+64332,Senegal,3857301,63,Krépin Diatta,Substitution,Pathé Ismaël Ciss
+64333,Qatar,3857301,68,Karim Boudiaf,Substitution,Abdulaziz Hatem Mohammed Abdullah
+64334,Senegal,3857301,73,Famara Diedhiou,Substitution,Cheikh Ahmadou Bamba Mbacke Dieng
+64335,Senegal,3857301,73,Ismaïla Sarr,Substitution,Iliman Ndiaye
+64336,Qatar,3857301,74,Hassan Khalid Al Heidos,Substitution,Mohammed Muntari
+64337,Senegal,3857301,76,Ismail Jakobs,Substitution,Pape Abou Cissé
+64338,Senegal,3857301,76,Nampalys Mendy,Substitution,Pape Matar Sarr
+64339,Qatar,3857301,82,Homam Alamin Ahmed,Substitution,Tarek Salman Salman
+64340,Qatar,3857301,82,Pedro Miguel Correia,Substitution,Mohammed Waed Abdulwahhab Al Bayati
+67858,England,3857272,67,Raheem Sterling,Substitution,Jack Grealish
+67859,England,3857272,68,Jude Bellingham,Substitution,Jordan Brian Henderson
+67860,United States,3857272,76,Weston McKennie,Substitution,Brenden Aaronson
+67861,United States,3857272,77,Sergino Dest,Substitution,Shaquell Moore
+67862,England,3857272,77,Bukayo Saka,Substitution,Marcus Rashford
+67863,United States,3857272,82,Timothy Weah,Substitution,Giovanni Reyna
+67864,United States,3857272,82,Haji Wright,Substitution,Joshua Sargent
+71412,Netherlands,3857274,45,Steven Bergwijn,Substitution,Memphis Depay
+71413,Netherlands,3857274,68,Davy Klaassen,Substitution,Steven Berghuis
+71414,Ecuador,3857274,73,Michael Steveen Estrada Martínez,Substitution,Jeremy Leonel Sarmiento Morante
+71415,Netherlands,3857274,78,Cody Mathès Gakpo,Substitution,Wout Weghorst
+71416,Netherlands,3857274,79,Teun Koopmeiners,Substitution,Marten de Roon
+71417,Ecuador,3857274,89,Enner Remberto Valencia Lastra,Substitution,Kevin José Rodríguez Cortez
+71418,Ecuador,3857274,89,Gonzalo Jordy Plata Jiménez,Substitution,Romario Andrés Ibarra Mina
+74773,Tunisia,3857288,45,Mohamed Dräger,Substitution,Ferjani Sassi
+74774,Australia,3857288,63,Mitchell Thomas Duke,Substitution,Jamie MacLaren
+74775,Australia,3857288,63,Riley McGree,Substitution,Ajdin Hrustic
+74776,Tunisia,3857288,66,Aïssa Bilal Laïdouni,Substitution,Wahbi Khazri
+74777,Tunisia,3857288,72,Issam Jebali,Substitution,Taha Yassine Khenissi
+74778,Tunisia,3857288,72,Dylan Daniel Mahmoud Bronn,Substitution,Wajdi Kechrida
+74779,Australia,3857288,74,Fran Karačić,Substitution,Miloš Degenek
+74780,Australia,3857288,84,Mathew Leckie,Substitution,Keanu Baccus
+74781,Australia,3857288,84,Craig Goodwin,Substitution,Awer Denis Bul Mabil
+78144,Mexico,3857289,40,José Andrés Guardado Hernández,Substitution,Érick Gabriel Gutiérrez Galaviz
+78145,Argentina,3857289,56,Guido Rodríguez,Substitution,Enzo Fernandez
+78146,Argentina,3857289,62,Lautaro Javier Martínez,Substitution,Julián Álvarez
+78147,Argentina,3857289,62,Gonzalo Ariel Montiel,Substitution,Nahuel Molina Lucero
+78148,Mexico,3857289,65,Kevin Nahin Álvarez Campos,Substitution,Raúl Alonso Jiménez Rodríguez
+78149,Mexico,3857289,65,Ernesto Alexis Vega Rojas,Substitution,Carlos Uriel Antuna Romero
+78150,Argentina,3857289,68,Alexis Mac Allister,Substitution,Exequiel Alejandro Palacios
+78151,Argentina,3857289,68,Ángel Fabián Di María Hernández,Substitution,Cristian Gabriel Romero
+78152,Mexico,3857289,72,Hirving Rodrigo Lozano Bahena,Substitution,Roberto Carlos Alvarado Hernández
+82001,Denmark,3857266,45,Andreas Evald Cornelius,Substitution,Martin Braithwaite Christensen
+82002,France,3857266,61,Olivier Giroud,Substitution,Marcus Thuram
+82003,Denmark,3857266,72,Mikkel Damsgaard,Substitution,Kasper Dolberg
+82004,France,3857266,73,Raphaël Varane,Substitution,Ibrahima Konaté
+82005,France,3857266,74,Ousmane Dembélé,Substitution,Kingsley Coman
+82006,Denmark,3857266,84,Jesper Lindstrøm,Substitution,Christian Nørgaard
+82007,Denmark,3857266,91,Rasmus Nissen Kristensen,Substitution,Alexander Hartmann Bah
+82008,France,3857266,92,Antoine Griezmann,Substitution,Youssouf Fofana
+85209,Saudi Arabia,3857297,45,Sami Khalil Al Naji,Substitution,Nawaf Shaker Al Abid
+85210,Poland,3857297,62,Piotr Zieliński,Substitution,Jakub Kamiński
+85211,Saudi Arabia,3857297,64,Mohammed Al Burayk,Substitution,Sultan Abdullah Salim Al Ghannam
+85212,Poland,3857297,70,Arkadiusz Milik,Substitution,Krzysztof Piątek
+85213,Saudi Arabia,3857297,84,Abdulelah Saad Hameed Al-Malki,Substitution,Abdulrahman Al-Obood
+85214,Saudi Arabia,3857297,85,Saleh Khalid Al Shehri,Substitution,Nasser Al Dawsari
+85215,Saudi Arabia,3857297,94,Nawaf Shaker Al Abid,Substitution,Hattan Babhir
+88922,Canada,3857281,45,Cyle Larin,Substitution,Jonathan Osorio
+88923,Canada,3857281,45,Stephen Antunes Eustáquio,Substitution,Ismael Koné
+88924,Croatia,3857281,59,Marko Livaja,Substitution,Bruno Petković
+88925,Canada,3857281,61,Richie Laryea,Substitution,David Junior Hoilett
+88926,Croatia,3857281,72,Andrej Kramarić,Substitution,Nikola Vlašić
+88927,Canada,3857281,72,Jonathan David,Substitution,Lucas Daniel Cavallini
+88928,Canada,3857281,72,Atiba Hutchinson,Substitution,Sam Adekugbe
+88929,Croatia,3857281,85,Ivan Perišić,Substitution,Mislav Oršić
+88930,Croatia,3857281,85,Luka Modrić,Substitution,Mario Pašalić
+88931,Croatia,3857281,85,Mateo Kovačić,Substitution,Lovro Majer
+92548,Belgium,3857283,59,Eden Hazard,Substitution,Dries Mertens
+92549,Belgium,3857283,59,Amadou Onana,Substitution,Youri Tielemans
+92550,Morocco,3857283,66,Selim Amallah,Substitution,Yahia Attiyat allah
+92551,Morocco,3857283,66,Achraf Hakimi Mouh,Substitution,Abdelhamid Sabiri
+92552,Morocco,3857283,71,Sofiane Boufal,Substitution,Zakaria Aboukhlal
+92553,Morocco,3857283,71,Youssef En-Nesyri,Substitution,Abderrazak Hamdallah
+92554,Belgium,3857283,74,Michy Batshuayi Tunga,Substitution,Charles De Ketelaere
+92555,Belgium,3857283,74,Thorgan Hazard,Substitution,Leandro Trossard
+92556,Morocco,3857283,77,Azzedine Ounahi,Substitution,Jawad El Yamiq
+92557,Belgium,3857283,80,Thomas Meunier,Substitution,Romelu Lukaku Menama
+96151,Spain,3857263,53,Ferrán Torres García,Substitution,Álvaro Borja Morata Martín
+96152,Spain,3857263,65,Marco Asensio Willemsen,Substitution,Jorge Resurrección Merodio
+96153,Spain,3857263,65,Pablo Martín Páez Gavira,Substitution,Nicholas Williams Arthuer
+96154,Germany,3857263,69,İlkay Gündoğan,Substitution,Leroy Sané
+96155,Germany,3857263,69,Thomas Müller,Substitution,Niclas Füllkrug
+96156,Germany,3857263,69,Thilo Kehrer,Substitution,Lukas Klostermann
+96157,Spain,3857263,81,Jordi Alba Ramos,Substitution,Alejandro Balde Martínez
+96158,Germany,3857263,84,Serge Gnabry,Substitution,Jonas Hofmann
+96159,Germany,3857263,86,David Raum,Substitution,Nico Schlotterbeck
+99973,Japan,3857295,45,Yuto Nagatomo,Substitution,Hiroki Ito
+99974,Japan,3857295,45,Ayase Ueda,Substitution,Takuma Asano
+99975,Japan,3857295,61,Miki Yamane,Substitution,Kaoru Mitoma
+99976,Costa Rica,3857295,64,Gerson Torres Barrantes,Substitution,Brandon Aguilera Zamora
+99977,Costa Rica,3857295,64,Anthony Daniel Contreras Enríquez,Substitution,Jewison Bennette
+99978,Japan,3857295,66,Ritsu Doan,Substitution,Junya Ito
+99979,Japan,3857295,81,Yuki Soma,Substitution,Takumi Minamino
+99980,Costa Rica,3857295,88,Celso Borges Mora,Substitution,Youstin Delfin Salas Gómez
+99981,Costa Rica,3857295,94,Joel Nathaniel Campbell Samuels,Substitution,Daniel Alonso Chacón Salas
+103314,South Korea,3857299,45,Woo-Yeong Jeong,Substitution,Sang-Ho Na
+103315,South Korea,3857299,56,Chang-Hoon Kwon,Substitution,Kang-In Lee
+103316,Ghana,3857299,77,Tariq Lamptey,Substitution,Denis Odoi
+103317,Ghana,3857299,77,André Ayew Pelé,Substitution,Daniel-Kofi Kyereh
+103318,Ghana,3857299,77,Jordan Ayew,Substitution,Kamaldeen Sulemana
+103319,South Korea,3857299,78,Woo-Young Jung,Substitution,Ui-Jo Hwang
+103320,Ghana,3857299,82,Mohammed Kudus,Substitution,Alexander Djiku
+103321,Ghana,3857299,87,Gideon Mensah,Substitution,Abdul Rahman Baba
+103322,South Korea,3857299,91,Min Jae Kim,Substitution,Kyung-Won Kwon
+106595,Cameroon,3857259,54,Martin Hongla Yma II,Substitution,Vincent Paté Aboubakar
+106596,Serbia,3857259,55,Strahinja Pavlović,Substitution,Stefan Mitrović
+106597,Cameroon,3857259,66,Karl Brillant Toko Ekambi,Substitution,Christian Mougang Bassogog
+106598,Cameroon,3857259,67,Pierre Kunde Malong,Substitution,Gaël Ondoua
+106599,Serbia,3857259,77,Andrija Živković,Substitution,Nemanja Radonjić
+106600,Serbia,3857259,77,Milos Veljkovic,Substitution,Srđan Babić
+106601,Serbia,3857259,78,Sergej Milinković-Savić,Substitution,Marko Grujić
+106602,Cameroon,3857259,80,André-Frank Zambo Anguissa,Substitution,Samuel Yves Oum Gwet
+106603,Cameroon,3857259,80,Bryan Mbeumo,Substitution,Georges-Kévin Nkoudou Mbida
+106604,Serbia,3857259,90,Filip Kostić,Substitution,Filip Đuričić
+110379,Brazil,3857269,45,Lucas Tolentino Coelho de Lima,Substitution,Rodrygo Silva de Goes
+110380,Brazil,3857269,57,Frederico Rodrigues Santos,Substitution,Bruno Guimarães Rodriguez Moura
+110381,Switzerland,3857269,57,Ruben Vargas,Substitution,Edimilson Fernandes
+110382,Switzerland,3857269,58,Fabian Rieder,Substitution,Renato Steffen
+110383,Brazil,3857269,72,Richarlison de Andrade,Substitution,Gabriel Fernando de Jesus
+110384,Brazil,3857269,72,Raphael Dias Belloli,Substitution,Antony Matheus dos Santos
+110385,Switzerland,3857269,74,Djibril Sow,Substitution,Michel Aebischer
+110386,Switzerland,3857269,74,Breel-Donald Embolo,Substitution,Haris Seferović
+110387,Switzerland,3857269,85,Silvan Widmer,Substitution,Fabian Frei
+110388,Brazil,3857269,85,Alex Sandro Lobo Silva,Substitution,Alex Nicolao Telles
+113807,Portugal,3857270,41,Nuno Mendes,Substitution,Raphaël Adelino José Guerreiro
+113808,Uruguay,3857270,61,Matías Vecino Falero,Substitution,Giorgian Daniel De Arrascaeta Benedetti
+113809,Uruguay,3857270,61,Diego Roberto Godín Leal,Substitution,Facundo Pellistri Rebollo
+113810,Portugal,3857270,68,Rúben Diogo Da Silva Neves,Substitution,Rafael Alexandre Conceição Leão
+113811,Uruguay,3857270,71,Darwin Gabriel Núñez Ribeiro,Substitution,Maximiliano Gómez González
+113812,Uruguay,3857270,72,Edinson Roberto Cavani Gómez,Substitution,Luis Alberto Suárez Díaz
+113813,Portugal,3857270,82,Cristiano Ronaldo dos Santos Aveiro,Substitution,Gonçalo Matias Ramos
+113814,Portugal,3857270,82,João Félix Sequeira,Substitution,Matheus Luiz Nunes
+113815,Portugal,3857270,82,William Silva de Carvalho,Substitution,João Maria Lobo Alves Palhinha Gonçalves
+113816,Uruguay,3857270,85,Mathías Olivera Miramontes,Substitution,Matías Nicolás Viña Susperreguy
+118133,Qatar,3857294,63,Hassan Khalid Al Heidos,Substitution,Ali Assadalla Thaimn Qambar
+118134,Qatar,3857294,63,Assim Omer Al Haj Madibo,Substitution,Karim Boudiaf
+118135,Qatar,3857294,64,Almoez Ali Zainalabiddin Abdulla,Substitution,Mohammed Muntari
+118136,Netherlands,3857294,65,Davy Klaassen,Substitution,Steven Berghuis
+118137,Netherlands,3857294,65,Memphis Depay,Substitution,Vincent Janssen
+118138,Netherlands,3857294,82,Cody Mathès Gakpo,Substitution,Wout Weghorst
+118139,Netherlands,3857294,82,Marten de Roon,Substitution,Teun Koopmeiners
+118140,Qatar,3857294,84,Abdulaziz Hatem Mohammed Abdullah,Substitution,Ahmed Alaa Eldin Abdelmotaal
+118141,Qatar,3857294,84,Ismaeel Mohammad Mohammad,Substitution,Mosaab Khoder Jibril
+118142,Netherlands,3857294,85,Frenkie de Jong,Substitution,Kenneth Taylor
+121440,Wales,3857261,35,Neco Williams,Substitution,Connor Roberts
+121441,Wales,3857261,45,Gareth Frank Bale,Substitution,Brennan Johnson
+121442,England,3857261,56,Kyle Walker,Substitution,Trent Alexander-Arnold
+121443,England,3857261,57,Harry Kane,Substitution,Callum Wilson
+121444,England,3857261,57,Declan Rice,Substitution,Kalvin Phillips
+121445,Wales,3857261,58,Ben Davies,Substitution,Joseff Morrell
+121446,England,3857261,64,Luke Shaw,Substitution,Kieran Trippier
+121447,England,3857261,75,Marcus Rashford,Substitution,Jack Grealish
+121448,Wales,3857261,76,Daniel James,Substitution,Harry Wilson
+121449,Wales,3857261,80,Joe Allen,Substitution,Rubin Colwill
+125037,Iran,3857278,47,Milad Mohammadi,Substitution,Ali Karimi
+125038,United States,3857278,45,Christian Pulisic,Substitution,Brenden Aaronson
+125039,Iran,3857278,45,Sardar Azmoun,Substitution,Saman Ghoddos
+125040,United States,3857278,64,Weston McKennie,Substitution,Kellyn Kai Perry-Acosta
+125041,Iran,3857278,70,Ahmad Nourollahi,Substitution,Mehdi Torabi
+125042,Iran,3857278,71,Ehsan Hajsafi,Substitution,Abolfazl Jalali
+125043,United States,3857278,76,Joshua Sargent,Substitution,Haji Wright
+125044,Iran,3857278,76,Ali Gholizadeh,Substitution,Karim Ansarifard
+125045,United States,3857278,81,Timothy Weah,Substitution,Walker Zimmerman
+125046,United States,3857278,81,Sergino Dest,Substitution,Shaquell Moore
+127868,Ecuador,3857267,45,Carlos Armando Gruezo Arboleda,Substitution,José Adoni Cifuentes Charcopa
+127869,Ecuador,3857267,45,Alan Steven Franco Palma,Substitution,Jeremy Leonel Sarmiento Morante
+127870,Ecuador,3857267,63,Michael Steveen Estrada Martínez,Substitution,Djorkaeff Neicer Reasco González
+127871,Senegal,3857267,73,Pathé Ismaël Ciss,Substitution,Nampalys Mendy
+127872,Senegal,3857267,74,Iliman Ndiaye,Substitution,Cheikh Ahmadou Bamba Mbacke Dieng
+127873,Ecuador,3857267,84,Angelo Smit Preciado Quiñónez,Substitution,Jackson Gabriel Porozo Vernaza
+127874,Senegal,3857267,94,Boulaye Dia,Substitution,Pape Abou Cissé
+131922,Poland,3857264,45,Karol Świderski,Substitution,Michał Skóraś
+131923,Poland,3857264,45,Przemysław Frankowski,Substitution,Jakub Kamiński
+131924,Argentina,3857264,58,Ángel Fabián Di María Hernández,Substitution,Leandro Daniel Paredes
+131925,Argentina,3857264,58,Marcos Javier Acuña,Substitution,Nicolás Alejandro Tagliafico
+131926,Poland,3857264,61,Krystian Bielik,Substitution,Damian Szymański
+131927,Poland,3857264,72,Bartosz Bereszyński,Substitution,Artur Jędrzejczyk
+131928,Argentina,3857264,78,Julián Álvarez,Substitution,Lautaro Javier Martínez
+131929,Argentina,3857264,78,Enzo Fernandez,Substitution,Germán Alejandro Pezzella
+131930,Argentina,3857264,82,Alexis Mac Allister,Substitution,Thiago Ezequiel Almada
+131931,Poland,3857264,82,Grzegorz Krychowiak,Substitution,Krzysztof Piątek
+135482,Tunisia,3857275,59,Wahbi Khazri,Substitution,Issam Jebali
+135483,France,3857275,62,Raphaël Varane,Substitution,William Saliba
+135484,France,3857275,62,Kingsley Coman,Substitution,Kylian Mbappé Lottin
+135485,France,3857275,62,Jordan Veretout,Substitution,Adrien Rabiot
+135486,France,3857275,72,Youssouf Fofana,Substitution,Antoine Griezmann
+135487,Tunisia,3857275,73,Mohamed Ali Ben Romdhane,Substitution,Ghilane Chalali
+135488,France,3857275,78,Mattéo Guendouzi Olié,Substitution,Ousmane Dembélé
+135489,Tunisia,3857275,82,Anis Ben Slimane,Substitution,Ali Abdi
+138382,Saudi Arabia,3857260,36,Ali Albulayhi,Substitution,Riyadh Sharahili
+138383,Mexico,3857260,45,Ernesto Alexis Vega Rojas,Substitution,Carlos Uriel Antuna Romero
+138384,Saudi Arabia,3857260,45,Ali Al Hassan,Substitution,Abdullah Mohammed Madu
+138385,Saudi Arabia,3857260,61,Saleh Khalid Al Shehri,Substitution,Abdulrahman Al-Obood
+138386,Mexico,3857260,76,Orbelín Pineda Alvarado,Substitution,Carlos Alberto Rodríguez Gómez
+138387,Mexico,3857260,76,Henry Josué Martín Mex,Substitution,Raúl Alonso Jiménez Rodríguez
+138388,Mexico,3857260,85,Jorge Eduardo Sánchez Ramos,Substitution,Kevin Nahin Álvarez Campos
+138389,Mexico,3857260,85,Edson Omar Álvarez Velázquez,Substitution,Rogelio Gabriel Funes Mori
+138390,Saudi Arabia,3857260,87,Sultan Abdullah Salim Al Ghannam,Substitution,Hattan Babhir
+141986,Australia,3857257,45,Craig Goodwin,Substitution,Keanu Baccus
+141987,Denmark,3857257,45,Rasmus Nissen Kristensen,Substitution,Alexander Hartmann Bah
+141988,Denmark,3857257,58,Martin Braithwaite Christensen,Substitution,Kasper Dolberg
+141989,Denmark,3857257,58,Mathias Jensen,Substitution,Mikkel Damsgaard
+141990,Denmark,3857257,68,Andreas Skov Olsen,Substitution,Robert Skov
+141991,Denmark,3857257,69,Joakim Mæhle,Substitution,Andreas Evald Cornelius
+141992,Australia,3857257,73,Riley McGree,Substitution,Bailey Wright
+141993,Australia,3857257,81,Mitchell Thomas Duke,Substitution,Jamie MacLaren
+141994,Australia,3857257,88,Mathew Leckie,Substitution,Ajdin Hrustic
+145381,Canada,3857276,59,Cyle Larin,Substitution,Jonathan David
+145382,Canada,3857276,59,Mark Anthony Kaye,Substitution,Atiba Hutchinson
+145383,Canada,3857276,60,Sam Adekugbe,Substitution,Ismael Koné
+145384,Morocco,3857276,64,Sofiane Boufal,Substitution,Zakaria Aboukhlal
+145385,Morocco,3857276,64,Abdelhamid Sabiri,Substitution,Selim Amallah
+145386,Canada,3857276,65,Jonathan Osorio,Substitution,Richie Laryea
+145387,Canada,3857276,75,David Junior Hoilett,Substitution,David Wallace Wotherspoon
+145388,Morocco,3857276,75,Hakim Ziyech,Substitution,Abderrazak Hamdallah
+145389,Morocco,3857276,75,Azzedine Ounahi,Substitution,Jawad El Yamiq
+145390,Morocco,3857276,84,Achraf Hakimi Mouh,Substitution,Yahya Jabrane
+149495,Belgium,3857296,45,Dries Mertens,Substitution,Romelu Lukaku Menama
+149496,Belgium,3857296,58,Leandro Trossard,Substitution,Thorgan Hazard
+149497,Croatia,3857296,63,Marko Livaja,Substitution,Bruno Petković
+149498,Croatia,3857296,63,Andrej Kramarić,Substitution,Mario Pašalić
+149499,Belgium,3857296,71,Yannick Ferreira Carrasco,Substitution,Jeremy Doku
+149500,Belgium,3857296,71,Leander Dendoncker,Substitution,Youri Tielemans
+149501,Belgium,3857296,86,Thomas Meunier,Substitution,Eden Hazard
+149502,Croatia,3857296,90,Mateo Kovačić,Substitution,Lovro Majer
+153942,Japan,3857255,45,Takefusa Kubo,Substitution,Ritsu Doan
+153943,Spain,3857255,45,César Azpilicueta Tanco,Substitution,Daniel Carvajal Ramos
+153944,Japan,3857255,45,Yuto Nagatomo,Substitution,Kaoru Mitoma
+153945,Spain,3857255,56,Nicholas Williams Arthuer,Substitution,Ferrán Torres García
+153946,Spain,3857255,56,Álvaro Borja Morata Martín,Substitution,Marco Asensio Willemsen
+153947,Japan,3857255,61,Daizen Maeda,Substitution,Takuma Asano
+153948,Spain,3857255,67,Pablo Martín Páez Gavira,Substitution,Anssumane Fati
+153949,Japan,3857255,68,Daichi Kamada,Substitution,Takehiro Tomiyasu
+153950,Spain,3857255,68,Alejandro Balde Martínez,Substitution,Jordi Alba Ramos
+153951,Japan,3857255,86,Ao Tanaka,Substitution,Wataru Endo
+157807,Costa Rica,3857292,45,Brandon Aguilera Zamora,Substitution,Youstin Delfin Salas Gómez
+157808,Germany,3857292,45,Leon Goretzka,Substitution,Lukas Klostermann
+157809,Germany,3857292,53,İlkay Gündoğan,Substitution,Niclas Füllkrug
+157810,Germany,3857292,65,Thomas Müller,Substitution,Kai Havertz
+157811,Germany,3857292,65,David Raum,Substitution,Mario Götze
+157812,Costa Rica,3857292,73,Johan Alberto Venegas Ulloa,Substitution,Ronald Alberto Matarrita Ulate
+157813,Costa Rica,3857292,73,Keysher Fuller Spence,Substitution,Jewison Bennette
+157814,Costa Rica,3857292,92,Bryan Oviedo,Substitution,Anthony Daniel Contreras Enríquez
+157815,Costa Rica,3857292,92,Yeltsin Ignacio Tejeda Valverde,Substitution,Roan Roberto Wilson Gordon
+157816,Germany,3857292,93,Niklas Süle,Substitution,Matthias Ginter
+161194,Portugal,3857262,64,Matheus Luiz Nunes,Substitution,João Maria Lobo Alves Palhinha Gonçalves
+161195,Portugal,3857262,64,Rúben Diogo Da Silva Neves,Substitution,Rafael Alexandre Conceição Leão
+161196,Portugal,3857262,64,Cristiano Ronaldo dos Santos Aveiro,Substitution,André Miguel Valente Silva
+161197,South Korea,3857262,65,Jae-Sung Lee,Substitution,Hee-Chan Hwang
+161198,South Korea,3857262,80,Young-Gwon Kim,Substitution,Jun-Ho Son
+161199,South Korea,3857262,81,Kang-In Lee,Substitution,Ui-Jo Hwang
+161200,Portugal,3857262,81,João Mário Naval da Costa Eduardo,Substitution,William Silva de Carvalho
+161201,Portugal,3857262,81,Vitor Machado Ferreira,Substitution,Bernardo Mota Veiga de Carvalho e Silva
+161202,South Korea,3857262,92,Gue-Sung Cho,Substitution,Yu-Min Cho
+164493,Brazil,3857280,54,Alex Nicolao Telles,Substitution,Marcos Aoás Corrêa
+164494,Brazil,3857280,54,Frederico Rodrigues Santos,Substitution,Bruno Guimarães Rodriguez Moura
+164495,Brazil,3857280,54,Rodrygo Silva de Goes,Substitution,Éverton Augusto de Barros Ribeiro
+164496,Cameroon,3857280,63,Bryan Mbeumo,Substitution,Karl Brillant Toko Ekambi
+164497,Brazil,3857280,63,Gabriel Fernando de Jesus,Substitution,Pedro Guilherme Abreu dos Santos
+164498,Cameroon,3857280,67,Pierre Kunde Malong,Substitution,Jules Olivier Ntcham
+164499,Brazil,3857280,78,Antony Matheus dos Santos,Substitution,Raphael Dias Belloli
+164500,Cameroon,3857280,84,Nicolas Moumi Ngamaleu,Substitution,Jerome Ngom Mbekeli
+167976,Uruguay,3857293,33,Rodrigo Bentancur Colmán,Substitution,Matías Vecino Falero
+167977,Ghana,3857293,45,André Ayew Pelé,Substitution,Osman Bukari
+167978,Ghana,3857293,45,Jordan Ayew,Substitution,Kamaldeen Sulemana
+167979,Uruguay,3857293,65,Luis Alberto Suárez Díaz,Substitution,Edinson Roberto Cavani Gómez
+167980,Uruguay,3857293,65,Facundo Pellistri Rebollo,Substitution,Diego Nicolás De La Cruz Arcosa
+167981,Ghana,3857293,71,Iñaki Williams Arthuer,Substitution,Antoine Semenyo
+167982,Ghana,3857293,71,Salis Abdul Samed,Substitution,Daniel-Kofi Kyereh
+167983,Uruguay,3857293,79,Giorgian Daniel De Arrascaeta Benedetti,Substitution,Agustín Canobbio Graviz
+167984,Uruguay,3857293,79,Darwin Gabriel Núñez Ribeiro,Substitution,Maximiliano Gómez González
+167985,Ghana,3857293,97,Mohammed Kudus,Substitution,Abdul Fatawu Issahaku
+171186,Serbia,3857256,54,Milos Veljkovic,Substitution,Nemanja Gudelj
+171187,Serbia,3857256,54,Dušan Vlahović,Substitution,Luka Jović
+171188,Serbia,3857256,66,Sergej Milinković-Savić,Substitution,Nemanja Maksimović
+171189,Switzerland,3857256,67,Djibril Sow,Substitution,Edimilson Fernandes
+171190,Switzerland,3857256,68,Xherdan Shaqiri,Substitution,Denis Lemi Zakaria Lako Lado
+171191,Serbia,3857256,77,Dušan Tadić,Substitution,Filip Đuričić
+171192,Serbia,3857256,77,Andrija Živković,Substitution,Nemanja Radonjić
+171193,Switzerland,3857256,82,Ruben Vargas,Substitution,Christian Fassnacht
+171194,Switzerland,3857256,95,Breel-Donald Embolo,Substitution,Noah Okafor
+174776,Netherlands,3869117,45,Marten de Roon,Substitution,Steven Bergwijn
+174777,Netherlands,3869117,45,Davy Klaassen,Substitution,Teun Koopmeiners
+174778,United States,3869117,45,Jesus Ferreira,Substitution,Giovanni Reyna
+174779,United States,3869117,66,Timothy Weah,Substitution,Brenden Aaronson
+174780,United States,3869117,66,Weston McKennie,Substitution,Haji Wright
+174781,United States,3869117,74,Sergino Dest,Substitution,DeAndre Yedlin
+174782,Netherlands,3869117,82,Memphis Depay,Substitution,Xavi Simons
+174783,United States,3869117,91,Antonee Robinson,Substitution,Jordan Morris
+174784,Netherlands,3869117,92,Nathan Aké,Substitution,Matthijs de Ligt
+174785,Netherlands,3869117,92,Cody Mathès Gakpo,Substitution,Wout Weghorst
+178926,Argentina,3869151,49,Alejandro Darío Gómez,Substitution,Lisandro Martínez
+178927,Australia,3869151,57,Riley McGree,Substitution,Craig Goodwin
+178928,Australia,3869151,57,Keanu Baccus,Substitution,Ajdin Hrustic
+178929,Argentina,3869151,71,Julián Álvarez,Substitution,Lautaro Javier Martínez
+178930,Argentina,3869151,71,Marcos Javier Acuña,Substitution,Nicolás Alejandro Tagliafico
+178931,Australia,3869151,71,Mitchell Thomas Duke,Substitution,Jamie MacLaren
+178932,Australia,3869151,71,Mathew Leckie,Substitution,Garang Kuol
+178933,Australia,3869151,71,Miloš Degenek,Substitution,Fran Karačić
+178934,Argentina,3869151,79,Nahuel Molina Lucero,Substitution,Exequiel Alejandro Palacios
+178935,Argentina,3869151,79,Alexis Mac Allister,Substitution,Gonzalo Ariel Montiel
+182545,Poland,3869152,63,Sebastian Szymański,Substitution,Arkadiusz Milik
+182546,France,3869152,65,Aurélien Djani Tchouaméni,Substitution,Youssouf Fofana
+182547,Poland,3869152,70,Jakub Kamiński,Substitution,Nicola Zalewski
+182548,Poland,3869152,70,Grzegorz Krychowiak,Substitution,Krystian Bielik
+182549,France,3869152,75,Ousmane Dembélé,Substitution,Kingsley Coman
+182550,France,3869152,75,Olivier Giroud,Substitution,Marcus Thuram
+182551,Poland,3869152,86,Jakub Piotr Kiwior,Substitution,Jan Bednarek
+182552,Poland,3869152,86,Przemysław Frankowski,Substitution,Kamil Grosicki
+182553,France,3869152,91,Jules Koundé,Substitution,Axel Disasi
+186050,Senegal,3869118,45,Pathé Ismaël Ciss,Substitution,Pape Gueye
+186051,Senegal,3869118,45,Krépin Diatta,Substitution,Pape Matar Sarr
+186052,Senegal,3869118,45,Iliman Ndiaye,Substitution,Cheikh Ahmadou Bamba Mbacke Dieng
+186053,England,3869118,64,Bukayo Saka,Substitution,Marcus Rashford
+186054,England,3869118,64,Philip Foden,Substitution,Jack Grealish
+186055,Senegal,3869118,71,Boulaye Dia,Substitution,Famara Diedhiou
+186056,England,3869118,75,Jude Bellingham,Substitution,Mason Mount
+186057,England,3869118,76,John Stones,Substitution,Eric Dier
+186058,England,3869118,81,Jordan Brian Henderson,Substitution,Kalvin Phillips
+186059,Senegal,3869118,83,Ismail Jakobs,Substitution,Fodé Ballo Touré
+190091,South Korea,3869253,45,Jin-Su Kim,Substitution,Chul Hong
+190092,South Korea,3869253,45,Woo-Young Jung,Substitution,Jun-Ho Son
+190093,Brazil,3869253,62,Éder Gabriel Militão,Substitution,Daniel Alves da Silva
+190094,South Korea,3869253,64,In-Beom Hwang,Substitution,Seung-Ho Paik
+190095,Brazil,3869253,71,Danilo Luiz da Silva,Substitution,Gleison Bremer Silva Nascimento
+190096,Brazil,3869253,71,Vinícius José Paixão de Oliveira Júnior,Substitution,Gabriel Teodoro Martinelli Silva
+190097,South Korea,3869253,73,Jae-Sung Lee,Substitution,Kang-In Lee
+190098,South Korea,3869253,79,Gue-Sung Cho,Substitution,Ui-Jo Hwang
+190099,Brazil,3869253,79,Alisson Ramsés Becker,Substitution,Weverton Pereira da Silva
+190100,Brazil,3869253,80,Neymar da Silva Santos Junior,Substitution,Rodrygo Silva de Goes
+194654,Croatia,3869219,61,Bruno Petković,Substitution,Ante Budimir
+194655,Japan,3869219,63,Yuto Nagatomo,Substitution,Kaoru Mitoma
+194656,Japan,3869219,63,Daizen Maeda,Substitution,Takuma Asano
+194657,Croatia,3869219,67,Andrej Kramarić,Substitution,Mario Pašalić
+194658,Japan,3869219,73,Daichi Kamada,Substitution,Hiroki Sakai
+194659,Japan,3869219,86,Ritsu Doan,Substitution,Takumi Minamino
+194660,Croatia,3869219,98,Luka Modrić,Substitution,Lovro Majer
+194661,Croatia,3869219,98,Mateo Kovačić,Substitution,Nikola Vlašić
+194662,Japan,3869219,105,Hidemasa Morita,Substitution,Ao Tanaka
+194663,Croatia,3869219,105,Ivan Perišić,Substitution,Mislav Oršić
+194664,Croatia,3869219,105,Ante Budimir,Substitution,Marko Livaja
+198076,Switzerland,3869254,45,Fabian Lukas Schär,Substitution,Eray Ervin Cömert
+198077,Switzerland,3869254,53,Remo Freuler,Substitution,Denis Lemi Zakaria Lako Lado
+198078,Switzerland,3869254,53,Djibril Sow,Substitution,Haris Seferović
+198079,Switzerland,3869254,65,Ruben Vargas,Substitution,Noah Okafor
+198080,Portugal,3869254,72,Gonçalo Matias Ramos,Substitution,Ricardo Jorge Luz Horta
+198081,Portugal,3869254,72,João Félix Sequeira,Substitution,Cristiano Ronaldo dos Santos Aveiro
+198082,Portugal,3869254,73,Otávio Edmilson da Silva Monteiro,Substitution,Vitor Machado Ferreira
+198083,Portugal,3869254,80,Bernardo Mota Veiga de Carvalho e Silva,Substitution,Rúben Diogo Da Silva Neves
+198084,Portugal,3869254,86,Bruno Miguel Borges Fernandes,Substitution,Rafael Alexandre Conceição Leão
+198085,Switzerland,3869254,88,Breel-Donald Embolo,Substitution,Ardon Jashari
+202824,Spain,3869220,62,Pablo Martín Páez Gavira,Substitution,Carlos Soler Barragán
+202825,Spain,3869220,62,Marco Asensio Willemsen,Substitution,Álvaro Borja Morata Martín
+202826,Morocco,3869220,65,Sofiane Boufal,Substitution,Abdessamad Ezzalzouli
+202827,Spain,3869220,75,Ferrán Torres García,Substitution,Nicholas Williams Arthuer
+202828,Morocco,3869220,81,Selim Amallah,Substitution,Walid Cheddira
+202829,Morocco,3869220,81,Youssef En-Nesyri,Substitution,Abdelhamid Sabiri
+202830,Morocco,3869220,82,Noussair Mazraoui,Substitution,Yahia Attiyat allah
+202831,Morocco,3869220,84,Nayef Aguerd,Substitution,Jawad El Yamiq
+202832,Spain,3869220,97,Daniel Olmo Carvajal,Substitution,Anssumane Fati
+202833,Spain,3869220,97,Jordi Alba Ramos,Substitution,Alejandro Balde Martínez
+202834,Spain,3869220,117,Nicholas Williams Arthuer,Substitution,Pablo Sarabia García
+202835,Morocco,3869220,119,Azzedine Ounahi,Substitution,Badr Banoun
+207532,Netherlands,3869321,45,Steven Bergwijn,Substitution,Steven Berghuis
+207533,Netherlands,3869321,45,Marten de Roon,Substitution,Teun Koopmeiners
+207534,Netherlands,3869321,64,Daley Blind,Substitution,Luuk de Jong
+207535,Argentina,3869321,65,Rodrigo Javier De Paul,Substitution,Leandro Daniel Paredes
+207536,Argentina,3869321,77,Marcos Javier Acuña,Substitution,Nicolás Alejandro Tagliafico
+207537,Argentina,3869321,77,Cristian Gabriel Romero,Substitution,Germán Alejandro Pezzella
+207538,Netherlands,3869321,77,Memphis Depay,Substitution,Wout Weghorst
+207539,Argentina,3869321,80,Julián Álvarez,Substitution,Lautaro Javier Martínez
+207540,Argentina,3869321,105,Nahuel Molina Lucero,Substitution,Gonzalo Ariel Montiel
+207541,Argentina,3869321,111,Lisandro Martínez,Substitution,Ángel Fabián Di María Hernández
+207542,Netherlands,3869321,112,Cody Mathès Gakpo,Substitution,Noa Lang
+212682,Brazil,3869420,55,Raphael Dias Belloli,Substitution,Antony Matheus dos Santos
+212683,Brazil,3869420,63,Vinícius José Paixão de Oliveira Júnior,Substitution,Rodrygo Silva de Goes
+212684,Croatia,3869420,71,Mario Pašalić,Substitution,Nikola Vlašić
+212685,Croatia,3869420,71,Andrej Kramarić,Substitution,Bruno Petković
+212686,Brazil,3869420,83,Richarlison de Andrade,Substitution,Pedro Guilherme Abreu dos Santos
+212687,Croatia,3869420,105,Mateo Kovačić,Substitution,Lovro Majer
+212688,Brazil,3869420,105,Lucas Tolentino Coelho de Lima,Substitution,Frederico Rodrigues Santos
+212689,Brazil,3869420,105,Éder Gabriel Militão,Substitution,Alex Sandro Lobo Silva
+212690,Croatia,3869420,109,Borna Sosa,Substitution,Ante Budimir
+212691,Croatia,3869420,113,Marcelo Brozović,Substitution,Mislav Oršić
+216047,Portugal,3869486,50,Raphaël Adelino José Guerreiro,Substitution,João Pedro Cavaco Cancelo
+216048,Portugal,3869486,50,Rúben Diogo Da Silva Neves,Substitution,Cristiano Ronaldo dos Santos Aveiro
+216049,Morocco,3869486,56,Romain Saïss,Substitution,Achraf Dari
+216050,Morocco,3869486,63,Selim Amallah,Substitution,Walid Cheddira
+216051,Morocco,3869486,64,Youssef En-Nesyri,Substitution,Badr Banoun
+216052,Portugal,3869486,68,Gonçalo Matias Ramos,Substitution,Rafael Alexandre Conceição Leão
+216053,Portugal,3869486,68,Otávio Edmilson da Silva Monteiro,Substitution,Vitor Machado Ferreira
+216054,Portugal,3869486,78,José Diogo Dalot Teixeira,Substitution,Ricardo Jorge Luz Horta
+216055,Morocco,3869486,80,Hakim Ziyech,Substitution,Zakaria Aboukhlal
+216056,Morocco,3869486,80,Sofiane Boufal,Substitution,Yahya Jabrane
+219305,France,3869354,78,Ousmane Dembélé,Substitution,Kingsley Coman
+219306,England,3869354,78,Jordan Brian Henderson,Substitution,Mason Mount
+219307,England,3869354,78,Bukayo Saka,Substitution,Raheem Sterling
+219308,England,3869354,84,Philip Foden,Substitution,Marcus Rashford
+219309,England,3869354,97,John Stones,Substitution,Jack Grealish
+223099,Croatia,3869519,45,Borna Sosa,Substitution,Mislav Oršić
+223100,Croatia,3869519,45,Mario Pašalić,Substitution,Nikola Vlašić
+223101,Croatia,3869519,49,Marcelo Brozović,Substitution,Bruno Petković
+223102,Argentina,3869519,61,Leandro Daniel Paredes,Substitution,Lisandro Martínez
+223103,Croatia,3869519,71,Andrej Kramarić,Substitution,Marko Livaja
+223104,Argentina,3869519,73,Rodrigo Javier De Paul,Substitution,Exequiel Alejandro Palacios
+223105,Argentina,3869519,73,Julián Álvarez,Substitution,Paulo Bruno Exequiel Dybala
+223106,Croatia,3869519,80,Luka Modrić,Substitution,Lovro Majer
+223107,Argentina,3869519,85,Alexis Mac Allister,Substitution,Ángel Martín Correa
+223108,Argentina,3869519,85,Nahuel Molina Lucero,Substitution,Juan Marcos Foyth
+226646,Morocco,3869552,20,Romain Saïss,Substitution,Selim Amallah
+226647,Morocco,3869552,45,Noussair Mazraoui,Substitution,Yahia Attiyat allah
+226648,France,3869552,64,Olivier Giroud,Substitution,Marcus Thuram
+226649,Morocco,3869552,65,Youssef En-Nesyri,Substitution,Abderrazak Hamdallah
+226650,Morocco,3869552,66,Sofiane Boufal,Substitution,Zakaria Aboukhlal
+226651,Morocco,3869552,77,Selim Amallah,Substitution,Abdessamad Ezzalzouli
+226652,France,3869552,78,Ousmane Dembélé,Substitution,Randal Kolo Muani
+230213,Morocco,3869684,45,Abdelhamid Sabiri,Substitution,Ilias Chair
+230214,Morocco,3869684,55,Bilal El Khannous,Substitution,Azzedine Ounahi
+230215,Croatia,3869684,61,Andrej Kramarić,Substitution,Nikola Vlašić
+230216,Morocco,3869684,63,Sofiane Boufal,Substitution,Anass Zaroury
+230217,Morocco,3869684,63,Achraf Dari,Substitution,Badr Banoun
+230218,Morocco,3869684,66,Jawad El Yamiq,Substitution,Selim Amallah
+230219,Croatia,3869684,66,Lovro Majer,Substitution,Mario Pašalić
+230220,Croatia,3869684,66,Marko Livaja,Substitution,Bruno Petković
+230221,Croatia,3869684,94,Mislav Oršić,Substitution,Kristijan Jakić
+234596,France,3869685,40,Ousmane Dembélé,Substitution,Randal Kolo Muani
+234597,France,3869685,41,Olivier Giroud,Substitution,Marcus Thuram
+234598,Argentina,3869685,63,Ángel Fabián Di María Hernández,Substitution,Marcos Javier Acuña
+234599,France,3869685,70,Theo Bernard François Hernández,Substitution,Eduardo Camavinga
+234600,France,3869685,70,Antoine Griezmann,Substitution,Kingsley Coman
+234601,Argentina,3869685,90,Nahuel Molina Lucero,Substitution,Gonzalo Ariel Montiel
+234602,France,3869685,95,Adrien Rabiot,Substitution,Youssouf Fofana
+234603,Argentina,3869685,101,Rodrigo Javier De Paul,Substitution,Leandro Daniel Paredes
+234604,Argentina,3869685,101,Julián Álvarez,Substitution,Lautaro Javier Martínez
+234605,France,3869685,112,Raphaël Varane,Substitution,Ibrahima Konaté
+234606,Argentina,3869685,115,Alexis Mac Allister,Substitution,Germán Alejandro Pezzella
+234607,France,3869685,120,Jules Koundé,Substitution,Axel Disasi
+234608,Argentina,3869685,120,Nicolás Alejandro Tagliafico,Substitution,Paulo Bruno Exequiel Dybala

@@ -1,0 +1,666 @@
+,Player,Position,Minutes,Team,game_id,Goals,Shots,Passes,Tackles,Interceptions,Blocks,Fouls,Yellow Cards,Red Cards
+0,Piero Martín Hincapié Reyna,Left Center Back,95,Ecuador,3857286,0,0,72,0,1,1,0,0,0
+1,Pervis Josué Estupiñán Tenorio,Left Back,95,Ecuador,3857286,0,0,75,2,0,0,3,0,0
+2,Angelo Smit Preciado Quiñónez,Right Back,95,Ecuador,3857286,0,1,53,1,0,2,2,0,0
+3,Felix Eduardo Torres Caicedo,Right Center Back,95,Ecuador,3857286,0,0,63,0,0,1,0,0,0
+4,Boualem Khoukhi,Center Back,95,Qatar,3857286,0,0,76,1,0,0,0,0,0
+5,Bassam Hisham Al Rawi,Right Center Back,95,Qatar,3857286,0,0,57,0,1,2,2,0,0
+6,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,95,Qatar,3857286,0,1,66,1,1,3,0,0,0
+7,Homam Alamin Ahmed,Left Wing Back,95,Qatar,3857286,0,0,39,2,1,0,1,0,0
+8,Pedro Miguel Correia,Right Wing Back,95,Qatar,3857286,0,1,34,0,0,2,3,0,0
+9,Morteza Pouraliganji,Right Center Back,103,Iran,3857271,0,0,28,0,1,0,4,1,0
+10,Kieran Trippier,Right Back,103,England,3857271,0,1,104,3,0,1,0,0,0
+11,John Stones,Right Center Back,103,England,3857271,0,0,119,1,0,0,2,0,0
+12,Luke Shaw,Left Back,103,England,3857271,0,1,118,0,1,0,0,0,0
+13,Harry Maguire,Left Center Back,70,England,3857271,0,2,72,0,0,1,0,0,0
+14,Roozbeh Cheshmi,Center Back,52,Iran,3857271,0,0,9,0,1,1,2,0,0
+15,Seyed Majid Hosseini,Left Center Back,103,Iran,3857271,0,0,19,1,0,2,1,0,0
+16,Milad Mohammadi,Left Wing Back,62,Iran,3857271,0,0,12,1,1,3,1,0,0
+17,Sadegh Moharrami,Right Wing Back,103,Iran,3857271,0,0,26,1,1,1,3,0,0
+18,Mohammad Hossein Kanani Zadegan,Right Center Back,58,Iran,3857271,0,0,11,0,1,3,0,0,0
+19,Eric Dier,Left Center Back,33,England,3857271,0,0,29,0,0,0,0,0,0
+20,Tim Ream,Left Center Back,100,United States,3857282,0,0,74,2,1,1,1,1,0
+21,Walker Zimmerman,Right Center Back,100,United States,3857282,0,0,85,0,1,0,1,0,0
+22,Antonee Robinson,Left Back,100,United States,3857282,0,0,63,2,1,2,2,0,0
+23,Sergino Dest,Right Back,74,United States,3857282,0,1,68,0,0,2,1,1,0
+24,Chris Mepham,Right Center Back,100,Wales,3857282,0,0,56,3,0,2,2,1,0
+25,Connor Roberts,Right Wing Back,100,Wales,3857282,0,0,50,1,1,3,0,0,0
+26,Neco Williams,Left Wing Back,78,Wales,3857282,0,0,35,1,3,3,0,0,0
+27,Ben Davies,Left Center Back,100,Wales,3857282,0,2,53,0,1,4,0,0,0
+28,Joe Rodon,Center Back,100,Wales,3857282,0,0,59,2,0,2,1,0,0
+29,DeAndre Yedlin,Right Back,26,United States,3857282,0,0,18,0,0,0,0,0,0
+30,Daley Blind,Left Wing Back,99,Netherlands,3857285,0,1,58,1,0,1,2,0,0
+31,Nathan Aké,Left Center Back,99,Netherlands,3857285,0,0,64,1,0,4,2,0,0
+32,Virgil van Dijk,Center Back,99,Netherlands,3857285,0,2,61,0,1,1,1,0,0
+33,Youssouf Sabaly,Right Back,99,Senegal,3857285,0,2,70,1,1,1,2,0,0
+34,Abdou Diallo,Left Back,61,Senegal,3857285,0,0,27,2,0,2,2,0,0
+35,Matthijs de Ligt,Right Center Back,99,Netherlands,3857285,0,0,45,0,1,0,5,1,0
+36,Denzel Dumfries,Right Wing Back,99,Netherlands,3857285,0,0,43,0,1,1,3,0,0
+37,Kalidou Koulibaly,Right Center Back,99,Senegal,3857285,0,0,48,1,2,1,1,0,0
+38,Pape Abou Cissé,Left Center Back,99,Senegal,3857285,0,0,26,0,0,2,1,0,0
+39,Ismail Jakobs,Left Back,38,Senegal,3857285,0,1,11,1,0,0,0,0,0
+40,Rasmus Nissen Kristensen,Right Wing Back,97,Denmark,3857254,0,0,58,2,0,1,1,1,0
+41,Joakim Mæhle,Left Wing Back,97,Denmark,3857254,0,1,52,1,0,4,1,0,0
+42,Andreas Christensen,Left Center Back,97,Denmark,3857254,0,1,82,1,2,5,0,0,0
+43,Dylan Daniel Mahmoud Bronn,Right Center Back,97,Tunisia,3857254,0,1,41,1,0,0,0,0,0
+44,Yassine Meriah,Center Back,97,Tunisia,3857254,0,1,53,1,0,2,2,0,0
+45,Joachim Andersen,Right Center Back,97,Denmark,3857254,0,1,78,2,2,2,3,0,0
+46,Simon Thorup Kjær,Center Back,63,Denmark,3857254,0,0,55,0,2,4,0,0,0
+47,Ali Abdi,Left Wing Back,97,Tunisia,3857254,0,0,44,4,0,2,1,0,0
+48,Mohamed Dräger,Right Wing Back,87,Tunisia,3857254,0,2,31,1,1,2,1,0,0
+49,Montassar Omar Talbi,Left Center Back,97,Tunisia,3857254,0,0,46,0,0,5,0,0,0
+50,Mathias Jensen,Center Back,34,Denmark,3857254,0,1,32,0,0,0,2,1,0
+51,Wajdi Kechrida,Right Wing Back,10,Tunisia,3857254,0,0,1,0,0,1,0,0,0
+52,Hassan Mohammed Al-Tambakti,Right Center Back,103,Saudi Arabia,3857300,0,0,29,2,3,1,0,0,0
+53,Nicolás Alejandro Tagliafico,Left Back,70,Argentina,3857300,0,1,34,1,1,5,0,0,0
+54,Nicolás Hernán Otamendi,Left Center Back,103,Argentina,3857300,0,1,89,0,0,1,0,0,0
+55,Cristian Gabriel Romero,Right Center Back,58,Argentina,3857300,0,0,61,0,1,1,1,0,0
+56,Nahuel Molina Lucero,Right Back,103,Argentina,3857300,0,0,68,1,0,1,1,0,0
+57,Ali Albulayhi,Left Center Back,103,Saudi Arabia,3857300,0,0,16,1,0,1,1,0,0
+58,Yasir Gharsan Al Shahrani,Left Back,98,Saudi Arabia,3857300,0,0,26,1,3,0,1,0,0
+59,Saud Abdullah Abdul Hamid,Right Back,103,Saudi Arabia,3857300,0,0,28,0,1,1,6,1,0
+60,Lisandro Martínez,Left Center Back,45,Argentina,3857300,0,1,32,0,0,0,0,0,0
+61,Marcos Javier Acuña,Left Back,33,Argentina,3857300,0,0,23,0,1,2,0,0,0
+62,Abdulelah Al Amri,Left Center Back,16,Saudi Arabia,3857300,0,0,1,0,0,0,0,0,0
+63,Dayotchanculle Upamecano,Left Center Back,97,France,3857279,0,0,118,1,2,2,0,0,0
+64,Benjamin Pavard,Right Back,88,France,3857279,0,0,88,0,0,4,0,0,0
+65,Ibrahima Konaté,Right Center Back,97,France,3857279,0,2,97,1,1,0,0,0,0
+66,Lucas Hernández Pi,Left Back,12,France,3857279,0,0,10,0,0,1,0,0,0
+67,Nathaniel Atkinson,Right Back,84,Australia,3857279,0,0,37,4,0,2,0,0,0
+68,Harry Souttar,Right Center Back,97,Australia,3857279,0,0,52,0,0,4,0,0,0
+69,Kye Rowles,Left Center Back,97,Australia,3857279,0,0,61,1,1,4,0,0,0
+70,Aziz Eraltay Behich,Left Back,97,Australia,3857279,0,0,66,1,1,3,1,0,0
+71,Theo Bernard François Hernández,Left Back,85,France,3857279,0,2,66,3,0,1,1,0,0
+72,Miloš Degenek,Right Back,13,Australia,3857279,0,0,10,0,0,0,0,0,0
+73,Jules Koundé,Right Back,9,France,3857279,0,0,8,0,0,0,0,0,0
+74,Jesús Daniel Gallardo Vasconcelos,Left Back,97,Mexico,3857265,0,0,53,1,1,2,1,0,0
+75,Héctor Alfredo Moreno Herrera,Left Center Back,97,Mexico,3857265,0,1,82,0,0,2,1,1,0
+76,Matty Cash,Right Back,97,Poland,3857265,0,0,35,0,0,3,2,0,0
+77,César Jasib Montes Castro,Right Center Back,97,Mexico,3857265,0,0,67,1,0,0,2,0,0
+78,Jorge Eduardo Sánchez Ramos,Right Back,97,Mexico,3857265,0,1,52,0,1,5,3,1,0
+79,Bartosz Bereszyński,Left Back,97,Poland,3857265,0,0,38,0,1,4,2,0,0
+80,Jakub Piotr Kiwior,Left Center Back,97,Poland,3857265,0,1,48,1,0,1,0,0,0
+81,Kamil Glik,Right Center Back,97,Poland,3857265,0,0,27,0,0,3,1,0,0
+82,Noussair Mazraoui,Left Back,59,Morocco,3857277,0,2,20,3,0,4,1,0,0
+83,Romain Saïss,Left Center Back,95,Morocco,3857277,0,0,51,2,0,0,0,0,0
+84,Dejan Lovren,Right Center Back,95,Croatia,3857277,0,1,93,3,0,3,0,0,0
+85,Nayef Aguerd,Right Center Back,95,Morocco,3857277,0,0,47,0,1,1,0,0,0
+86,Josip Juranović,Right Back,95,Croatia,3857277,0,0,56,1,0,1,0,0,0
+87,Joško Gvardiol,Left Center Back,95,Croatia,3857277,0,0,115,0,2,3,1,0,0
+88,Borna Sosa,Left Back,95,Croatia,3857277,0,0,61,1,0,3,1,0,0
+89,Achraf Hakimi Mouh,Right Back,95,Morocco,3857277,0,1,51,2,0,3,1,0,0
+90,Yahia Attiyat allah,Left Back,36,Morocco,3857277,0,0,19,0,0,1,1,0,0
+91,Aymeric Laporte,Left Center Back,98,Spain,3857291,0,0,151,1,0,2,2,0,0
+92,Francisco Javier Calvo Quesada,Left Center Back,98,Costa Rica,3857291,0,0,26,4,0,0,3,1,0
+93,César Azpilicueta Tanco,Right Back,98,Spain,3857291,0,0,106,0,2,3,2,0,0
+94,Rodrigo Hernández Cascante,Right Center Back,98,Spain,3857291,0,0,142,0,0,0,0,0,0
+95,Jordi Alba Ramos,Left Back,63,Spain,3857291,0,0,119,1,0,1,1,0,0
+96,Bryan Oviedo,Left Back,81,Costa Rica,3857291,0,0,19,2,1,2,1,0,0
+97,Carlos Manuel Martínez Castro,Right Back,45,Costa Rica,3857291,0,0,14,0,0,1,1,0,0
+98,Óscar Esau Duarte Gaitán,Right Center Back,98,Costa Rica,3857291,0,0,27,1,1,2,3,0,0
+99,Kendall Jamaal Waston Manley,Right Center Back,53,Costa Rica,3857291,0,0,14,1,1,1,1,0,0
+100,Alejandro Balde Martínez,Left Back,35,Spain,3857291,0,0,32,1,0,0,0,0,0
+101,Ronald Alberto Matarrita Ulate,Left Wing Back,17,Costa Rica,3857291,0,0,12,1,0,0,0,0,0
+102,Richie Laryea,Right Wing Back,73,Canada,3857268,0,2,17,2,0,2,1,0,0
+103,Alistair Johnston,Right Center Back,95,Canada,3857268,0,1,58,0,0,2,3,1,0
+104,Kamal Miller,Left Center Back,95,Canada,3857268,0,0,42,1,2,1,0,0,0
+105,Steven de Sousa Vitoria,Center Back,95,Canada,3857268,0,0,50,0,1,3,1,0,0
+106,Alphonso Davies,Left Wing Back,95,Canada,3857268,0,1,41,0,1,1,3,1,0
+107,Toby Alderweireld,Center Back,95,Belgium,3857268,0,0,75,0,1,1,0,0,0
+108,Leander Dendoncker,Right Center Back,95,Belgium,3857268,0,1,73,1,1,5,1,0,0
+109,Timothy Castagne,Right Wing Back,95,Belgium,3857268,0,0,43,1,0,3,1,0,0
+110,Jan Vertonghen,Left Center Back,95,Belgium,3857268,0,0,71,0,0,3,0,0,0
+111,Yannick Ferreira Carrasco,Left Wing Back,49,Belgium,3857268,0,0,14,1,0,3,1,1,0
+112,Thomas Meunier,Left Wing Back,50,Belgium,3857268,0,1,25,1,2,1,2,1,0
+113,Sam Adekugbe,Left Wing Back,22,Canada,3857268,0,0,22,0,0,2,0,0,0
+114,Ko Itakura,Right Center Back,98,Japan,3857284,0,1,25,1,1,3,3,0,0
+115,Nico Schlotterbeck,Left Center Back,98,Germany,3857284,0,0,119,2,0,2,2,0,0
+116,Antonio Rüdiger,Right Center Back,98,Germany,3857284,0,3,113,0,0,4,0,0,0
+117,Niklas Süle,Right Back,98,Germany,3857284,0,1,102,0,0,0,0,0,0
+118,Yuto Nagatomo,Left Back,56,Japan,3857284,0,0,14,1,0,0,0,0,0
+119,David Raum,Left Back,98,Germany,3857284,0,0,76,2,1,6,1,0,0
+120,Hiroki Sakai,Right Back,73,Japan,3857284,0,1,24,4,1,1,1,0,0
+121,Maya Yoshida,Left Center Back,98,Japan,3857284,0,0,40,0,2,2,1,0,0
+122,Takehiro Tomiyasu,Left Center Back,53,Japan,3857284,0,0,19,0,1,0,0,0,0
+123,Kaoru Mitoma,Left Wing Back,42,Japan,3857284,0,0,17,2,0,2,0,0,0
+124,Alex Sandro Lobo Silva,Left Back,97,Brazil,3857258,0,1,90,0,0,1,1,0,0
+125,Thiago Emiliano da Silva,Left Center Back,97,Brazil,3857258,0,1,72,1,1,1,0,0,0
+126,Milos Veljkovic,Center Back,97,Serbia,3857258,0,0,45,0,0,1,0,0,0
+127,Marcos Aoás Corrêa,Right Center Back,97,Brazil,3857258,0,0,64,0,0,2,0,0,0
+128,Danilo Luiz da Silva,Right Back,97,Brazil,3857258,0,1,84,1,0,0,0,0,0
+129,Filip Mladenović,Left Wing Back,65,Serbia,3857258,0,1,24,0,0,2,0,0,0
+130,Nikola Milenković,Right Center Back,97,Serbia,3857258,0,1,50,3,3,4,3,0,0
+131,Andrija Živković,Right Wing Back,56,Serbia,3857258,0,0,25,2,1,1,1,0,0
+132,Strahinja Pavlović,Left Center Back,97,Serbia,3857258,0,1,40,1,0,1,1,1,0
+133,Dušan Vlahović,Left Wing Back,32,Serbia,3857258,0,0,8,0,0,0,0,0,0
+134,Nemanja Radonjić,Right Wing Back,41,Serbia,3857258,0,1,11,0,0,0,0,0,0
+135,Manuel Obafemi Akanji,Right Center Back,95,Switzerland,3857290,0,1,65,0,0,0,1,1,0
+136,Ngoran Suiru Fai Collins,Right Back,95,Cameroon,3857290,0,1,60,1,2,1,2,1,0
+137,Nico Elvedi,Left Center Back,95,Switzerland,3857290,0,1,69,0,1,2,1,1,0
+138,Nicolas Alexis Julio N'Koulou Ndoubena,Left Center Back,95,Cameroon,3857290,0,1,60,0,1,2,1,0,0
+139,Ricardo Iván Rodríguez Araya,Left Back,89,Switzerland,3857290,0,0,57,0,0,1,4,0,0
+140,Silvan Widmer,Right Back,95,Switzerland,3857290,0,0,50,2,2,3,0,0,0
+141,Nouhou Tolo,Left Back,95,Cameroon,3857290,0,0,46,1,0,3,2,0,0
+142,Jean-Charles Castelletto,Right Center Back,95,Cameroon,3857290,0,0,45,1,2,1,0,0,0
+143,Eray Ervin Cömert,Left Back,6,Switzerland,3857290,0,0,3,0,0,0,0,0,0
+144,Rúben Santos Gato Alves Dias,Right Center Back,100,Portugal,3857298,0,0,66,2,0,1,1,0,0
+145,João Pedro Cavaco Cancelo,Right Back,100,Portugal,3857298,0,0,71,1,0,3,0,0,0
+146,Danilo Luís Hélio Pereira,Left Center Back,100,Portugal,3857298,0,0,80,2,0,1,1,1,0
+147,Raphaël Adelino José Guerreiro,Left Back,100,Portugal,3857298,0,0,82,0,1,0,0,0,0
+148,Mohamed Salisu,Left Center Back,100,Ghana,3857298,0,1,47,3,2,2,3,0,0
+149,Abdul Rahman Baba,Left Wing Back,100,Ghana,3857298,0,0,42,1,1,1,3,0,0
+150,Alexander Djiku,Center Back,91,Ghana,3857298,0,0,26,1,0,1,1,0,0
+151,Daniel Amartey,Right Center Back,100,Ghana,3857298,0,0,52,1,0,2,2,0,0
+152,Alidu Seidu,Right Wing Back,65,Ghana,3857298,0,1,23,0,0,2,3,1,0
+153,Tariq Lamptey,Right Wing Back,35,Ghana,3857298,0,0,14,1,1,1,1,0,0
+154,Young-Gwon Kim,Left Center Back,97,South Korea,3857287,0,0,43,0,0,1,0,0,0
+155,Mathías Olivera Miramontes,Left Back,78,Uruguay,3857287,0,0,48,2,2,4,0,0,0
+156,Min Jae Kim,Right Center Back,97,South Korea,3857287,0,1,52,1,1,1,0,0,0
+157,José Martín Cáceres Silva,Right Back,97,Uruguay,3857287,0,0,81,2,1,0,1,1,0
+158,Jin-Su Kim,Left Back,97,South Korea,3857287,0,0,29,1,1,1,0,0,0
+159,Moon-Hwan Kim,Right Back,97,South Korea,3857287,0,0,63,0,4,2,0,0,0
+160,Diego Roberto Godín Leal,Right Center Back,97,Uruguay,3857287,0,1,75,0,0,0,0,0,0
+161,José María Giménez de Vargas,Left Center Back,97,Uruguay,3857287,0,1,79,3,1,3,0,0,0
+162,Matías Nicolás Viña Susperreguy,Left Back,19,Uruguay,3857287,0,0,9,1,0,0,1,0,0
+163,Chris Mepham,Right Center Back,102,Wales,3857273,0,0,61,0,1,3,2,0,0
+164,Ramin Rezaeian,Right Back,102,Iran,3857273,1,2,47,4,3,0,0,0,0
+165,Joe Rodon,Center Back,102,Wales,3857273,0,0,57,1,1,1,1,1,0
+166,Seyed Majid Hosseini,Right Center Back,102,Iran,3857273,0,0,32,2,1,0,2,0,0
+167,Morteza Pouraliganji,Left Center Back,102,Iran,3857273,0,1,28,0,3,2,1,0,0
+168,Ben Davies,Left Center Back,102,Wales,3857273,0,1,78,1,0,3,0,0,0
+169,Connor Roberts,Right Wing Back,56,Wales,3857273,0,0,39,0,0,3,0,0,0
+170,Neco Williams,Left Wing Back,102,Wales,3857273,0,3,56,0,0,4,2,0,0
+171,Milad Mohammadi,Left Back,102,Iran,3857273,0,0,39,1,2,3,2,0,0
+172,Boualem Khoukhi,Center Back,95,Qatar,3857301,0,0,64,3,0,5,1,0,0
+173,Youssouf Sabaly,Right Back,95,Senegal,3857301,0,0,79,1,0,2,1,0,0
+174,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,95,Qatar,3857301,0,4,47,0,0,3,1,0,0
+175,Homam Alamin Ahmed,Left Wing Back,82,Qatar,3857301,0,0,34,0,0,0,2,1,0
+176,Ismaeel Mohammad Mohammad,Right Wing Back,95,Qatar,3857301,0,1,38,0,0,2,1,1,0
+177,Pedro Miguel Correia,Right Center Back,82,Qatar,3857301,0,0,36,2,2,1,1,0,0
+178,Kalidou Koulibaly,Right Center Back,95,Senegal,3857301,0,0,67,1,1,0,1,0,0
+179,Abdou Diallo,Left Center Back,95,Senegal,3857301,0,0,75,0,1,1,0,0,0
+180,Ismail Jakobs,Left Back,76,Senegal,3857301,0,0,63,0,0,1,2,1,0
+181,Pape Abou Cissé,Left Center Back,19,Senegal,3857301,0,0,12,0,0,1,0,0,0
+182,Tarek Salman Salman,Left Wing Back,13,Qatar,3857301,0,0,11,1,0,0,0,0,0
+183,Mohammed Waed Abdulwahhab Al Bayati,Left Center Back,13,Qatar,3857301,0,0,8,0,0,0,0,0,0
+184,John Stones,Right Center Back,94,England,3857272,0,1,90,0,0,3,1,0,0
+185,Harry Maguire,Left Center Back,94,England,3857272,0,1,79,1,0,1,2,0,0
+186,Luke Shaw,Left Back,94,England,3857272,0,0,83,0,1,2,2,0,0
+187,Walker Zimmerman,Right Center Back,94,United States,3857272,0,0,70,0,0,2,1,0,0
+188,Kieran Trippier,Right Back,94,England,3857272,0,0,74,1,0,1,2,0,0
+189,Tim Ream,Left Center Back,94,United States,3857272,0,0,54,0,0,2,0,0,0
+190,Sergino Dest,Right Back,77,United States,3857272,0,1,40,1,0,4,3,0,0
+191,Antonee Robinson,Left Back,94,United States,3857272,0,0,41,1,1,2,0,0,0
+192,Shaquell Moore,Right Back,17,United States,3857272,0,0,14,0,0,0,3,0,0
+193,Piero Martín Hincapié Reyna,Left Center Back,96,Ecuador,3857274,0,0,44,0,2,1,3,0,0
+194,Denzel Dumfries,Right Wing Back,96,Netherlands,3857274,0,0,30,4,0,2,4,0,0
+195,Felix Eduardo Torres Caicedo,Center Back,96,Ecuador,3857274,0,0,64,1,1,0,0,0,0
+196,Angelo Smit Preciado Quiñónez,Right Wing Back,96,Ecuador,3857274,0,3,37,2,1,1,0,0,0
+197,Nathan Aké,Left Center Back,96,Netherlands,3857274,0,0,82,1,0,2,0,0,0
+198,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3857274,0,0,64,4,0,2,6,0,0
+199,Daley Blind,Left Wing Back,96,Netherlands,3857274,0,0,66,0,0,1,0,0,0
+200,Virgil van Dijk,Center Back,96,Netherlands,3857274,0,0,55,0,0,2,0,0,0
+201,Pervis Josué Estupiñán Tenorio,Left Wing Back,96,Ecuador,3857274,0,2,59,2,3,5,2,0,0
+202,Jackson Gabriel Porozo Vernaza,Right Center Back,96,Ecuador,3857274,0,0,37,2,2,3,0,0,0
+203,Aziz Eraltay Behich,Left Back,96,Australia,3857288,0,0,42,1,0,3,1,0,0
+204,Kye Rowles,Left Center Back,96,Australia,3857288,0,0,33,1,0,1,1,0,0
+205,Montassar Omar Talbi,Left Center Back,96,Tunisia,3857288,0,1,58,1,0,6,3,0,0
+206,Yassine Meriah,Center Back,96,Tunisia,3857288,0,0,80,0,0,4,0,0,0
+207,Ali Abdi,Left Wing Back,96,Tunisia,3857288,0,0,64,1,1,1,4,1,0
+208,Fran Karačić,Right Back,74,Australia,3857288,0,3,39,1,0,2,2,0,0
+209,Mohamed Dräger,Right Wing Back,49,Tunisia,3857288,0,2,20,0,1,1,2,0,0
+210,Dylan Daniel Mahmoud Bronn,Right Center Back,72,Tunisia,3857288,0,0,54,1,1,2,1,0,0
+211,Harry Souttar,Right Center Back,96,Australia,3857288,0,0,34,0,0,5,0,0,0
+212,Wajdi Kechrida,Right Back,24,Tunisia,3857288,0,0,18,0,0,0,0,0,0
+213,Miloš Degenek,Right Back,22,Australia,3857288,0,0,7,0,0,1,0,0,0
+214,Nicolás Hernán Otamendi,Right Center Back,96,Argentina,3857289,0,0,84,2,0,2,3,0,0
+215,Gonzalo Ariel Montiel,Right Back,62,Argentina,3857289,0,0,53,0,0,2,2,1,0
+216,Marcos Javier Acuña,Left Back,96,Argentina,3857289,0,0,37,2,0,3,1,0,0
+217,Lisandro Martínez,Left Center Back,96,Argentina,3857289,0,0,56,1,0,1,2,0,0
+218,Jesús Daniel Gallardo Vasconcelos,Left Wing Back,96,Mexico,3857289,0,0,28,0,0,1,2,0,0
+219,Héctor Alfredo Moreno Herrera,Left Center Back,96,Mexico,3857289,0,0,48,1,1,1,1,0,0
+220,Néstor Alejandro Araújo Razo,Right Center Back,96,Mexico,3857289,0,0,56,1,1,0,2,1,0
+221,Kevin Nahin Álvarez Campos,Right Wing Back,65,Mexico,3857289,0,0,17,0,2,2,0,0,0
+222,César Jasib Montes Castro,Center Back,96,Mexico,3857289,0,1,58,1,0,0,0,0,0
+223,Nahuel Molina Lucero,Right Back,34,Argentina,3857289,0,1,13,0,0,0,0,0,0
+224,Cristian Gabriel Romero,Center Back,28,Argentina,3857289,0,0,4,0,0,0,0,0,0
+225,Rasmus Nissen Kristensen,Right Wing Back,91,Denmark,3857266,0,0,76,2,0,1,2,0,0
+226,Joakim Mæhle,Left Wing Back,96,Denmark,3857266,0,1,43,0,1,3,0,0,0
+227,Victor Nelsson,Left Center Back,96,Denmark,3857266,0,0,72,0,1,2,0,0,0
+228,Andreas Christensen,Center Back,96,Denmark,3857266,1,1,72,0,0,1,1,1,0
+229,Joachim Andersen,Right Center Back,96,Denmark,3857266,0,2,46,1,0,0,2,0,0
+230,Jules Koundé,Right Back,96,France,3857266,0,2,68,1,1,1,1,1,0
+231,Dayotchanculle Upamecano,Left Center Back,96,France,3857266,0,0,58,4,2,2,0,0,0
+232,Theo Bernard François Hernández,Left Back,96,France,3857266,0,0,72,0,0,3,0,0,0
+233,Raphaël Varane,Right Center Back,73,France,3857266,0,1,38,0,0,2,0,0,0
+234,Ibrahima Konaté,Right Center Back,23,France,3857266,0,0,13,0,0,0,0,0,0
+235,Alexander Hartmann Bah,Right Wing Back,5,Denmark,3857266,0,0,7,1,0,0,1,0,0
+236,Jakub Piotr Kiwior,Left Center Back,97,Poland,3857297,0,0,36,0,0,3,1,1,0
+237,Mohammed Al Burayk,Left Back,64,Saudi Arabia,3857297,0,2,47,1,0,0,0,0,0
+238,Ali Albulayhi,Left Center Back,97,Saudi Arabia,3857297,0,0,59,2,1,1,0,0,0
+239,Abdulelah Al Amri,Right Center Back,97,Saudi Arabia,3857297,0,0,59,1,1,3,2,1,0
+240,Saud Abdullah Abdul Hamid,Right Back,97,Saudi Arabia,3857297,0,1,65,1,0,2,1,0,0
+241,Matty Cash,Right Back,97,Poland,3857297,0,0,40,0,0,0,4,1,0
+242,Bartosz Bereszyński,Left Back,97,Poland,3857297,0,0,32,0,0,2,0,0,0
+243,Kamil Glik,Right Center Back,97,Poland,3857297,0,0,29,0,1,2,0,0,0
+244,Sultan Abdullah Salim Al Ghannam,Right Back,33,Saudi Arabia,3857297,0,0,15,0,1,0,1,0,0
+245,Borna Sosa,Left Back,95,Croatia,3857281,0,0,57,2,0,1,1,0,0
+246,Joško Gvardiol,Left Center Back,95,Croatia,3857281,0,0,51,2,2,1,1,0,0
+247,Dejan Lovren,Right Center Back,95,Croatia,3857281,0,0,45,1,2,0,2,1,0
+248,Kamal Miller,Left Center Back,95,Canada,3857281,0,0,66,0,1,0,0,0,0
+249,Alistair Johnston,Right Back,95,Canada,3857281,0,0,64,1,1,3,0,0,0
+250,Steven de Sousa Vitoria,Right Center Back,95,Canada,3857281,0,0,54,0,0,1,2,0,0
+251,Josip Juranović,Right Back,95,Croatia,3857281,0,0,51,0,1,1,0,0,0
+252,Richie Laryea,Left Back,61,Canada,3857281,0,0,21,0,0,2,1,0,0
+253,David Junior Hoilett,Right Wing Back,34,Canada,3857281,0,3,17,0,0,0,0,0,0
+254,Sam Adekugbe,Left Wing Back,23,Canada,3857281,0,0,13,0,0,0,0,0,0
+255,Toby Alderweireld,Right Center Back,95,Belgium,3857283,0,0,100,0,0,0,0,0,0
+256,Jan Vertonghen,Left Center Back,95,Belgium,3857283,0,1,104,0,0,0,0,0,0
+257,Thomas Meunier,Right Back,80,Belgium,3857283,0,1,48,2,0,1,2,0,0
+258,Timothy Castagne,Left Back,95,Belgium,3857283,0,0,75,1,0,0,1,0,0
+259,Romain Saïss,Left Center Back,95,Morocco,3857283,1,1,39,3,0,0,2,0,0
+260,Nayef Aguerd,Right Center Back,95,Morocco,3857283,0,0,42,0,1,2,1,0,0
+261,Achraf Hakimi Mouh,Right Back,66,Morocco,3857283,0,1,38,1,0,3,0,0,0
+262,Noussair Mazraoui,Left Back,95,Morocco,3857283,0,1,31,0,0,4,1,0,0
+263,Abdelhamid Sabiri,Right Back,29,Morocco,3857283,0,0,6,0,1,1,2,1,0
+264,Jawad El Yamiq,Right Center Back,18,Morocco,3857283,0,0,2,0,0,0,1,0,0
+265,Aymeric Laporte,Left Center Back,95,Spain,3857263,0,0,98,0,1,0,0,0,0
+266,Rodrigo Hernández Cascante,Right Center Back,95,Spain,3857263,0,0,105,1,0,3,2,0,0
+267,Niklas Süle,Right Center Back,95,Germany,3857263,0,0,47,3,0,3,0,0,0
+268,Jordi Alba Ramos,Left Back,81,Spain,3857263,0,1,82,3,1,3,1,0,0
+269,Daniel Carvajal Ramos,Right Back,95,Spain,3857263,0,0,74,1,0,1,0,0,0
+270,Thilo Kehrer,Right Back,69,Germany,3857263,0,0,28,4,2,2,4,1,0
+271,Antonio Rüdiger,Left Center Back,95,Germany,3857263,0,2,48,1,0,1,0,0,0
+272,David Raum,Left Back,86,Germany,3857263,0,0,46,1,5,5,2,0,0
+273,Lukas Klostermann,Right Back,26,Germany,3857263,0,0,9,0,0,0,0,0,0
+274,Alejandro Balde Martínez,Left Back,14,Spain,3857263,0,0,9,1,0,0,0,0,0
+275,Nico Schlotterbeck,Left Back,9,Germany,3857263,0,0,4,0,0,0,1,0,0
+276,Francisco Javier Calvo Quesada,Left Center Back,96,Costa Rica,3857295,0,1,75,1,3,4,3,1,0
+277,Yuto Nagatomo,Left Back,45,Japan,3857295,0,0,48,0,1,0,4,0,0
+278,Óscar Esau Duarte Gaitán,Right Center Back,96,Costa Rica,3857295,0,0,48,1,1,3,0,0,0
+279,Kendall Jamaal Waston Manley,Center Back,96,Costa Rica,3857295,0,0,42,1,0,0,1,0,0
+280,Bryan Oviedo,Left Wing Back,96,Costa Rica,3857295,0,0,43,1,1,3,2,0,0
+281,Ko Itakura,Right Center Back,96,Japan,3857295,0,1,68,2,1,1,1,1,0
+282,Maya Yoshida,Left Center Back,96,Japan,3857295,0,0,117,1,0,3,0,0,0
+283,Miki Yamane,Right Back,61,Japan,3857295,0,0,33,0,0,2,3,1,0
+284,Keysher Fuller Spence,Right Wing Back,96,Costa Rica,3857295,1,1,24,1,0,0,2,0,0
+285,Hiroki Ito,Left Center Back,51,Japan,3857295,0,0,63,0,0,0,3,0,0
+286,Kaoru Mitoma,Left Wing Back,35,Japan,3857295,0,0,14,0,0,0,1,0,0
+287,Moon-Hwan Kim,Right Back,100,South Korea,3857299,0,0,89,2,1,3,1,0,0
+288,Young-Gwon Kim,Left Center Back,100,South Korea,3857299,0,1,66,0,0,0,1,1,0
+289,Jin-Su Kim,Left Back,100,South Korea,3857299,0,3,50,1,0,2,1,0,0
+290,Daniel Amartey,Right Center Back,100,Ghana,3857299,0,0,37,2,1,4,1,1,0
+291,Gideon Mensah,Left Back,87,Ghana,3857299,0,0,45,0,0,2,0,0,0
+292,Mohamed Salisu,Left Center Back,100,Ghana,3857299,1,1,43,0,0,4,1,0,0
+293,Min Jae Kim,Right Center Back,91,South Korea,3857299,0,1,70,0,0,2,0,0,0
+294,Tariq Lamptey,Right Back,77,Ghana,3857299,0,1,19,3,1,5,2,1,0
+295,Denis Odoi,Right Back,23,Ghana,3857299,0,0,2,0,0,2,0,0,0
+296,Alexander Djiku,Center Back,18,Ghana,3857299,0,0,1,0,0,0,0,0,0
+297,Kyung-Won Kwon,Right Center Back,9,South Korea,3857299,0,1,9,0,0,0,0,0,0
+298,Abdul Rahman Baba,Left Wing Back,13,Ghana,3857299,0,0,0,0,0,0,1,0,0
+299,Strahinja Pavlović,Left Center Back,55,Serbia,3857259,1,1,27,2,0,1,2,0,0
+300,Milos Veljkovic,Center Back,77,Serbia,3857259,0,0,35,2,0,2,0,0,0
+301,Nikola Milenković,Right Center Back,96,Serbia,3857259,0,1,49,0,0,1,4,1,0
+302,Andrija Živković,Right Wing Back,77,Serbia,3857259,0,0,43,0,0,1,1,0,0
+303,Ngoran Suiru Fai Collins,Right Back,96,Cameroon,3857259,0,0,67,1,1,3,2,0,0
+304,Jean-Charles Castelletto,Right Center Back,96,Cameroon,3857259,1,1,33,0,4,3,1,0,0
+305,Nicolas Alexis Julio N'Koulou Ndoubena,Left Center Back,96,Cameroon,3857259,0,2,33,0,0,2,1,1,0
+306,Nouhou Tolo,Left Back,96,Cameroon,3857259,0,0,38,0,2,2,0,0,0
+307,Filip Kostić,Left Wing Back,90,Serbia,3857259,0,1,56,1,1,2,2,0,0
+308,Stefan Mitrović,Left Center Back,41,Serbia,3857259,0,0,19,0,0,1,0,0,0
+309,Srđan Babić,Left Center Back,19,Serbia,3857259,0,0,15,1,0,0,0,0,0
+310,Nemanja Radonjić,Right Wing Back,19,Serbia,3857259,0,0,5,0,0,1,0,0,0
+311,Filip Đuričić,Left Wing Back,6,Serbia,3857259,0,0,3,0,0,0,0,0,0
+312,Manuel Obafemi Akanji,Right Center Back,95,Switzerland,3857269,0,1,74,1,0,2,2,0,0
+313,Nico Elvedi,Left Center Back,95,Switzerland,3857269,0,0,72,0,2,2,2,0,0
+314,Ricardo Iván Rodríguez Araya,Left Back,95,Switzerland,3857269,0,0,56,1,0,0,1,0,0
+315,Marcos Aoás Corrêa,Right Center Back,95,Brazil,3857269,0,1,96,3,0,1,0,0,0
+316,Alex Sandro Lobo Silva,Left Back,85,Brazil,3857269,0,0,74,5,2,4,1,0,0
+317,Thiago Emiliano da Silva,Left Center Back,95,Brazil,3857269,0,1,81,1,3,0,2,0,0
+318,Éder Gabriel Militão,Right Back,95,Brazil,3857269,0,1,67,1,1,2,3,0,0
+319,Silvan Widmer,Right Back,85,Switzerland,3857269,0,1,50,4,0,1,3,0,0
+320,Alex Nicolao Telles,Left Back,10,Brazil,3857269,0,0,11,1,0,0,0,0,0
+321,Fabian Frei,Right Back,10,Switzerland,3857269,0,0,3,1,0,0,0,0,0
+322,José María Giménez de Vargas,Right Center Back,100,Uruguay,3857270,0,1,51,1,1,6,4,0,0
+323,Nuno Mendes,Left Back,41,Portugal,3857270,0,0,34,0,1,1,0,0,0
+324,Rúben Santos Gato Alves Dias,Left Center Back,100,Portugal,3857270,0,0,61,0,0,0,0,0,0
+325,Kléper Laveran Lima Ferreira,Right Center Back,100,Portugal,3857270,0,0,60,1,1,1,0,0,0
+326,Diego Roberto Godín Leal,Center Back,61,Uruguay,3857270,0,0,23,0,0,0,0,0,0
+327,João Pedro Cavaco Cancelo,Right Back,100,Portugal,3857270,0,0,60,1,1,3,1,0,0
+328,Mathías Olivera Miramontes,Left Wing Back,85,Uruguay,3857270,0,2,33,2,1,6,1,0,0
+329,Sebastián Coates Nión,Left Center Back,100,Uruguay,3857270,0,0,50,1,0,4,1,0,0
+330,Guillermo Varela Olivera,Right Wing Back,100,Uruguay,3857270,0,0,33,1,0,1,0,0,0
+331,Raphaël Adelino José Guerreiro,Left Back,59,Portugal,3857270,0,0,28,0,0,2,0,0,0
+332,Matías Nicolás Viña Susperreguy,Left Back,15,Uruguay,3857270,0,0,11,0,0,0,0,0,0
+333,Nathan Aké,Left Center Back,96,Netherlands,3857294,0,0,99,1,0,2,1,1,0
+334,Daley Blind,Left Wing Back,96,Netherlands,3857294,0,2,110,0,0,4,2,0,0
+335,Virgil van Dijk,Center Back,96,Netherlands,3857294,0,0,86,0,0,0,0,0,0
+336,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3857294,0,0,115,1,0,3,2,0,0
+337,Boualem Khoukhi,Center Back,96,Qatar,3857294,0,0,54,0,2,3,0,0,0
+338,Pedro Miguel Correia,Right Center Back,96,Qatar,3857294,0,1,45,2,0,1,0,0,0
+339,Denzel Dumfries,Right Wing Back,96,Netherlands,3857294,0,0,56,0,0,2,4,0,0
+340,Abdelkarim Hassan Al Haj Fadlalla,Left Center Back,96,Qatar,3857294,0,1,45,2,1,3,1,0,0
+341,Ismaeel Mohammad Mohammad,Right Wing Back,84,Qatar,3857294,0,1,29,0,2,1,0,0,0
+342,Homam Alamin Ahmed,Left Wing Back,96,Qatar,3857294,0,0,30,0,0,0,2,0,0
+343,Mosaab Khoder Jibril,Right Wing Back,12,Qatar,3857294,0,0,3,1,0,0,0,0,0
+344,Ben Davies,Left Back,58,Wales,3857261,0,0,29,0,0,0,1,0,0
+345,John Stones,Right Center Back,93,England,3857261,0,2,82,0,1,0,0,0,0
+346,Joe Rodon,Left Center Back,93,Wales,3857261,0,0,46,0,0,1,1,0,0
+347,Chris Mepham,Right Center Back,93,Wales,3857261,0,0,53,3,0,2,3,0,0
+348,Kyle Walker,Right Back,56,England,3857261,0,0,55,0,0,1,1,0,0
+349,Harry Maguire,Left Center Back,93,England,3857261,0,1,87,0,1,2,2,0,0
+350,Luke Shaw,Left Back,64,England,3857261,0,0,60,0,0,0,0,0,0
+351,Neco Williams,Right Back,35,Wales,3857261,0,0,6,0,0,3,2,0,0
+352,Connor Roberts,Right Back,58,Wales,3857261,0,0,30,0,0,2,0,0,0
+353,Trent Alexander-Arnold,Right Back,37,England,3857261,0,0,23,0,1,1,1,0,0
+354,Kieran Trippier,Left Back,29,England,3857261,0,0,17,1,0,1,0,0,0
+355,Ramin Rezaeian,Right Back,99,Iran,3857278,0,0,58,3,1,3,4,0,0
+356,Sergino Dest,Right Back,81,United States,3857278,0,2,55,0,1,1,0,0,0
+357,Milad Mohammadi,Left Back,47,Iran,3857278,0,0,15,1,0,2,0,0,0
+358,Cameron Carter-Vickers,Right Center Back,99,United States,3857278,0,0,55,0,0,1,0,0,0
+359,Tim Ream,Left Center Back,99,United States,3857278,0,0,58,0,1,0,0,0,0
+360,Antonee Robinson,Left Back,99,United States,3857278,0,0,58,0,2,0,1,0,0
+361,Morteza Pouraliganji,Left Center Back,99,Iran,3857278,0,1,72,1,0,3,1,0,0
+362,Seyed Majid Hosseini,Right Center Back,99,Iran,3857278,0,0,57,1,1,2,2,1,0
+363,Abolfazl Jalali,Left Back,28,Iran,3857278,0,0,29,0,0,0,1,1,0
+364,Shaquell Moore,Right Wing Back,18,United States,3857278,0,0,7,0,0,0,0,0,0
+365,Walker Zimmerman,Center Back,18,United States,3857278,0,0,3,0,0,0,0,0,0
+366,Piero Martín Hincapié Reyna,Left Center Back,96,Ecuador,3857267,0,0,83,3,1,2,2,0,0
+367,Ismail Jakobs,Left Back,96,Senegal,3857267,0,0,44,0,1,0,0,0,0
+368,Angelo Smit Preciado Quiñónez,Right Back,84,Ecuador,3857267,0,0,39,2,0,1,6,0,0
+369,Felix Eduardo Torres Caicedo,Right Center Back,96,Ecuador,3857267,0,1,72,0,0,3,1,0,0
+370,Pervis Josué Estupiñán Tenorio,Left Back,96,Ecuador,3857267,0,0,53,0,0,3,2,0,0
+371,Kalidou Koulibaly,Right Center Back,96,Senegal,3857267,1,1,30,1,1,2,0,0,0
+372,Abdou Diallo,Left Center Back,96,Senegal,3857267,0,1,28,0,0,2,0,0,0
+373,Youssouf Sabaly,Right Back,96,Senegal,3857267,0,0,32,0,1,0,0,0,0
+374,Jackson Gabriel Porozo Vernaza,Right Back,12,Ecuador,3857267,0,1,5,0,1,1,1,0,0
+375,Pape Abou Cissé,Right Center Back,2,Senegal,3857267,0,0,0,0,0,0,0,0,0
+376,Jakub Piotr Kiwior,Left Center Back,95,Poland,3857264,0,0,43,1,0,1,0,0,0
+377,Marcos Javier Acuña,Left Back,58,Argentina,3857264,0,2,43,0,0,3,2,1,0
+378,Kamil Glik,Right Center Back,95,Poland,3857264,0,2,34,0,1,2,0,0,0
+379,Bartosz Bereszyński,Left Back,72,Poland,3857264,0,0,29,3,0,2,1,0,0
+380,Nahuel Molina Lucero,Right Back,95,Argentina,3857264,0,0,78,1,0,4,1,0,0
+381,Cristian Gabriel Romero,Right Center Back,95,Argentina,3857264,0,0,76,1,0,0,3,0,0
+382,Nicolás Hernán Otamendi,Left Center Back,95,Argentina,3857264,0,0,93,1,0,1,2,0,0
+383,Matty Cash,Right Back,95,Poland,3857264,0,0,35,0,0,4,0,0,0
+384,Nicolás Alejandro Tagliafico,Left Back,37,Argentina,3857264,0,1,38,0,0,0,0,0,0
+385,Artur Jędrzejczyk,Left Back,23,Poland,3857264,0,0,5,0,0,0,0,0,0
+386,Germán Alejandro Pezzella,Center Back,17,Argentina,3857264,0,0,18,0,0,0,0,0,0
+387,Wajdi Kechrida,Right Wing Back,102,Tunisia,3857275,0,0,47,1,0,2,2,1,0
+388,Yassine Meriah,Right Center Back,102,Tunisia,3857275,0,0,35,1,1,1,1,0,0
+389,Nader Ghandri,Center Back,102,Tunisia,3857275,0,0,30,1,0,4,0,0,0
+390,Montassar Omar Talbi,Left Center Back,102,Tunisia,3857275,0,0,29,1,1,1,0,0,0
+391,Ali Maâloul,Left Wing Back,102,Tunisia,3857275,0,0,61,1,0,2,0,0,0
+392,Raphaël Varane,Right Center Back,62,France,3857275,0,0,46,0,0,0,0,0,0
+393,Axel Disasi,Right Back,102,France,3857275,0,1,72,3,1,0,0,0,0
+394,Ibrahima Konaté,Left Center Back,102,France,3857275,0,0,68,6,0,2,0,0,0
+395,Eduardo Camavinga,Left Back,102,France,3857275,0,0,79,6,0,6,1,0,0
+396,William Saliba,Right Center Back,40,France,3857275,0,0,37,0,0,0,0,0,0
+397,Jorge Eduardo Sánchez Ramos,Right Back,85,Mexico,3857260,0,0,34,0,1,2,2,0,0
+398,César Jasib Montes Castro,Right Center Back,97,Mexico,3857260,0,0,67,2,0,0,2,0,0
+399,Héctor Alfredo Moreno Herrera,Left Center Back,97,Mexico,3857260,0,0,61,0,0,2,1,0,0
+400,Ali Albulayhi,Left Back,36,Saudi Arabia,3857260,0,0,14,1,0,0,0,0,0
+401,Abdulelah Al Amri,Right Center Back,97,Saudi Arabia,3857260,0,1,41,0,2,3,2,1,0
+402,Sultan Abdullah Salim Al Ghannam,Right Back,87,Saudi Arabia,3857260,0,2,36,0,1,4,1,0,0
+403,Jesús Daniel Gallardo Vasconcelos,Left Back,97,Mexico,3857260,0,1,57,2,1,2,1,0,0
+404,Hassan Mohammed Al-Tambakti,Left Center Back,97,Saudi Arabia,3857260,0,0,20,2,1,4,2,1,0
+405,Abdullah Mohammed Madu,Left Center Back,52,Saudi Arabia,3857260,0,0,11,1,0,3,1,1,0
+406,Kevin Nahin Álvarez Campos,Right Back,12,Mexico,3857260,0,0,7,0,0,0,0,0,0
+407,Joakim Mæhle,Left Back,69,Denmark,3857257,0,0,50,1,2,0,0,0,0
+408,Andreas Christensen,Left Center Back,96,Denmark,3857257,0,0,96,0,1,1,1,0,0
+409,Joachim Andersen,Right Center Back,96,Denmark,3857257,0,1,121,0,1,0,0,0,0
+410,Rasmus Nissen Kristensen,Right Back,46,Denmark,3857257,0,0,44,0,0,0,0,0,0
+411,Miloš Degenek,Right Back,96,Australia,3857257,0,0,38,3,0,4,1,1,0
+412,Kye Rowles,Left Center Back,96,Australia,3857257,0,0,30,0,1,4,0,0,0
+413,Harry Souttar,Right Center Back,96,Australia,3857257,0,0,19,1,0,2,0,0,0
+414,Aziz Eraltay Behich,Left Back,96,Australia,3857257,0,1,42,1,0,4,1,1,0
+415,Alexander Hartmann Bah,Right Back,51,Denmark,3857257,0,2,43,2,0,2,0,0,0
+416,Robert Skov,Left Back,28,Denmark,3857257,0,0,21,0,1,1,1,1,0
+417,Bailey Wright,Right Center Back,23,Australia,3857257,0,0,4,0,0,0,0,0,0
+418,Nayef Aguerd,Right Center Back,93,Morocco,3857276,0,0,41,1,2,0,0,0,0
+419,Romain Saïss,Left Center Back,93,Morocco,3857276,0,0,39,2,1,0,0,0,0
+420,Achraf Hakimi Mouh,Right Back,84,Morocco,3857276,0,0,58,2,3,3,0,0,0
+421,Noussair Mazraoui,Left Back,93,Morocco,3857276,0,0,22,1,0,1,0,0,0
+422,Kamal Miller,Left Center Back,93,Canada,3857276,0,0,91,1,1,0,0,0,0
+423,Steven de Sousa Vitoria,Right Center Back,93,Canada,3857276,0,0,79,1,0,2,4,1,0
+424,Alistair Johnston,Right Back,93,Canada,3857276,0,1,65,2,1,3,2,0,0
+425,Sam Adekugbe,Left Back,60,Canada,3857276,0,0,37,0,0,1,1,1,0
+426,Jawad El Yamiq,Right Center Back,18,Morocco,3857276,0,0,1,1,0,0,0,0,0
+427,Josip Juranović,Right Back,93,Croatia,3857296,0,1,58,0,1,7,0,0,0
+428,Dejan Lovren,Right Center Back,93,Croatia,3857296,0,0,50,0,0,1,0,0,0
+429,Borna Sosa,Left Back,93,Croatia,3857296,0,2,84,0,0,1,0,0,0
+430,Timothy Castagne,Left Back,93,Belgium,3857296,0,0,83,1,0,2,1,0,0
+431,Thomas Meunier,Right Back,86,Belgium,3857296,0,1,69,1,1,2,0,0,0
+432,Toby Alderweireld,Right Center Back,93,Belgium,3857296,0,0,92,1,0,3,0,0,0
+433,Jan Vertonghen,Left Center Back,93,Belgium,3857296,0,1,89,0,2,2,0,0,0
+434,Joško Gvardiol,Left Center Back,93,Croatia,3857296,0,0,61,2,1,2,2,0,0
+435,Pau Francisco Torres,Left Center Back,96,Spain,3857255,0,0,190,0,0,1,1,0,0
+436,César Azpilicueta Tanco,Right Back,45,Spain,3857255,0,0,73,1,0,1,0,0,0
+437,Rodrigo Hernández Cascante,Right Center Back,96,Spain,3857255,0,0,212,0,1,0,2,0,0
+438,Alejandro Balde Martínez,Left Back,68,Spain,3857255,0,0,63,2,2,1,2,0,0
+439,Junya Ito,Right Wing Back,96,Japan,3857255,0,1,24,2,0,3,0,0,0
+440,Ko Itakura,Right Center Back,96,Japan,3857255,0,1,18,1,0,0,1,1,0
+441,Maya Yoshida,Center Back,96,Japan,3857255,0,0,22,0,2,2,1,1,0
+442,Yuto Nagatomo,Left Wing Back,45,Japan,3857255,0,0,12,1,0,1,0,0,0
+443,Shogo Taniguchi,Left Center Back,96,Japan,3857255,0,0,30,0,0,3,3,1,0
+444,Kaoru Mitoma,Left Wing Back,51,Japan,3857255,0,0,11,1,1,2,2,0,0
+445,Daniel Carvajal Ramos,Right Back,51,Spain,3857255,0,0,61,1,1,0,0,0,0
+446,Jordi Alba Ramos,Left Back,28,Spain,3857255,0,1,56,0,0,0,0,0,0
+447,Antonio Rüdiger,Left Center Back,100,Germany,3857292,0,1,86,0,0,0,0,0,0
+448,Joshua Kimmich,Right Back,100,Germany,3857292,0,1,135,0,4,2,1,0,0
+449,Niklas Süle,Right Center Back,93,Germany,3857292,0,0,103,0,0,1,0,0,0
+450,David Raum,Left Back,65,Germany,3857292,0,0,71,2,0,3,2,0,0
+451,Keysher Fuller Spence,Right Wing Back,73,Costa Rica,3857292,0,2,22,0,0,0,0,0,0
+452,Juan Pablo Vargas Campos,Left Center Back,100,Costa Rica,3857292,0,1,28,3,2,1,0,0,0
+453,Óscar Esau Duarte Gaitán,Center Back,100,Costa Rica,3857292,0,0,22,1,0,1,1,1,0
+454,Kendall Jamaal Waston Manley,Right Center Back,100,Costa Rica,3857292,0,1,21,1,1,5,0,0,0
+455,Bryan Oviedo,Left Wing Back,92,Costa Rica,3857292,0,0,27,1,1,2,0,0,0
+456,Lukas Klostermann,Right Back,55,Germany,3857292,0,0,38,0,0,0,1,0,0
+457,Youstin Delfin Salas Gómez,Right Wing Back,55,Costa Rica,3857292,0,0,18,3,1,0,0,0,0
+458,Matthias Ginter,Center Back,7,Germany,3857292,0,0,3,0,0,0,0,0,0
+459,Young-Gwon Kim,Left Center Back,80,South Korea,3857262,1,1,39,0,0,1,0,0,0
+460,Jin-Su Kim,Left Back,96,South Korea,3857262,0,0,36,1,0,3,0,0,0
+461,Kyung-Won Kwon,Right Center Back,96,South Korea,3857262,0,0,34,0,2,2,0,0,0
+462,Moon-Hwan Kim,Right Back,96,South Korea,3857262,0,0,38,1,0,1,0,0,0
+463,João Pedro Cavaco Cancelo,Left Back,96,Portugal,3857262,0,2,91,1,2,2,1,0,0
+464,José Diogo Dalot Teixeira,Right Back,96,Portugal,3857262,0,1,66,1,0,3,1,0,0
+465,António João Pereira Albuquerque Tavares Silva,Left Center Back,96,Portugal,3857262,0,0,58,0,0,2,2,0,0
+466,Kléper Laveran Lima Ferreira,Right Center Back,96,Portugal,3857262,0,0,78,0,0,1,0,0,0
+467,Yu-Min Cho,Right Center Back,4,South Korea,3857262,0,0,0,0,0,0,0,0,0
+468,Alex Nicolao Telles,Left Back,54,Brazil,3857280,0,0,33,1,0,0,1,0,0
+469,Gleison Bremer Silva Nascimento,Left Center Back,99,Brazil,3857280,0,0,66,1,0,1,1,0,0
+470,Éder Gabriel Militão,Right Center Back,99,Brazil,3857280,0,1,75,1,0,0,2,1,0
+471,Ngoran Suiru Fai Collins,Right Back,99,Cameroon,3857280,0,0,25,2,0,1,2,1,0
+472,Daniel Alves da Silva,Right Back,99,Brazil,3857280,0,1,80,4,0,1,5,0,0
+473,Nouhou Tolo,Left Back,99,Cameroon,3857280,0,0,22,3,0,2,1,1,0
+474,Enzo Ebosse,Left Center Back,99,Cameroon,3857280,0,0,39,2,0,3,1,0,0
+475,Christopher Wooh,Right Center Back,99,Cameroon,3857280,0,1,33,0,1,4,2,0,0
+476,Marcos Aoás Corrêa,Left Back,45,Brazil,3857280,0,0,32,0,0,1,0,0,0
+477,Mathías Olivera Miramontes,Left Back,100,Uruguay,3857293,0,0,52,3,0,2,1,0,0
+478,Alidu Seidu,Right Back,100,Ghana,3857293,0,0,52,4,0,7,2,1,0
+479,Daniel Amartey,Right Center Back,100,Ghana,3857293,0,0,51,1,0,1,1,0,0
+480,Mohamed Salisu,Left Center Back,100,Ghana,3857293,0,0,59,1,1,2,2,0,0
+481,Abdul Rahman Baba,Left Back,100,Ghana,3857293,0,0,61,2,0,3,4,0,0
+482,José María Giménez de Vargas,Right Center Back,100,Uruguay,3857293,0,1,37,0,2,6,0,0,0
+483,Guillermo Varela Olivera,Right Back,100,Uruguay,3857293,0,0,55,2,0,3,2,0,0
+484,Sebastián Coates Nión,Left Center Back,100,Uruguay,3857293,0,1,47,0,0,0,1,1,0
+485,Silvan Widmer,Right Back,99,Switzerland,3857256,0,0,64,2,0,1,1,1,0
+486,Fabian Lukas Schär,Right Center Back,99,Switzerland,3857256,0,1,44,2,0,1,1,1,0
+487,Manuel Obafemi Akanji,Left Center Back,99,Switzerland,3857256,0,1,53,0,2,2,1,0,0
+488,Andrija Živković,Right Wing Back,77,Serbia,3857256,0,1,31,1,1,5,0,0,0
+489,Ricardo Iván Rodríguez Araya,Left Back,99,Switzerland,3857256,0,0,50,0,0,2,1,0,0
+490,Nikola Milenković,Right Center Back,99,Serbia,3857256,0,1,58,2,0,3,2,0,0
+491,Filip Kostić,Left Wing Back,99,Serbia,3857256,0,0,56,0,0,4,2,0,0
+492,Strahinja Pavlović,Left Center Back,99,Serbia,3857256,0,0,85,0,1,3,3,1,0
+493,Milos Veljkovic,Center Back,54,Serbia,3857256,0,0,32,0,0,0,1,0,0
+494,Nemanja Gudelj,Center Back,45,Serbia,3857256,0,0,21,1,0,0,2,1,0
+495,Nemanja Radonjić,Right Wing Back,22,Serbia,3857256,0,1,7,0,0,0,0,0,0
+496,Jurriën David Norman Timber,Right Center Back,96,Netherlands,3869117,0,0,44,3,1,2,3,0,0
+497,Sergino Dest,Right Back,74,United States,3869117,0,2,38,0,1,1,0,0,0
+498,Walker Zimmerman,Right Center Back,96,United States,3869117,0,1,75,0,3,3,1,0,0
+499,Tim Ream,Left Center Back,96,United States,3869117,0,1,84,2,2,1,0,0,0
+500,Antonee Robinson,Left Back,91,United States,3869117,0,0,78,2,1,2,0,0,0
+501,Nathan Aké,Left Center Back,92,Netherlands,3869117,0,0,32,0,0,5,0,0,0
+502,Daley Blind,Left Wing Back,96,Netherlands,3869117,1,2,41,4,1,4,0,0,0
+503,Virgil van Dijk,Center Back,96,Netherlands,3869117,0,1,47,1,0,4,2,0,0
+504,Denzel Dumfries,Right Wing Back,96,Netherlands,3869117,1,1,48,1,0,6,1,0,0
+505,DeAndre Yedlin,Right Back,22,United States,3869117,0,0,12,1,0,0,2,0,0
+506,Jordan Morris,Right Back,5,United States,3869117,0,0,1,0,0,0,0,0,0
+507,Matthijs de Ligt,Left Center Back,4,Netherlands,3869117,0,0,0,0,0,0,0,0,0
+508,Kye Rowles,Left Center Back,97,Australia,3869151,0,0,71,0,0,2,0,0,0
+509,Miloš Degenek,Right Back,71,Australia,3869151,0,0,42,0,0,2,1,1,0
+510,Marcos Javier Acuña,Left Back,71,Argentina,3869151,0,0,60,1,0,2,3,0,0
+511,Nicolás Hernán Otamendi,Left Center Back,97,Argentina,3869151,0,0,96,0,0,0,1,0,0
+512,Cristian Gabriel Romero,Right Center Back,97,Argentina,3869151,0,0,78,1,1,1,1,0,0
+513,Nahuel Molina Lucero,Right Back,79,Argentina,3869151,0,0,61,1,2,1,0,0,0
+514,Aziz Eraltay Behich,Left Back,97,Australia,3869151,0,1,54,0,1,3,1,0,0
+515,Harry Souttar,Right Center Back,97,Australia,3869151,0,1,58,1,1,1,1,0,0
+516,Nicolás Alejandro Tagliafico,Left Wing Back,26,Argentina,3869151,0,1,13,0,0,0,0,0,0
+517,Fran Karačić,Right Back,26,Australia,3869151,0,0,16,1,0,1,1,0,0
+518,Gonzalo Ariel Montiel,Right Wing Back,18,Argentina,3869151,0,0,5,0,0,1,0,0,0
+519,Jules Koundé,Right Back,91,France,3869152,0,1,68,2,0,1,0,0,0
+520,Theo Bernard François Hernández,Left Back,98,France,3869152,0,2,72,1,1,2,1,0,0
+521,Dayotchanculle Upamecano,Left Center Back,98,France,3869152,0,0,59,2,1,6,3,0,0
+522,Raphaël Varane,Right Center Back,98,France,3869152,0,1,42,0,1,1,1,0,0
+523,Kamil Glik,Right Center Back,98,Poland,3869152,0,1,40,1,0,0,1,0,0
+524,Matty Cash,Right Back,98,Poland,3869152,0,1,46,3,1,5,1,1,0
+525,Jakub Piotr Kiwior,Left Center Back,86,Poland,3869152,0,0,74,0,0,0,0,0,0
+526,Bartosz Bereszyński,Left Back,98,Poland,3869152,0,0,51,1,0,3,2,1,0
+527,Jan Bednarek,Left Center Back,12,Poland,3869152,0,0,6,0,0,0,0,0,0
+528,Axel Disasi,Right Back,7,France,3869152,0,0,3,0,0,0,0,0,0
+529,Kalidou Koulibaly,Right Center Back,94,Senegal,3869118,0,0,51,4,0,4,1,1,0
+530,Abdou Diallo,Left Center Back,94,Senegal,3869118,0,0,53,0,0,0,2,0,0
+531,Youssouf Sabaly,Right Back,94,Senegal,3869118,0,0,41,0,1,2,0,0,0
+532,Luke Shaw,Left Back,94,England,3869118,0,0,67,1,0,2,3,0,0
+533,Harry Maguire,Left Center Back,94,England,3869118,0,0,75,2,0,1,1,0,0
+534,John Stones,Right Center Back,76,England,3869118,0,1,89,0,1,1,1,0,0
+535,Kyle Walker,Right Back,94,England,3869118,0,0,76,0,2,2,2,0,0
+536,Ismail Jakobs,Left Back,83,Senegal,3869118,0,0,39,0,1,1,0,0,0
+537,Eric Dier,Right Center Back,18,England,3869118,0,0,13,1,0,0,1,0,0
+538,Fodé Ballo Touré,Left Back,11,Senegal,3869118,0,0,8,0,0,1,0,0,0
+539,Young-Gwon Kim,Left Center Back,93,South Korea,3869253,0,0,62,2,2,2,0,0,0
+540,Min Jae Kim,Right Center Back,93,South Korea,3869253,0,0,65,0,2,2,0,0,0
+541,Thiago Emiliano da Silva,Left Center Back,93,Brazil,3869253,0,0,86,1,2,0,0,0,0
+542,Jin-Su Kim,Left Back,48,South Korea,3869253,0,0,26,0,2,0,0,0,0
+543,Marcos Aoás Corrêa,Right Center Back,93,Brazil,3869253,0,0,72,0,0,0,0,0,0
+544,Danilo Luiz da Silva,Left Back,71,Brazil,3869253,0,0,74,1,0,0,1,0,0
+545,Moon-Hwan Kim,Right Back,93,South Korea,3869253,0,0,52,4,1,3,0,0,0
+546,Éder Gabriel Militão,Right Back,62,Brazil,3869253,0,0,48,3,0,3,0,0,0
+547,Chul Hong,Left Back,48,South Korea,3869253,0,0,20,0,1,3,0,0,0
+548,Daniel Alves da Silva,Right Back,31,Brazil,3869253,0,2,19,0,0,0,0,0,0
+549,Gleison Bremer Silva Nascimento,Left Back,22,Brazil,3869253,0,1,19,0,0,0,1,0,0
+550,Dejan Lovren,Right Center Back,120,Croatia,3869219,0,0,103,0,1,1,1,0,0
+551,Joško Gvardiol,Left Center Back,120,Croatia,3869219,0,1,88,2,0,2,1,0,0
+552,Borna Barišić,Left Back,120,Croatia,3869219,0,1,67,1,0,8,5,1,0
+553,Josip Juranović,Right Back,120,Croatia,3869219,0,0,98,0,0,2,0,0,0
+554,Yuto Nagatomo,Left Wing Back,63,Japan,3869219,0,0,34,2,0,1,2,0,0
+555,Takehiro Tomiyasu,Right Center Back,120,Japan,3869219,0,0,75,1,1,5,1,0,0
+556,Junya Ito,Right Wing Back,120,Japan,3869219,0,0,49,0,2,5,0,0,0
+557,Maya Yoshida,Center Back,120,Japan,3869219,0,0,48,1,3,3,2,0,0
+558,Shogo Taniguchi,Left Center Back,120,Japan,3869219,0,2,56,0,0,0,0,0,0
+559,Kaoru Mitoma,Left Wing Back,57,Japan,3869219,0,1,31,1,0,2,0,0,0
+560,Hiroki Sakai,Right Wing Back,47,Japan,3869219,0,0,22,0,0,1,2,0,0
+561,Manuel Obafemi Akanji,Right Center Back,94,Switzerland,3869254,1,1,63,0,1,2,2,0,0
+562,Ricardo Iván Rodríguez Araya,Left Center Back,94,Switzerland,3869254,0,0,64,1,0,3,0,0,0
+563,José Diogo Dalot Teixeira,Right Back,94,Portugal,3869254,0,0,36,3,1,6,0,0,0
+564,Rúben Santos Gato Alves Dias,Left Center Back,94,Portugal,3869254,0,1,45,1,1,0,2,0,0
+565,Kléper Laveran Lima Ferreira,Right Center Back,94,Portugal,3869254,1,2,53,0,1,2,2,0,0
+566,Raphaël Adelino José Guerreiro,Left Back,94,Portugal,3869254,1,2,49,0,1,2,2,0,0
+567,Edimilson Fernandes,Right Wing Back,94,Switzerland,3869254,0,0,53,0,0,0,0,0,0
+568,Fabian Lukas Schär,Center Back,47,Switzerland,3869254,0,1,36,0,1,0,1,1,0
+569,Ruben Vargas,Left Wing Back,65,Switzerland,3869254,0,0,35,0,0,1,0,0,0
+570,Eray Ervin Cömert,Center Back,49,Switzerland,3869254,0,0,38,0,1,1,4,1,0
+571,Aymeric Laporte,Left Center Back,122,Spain,3869220,0,1,180,0,0,0,1,1,0
+572,Rodrigo Hernández Cascante,Right Center Back,122,Spain,3869220,0,1,220,2,2,3,2,0,0
+573,Marcos Llorente Moreno,Right Back,122,Spain,3869220,0,1,104,1,1,0,1,0,0
+574,Jordi Alba Ramos,Left Back,97,Spain,3869220,0,0,114,0,1,0,2,0,0
+575,Noussair Mazraoui,Left Back,82,Morocco,3869220,0,1,26,3,0,0,1,0,0
+576,Nayef Aguerd,Right Center Back,84,Morocco,3869220,0,1,24,2,0,0,1,0,0
+577,Achraf Hakimi Mouh,Right Back,122,Morocco,3869220,0,1,54,3,1,2,3,0,0
+578,Romain Saïss,Left Center Back,122,Morocco,3869220,0,0,32,1,2,6,3,1,0
+579,Jawad El Yamiq,Right Center Back,38,Morocco,3869220,0,0,3,0,0,2,0,0,0
+580,Yahia Attiyat allah,Left Back,40,Morocco,3869220,0,0,11,1,0,2,1,0,0
+581,Alejandro Balde Martínez,Left Back,25,Spain,3869220,0,1,15,0,0,1,0,0,0
+582,Badr Banoun,Left Center Back,3,Morocco,3869220,0,0,0,0,0,1,0,0,0
+583,Nathan Aké,Left Center Back,121,Netherlands,3869321,0,0,75,1,4,1,2,0,0
+584,Denzel Dumfries,Right Wing Back,121,Netherlands,3869321,0,1,41,2,0,2,7,0,0
+585,Nicolás Hernán Otamendi,Center Back,121,Argentina,3869321,0,0,87,0,1,0,3,0,0
+586,Cristian Gabriel Romero,Right Center Back,77,Argentina,3869321,0,0,48,0,0,1,2,1,0
+587,Nahuel Molina Lucero,Right Wing Back,105,Argentina,3869321,1,1,44,1,2,2,0,0,0
+588,Virgil van Dijk,Center Back,121,Netherlands,3869321,0,0,94,1,2,1,2,0,0
+589,Jurriën David Norman Timber,Right Center Back,121,Netherlands,3869321,0,0,93,1,2,1,5,0,0
+590,Daley Blind,Left Wing Back,64,Netherlands,3869321,0,0,29,2,2,0,0,0,0
+591,Marcos Javier Acuña,Left Wing Back,77,Argentina,3869321,0,0,26,4,1,1,1,1,0
+592,Lisandro Martínez,Left Center Back,111,Argentina,3869321,0,0,38,1,1,1,0,0,0
+593,Germán Alejandro Pezzella,Right Center Back,44,Argentina,3869321,0,1,30,0,0,0,2,1,0
+594,Nicolás Alejandro Tagliafico,Left Wing Back,44,Argentina,3869321,0,0,11,0,0,1,1,0,0
+595,Gonzalo Ariel Montiel,Right Wing Back,16,Argentina,3869321,0,0,11,0,0,1,0,0,0
+596,Dejan Lovren,Right Center Back,122,Croatia,3869420,0,0,89,1,3,1,0,0,0
+597,Josip Juranović,Right Back,122,Croatia,3869420,0,0,79,3,1,3,0,0,0
+598,Danilo Luiz da Silva,Left Back,122,Brazil,3869420,0,1,109,0,1,2,2,1,0
+599,Thiago Emiliano da Silva,Left Center Back,122,Brazil,3869420,0,0,96,2,0,3,0,0,0
+600,Marcos Aoás Corrêa,Right Center Back,122,Brazil,3869420,0,0,95,0,1,2,1,1,0
+601,Éder Gabriel Militão,Right Back,105,Brazil,3869420,0,3,87,3,1,3,2,0,0
+602,Borna Sosa,Left Back,109,Croatia,3869420,0,0,40,1,0,2,2,0,0
+603,Joško Gvardiol,Left Center Back,122,Croatia,3869420,0,0,63,1,1,3,1,0,0
+604,Alex Sandro Lobo Silva,Left Back,17,Brazil,3869420,0,0,5,1,0,0,1,0,0
+605,Kléper Laveran Lima Ferreira,Right Center Back,97,Portugal,3869486,0,1,104,0,1,0,1,0,0
+606,Rúben Santos Gato Alves Dias,Left Center Back,97,Portugal,3869486,0,0,94,2,1,0,1,0,0
+607,Achraf Hakimi Mouh,Right Back,97,Morocco,3869486,0,0,34,1,1,2,3,0,0
+608,Raphaël Adelino José Guerreiro,Left Back,50,Portugal,3869486,0,1,32,1,0,1,0,0,0
+609,Jawad El Yamiq,Right Center Back,97,Morocco,3869486,0,0,24,1,0,4,0,0,0
+610,José Diogo Dalot Teixeira,Right Back,78,Portugal,3869486,0,0,40,1,1,1,0,0,0
+611,Yahia Attiyat allah,Left Back,97,Morocco,3869486,0,1,25,1,0,2,2,0,0
+612,Romain Saïss,Left Center Back,56,Morocco,3869486,0,0,15,0,0,1,0,0,0
+613,João Pedro Cavaco Cancelo,Left Back,47,Portugal,3869486,0,0,47,1,0,1,0,0,0
+614,Achraf Dari,Right Center Back,41,Morocco,3869486,0,0,7,0,0,2,1,1,0
+615,Badr Banoun,Center Back,33,Morocco,3869486,0,0,0,0,0,0,1,0,0
+616,Harry Maguire,Left Center Back,100,England,3869354,0,2,95,1,1,0,1,1,0
+617,John Stones,Right Center Back,97,England,3869354,0,0,70,1,0,2,0,0,0
+618,Luke Shaw,Left Back,100,England,3869354,0,2,74,1,0,0,0,0,0
+619,Jules Koundé,Right Back,100,France,3869354,0,0,49,0,0,5,0,0,0
+620,Dayotchanculle Upamecano,Left Center Back,100,France,3869354,0,0,46,0,2,2,0,0,0
+621,Theo Bernard François Hernández,Left Back,100,France,3869354,0,0,39,2,0,1,2,1,0
+622,Raphaël Varane,Right Center Back,100,France,3869354,0,0,37,0,0,2,0,0,0
+623,Kyle Walker,Right Back,100,England,3869354,0,0,46,1,2,1,0,0,0
+624,Dejan Lovren,Right Center Back,94,Croatia,3869519,0,3,74,1,0,2,0,0,0
+625,Nicolás Hernán Otamendi,Left Center Back,94,Argentina,3869519,0,0,41,1,1,3,2,0,0
+626,Josip Juranović,Right Back,94,Croatia,3869519,0,0,64,3,0,0,1,0,0
+627,Borna Sosa,Left Back,47,Croatia,3869519,0,0,34,0,0,1,0,0,0
+628,Joško Gvardiol,Left Center Back,94,Croatia,3869519,0,0,65,4,1,1,0,0,0
+629,Nicolás Alejandro Tagliafico,Left Back,94,Argentina,3869519,0,0,30,0,0,6,3,0,0
+630,Cristian Gabriel Romero,Right Center Back,94,Argentina,3869519,0,0,34,1,0,2,3,1,0
+631,Nahuel Molina Lucero,Right Back,85,Argentina,3869519,0,0,40,0,0,0,0,0,0
+632,Lisandro Martínez,Left Center Back,33,Argentina,3869519,0,0,9,1,0,0,0,0,0
+633,Juan Marcos Foyth,Right Wing Back,9,Argentina,3869519,0,0,4,0,0,0,0,0,0
+634,Achraf Dari,Right Center Back,95,Morocco,3869552,0,0,69,1,1,4,2,0,0
+635,Jawad El Yamiq,Left Center Back,95,Morocco,3869552,0,1,95,0,0,1,0,0,0
+636,Romain Saïss,Center Back,20,Morocco,3869552,0,0,17,0,0,0,0,0,0
+637,Jules Koundé,Right Back,95,France,3869552,0,1,48,1,1,3,2,0,0
+638,Noussair Mazraoui,Left Wing Back,46,Morocco,3869552,0,0,22,1,0,1,0,0,0
+639,Achraf Hakimi Mouh,Right Wing Back,95,Morocco,3869552,0,1,72,2,1,1,1,0,0
+640,Theo Bernard François Hernández,Left Back,95,France,3869552,1,1,34,4,2,2,0,0,0
+641,Ibrahima Konaté,Left Center Back,95,France,3869552,0,0,48,0,3,4,2,0,0
+642,Raphaël Varane,Right Center Back,95,France,3869552,0,1,56,1,1,0,0,0,0
+643,Yahia Attiyat allah,Left Back,50,Morocco,3869552,0,1,26,1,0,0,3,0,0
+644,Joško Gvardiol,Left Center Back,96,Croatia,3869684,1,1,67,0,1,1,3,0,0
+645,Josip Stanišić,Right Back,96,Croatia,3869684,0,1,49,3,0,2,1,0,0
+646,Josip Šutalo,Right Center Back,96,Croatia,3869684,0,0,66,0,0,1,0,0,0
+647,Ivan Perišić,Left Back,96,Croatia,3869684,0,0,50,3,0,0,0,0,0
+648,Jawad El Yamiq,Right Center Back,66,Morocco,3869684,0,0,35,0,0,1,1,0,0
+649,Achraf Hakimi Mouh,Right Back,96,Morocco,3869684,0,0,73,1,2,0,2,0,0
+650,Yahia Attiyat allah,Left Back,96,Morocco,3869684,0,0,51,0,0,0,2,0,0
+651,Achraf Dari,Left Center Back,63,Morocco,3869684,1,1,31,0,1,1,0,0,0
+652,Badr Banoun,Left Center Back,33,Morocco,3869684,0,0,21,0,1,1,1,0,0
+653,Nahuel Molina Lucero,Right Back,95,Argentina,3869685,0,0,56,0,0,2,0,0,0
+654,Cristian Gabriel Romero,Right Center Back,123,Argentina,3869685,0,0,71,1,2,4,3,0,0
+655,Nicolás Hernán Otamendi,Left Center Back,123,Argentina,3869685,0,0,75,0,0,1,2,0,0
+656,Nicolás Alejandro Tagliafico,Left Back,120,Argentina,3869685,0,0,56,4,1,1,3,0,0
+657,Theo Bernard François Hernández,Left Back,70,France,3869685,0,0,49,0,0,2,2,0,0
+658,Raphaël Varane,Right Center Back,112,France,3869685,0,0,61,0,0,2,0,0,0
+659,Jules Koundé,Right Back,120,France,3869685,0,0,67,3,1,3,2,0,0
+660,Dayotchanculle Upamecano,Left Center Back,123,France,3869685,0,0,64,1,1,3,1,0,0
+661,Eduardo Camavinga,Left Back,53,France,3869685,0,0,24,4,0,1,1,0,0
+662,Gonzalo Ariel Montiel,Right Back,33,Argentina,3869685,0,1,13,1,0,1,2,1,0
+663,Ibrahima Konaté,Right Center Back,11,France,3869685,0,0,2,0,0,0,0,0,0
+664,Germán Alejandro Pezzella,Center Back,8,Argentina,3869685,0,0,1,0,0,0,0,0,0

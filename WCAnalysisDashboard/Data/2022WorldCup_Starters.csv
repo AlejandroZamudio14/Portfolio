@@ -1,0 +1,1996 @@
+﻿match_id,player,position_id,position,Starter,team,jersey_number,player_abbr
+3857254,Andreas Christensen,5,Left Center Back,TRUE,Denmark,6,Andreas Christensen
+3857254,Simon Thorup Kjær,4,Center Back,TRUE,Denmark,4,Simon Kjær
+3857254,Joachim Andersen,3,Right Center Back,TRUE,Denmark,2,Joachim Andersen
+3857254,Kasper Schmeichel,1,Goalkeeper,TRUE,Denmark,1,Kasper Schmeichel
+3857254,Thomas Delaney,10,Center Defensive Midfield,TRUE,Denmark,8,Thomas Delaney
+3857254,Pierre-Emile Højbjerg,13,Right Center Midfield,TRUE,Denmark,23,Pierre-Emile Højbjerg
+3857254,Aymen Dahmen,1,Goalkeeper,TRUE,Tunisia,16,Aymen Dahmen
+3857254,Kasper Dolberg,24,Left Center Forward,TRUE,Denmark,12,Kasper Dolberg
+3857254,Aïssa Bilal Laïdouni,11,Left Defensive Midfield,TRUE,Tunisia,14,Aïssa Laïdouni
+3857254,Anis Ben Slimane,17,Right Wing,TRUE,Tunisia,25,Anis Ben Slimane
+3857254,Ali Abdi,8,Left Wing Back,TRUE,Tunisia,24,Ali Abdi
+3857254,Ellyes Joris Skhiri,9,Right Defensive Midfield,TRUE,Tunisia,17,Ellyes Skhiri
+3857254,Youssef Msakni,21,Left Wing,TRUE,Tunisia,7,Youssef Msakni
+3857254,Issam Jebali,23,Center Forward,TRUE,Tunisia,9,Issam Jebali
+3857254,Mohamed Dräger,7,Right Wing Back,TRUE,Tunisia,20,Mohamed Dräger
+3857254,Montassar Omar Talbi,5,Left Center Back,TRUE,Tunisia,3,Montassar Talbi
+3857254,Dylan Daniel Mahmoud Bronn,3,Right Center Back,TRUE,Tunisia,6,Dylan Bronn
+3857254,Yassine Meriah,4,Center Back,TRUE,Tunisia,4,Yassine Meriah
+3857254,Andreas Skov Olsen,22,Right Center Forward,TRUE,Denmark,11,Andreas Skov Olsen
+3857254,Christian Dannemann Eriksen,15,Left Center Midfield,TRUE,Denmark,10,Christian Eriksen
+3857254,Naïm Sliti,17,Right Wing,FALSE,Tunisia,23,Naïm Sliti
+3857254,Wajdi Kechrida,7,Right Wing Back,FALSE,Tunisia,21,Wajdi Kechrida
+3857254,Taha Yassine Khenissi,23,Center Forward,FALSE,Tunisia,11,Taha Yassine Khenissi
+3857254,Hannibal Mejbri,17,Right Wing,FALSE,Tunisia,8,Hannibal Mejbri
+3857254,Mikkel Damsgaard,10,Center Defensive Midfield,FALSE,Denmark,14,Mikkel Damsgaard
+3857254,Andreas Evald Cornelius,23,Center Forward,FALSE,Denmark,21,Andreas Cornelius
+3857254,Jesper Lindstrøm,17,Right Wing,FALSE,Denmark,25,Jesper Lindstrøm
+3857254,Mathias Jensen,4,Center Back,FALSE,Denmark,7,Mathias Jensen
+3857254,Ferjani Sassi,11,Left Defensive Midfield,FALSE,Tunisia,13,Ferjani Sassi
+3857254,Rasmus Nissen Kristensen,7,Right Wing Back,TRUE,Denmark,13,Rasmus Kristensen
+3857254,Joakim Mæhle,8,Left Wing Back,TRUE,Denmark,5,Joakim Mæhle
+3857255,Daizen Maeda,23,Center Forward,TRUE,Japan,25,Daizen Maeda
+3857255,Alejandro Balde Martínez,6,Left Back,TRUE,Spain,14,Alejandro Balde
+3857255,Unai Simón Mendibil,1,Goalkeeper,TRUE,Spain,23,Unai Simón
+3857255,Ko Itakura,3,Right Center Back,TRUE,Japan,4,Kō Itakura
+3857255,Nicholas Williams Arthuer,17,Right Wing,TRUE,Spain,12,Nico Williams
+3857255,Shogo Taniguchi,5,Left Center Back,TRUE,Japan,3,Shōgo Taniguchi
+3857255,Maya Yoshida,4,Center Back,TRUE,Japan,22,Maya Yoshida
+3857255,Pedro González López,15,Left Center Midfield,TRUE,Spain,26,Pedri
+3857255,Shūichi Gonda,1,Goalkeeper,TRUE,Japan,12,Shūichi Gonda
+3857255,Álvaro Borja Morata Martín,23,Center Forward,TRUE,Spain,7,Álvaro Morata
+3857255,Junya Ito,7,Right Wing Back,TRUE,Japan,14,Junya Itō
+3857255,Yuto Nagatomo,8,Left Wing Back,TRUE,Japan,5,Yūto Nagatomo
+3857255,Daniel Olmo Carvajal,21,Left Wing,TRUE,Spain,21,Dani Olmo
+3857255,Ao Tanaka,9,Right Defensive Midfield,TRUE,Japan,17,Ao Tanaka
+3857255,Hidemasa Morita,11,Left Defensive Midfield,TRUE,Japan,13,Hidemasa Morita
+3857255,Takefusa Kubo,17,Right Wing,TRUE,Japan,11,Takefusa Kubo
+3857255,Pablo Martín Páez Gavira,13,Right Center Midfield,TRUE,Spain,9,Gavi
+3857255,Rodrigo Hernández Cascante,3,Right Center Back,TRUE,Spain,16,Rodri
+3857255,César Azpilicueta Tanco,2,Right Back,TRUE,Spain,2,César Azpilicueta
+3857255,Pau Francisco Torres,5,Left Center Back,TRUE,Spain,4,Pau Torres
+3857255,Takuma Asano,23,Center Forward,FALSE,Japan,18,Takuma Asano
+3857255,Takehiro Tomiyasu,21,Left Wing,FALSE,Japan,16,Takehiro Tomiyasu
+3857255,Anssumane Fati,21,Left Wing,FALSE,Spain,25,Ansu Fati
+3857255,Jordi Alba Ramos,6,Left Back,FALSE,Spain,18,Jordi Alba
+3857255,Wataru Endo,9,Right Defensive Midfield,FALSE,Japan,6,Wataru Endo
+3857255,Kaoru Mitoma,8,Left Wing Back,FALSE,Japan,9,Kaoru Mitoma
+3857255,Ferrán Torres García,17,Right Wing,FALSE,Spain,11,Ferran Torres
+3857255,Marco Asensio Willemsen,23,Center Forward,FALSE,Spain,10,Marco Asensio
+3857255,Sergio Busquets i Burgos,10,Center Defensive Midfield,TRUE,Spain,5,Sergio Busquets
+3857255,Daniel Carvajal Ramos,2,Right Back,FALSE,Spain,20,Dani Carvajal
+3857255,Ritsu Doan,17,Right Wing,FALSE,Japan,8,Ritsu Dōan
+3857255,Daichi Kamada,21,Left Wing,TRUE,Japan,15,Daichi Kamada
+3857256,Djibril Sow,19,Center Attacking Midfield,TRUE,Switzerland,15,Djibril Sow
+3857256,Fabian Lukas Schär,3,Right Center Back,TRUE,Switzerland,22,Fabian Schär
+3857256,Manuel Obafemi Akanji,5,Left Center Back,TRUE,Switzerland,5,Manuel Akanji
+3857256,Strahinja Pavlović,5,Left Center Back,TRUE,Serbia,2,Strahinja Pavlović
+3857256,Silvan Widmer,2,Right Back,TRUE,Switzerland,3,Silvan Widmer
+3857256,Andrija Živković,7,Right Wing Back,TRUE,Serbia,14,Andrija Živković
+3857256,Noah Okafor,23,Center Forward,FALSE,Switzerland,19,Noah Okafor
+3857256,Filip Đuričić,19,Center Attacking Midfield,FALSE,Serbia,21,Filip Đuričić
+3857256,Denis Lemi Zakaria Lako Lado,9,Right Defensive Midfield,FALSE,Switzerland,6,Denis Zakaria
+3857256,Xherdan Shaqiri,17,Right Wing,TRUE,Switzerland,23,Xherdan Shaqiri
+3857256,Granit Xhaka,11,Left Defensive Midfield,TRUE,Switzerland,10,Granit Xhaka
+3857256,Remo Freuler,9,Right Defensive Midfield,TRUE,Switzerland,8,Remo Freuler
+3857256,Ricardo Iván Rodríguez Araya,6,Left Back,TRUE,Switzerland,13,Ricardo Rodriguez
+3857256,Nemanja Gudelj,4,Center Back,FALSE,Serbia,8,Nemanja Gudelj
+3857256,Luka Jović,22,Right Center Forward,FALSE,Serbia,11,Luka Jović
+3857256,Nemanja Maksimović,9,Right Defensive Midfield,FALSE,Serbia,6,Nemanja Maksimović
+3857256,Edimilson Fernandes,17,Right Wing,FALSE,Switzerland,2,Edimilson Fernandes
+3857256,Milos Veljkovic,4,Center Back,TRUE,Serbia,5,Miloš Veljković
+3857256,Nikola Milenković,3,Right Center Back,TRUE,Serbia,4,Nikola Milenković
+3857256,Vanja Milinković Savić,1,Goalkeeper,TRUE,Serbia,23,Vanja Milinković-Savić
+3857256,Filip Kostić,8,Left Wing Back,TRUE,Serbia,17,Filip Kostić
+3857256,Christian Fassnacht,21,Left Wing,FALSE,Switzerland,16,Christian Fassnacht
+3857256,Gregor Kobel,1,Goalkeeper,TRUE,Switzerland,21,Gregor Kobel
+3857256,Aleksandar Mitrović,24,Left Center Forward,TRUE,Serbia,9,Aleksandar Mitrović
+3857256,Nemanja Radonjić,7,Right Wing Back,FALSE,Serbia,7,Nemanja Radonjić
+3857256,Dušan Tadić,19,Center Attacking Midfield,TRUE,Serbia,10,Dušan Tadić
+3857256,Sergej Milinković-Savić,11,Left Defensive Midfield,TRUE,Serbia,20,Sergej Milinković-Savić
+3857256,Saša Lukić,9,Right Defensive Midfield,TRUE,Serbia,16,Saša Lukić
+3857256,Breel-Donald Embolo,23,Center Forward,TRUE,Switzerland,7,Breel Embolo
+3857256,Ruben Vargas,21,Left Wing,TRUE,Switzerland,17,Rubén Vargas
+3857256,Dušan Vlahović,22,Right Center Forward,TRUE,Serbia,18,Dušan Vlahović
+3857257,Jesper Lindstrøm,21,Left Wing,TRUE,Denmark,25,Jesper Lindstrøm
+3857257,Aaron Mooy,9,Right Defensive Midfield,TRUE,Australia,13,Aaron Mooy
+3857257,Pierre-Emile Højbjerg,10,Center Defensive Midfield,TRUE,Denmark,23,Pierre-Emile Højbjerg
+3857257,Mathias Jensen,13,Right Center Midfield,TRUE,Denmark,7,Mathias Jensen
+3857257,Keanu Baccus,16,Left Midfield,FALSE,Australia,26,Keanu Baccus
+3857257,Ajdin Hrustic,21,Left Wing,FALSE,Australia,10,Ajdin Hrustic
+3857257,Jamie MacLaren,23,Center Forward,FALSE,Australia,9,Jamie Maclaren
+3857257,Bailey Wright,3,Right Center Back,FALSE,Australia,8,Bailey Wright
+3857257,Andreas Evald Cornelius,22,Right Center Forward,FALSE,Denmark,21,Andreas Cornelius
+3857257,Martin Braithwaite Christensen,23,Center Forward,TRUE,Denmark,9,Martin Braithwaite
+3857257,Harry Souttar,3,Right Center Back,TRUE,Australia,19,Harry Soutta
+3857257,Kye Rowles,5,Left Center Back,TRUE,Australia,4,Kye Rowles
+3857257,Christian Dannemann Eriksen,15,Left Center Midfield,TRUE,Denmark,10,Christian Eriksen
+3857257,Andreas Skov Olsen,17,Right Wing,TRUE,Denmark,11,Andreas Skov Olsen
+3857257,Aziz Eraltay Behich,6,Left Back,TRUE,Australia,16,Aziz Behich
+3857257,Joakim Mæhle,6,Left Back,TRUE,Denmark,5,Joakim Mæhle
+3857257,Andreas Christensen,5,Left Center Back,TRUE,Denmark,6,Andreas Christensen
+3857257,Joachim Andersen,3,Right Center Back,TRUE,Denmark,2,Joachim Andersen
+3857257,Alexander Hartmann Bah,2,Right Back,FALSE,Denmark,26,Alexander Bah
+3857257,Rasmus Nissen Kristensen,2,Right Back,TRUE,Denmark,13,Rasmus Kristensen
+3857257,Kasper Dolberg,23,Center Forward,FALSE,Denmark,12,Kasper Dolberg
+3857257,Miloš Degenek,2,Right Back,TRUE,Australia,2,Miloš Degenek
+3857257,Jackson Irvine,11,Left Defensive Midfield,TRUE,Australia,22,Jackson Irvine
+3857257,Mikkel Damsgaard,13,Right Center Midfield,FALSE,Denmark,14,Mikkel Damsgaard
+3857257,Mathew Ryan,1,Goalkeeper,TRUE,Australia,1,Mathew Ryan
+3857257,Robert Skov,6,Left Back,FALSE,Denmark,24,Robert Skov
+3857257,Mitchell Thomas Duke,24,Left Center Forward,TRUE,Australia,15,Mitchell Duke
+3857257,Riley McGree,22,Right Center Forward,TRUE,Australia,14,Riley McGree
+3857257,Craig Goodwin,16,Left Midfield,TRUE,Australia,23,Craig Goodwin
+3857257,Kasper Schmeichel,1,Goalkeeper,TRUE,Denmark,1,Kasper Schmeichel
+3857257,Mathew Leckie,12,Right Midfield,TRUE,Australia,7,Mathew Leckie
+3857258,Dušan Tadić,18,Right Attacking Midfield,TRUE,Serbia,10,Dušan Tadić
+3857258,Aleksandar Mitrović,23,Center Forward,TRUE,Serbia,9,Aleksandar Mitrović
+3857258,Sergej Milinković-Savić,20,Left Attacking Midfield,TRUE,Serbia,20,Sergej Milinković-Savić
+3857258,Marcos Aoás Corrêa,3,Right Center Back,TRUE,Brazil,4,Marquinhos
+3857258,Danilo Luiz da Silva,2,Right Back,TRUE,Brazil,2,Danilo
+3857258,Gabriel Teodoro Martinelli Silva,21,Left Wing,FALSE,Brazil,26,Gabriel Martinelli
+3857258,Ivan Ilić,11,Left Defensive Midfield,FALSE,Serbia,24,Ivan Ilić
+3857258,Nemanja Radonjić,7,Right Wing Back,FALSE,Serbia,7,Nemanja Radonjić
+3857258,Darko Lazović,9,Right Defensive Midfield,FALSE,Serbia,22,Darko Lazović
+3857258,Antony Matheus dos Santos,21,Left Wing,FALSE,Brazil,19,Antony
+3857258,Nemanja Maksimović,10,Center Defensive Midfield,FALSE,Serbia,6,Nemanja Maksimović
+3857258,Carlos Henrique Casimiro,11,Left Defensive Midfield,TRUE,Brazil,5,Casemiro
+3857258,Lucas Tolentino Coelho de Lima,9,Right Defensive Midfield,TRUE,Brazil,7,Lucas Paquetá
+3857258,Alisson Ramsés Becker,1,Goalkeeper,TRUE,Brazil,1,Alisson
+3857258,Thiago Emiliano da Silva,5,Left Center Back,TRUE,Brazil,3,Thiago Silva
+3857258,Alex Sandro Lobo Silva,6,Left Back,TRUE,Brazil,6,Alex Sandro
+3857258,Raphael Dias Belloli,17,Right Wing,TRUE,Brazil,11,Raphinha
+3857258,Gabriel Fernando de Jesus,23,Center Forward,FALSE,Brazil,18,Gabriel Jesus
+3857258,Dušan Vlahović,8,Left Wing Back,FALSE,Serbia,18,Dušan Vlahović
+3857258,Nemanja Gudelj,11,Left Defensive Midfield,TRUE,Serbia,8,Nemanja Gudelj
+3857258,Saša Lukić,9,Right Defensive Midfield,TRUE,Serbia,16,Saša Lukić
+3857258,Filip Mladenović,8,Left Wing Back,TRUE,Serbia,25,Filip Mladenović
+3857258,Andrija Živković,7,Right Wing Back,TRUE,Serbia,14,Andrija Živković
+3857258,Strahinja Pavlović,5,Left Center Back,TRUE,Serbia,2,Strahinja Pavlović
+3857258,Milos Veljkovic,4,Center Back,TRUE,Serbia,5,Miloš Veljković
+3857258,Nikola Milenković,3,Right Center Back,TRUE,Serbia,4,Nikola Milenković
+3857258,Vanja Milinković Savić,1,Goalkeeper,TRUE,Serbia,23,Vanja Milinković-Savić
+3857258,Richarlison de Andrade,23,Center Forward,TRUE,Brazil,9,Richarlison
+3857258,Rodrygo Silva de Goes,21,Left Wing,FALSE,Brazil,21,Rodrygo
+3857258,Frederico Rodrigues Santos,9,Right Defensive Midfield,FALSE,Brazil,8,Fred
+3857258,Neymar da Silva Santos Junior,19,Center Attacking Midfield,TRUE,Brazil,10,Neymar
+3857258,Vinícius José Paixão de Oliveira Júnior,21,Left Wing,TRUE,Brazil,20,Vinícius Júnior
+3857259,Ngoran Suiru Fai Collins,2,Right Back,TRUE,Cameroon,19,Collins Fai
+3857259,Strahinja Pavlović,5,Left Center Back,TRUE,Serbia,2,Strahinja Pavlović
+3857259,Andrija Živković,7,Right Wing Back,TRUE,Serbia,14,Andrija Živković
+3857259,Filip Kostić,8,Left Wing Back,TRUE,Serbia,17,Filip Kostić
+3857259,Nemanja Maksimović,9,Right Defensive Midfield,TRUE,Serbia,6,Nemanja Maksimović
+3857259,Saša Lukić,11,Left Defensive Midfield,TRUE,Serbia,16,Saša Lukić
+3857259,Dušan Tadić,18,Right Attacking Midfield,TRUE,Serbia,10,Dušan Tadić
+3857259,Sergej Milinković-Savić,20,Left Attacking Midfield,TRUE,Serbia,20,Sergej Milinković-Savić
+3857259,Nikola Milenković,3,Right Center Back,TRUE,Serbia,4,Nikola Milenković
+3857259,Christian Mougang Bassogog,17,Right Wing,FALSE,Cameroon,11,Christian Bassogog
+3857259,Vincent Paté Aboubakar,19,Center Attacking Midfield,FALSE,Cameroon,10,Vincent Aboubakar
+3857259,Stefan Mitrović,5,Left Center Back,FALSE,Serbia,13,Stefan Mitrović
+3857259,André-Frank Zambo Anguissa,13,Right Center Midfield,TRUE,Cameroon,8,André-Frank Zambo Anguissa
+3857259,Martin Hongla Yma II,10,Center Defensive Midfield,TRUE,Cameroon,18,Martin Hongla
+3857259,Nouhou Tolo,6,Left Back,TRUE,Cameroon,25,Nouhou Tolo
+3857259,Pierre Kunde Malong,15,Left Center Midfield,TRUE,Cameroon,15,Pierre Kunde
+3857259,Aleksandar Mitrović,23,Center Forward,TRUE,Serbia,9,Aleksandar Mitrović
+3857259,Gaël Ondoua,9,Right Defensive Midfield,FALSE,Cameroon,5,Gaël Ondoua
+3857259,Nemanja Radonjić,7,Right Wing Back,FALSE,Serbia,7,Nemanja Radonjić
+3857259,Srđan Babić,5,Left Center Back,FALSE,Serbia,15,Srđan Babić
+3857259,Marko Grujić,13,Right Center Midfield,FALSE,Serbia,26,Marko Grujić
+3857259,Samuel Yves Oum Gwet,11,Left Defensive Midfield,FALSE,Cameroon,14,Samuel Gouet
+3857259,Georges-Kévin Nkoudou Mbida,21,Left Wing,FALSE,Cameroon,7,Georges-Kévin Nkoudou
+3857259,Filip Đuričić,8,Left Wing Back,FALSE,Serbia,21,Filip Đuričić
+3857259,Milos Veljkovic,4,Center Back,TRUE,Serbia,5,Miloš Veljković
+3857259,Bryan Mbeumo,17,Right Wing,TRUE,Cameroon,20,Bryan Mbeumo
+3857259,Jean-Charles Castelletto,3,Right Center Back,TRUE,Cameroon,21,Jean-Charles Castelletto
+3857259,Nicolas Alexis Julio N'Koulou Ndoubena,5,Left Center Back,TRUE,Cameroon,3,Nicolas Nkoulou
+3857259,Vanja Milinković Savić,1,Goalkeeper,TRUE,Serbia,23,Vanja Milinković-Savić
+3857259,Jean-Eric Maxim Choupo-Moting,23,Center Forward,TRUE,Cameroon,13,Eric Maxim Choupo-Moting
+3857259,Karl Brillant Toko Ekambi,21,Left Wing,TRUE,Cameroon,12,Karl Toko Ekambi
+3857259,Devis Rogers Epassy Mboka,1,Goalkeeper,TRUE,Cameroon,16,Devis Epassy
+3857260,Carlos Alberto Rodríguez Gómez,19,Center Attacking Midfield,FALSE,Mexico,8,Carlos Rodríguez
+3857260,Raúl Alonso Jiménez Rodríguez,23,Center Forward,FALSE,Mexico,9,Raúl Jiménez
+3857260,Abdulrahman Al-Obood,17,Right Wing,FALSE,Saudi Arabia,20,Abdulrahman Al-Aboud
+3857260,Riyadh Sharahili,11,Left Defensive Midfield,FALSE,Saudi Arabia,26,Riyadh Sharahili
+3857260,Jorge Eduardo Sánchez Ramos,2,Right Back,TRUE,Mexico,19,Jorge Sánchez
+3857260,Hassan Mohammed Al-Tambakti,5,Left Center Back,TRUE,Saudi Arabia,17,Hassan Al-Tambakti
+3857260,Ali Albulayhi,6,Left Back,TRUE,Saudi Arabia,5,Ali Al-Bulaihi
+3857260,Ali Al Hassan,9,Right Defensive Midfield,TRUE,Saudi Arabia,15,Ali Al-Hassan
+3857260,Carlos Uriel Antuna Romero,17,Right Wing,FALSE,Mexico,21,Uriel Antuna
+3857260,Abdullah Mohammed Madu,5,Left Center Back,FALSE,Saudi Arabia,3,Abdullah Madu
+3857260,Sultan Abdullah Salim Al Ghannam,2,Right Back,TRUE,Saudi Arabia,2,Sultan Al-Ghannam
+3857260,Saleh Khalid Al Shehri,22,Right Center Forward,TRUE,Saudi Arabia,11,Saleh Al-Shehri
+3857260,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,TRUE,Mexico,13,Guillermo Ochoa
+3857260,Saud Abdullah Abdul Hamid,11,Left Defensive Midfield,TRUE,Saudi Arabia,12,Saud Abdulhamid
+3857260,Firas Tariq Nasser Al Albirakan,12,Right Midfield,TRUE,Saudi Arabia,9,Firas Al-Buraikan
+3857260,Salem Mohammed Al Dawsari,16,Left Midfield,TRUE,Saudi Arabia,10,Salem Al-Dawsari
+3857260,Luis Gerardo Chávez Magallón,11,Left Defensive Midfield,TRUE,Mexico,24,Luis Chávez
+3857260,Orbelín Pineda Alvarado,19,Center Attacking Midfield,TRUE,Mexico,17,Orbelín Pineda
+3857260,Mohammed Kanoo,24,Left Center Forward,TRUE,Saudi Arabia,23,Mohamed Kanno
+3857260,César Jasib Montes Castro,3,Right Center Back,TRUE,Mexico,3,César Montes
+3857260,Hirving Rodrigo Lozano Bahena,17,Right Wing,TRUE,Mexico,22,Hirving Lozano
+3857260,Héctor Alfredo Moreno Herrera,5,Left Center Back,TRUE,Mexico,15,Héctor Moreno
+3857260,Jesús Daniel Gallardo Vasconcelos,6,Left Back,TRUE,Mexico,23,Jesús Gallardo
+3857260,Edson Omar Álvarez Velázquez,9,Right Defensive Midfield,TRUE,Mexico,4,Edson Álvarez
+3857260,Ernesto Alexis Vega Rojas,21,Left Wing,TRUE,Mexico,10,Alexis Vega
+3857260,Abdulelah Al Amri,3,Right Center Back,TRUE,Saudi Arabia,4,Abdulelah Al-Amri
+3857260,Henry Josué Martín Mex,23,Center Forward,TRUE,Mexico,20,Henry Martín
+3857260,Mohammed Khalil Al Owais,1,Goalkeeper,TRUE,Saudi Arabia,21,Mohammed Al-Owais
+3857260,Rogelio Gabriel Funes Mori,24,Left Center Forward,FALSE,Mexico,11,Rogelio Funes Mori
+3857260,Hattan Babhir,17,Right Wing,FALSE,Saudi Arabia,19,Hattan Bahebri
+3857260,Kevin Nahin Álvarez Campos,2,Right Back,FALSE,Mexico,26,Kevin Álvarez
+3857261,Ben Davies,6,Left Back,TRUE,Wales,4,Ben Davies
+3857261,Kieffer Roberto Francisco Moore,23,Center Forward,TRUE,Wales,13,Kieffer Moore
+3857261,Kyle Walker,2,Right Back,TRUE,England,2,Kyle Walker
+3857261,Jude Bellingham,15,Left Center Midfield,TRUE,England,22,Jude Bellingham
+3857261,Phil Foden,17,Right Wing,TRUE,England,20,Phil Foden
+3857261,Declan Rice,10,Center Defensive Midfield,TRUE,England,4,Declan Rice
+3857261,Jordan Pickford,1,Goalkeeper,TRUE,England,1,Jordan Pickford
+3857261,Harry Maguire,5,Left Center Back,TRUE,England,6,Harry Maguire
+3857261,Marcus Rashford,21,Left Wing,TRUE,England,11,Marcus Rashford
+3857261,Jordan Brian Henderson,13,Right Center Midfield,TRUE,England,8,Jordan Henderson
+3857261,Harry Kane,23,Center Forward,TRUE,England,9,Harry Kane
+3857261,Gareth Frank Bale,17,Right Wing,TRUE,Wales,11,Gareth Bale
+3857261,Daniel James,21,Left Wing,TRUE,Wales,20,Daniel James
+3857261,Connor Roberts,2,Right Back,FALSE,Wales,14,Connor Roberts
+3857261,Joe Allen,9,Right Defensive Midfield,TRUE,Wales,7,Joe Allen
+3857261,Joe Rodon,5,Left Center Back,TRUE,Wales,6,Joe Rodon
+3857261,Ethan Ampadu,11,Left Defensive Midfield,TRUE,Wales,15,Ethan Ampadu
+3857261,Rubin Colwill,9,Right Defensive Midfield,FALSE,Wales,25,Rubin Colwill
+3857261,Daniel Ward,1,Goalkeeper,TRUE,Wales,12,Danny Ward
+3857261,Neco Williams,2,Right Back,TRUE,Wales,3,Neco Williams
+3857261,Brennan Johnson,17,Right Wing,FALSE,Wales,9,Brennan Johnson
+3857261,Joseff Morrell,11,Left Defensive Midfield,FALSE,Wales,16,Joe Morrell
+3857261,Harry Wilson,21,Left Wing,FALSE,Wales,8,Harry Wilson
+3857261,Jack Grealish,17,Right Wing,FALSE,England,7,Jack Grealish
+3857261,Kieran Trippier,6,Left Back,FALSE,England,12,Kieran Trippier
+3857261,Luke Shaw,6,Left Back,TRUE,England,3,Luke Shaw
+3857261,John Stones,3,Right Center Back,TRUE,England,5,John Stones
+3857261,Kalvin Phillips,10,Center Defensive Midfield,FALSE,England,14,Kalvin Phillips
+3857261,Aaron Ramsey,19,Center Attacking Midfield,TRUE,Wales,10,Aaron Ramsey
+3857261,Trent Alexander-Arnold,2,Right Back,FALSE,England,18,Trent Alexander-Arnold
+3857261,Callum Wilson,23,Center Forward,FALSE,England,24,Callum Wilson
+3857261,Chris Mepham,3,Right Center Back,TRUE,Wales,5,Chris Mepham
+3857262,Ui-Jo Hwang,23,Center Forward,FALSE,South Korea,16,Hwang Ui-jo
+3857262,Kang-In Lee,15,Left Center Midfield,TRUE,South Korea,18,Lee Kang-in
+3857262,Jin-Su Kim,6,Left Back,TRUE,South Korea,3,Kim Jin-su
+3857262,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,TRUE,Portugal,7,Cristiano Ronaldo
+3857262,Seung-Gyu Kim,1,Goalkeeper,TRUE,South Korea,1,Kim Seung-gyu
+3857262,André Miguel Valente Silva,23,Center Forward,FALSE,Portugal,9,André Silva
+3857262,Vitor Machado Ferreira,15,Left Center Midfield,TRUE,Portugal,16,Vitinha
+3857262,William Silva de Carvalho,13,Right Center Midfield,FALSE,Portugal,14,William Carvalho
+3857262,Bernardo Mota Veiga de Carvalho e Silva,15,Left Center Midfield,FALSE,Portugal,10,Bernardo Silva
+3857262,João Maria Lobo Alves Palhinha Gonçalves,13,Right Center Midfield,FALSE,Portugal,6,João Palhinha
+3857262,Yu-Min Cho,3,Right Center Back,FALSE,South Korea,24,Cho Yu-min
+3857262,Rafael Alexandre Conceição Leão,10,Center Defensive Midfield,FALSE,Portugal,15,Rafael Leão
+3857262,João Mário Naval da Costa Eduardo,21,Left Wing,TRUE,Portugal,17,João Mário
+3857262,Matheus Luiz Nunes,13,Right Center Midfield,TRUE,Portugal,23,Matheus Nunes
+3857262,Diogo Meireles Costa,1,Goalkeeper,TRUE,Portugal,22,Diogo Costa
+3857262,Gue-Sung Cho,23,Center Forward,TRUE,South Korea,9,Cho Gue-sung
+3857262,Heung-Min Son,21,Left Wing,TRUE,South Korea,7,Son Heung-min
+3857262,Hee-Chan Hwang,21,Left Wing,FALSE,South Korea,11,Hwang Hee-chan
+3857262,Jun-Ho Son,11,Left Defensive Midfield,FALSE,South Korea,13,Son Jun-ho
+3857262,Woo-Young Jung,10,Center Defensive Midfield,TRUE,South Korea,5,Jung Woo-young
+3857262,In-Beom Hwang,13,Right Center Midfield,TRUE,South Korea,6,Hwang In-beom
+3857262,Jae-Sung Lee,17,Right Wing,TRUE,South Korea,10,Lee Jae-sung
+3857262,Moon-Hwan Kim,2,Right Back,TRUE,South Korea,15,Kim Moon-hwan
+3857262,Ricardo Jorge Luz Horta,17,Right Wing,TRUE,Portugal,21,Ricardo Horta
+3857262,Rúben Diogo Da Silva Neves,10,Center Defensive Midfield,TRUE,Portugal,18,Rúben Neves
+3857262,Kléper Laveran Lima Ferreira,3,Right Center Back,TRUE,Portugal,3,Pepe
+3857262,António João Pereira Albuquerque Tavares Silva,5,Left Center Back,TRUE,Portugal,24,António Silva
+3857262,João Pedro Cavaco Cancelo,6,Left Back,TRUE,Portugal,20,João Cancelo
+3857262,José Diogo Dalot Teixeira,2,Right Back,TRUE,Portugal,2,Diogo Dalot
+3857262,Kyung-Won Kwon,3,Right Center Back,TRUE,South Korea,20,Kwon Kyung-won
+3857262,Young-Gwon Kim,5,Left Center Back,TRUE,South Korea,19,Kim Young-gwon
+3857263,Ferrán Torres García,17,Right Wing,TRUE,Spain,11,Ferran Torres
+3857263,Daniel Olmo Carvajal,21,Left Wing,TRUE,Spain,21,Dani Olmo
+3857263,Niclas Füllkrug,23,Center Forward,FALSE,Germany,9,Niclas Füllkrug
+3857263,Lukas Klostermann,2,Right Back,FALSE,Germany,16,Lukas Klostermann
+3857263,Alejandro Balde Martínez,6,Left Back,FALSE,Spain,14,Alejandro Balde
+3857263,Jonas Hofmann,21,Left Wing,FALSE,Germany,18,Jonas Hofmann
+3857263,Nico Schlotterbeck,6,Left Back,FALSE,Germany,23,Nico Schlotterbeck
+3857263,Serge Gnabry,17,Right Wing,TRUE,Germany,10,Serge Gnabry
+3857263,Jamal Musiala,21,Left Wing,TRUE,Germany,14,Jamal Musiala
+3857263,İlkay Gündoğan,19,Center Attacking Midfield,TRUE,Germany,21,İlkay Gündoğan
+3857263,Thomas Müller,23,Center Forward,TRUE,Germany,13,Thomas Müller
+3857263,Álvaro Borja Morata Martín,23,Center Forward,FALSE,Spain,7,Álvaro Morata
+3857263,Antonio Rüdiger,5,Left Center Back,TRUE,Germany,2,Antonio Rüdiger
+3857263,Unai Simón Mendibil,1,Goalkeeper,TRUE,Spain,23,Unai Simón
+3857263,Pedro González López,15,Left Center Midfield,TRUE,Spain,26,Pedri
+3857263,Pablo Martín Páez Gavira,13,Right Center Midfield,TRUE,Spain,9,Gavi
+3857263,Sergio Busquets i Burgos,10,Center Defensive Midfield,TRUE,Spain,5,Sergio Busquets
+3857263,Jordi Alba Ramos,6,Left Back,TRUE,Spain,18,Jordi Alba
+3857263,Aymeric Laporte,5,Left Center Back,TRUE,Spain,24,Aymeric Laporte
+3857263,Daniel Carvajal Ramos,2,Right Back,TRUE,Spain,20,Dani Carvajal
+3857263,Rodrigo Hernández Cascante,3,Right Center Back,TRUE,Spain,16,Rodri
+3857263,Leon Goretzka,11,Left Defensive Midfield,TRUE,Germany,8,Leon Goretzka
+3857263,Joshua Kimmich,9,Right Defensive Midfield,TRUE,Germany,6,Joshua Kimmich
+3857263,David Raum,6,Left Back,TRUE,Germany,3,David Raum
+3857263,Niklas Süle,3,Right Center Back,TRUE,Germany,15,Niklas Süle
+3857263,Thilo Kehrer,2,Right Back,TRUE,Germany,5,Thilo Kehrer
+3857263,Manuel Neuer,1,Goalkeeper,TRUE,Germany,1,Manuel Neuer
+3857263,Marco Asensio Willemsen,23,Center Forward,TRUE,Spain,10,Marco Asensio
+3857263,Nicholas Williams Arthuer,17,Right Wing,FALSE,Spain,12,Nico Williams
+3857263,Jorge Resurrección Merodio,13,Right Center Midfield,FALSE,Spain,8,Koke
+3857263,Leroy Sané,17,Right Wing,FALSE,Germany,19,Leroy Sané
+3857264,Julián Álvarez,21,Left Wing,TRUE,Argentina,9,Julián Alvarez
+3857264,Ángel Fabián Di María Hernández,17,Right Wing,TRUE,Argentina,11,Ángel Di María
+3857264,Alexis Mac Allister,15,Left Center Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3857264,Rodrigo Javier De Paul,13,Right Center Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3857264,Enzo Fernandez,10,Center Defensive Midfield,TRUE,Argentina,24,Enzo Fernández
+3857264,Marcos Javier Acuña,6,Left Back,TRUE,Argentina,8,Marcos Acuña
+3857264,Nicolás Hernán Otamendi,5,Left Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3857264,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3857264,Nahuel Molina Lucero,2,Right Back,TRUE,Argentina,26,Nahuel Molina
+3857264,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3857264,Karol Świderski,24,Left Center Forward,TRUE,Poland,16,Karol Świderski
+3857264,Robert Lewandowski,22,Right Center Forward,TRUE,Poland,9,Robert Lewandowski
+3857264,Przemysław Frankowski,16,Left Midfield,TRUE,Poland,24,Przemysław Frankowski
+3857264,Lionel Andrés Messi Cuccittini,23,Center Forward,TRUE,Argentina,10,Lionel Messi
+3857264,Krzysztof Piątek,22,Right Center Forward,FALSE,Poland,23,Krzysztof Piątek
+3857264,Thiago Ezequiel Almada,21,Left Wing,FALSE,Argentina,16,Thiago Almada
+3857264,Germán Alejandro Pezzella,4,Center Back,FALSE,Argentina,6,Germán Pezzella
+3857264,Lautaro Javier Martínez,23,Center Forward,FALSE,Argentina,22,Lautaro Martínez
+3857264,Artur Jędrzejczyk,6,Left Back,FALSE,Poland,3,Artur Jędrzejczyk
+3857264,Damian Szymański,9,Right Defensive Midfield,FALSE,Poland,8,Damian Szymański
+3857264,Nicolás Alejandro Tagliafico,6,Left Back,FALSE,Argentina,3,Nicolás Tagliafico
+3857264,Leandro Daniel Paredes,10,Center Defensive Midfield,FALSE,Argentina,5,Leandro Paredes
+3857264,Jakub Kamiński,16,Left Midfield,FALSE,Poland,13,Jakub Kamiński
+3857264,Michał Skóraś,12,Right Midfield,FALSE,Poland,26,Michał Skóraś
+3857264,Piotr Zieliński,12,Right Midfield,TRUE,Poland,20,Piotr Zieliński
+3857264,Grzegorz Krychowiak,11,Left Defensive Midfield,TRUE,Poland,10,Grzegorz Krychowiak
+3857264,Krystian Bielik,9,Right Defensive Midfield,TRUE,Poland,6,Krystian Bielik
+3857264,Bartosz Bereszyński,6,Left Back,TRUE,Poland,18,Bartosz Bereszyński
+3857264,Jakub Piotr Kiwior,5,Left Center Back,TRUE,Poland,14,Jakub Kiwior
+3857264,Kamil Glik,3,Right Center Back,TRUE,Poland,15,Kamil Glik
+3857264,Matty Cash,2,Right Back,TRUE,Poland,2,Matty Cash
+3857264,Wojciech Szczęsny,1,Goalkeeper,TRUE,Poland,1,Wojciech Szczęsny
+3857265,Raúl Alonso Jiménez Rodríguez,23,Center Forward,FALSE,Mexico,9,Raúl Jiménez
+3857265,Przemysław Frankowski,16,Left Midfield,FALSE,Poland,24,Przemysław Frankowski
+3857265,Carlos Alberto Rodríguez Gómez,13,Right Center Midfield,FALSE,Mexico,8,Carlos Rodríguez
+3857265,Krystian Bielik,11,Left Defensive Midfield,FALSE,Poland,6,Krystian Bielik
+3857265,Carlos Uriel Antuna Romero,17,Right Wing,FALSE,Mexico,21,Uriel Antuna
+3857265,Arkadiusz Milik,22,Right Center Forward,FALSE,Poland,7,Arkadiusz Milik
+3857265,Piotr Zieliński,13,Right Center Midfield,TRUE,Poland,20,Piotr Zieliński
+3857265,Sebastian Szymański,15,Left Center Midfield,TRUE,Poland,19,Sebastian Szymański
+3857265,Kamil Glik,3,Right Center Back,TRUE,Poland,15,Kamil Glik
+3857265,Matty Cash,2,Right Back,TRUE,Poland,2,Matty Cash
+3857265,Robert Lewandowski,23,Center Forward,TRUE,Poland,9,Robert Lewandowski
+3857265,Nicola Zalewski,16,Left Midfield,TRUE,Poland,21,Nicola Zalewski
+3857265,Grzegorz Krychowiak,10,Center Defensive Midfield,TRUE,Poland,10,Grzegorz Krychowiak
+3857265,Jakub Kamiński,12,Right Midfield,TRUE,Poland,13,Jakub Kamiński
+3857265,Jakub Piotr Kiwior,5,Left Center Back,TRUE,Poland,14,Jakub Kiwior
+3857265,Bartosz Bereszyński,6,Left Back,TRUE,Poland,18,Bartosz Bereszyński
+3857265,Héctor Alfredo Moreno Herrera,5,Left Center Back,TRUE,Mexico,15,Héctor Moreno
+3857265,César Jasib Montes Castro,3,Right Center Back,TRUE,Mexico,3,César Montes
+3857265,Jorge Eduardo Sánchez Ramos,2,Right Back,TRUE,Mexico,19,Jorge Sánchez
+3857265,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,TRUE,Mexico,13,Guillermo Ochoa
+3857265,Edson Omar Álvarez Velázquez,10,Center Defensive Midfield,TRUE,Mexico,4,Edson Álvarez
+3857265,Jesús Daniel Gallardo Vasconcelos,6,Left Back,TRUE,Mexico,23,Jesús Gallardo
+3857265,Henry Josué Martín Mex,23,Center Forward,TRUE,Mexico,20,Henry Martín
+3857265,Wojciech Szczęsny,1,Goalkeeper,TRUE,Poland,1,Wojciech Szczęsny
+3857265,Hirving Rodrigo Lozano Bahena,17,Right Wing,TRUE,Mexico,22,Hirving Lozano
+3857265,Ernesto Alexis Vega Rojas,21,Left Wing,TRUE,Mexico,10,Alexis Vega
+3857265,Héctor Miguel Herrera López,13,Right Center Midfield,TRUE,Mexico,16,Héctor Herrera
+3857265,Luis Gerardo Chávez Magallón,15,Left Center Midfield,TRUE,Mexico,24,Luis Chávez
+3857266,Ibrahima Konaté,3,Right Center Back,FALSE,France,24,Ibrahima Konaté
+3857266,Kingsley Coman,17,Right Wing,FALSE,France,20,Kingsley Coman
+3857266,Christian Nørgaard,10,Center Defensive Midfield,FALSE,Denmark,15,Christian Nørgaard
+3857266,Alexander Hartmann Bah,7,Right Wing Back,FALSE,Denmark,26,Alexander Bah
+3857266,Mikkel Damsgaard,21,Left Wing,TRUE,Denmark,14,Mikkel Damsgaard
+3857266,Jesper Lindstrøm,17,Right Wing,TRUE,Denmark,25,Jesper Lindstrøm
+3857266,Christian Dannemann Eriksen,11,Left Defensive Midfield,TRUE,Denmark,10,Christian Eriksen
+3857266,Pierre-Emile Højbjerg,9,Right Defensive Midfield,TRUE,Denmark,23,Pierre-Emile Højbjerg
+3857266,Joakim Mæhle,8,Left Wing Back,TRUE,Denmark,5,Joakim Mæhle
+3857266,Rasmus Nissen Kristensen,7,Right Wing Back,TRUE,Denmark,13,Rasmus Kristensen
+3857266,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3857266,Andreas Christensen,4,Center Back,TRUE,Denmark,6,Andreas Christensen
+3857266,Victor Nelsson,5,Left Center Back,TRUE,Denmark,3,Victor Nelsson
+3857266,Andreas Evald Cornelius,23,Center Forward,TRUE,Denmark,21,Andreas Cornelius
+3857266,Marcus Thuram,23,Center Forward,FALSE,France,26,Marcus Thuram
+3857266,Kasper Dolberg,21,Left Wing,FALSE,Denmark,12,Kasper Dolberg
+3857266,Youssouf Fofana,15,Left Center Midfield,FALSE,France,13,Youssouf Fofana
+3857266,Martin Braithwaite Christensen,23,Center Forward,FALSE,Denmark,9,Martin Braithwaite
+3857266,Adrien Rabiot,11,Left Defensive Midfield,TRUE,France,14,Adrien Rabiot
+3857266,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3857266,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3857266,Jules Koundé,2,Right Back,TRUE,France,5,Jules Koundé
+3857266,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3857266,Dayotchanculle Upamecano,5,Left Center Back,TRUE,France,18,Dayot Upamecano
+3857266,Theo Bernard François Hernández,6,Left Back,TRUE,France,22,Théo Hernandez
+3857266,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3857266,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3857266,Joachim Andersen,3,Right Center Back,TRUE,Denmark,2,Joachim Andersen
+3857266,Kasper Schmeichel,1,Goalkeeper,TRUE,Denmark,1,Kasper Schmeichel
+3857266,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3857267,Cheikh Ahmadou Bamba Mbacke Dieng,23,Center Forward,FALSE,Senegal,20,Bamba Dieng
+3857267,José Adoni Cifuentes Charcopa,9,Right Defensive Midfield,FALSE,Ecuador,5,José Cifuentes
+3857267,Jeremy Leonel Sarmiento Morante,16,Left Midfield,FALSE,Ecuador,16,Jeremy Sarmiento
+3857267,Jackson Gabriel Porozo Vernaza,2,Right Back,FALSE,Ecuador,25,Jackson Porozo
+3857267,Pape Abou Cissé,3,Right Center Back,FALSE,Senegal,4,Pape Abou Cissé
+3857267,Nampalys Mendy,9,Right Defensive Midfield,FALSE,Senegal,6,Nampalys Mendy
+3857267,Abdou Diallo,5,Left Center Back,TRUE,Senegal,22,Abdou Diallo
+3857267,Ismail Jakobs,6,Left Back,TRUE,Senegal,14,Ismail Jakobs
+3857267,Moisés Isaac Caicedo Corozo,15,Left Center Midfield,TRUE,Ecuador,23,Moisés Caicedo
+3857267,Alan Steven Franco Palma,13,Right Center Midfield,TRUE,Ecuador,21,Alan Franco
+3857267,Enner Remberto Valencia Lastra,21,Left Wing,TRUE,Ecuador,13,Enner Valencia
+3857267,Gonzalo Jordy Plata Jiménez,17,Right Wing,TRUE,Ecuador,19,Gonzalo Plata
+3857267,Piero Martín Hincapié Reyna,5,Left Center Back,TRUE,Ecuador,3,Piero Hincapié
+3857267,Felix Eduardo Torres Caicedo,3,Right Center Back,TRUE,Ecuador,2,Félix Torres
+3857267,Angelo Smit Preciado Quiñónez,2,Right Back,TRUE,Ecuador,17,Ángelo Preciado
+3857267,Hernán Ismael Galíndez,1,Goalkeeper,TRUE,Ecuador,1,Hernán Galíndez
+3857267,Boulaye Dia,23,Center Forward,TRUE,Senegal,9,Boulaye Dia
+3857267,Ismaïla Sarr,21,Left Wing,TRUE,Senegal,18,Ismaïla Sarr
+3857267,Idrissa Gana Gueye,19,Center Attacking Midfield,TRUE,Senegal,5,Idrissa Gueye
+3857267,Iliman Ndiaye,17,Right Wing,TRUE,Senegal,13,Iliman Ndiaye
+3857267,Pape Gueye,11,Left Defensive Midfield,TRUE,Senegal,26,Pape Gueye
+3857267,Pathé Ismaël Ciss,9,Right Defensive Midfield,TRUE,Senegal,11,Pathé Ciss
+3857267,Youssouf Sabaly,2,Right Back,TRUE,Senegal,21,Youssouf Sabaly
+3857267,Kalidou Koulibaly,3,Right Center Back,TRUE,Senegal,3,Kalidou Koulibaly
+3857267,Djorkaeff Neicer Reasco González,22,Right Center Forward,FALSE,Ecuador,24,Djorkaeff Reasco
+3857267,Edouard Mendy,1,Goalkeeper,TRUE,Senegal,16,Édouard Mendy
+3857267,Carlos Armando Gruezo Arboleda,10,Center Defensive Midfield,TRUE,Ecuador,8,Carlos Gruezo
+3857267,Pervis Josué Estupiñán Tenorio,6,Left Back,TRUE,Ecuador,7,Pervis Estupiñán
+3857267,Michael Steveen Estrada Martínez,23,Center Forward,TRUE,Ecuador,11,Michael Estrada
+3857268,Yannick Ferreira Carrasco,8,Left Wing Back,TRUE,Belgium,11,Yannick Carrasco
+3857268,Axel Witsel,11,Left Defensive Midfield,TRUE,Belgium,6,Axel Witsel
+3857268,Timothy Castagne,7,Right Wing Back,TRUE,Belgium,21,Timothy Castagne
+3857268,Youri Tielemans,9,Right Defensive Midfield,TRUE,Belgium,8,Youri Tielemans
+3857268,Leandro Trossard,20,Left Attacking Midfield,FALSE,Belgium,17,Leandro Trossard
+3857268,Jonathan Osorio,11,Left Defensive Midfield,FALSE,Canada,21,Jonathan Osorio
+3857268,Ikoma Loïs Openda,23,Center Forward,FALSE,Belgium,24,Loïs Openda
+3857268,Thomas Meunier,8,Left Wing Back,FALSE,Belgium,15,Thomas Meunier
+3857268,Cyle Larin,23,Center Forward,FALSE,Canada,17,Cyle Larin
+3857268,Kamal Miller,5,Left Center Back,TRUE,Canada,4,Kamal Miller
+3857268,Alphonso Davies,8,Left Wing Back,TRUE,Canada,19,Alphonso Davies
+3857268,Richie Laryea,7,Right Wing Back,TRUE,Canada,22,Richie Laryea
+3857268,Ismael Koné,9,Right Defensive Midfield,FALSE,Canada,15,Ismaël Koné
+3857268,Thibaut Courtois,1,Goalkeeper,TRUE,Belgium,1,Thibaut Courtois
+3857268,David Junior Hoilett,20,Left Attacking Midfield,TRUE,Canada,10,Junior Hoilett
+3857268,Stephen Antunes Eustáquio,11,Left Defensive Midfield,TRUE,Canada,7,Stephen Eustáquio
+3857268,Jonathan David,23,Center Forward,TRUE,Canada,20,Jonathan David
+3857268,Milan Borjan,1,Goalkeeper,TRUE,Canada,18,Milan Borjan
+3857268,Alistair Johnston,3,Right Center Back,TRUE,Canada,2,Alistair Johnston
+3857268,Steven de Sousa Vitoria,4,Center Back,TRUE,Canada,5,Steven Vitória
+3857268,Tajon Buchanan,18,Right Attacking Midfield,TRUE,Canada,11,Tajon Buchanan
+3857268,Atiba Hutchinson,9,Right Defensive Midfield,TRUE,Canada,13,Atiba Hutchinson
+3857268,Michy Batshuayi Tunga,23,Center Forward,TRUE,Belgium,23,Michy Batshuayi
+3857268,Kevin De Bruyne,18,Right Attacking Midfield,TRUE,Belgium,7,Kevin De Bruyne
+3857268,Eden Hazard,20,Left Attacking Midfield,TRUE,Belgium,10,Eden Hazard
+3857268,Leander Dendoncker,3,Right Center Back,TRUE,Belgium,19,Leander Dendoncker
+3857268,Jan Vertonghen,5,Left Center Back,TRUE,Belgium,5,Jan Vertonghen
+3857268,Liam Millar,16,Left Midfield,FALSE,Canada,23,Liam Millar
+3857268,Toby Alderweireld,4,Center Back,TRUE,Belgium,2,Toby Alderweireld
+3857268,Sam Adekugbe,8,Left Wing Back,FALSE,Canada,3,Sam Adekugbe
+3857268,Amadou Onana,9,Right Defensive Midfield,FALSE,Belgium,18,Amadou Onana
+3857269,Carlos Henrique Casimiro,10,Center Defensive Midfield,TRUE,Brazil,5,Casemiro
+3857269,Renato Steffen,17,Right Wing,FALSE,Switzerland,11,Renato Steffen
+3857269,Richarlison de Andrade,23,Center Forward,TRUE,Brazil,9,Richarlison
+3857269,Éder Gabriel Militão,2,Right Back,TRUE,Brazil,14,Éder Militão
+3857269,Ruben Vargas,21,Left Wing,TRUE,Switzerland,17,Rubén Vargas
+3857269,Alisson Ramsés Becker,1,Goalkeeper,TRUE,Brazil,1,Alisson
+3857269,Thiago Emiliano da Silva,5,Left Center Back,TRUE,Brazil,3,Thiago Silva
+3857269,Alex Sandro Lobo Silva,6,Left Back,TRUE,Brazil,6,Alex Sandro
+3857269,Marcos Aoás Corrêa,3,Right Center Back,TRUE,Brazil,4,Marquinhos
+3857269,Breel-Donald Embolo,23,Center Forward,TRUE,Switzerland,7,Breel Embolo
+3857269,Fabian Rieder,17,Right Wing,TRUE,Switzerland,25,Fabian Rieder
+3857269,Yann Sommer,1,Goalkeeper,TRUE,Switzerland,1,Yann Sommer
+3857269,Silvan Widmer,2,Right Back,TRUE,Switzerland,3,Silvan Widmer
+3857269,Manuel Obafemi Akanji,3,Right Center Back,TRUE,Switzerland,5,Manuel Akanji
+3857269,Nico Elvedi,5,Left Center Back,TRUE,Switzerland,4,Nico Elvedi
+3857269,Bruno Guimarães Rodriguez Moura,9,Right Defensive Midfield,FALSE,Brazil,17,Bruno Guimarães
+3857269,Remo Freuler,9,Right Defensive Midfield,TRUE,Switzerland,8,Remo Freuler
+3857269,Ricardo Iván Rodríguez Araya,6,Left Back,TRUE,Switzerland,13,Ricardo Rodriguez
+3857269,Vinícius José Paixão de Oliveira Júnior,21,Left Wing,TRUE,Brazil,20,Vinícius Júnior
+3857269,Djibril Sow,19,Center Attacking Midfield,TRUE,Switzerland,15,Djibril Sow
+3857269,Lucas Tolentino Coelho de Lima,15,Left Center Midfield,TRUE,Brazil,7,Lucas Paquetá
+3857269,Frederico Rodrigues Santos,13,Right Center Midfield,TRUE,Brazil,8,Fred
+3857269,Fabian Frei,2,Right Back,FALSE,Switzerland,20,Fabian Frei
+3857269,Raphael Dias Belloli,17,Right Wing,TRUE,Brazil,11,Raphinha
+3857269,Haris Seferović,23,Center Forward,FALSE,Switzerland,9,Haris Seferovic
+3857269,Granit Xhaka,11,Left Defensive Midfield,TRUE,Switzerland,10,Granit Xhaka
+3857269,Edimilson Fernandes,21,Left Wing,FALSE,Switzerland,2,Edimilson Fernandes
+3857269,Antony Matheus dos Santos,12,Right Midfield,FALSE,Brazil,19,Antony
+3857269,Gabriel Fernando de Jesus,23,Center Forward,FALSE,Brazil,18,Gabriel Jesus
+3857269,Michel Aebischer,19,Center Attacking Midfield,FALSE,Switzerland,14,Michel Aebischer
+3857269,Alex Nicolao Telles,6,Left Back,FALSE,Brazil,16,Alex Telles
+3857269,Rodrygo Silva de Goes,19,Center Attacking Midfield,FALSE,Brazil,21,Rodrygo
+3857270,Matías Vecino Falero,15,Left Center Midfield,TRUE,Uruguay,5,Matías Vecino
+3857270,Federico Santiago Valverde Dipetta,13,Right Center Midfield,TRUE,Uruguay,15,Federico Valverde
+3857270,Darwin Gabriel Núñez Ribeiro,22,Right Center Forward,TRUE,Uruguay,11,Darwin Núñez
+3857270,Edinson Roberto Cavani Gómez,24,Left Center Forward,TRUE,Uruguay,21,Edinson Cavani
+3857270,Rodrigo Bentancur Colmán,10,Center Defensive Midfield,TRUE,Uruguay,6,Rodrigo Bentancur
+3857270,Mathías Olivera Miramontes,8,Left Wing Back,TRUE,Uruguay,16,Mathías Olivera
+3857270,Raphaël Adelino José Guerreiro,6,Left Back,FALSE,Portugal,5,Raphaël Guerreiro
+3857270,Facundo Pellistri Rebollo,12,Right Midfield,FALSE,Uruguay,8,Facundo Pellistri
+3857270,Rafael Alexandre Conceição Leão,10,Center Defensive Midfield,FALSE,Portugal,15,Rafael Leão
+3857270,Matías Nicolás Viña Susperreguy,6,Left Back,FALSE,Uruguay,17,Matías Viña
+3857270,Luis Alberto Suárez Díaz,22,Right Center Forward,FALSE,Uruguay,9,Luis Suárez
+3857270,Gonçalo Matias Ramos,23,Center Forward,FALSE,Portugal,26,Gonçalo Ramos
+3857270,Matheus Luiz Nunes,9,Right Defensive Midfield,FALSE,Portugal,23,Matheus Nunes
+3857270,Giorgian Daniel De Arrascaeta Benedetti,16,Left Midfield,FALSE,Uruguay,10,Giorgian de Arrascaeta
+3857270,João Maria Lobo Alves Palhinha Gonçalves,11,Left Defensive Midfield,FALSE,Portugal,6,João Palhinha
+3857270,Maximiliano Gómez González,24,Left Center Forward,FALSE,Uruguay,18,Maxi Gómez
+3857270,Cristiano Ronaldo dos Santos Aveiro,22,Right Center Forward,TRUE,Portugal,7,Cristiano Ronaldo
+3857270,Bruno Miguel Borges Fernandes,19,Center Attacking Midfield,TRUE,Portugal,8,Bruno Fernandes
+3857270,William Silva de Carvalho,15,Left Center Midfield,TRUE,Portugal,14,William Carvalho
+3857270,Bernardo Mota Veiga de Carvalho e Silva,13,Right Center Midfield,TRUE,Portugal,10,Bernardo Silva
+3857270,Rúben Diogo Da Silva Neves,10,Center Defensive Midfield,TRUE,Portugal,18,Rúben Neves
+3857270,Nuno Mendes,6,Left Back,TRUE,Portugal,19,Nuno Mendes
+3857270,Rúben Santos Gato Alves Dias,5,Left Center Back,TRUE,Portugal,4,Rúben Dias
+3857270,Kléper Laveran Lima Ferreira,3,Right Center Back,TRUE,Portugal,3,Pepe
+3857270,João Pedro Cavaco Cancelo,2,Right Back,TRUE,Portugal,20,João Cancelo
+3857270,Diogo Meireles Costa,1,Goalkeeper,TRUE,Portugal,22,Diogo Costa
+3857270,Guillermo Varela Olivera,7,Right Wing Back,TRUE,Uruguay,13,Guillermo Varela
+3857270,Sebastián Coates Nión,5,Left Center Back,TRUE,Uruguay,19,Sebastián Coates
+3857270,João Félix Sequeira,24,Left Center Forward,TRUE,Portugal,11,João Félix
+3857270,Sergio Rochet Álvarez,1,Goalkeeper,TRUE,Uruguay,23,Sergio Rochet
+3857270,José María Giménez de Vargas,3,Right Center Back,TRUE,Uruguay,2,Kosé Giménez
+3857270,Diego Roberto Godín Leal,4,Center Back,TRUE,Uruguay,3,Diego Godín
+3857271,Harry Kane,23,Center Forward,TRUE,England,9,Harry Kane
+3857271,Mehdi Taremi,23,Center Forward,TRUE,Iran,9,Mehdi Taremi
+3857271,Milad Mohammadi,8,Left Wing Back,TRUE,Iran,5,Milad Mohammadi
+3857271,Sadegh Moharrami,7,Right Wing Back,TRUE,Iran,2,Sadegh Moharrami
+3857271,Seyed Majid Hosseini,5,Left Center Back,TRUE,Iran,19,Majid Hosseini
+3857271,John Stones,3,Right Center Back,TRUE,England,5,John Stones
+3857271,Ehsan Hajsafi,21,Left Wing,TRUE,Iran,3,Ehsan Hajsafi
+3857271,Alireza Jahanbakhsh,17,Right Wing,TRUE,Iran,7,Alireza Jahanbakhsh
+3857271,Ali Karimi,11,Left Defensive Midfield,TRUE,Iran,18,Ali Karimi
+3857271,Ahmad Nourollahi,9,Right Defensive Midfield,TRUE,Iran,21,Ahmad Nourollahi
+3857271,Sardar Azmoun,24,Left Center Forward,FALSE,Iran,20,Sardar Azmoun
+3857271,Callum Wilson,23,Center Forward,FALSE,England,24,Callum Wilson
+3857271,Eric Dier,5,Left Center Back,FALSE,England,15,Eric Dier
+3857271,Phil Foden,19,Center Attacking Midfield,FALSE,England,20,Phil Foden
+3857271,Marcus Rashford,17,Right Wing,FALSE,England,11,Marcus Rashford
+3857271,Jack Grealish,21,Left Wing,FALSE,England,7,Jack Grealish
+3857271,Mehdi Torabi,20,Left Attacking Midfield,FALSE,Iran,16,Mehdi Torabi
+3857271,Mohammad Hossein Kanani Zadegan,3,Right Center Back,FALSE,Iran,13,Hossein Kanaanizadegan
+3857271,Saeid Ezatolahi Afagh,11,Left Defensive Midfield,FALSE,Iran,6,Saeid Ezatolahi
+3857271,Ali Gholizadeh,18,Right Attacking Midfield,FALSE,Iran,17,Ali Gholizadeh
+3857271,Seyed Hossein Hosseini,1,Goalkeeper,FALSE,Iran,24,Hossein Hosseini
+3857271,Roozbeh Cheshmi,4,Center Back,TRUE,Iran,15,Rouzbeh Cheshmi
+3857271,Jude Bellingham,9,Right Defensive Midfield,TRUE,England,22,Jude Bellingham
+3857271,Luke Shaw,6,Left Back,TRUE,England,3,Luke Shaw
+3857271,Harry Maguire,5,Left Center Back,TRUE,England,6,Harry Maguire
+3857271,Kieran Trippier,2,Right Back,TRUE,England,12,Kieran Trippier
+3857271,Morteza Pouraliganji,3,Right Center Back,TRUE,Iran,8,Morteza Pouraliganji
+3857271,Alireza Safar Beiranvand,1,Goalkeeper,TRUE,Iran,1,Alireza Beiranvand
+3857271,Mason Mount,19,Center Attacking Midfield,TRUE,England,19,Mason Mount
+3857271,Raheem Sterling,21,Left Wing,TRUE,England,10,Raheem Sterling
+3857271,Bukayo Saka,17,Right Wing,TRUE,England,17,Bukayo Saka
+3857271,Declan Rice,11,Left Defensive Midfield,TRUE,England,4,Declan Rice
+3857271,Jordan Pickford,1,Goalkeeper,TRUE,England,1,Jordan Pickford
+3857272,Christian Pulisic,16,Left Midfield,TRUE,United States,10,Christian Pulisic
+3857272,Weston McKennie,12,Right Midfield,TRUE,United States,8,Weston McKennie
+3857272,Yunus Dimoara Musah,11,Left Defensive Midfield,TRUE,United States,6,Yunus Musah
+3857272,Tyler Adams,9,Right Defensive Midfield,TRUE,United States,4,Tyler Adams 
+3857272,Antonee Robinson,6,Left Back,TRUE,United States,5,Antonee Robinson
+3857272,Tim Ream,5,Left Center Back,TRUE,United States,13,Tim Ream
+3857272,Walker Zimmerman,3,Right Center Back,TRUE,United States,3,Walker Zimmerman
+3857272,Sergino Dest,2,Right Back,TRUE,United States,2,Sergiño Dest
+3857272,Matthew Charles Turner,1,Goalkeeper,TRUE,United States,1,Matt Turner
+3857272,Harry Kane,23,Center Forward,TRUE,England,9,Harry Kane
+3857272,Raheem Sterling,21,Left Wing,TRUE,England,10,Raheem Sterling
+3857272,Mason Mount,19,Center Attacking Midfield,TRUE,England,19,Mason Mount
+3857272,Bukayo Saka,17,Right Wing,TRUE,England,17,Bukayo Saka
+3857272,Declan Rice,11,Left Defensive Midfield,TRUE,England,4,Declan Rice
+3857272,Luke Shaw,6,Left Back,TRUE,England,3,Luke Shaw
+3857272,Jude Bellingham,9,Right Defensive Midfield,TRUE,England,22,Jude Bellingham
+3857272,Haji Wright,24,Left Center Forward,TRUE,United States,19,Haji Wright
+3857272,Timothy Weah,22,Right Center Forward,TRUE,United States,21,Timothy Weah
+3857272,Harry Maguire,5,Left Center Back,TRUE,England,6,Harry Maguire
+3857272,Jack Grealish,21,Left Wing,FALSE,England,7,Jack Grealish
+3857272,Kieran Trippier,2,Right Back,TRUE,England,12,Kieran Trippier
+3857272,Jordan Pickford,1,Goalkeeper,TRUE,England,1,Jordan Pickford
+3857272,John Stones,3,Right Center Back,TRUE,England,5,John Stones
+3857272,Joshua Sargent,24,Left Center Forward,FALSE,United States,24,Josh Sargent
+3857272,Shaquell Moore,2,Right Back,FALSE,United States,18,Shaq Moore
+3857272,Marcus Rashford,17,Right Wing,FALSE,England,11,Marcus Rashford
+3857272,Brenden Aaronson,12,Right Midfield,FALSE,United States,11,Brenden Aaronson
+3857272,Jordan Brian Henderson,9,Right Defensive Midfield,FALSE,England,8,Jordan Henderson
+3857272,Giovanni Reyna,22,Right Center Forward,FALSE,United States,7,Giovanni Reyna
+3857273,Ali Gholizadeh,12,Right Midfield,TRUE,Iran,17,Ali Gholizadeh
+3857273,Saeid Ezatolahi Afagh,9,Right Defensive Midfield,TRUE,Iran,6,Saeid Ezatolahi
+3857273,Daniel James,15,Left Center Midfield,FALSE,Wales,20,Daniel James
+3857273,Wayne Hennessey,1,Goalkeeper,TRUE,Wales,1,Wayne Hennessey
+3857273,Milad Mohammadi,6,Left Back,TRUE,Iran,5,Milad Mohammadi
+3857273,Seyed Majid Hosseini,3,Right Center Back,TRUE,Iran,19,Majid Hosseini
+3857273,Morteza Pouraliganji,5,Left Center Back,TRUE,Iran,8,Morteza Pouraliganji
+3857273,Seyed Hossein Hosseini,1,Goalkeeper,TRUE,Iran,24,Hossein Hosseini
+3857273,Kieffer Roberto Francisco Moore,24,Left Center Forward,TRUE,Wales,13,Kieffer Moore
+3857273,Gareth Frank Bale,22,Right Center Forward,TRUE,Wales,11,Gareth Bale
+3857273,Ramin Rezaeian,2,Right Back,TRUE,Iran,23,Ramin Rezaeian
+3857273,Aaron Ramsey,13,Right Center Midfield,TRUE,Wales,10,Aaron Ramsey
+3857273,Ethan Ampadu,10,Center Defensive Midfield,TRUE,Wales,15,Ethan Ampadu
+3857273,Neco Williams,8,Left Wing Back,TRUE,Wales,3,Neco Williams
+3857273,Connor Roberts,7,Right Wing Back,TRUE,Wales,14,Connor Roberts
+3857273,Ben Davies,5,Left Center Back,TRUE,Wales,4,Ben Davies
+3857273,Joe Rodon,4,Center Back,TRUE,Wales,6,Joe Rodon
+3857273,Chris Mepham,3,Right Center Back,TRUE,Wales,5,Chris Mepham
+3857273,Harry Wilson,15,Left Center Midfield,TRUE,Wales,8,Harry Wilson
+3857273,Ehsan Hajsafi,16,Left Midfield,TRUE,Iran,3,Ehsan Hajsafi
+3857273,Karim Ansarifard,23,Center Forward,FALSE,Iran,10,Karim Ansarifard
+3857273,Alireza Jahanbakhsh,12,Right Midfield,FALSE,Iran,7,Alireza Jahanbakhsh
+3857273,Mehdi Torabi,16,Left Midfield,FALSE,Iran,16,Mehdi Torabi
+3857273,Joe Allen,9,Right Defensive Midfield,FALSE,Wales,7,Joe Allen
+3857273,Roozbeh Cheshmi,11,Left Defensive Midfield,FALSE,Iran,15,Rouzbeh Cheshmi
+3857273,Sardar Azmoun,23,Center Forward,TRUE,Iran,20,Sardar Azmoun
+3857273,Mehdi Taremi,19,Center Attacking Midfield,TRUE,Iran,9,Mehdi Taremi
+3857273,Daniel Ward,1,Goalkeeper,FALSE,Wales,12,Danny Ward
+3857273,Ali Karimi,9,Right Defensive Midfield,FALSE,Iran,18,Ali Karimi
+3857273,Ahmad Nourollahi,11,Left Defensive Midfield,TRUE,Iran,21,Ahmad Nourollahi
+3857273,Brennan Johnson,12,Right Midfield,FALSE,Wales,9,Brennan Johnson
+3857274,Enner Remberto Valencia Lastra,20,Left Attacking Midfield,TRUE,Ecuador,13,Enner Valencia
+3857274,Michael Steveen Estrada Martínez,23,Center Forward,TRUE,Ecuador,11,Michael Estrada
+3857274,Gonzalo Jordy Plata Jiménez,18,Right Attacking Midfield,TRUE,Ecuador,19,Gonzalo Plata
+3857274,Moisés Isaac Caicedo Corozo,11,Left Defensive Midfield,TRUE,Ecuador,23,Moisés Caicedo
+3857274,Felix Eduardo Torres Caicedo,4,Center Back,TRUE,Ecuador,2,Félix Torres
+3857274,Jackson Gabriel Porozo Vernaza,3,Right Center Back,TRUE,Ecuador,25,Jackson Porozo
+3857274,Cody Mathès Gakpo,22,Right Center Forward,TRUE,Netherlands,8,Cody Gakpo
+3857274,Davy Klaassen,19,Center Attacking Midfield,TRUE,Netherlands,14,Davy Klaassen
+3857274,Marten de Roon,9,Right Defensive Midfield,FALSE,Netherlands,15,Marten de Roon
+3857274,Wout Weghorst,22,Right Center Forward,FALSE,Netherlands,19,Wout Weghorst
+3857274,Romario Andrés Ibarra Mina,18,Right Attacking Midfield,FALSE,Ecuador,10,Romario Ibarra
+3857274,Kevin José Rodríguez Cortez,23,Center Forward,FALSE,Ecuador,26,Kevin Rodríguez
+3857274,Jeremy Leonel Sarmiento Morante,20,Left Attacking Midfield,FALSE,Ecuador,16,Jeremy Sarmiento
+3857274,Steven Berghuis,19,Center Attacking Midfield,FALSE,Netherlands,11,Steven Berghuis
+3857274,Virgil van Dijk,4,Center Back,TRUE,Netherlands,4,Virgil van Dijk
+3857274,Nathan Aké,5,Left Center Back,TRUE,Netherlands,5,Nathan Aké
+3857274,Frenkie de Jong,11,Left Defensive Midfield,TRUE,Netherlands,21,Frenkie de Jong
+3857274,Teun Koopmeiners,9,Right Defensive Midfield,TRUE,Netherlands,20,Teun Koopmeiners
+3857274,Hernán Ismael Galíndez,1,Goalkeeper,TRUE,Ecuador,1,Hernán Galíndez
+3857274,Steven Bergwijn,24,Left Center Forward,TRUE,Netherlands,7,Steven Bergwijn
+3857274,Andries Noppert,1,Goalkeeper,TRUE,Netherlands,23,Andries Noppert
+3857274,Jurriën David Norman Timber,3,Right Center Back,TRUE,Netherlands,2,Jurriën Timber
+3857274,Daley Blind,8,Left Wing Back,TRUE,Netherlands,17,Daley Blind
+3857274,Denzel Dumfries,7,Right Wing Back,TRUE,Netherlands,22,Denzel Dumfries
+3857274,Angelo Smit Preciado Quiñónez,7,Right Wing Back,TRUE,Ecuador,17,Ángelo Preciado
+3857274,Piero Martín Hincapié Reyna,5,Left Center Back,TRUE,Ecuador,3,Piero Hincapié
+3857274,Jhegson Sebastián Méndez Carabalí,9,Right Defensive Midfield,TRUE,Ecuador,20,Sebas Méndez
+3857274,Pervis Josué Estupiñán Tenorio,8,Left Wing Back,TRUE,Ecuador,7,Pervis Estupiñán
+3857274,Memphis Depay,24,Left Center Forward,FALSE,Netherlands,10,Memphis Depay
+3857275,Nader Ghandri,4,Center Back,TRUE,Tunisia,5,Nader Ghandri
+3857275,Randal Kolo Muani,23,Center Forward,TRUE,France,12,Randal Kolo Muani
+3857275,Mattéo Guendouzi Olié,21,Left Wing,TRUE,France,6,Mattéo Guendouzi
+3857275,Kingsley Coman,17,Right Wing,TRUE,France,20,Kingsley Coman
+3857275,Jordan Veretout,15,Left Center Midfield,TRUE,France,15,Jordan Veretout
+3857275,Yassine Meriah,3,Right Center Back,TRUE,Tunisia,4,Yassine Meriah
+3857275,Aymen Dahmen,1,Goalkeeper,TRUE,Tunisia,16,Aymen Dahmen
+3857275,Steve Mandanda,1,Goalkeeper,TRUE,France,16,Steve Mandanda
+3857275,Ali Abdi,20,Left Attacking Midfield,FALSE,Tunisia,24,Ali Abdi
+3857275,Ousmane Dembélé,17,Right Wing,FALSE,France,11,Ousmane Dembélé
+3857275,William Saliba,3,Right Center Back,FALSE,France,17,William Saliba
+3857275,Antoine Griezmann,13,Right Center Midfield,FALSE,France,7,Antoine Griezmann
+3857275,Adrien Rabiot,15,Left Center Midfield,FALSE,France,14,Adrien Rabiot
+3857275,Kylian Mbappé Lottin,21,Left Wing,FALSE,France,10,Kylian Mbappé
+3857275,Ghilane Chalali,20,Left Attacking Midfield,FALSE,Tunisia,18,Ghailene Chaalali
+3857275,Issam Jebali,23,Center Forward,FALSE,Tunisia,9,Issam Jebali
+3857275,Youssouf Fofana,13,Right Center Midfield,TRUE,France,13,Youssouf Fofana
+3857275,Eduardo Camavinga,6,Left Back,TRUE,France,25,Eduardo Camavinga
+3857275,Ibrahima Konaté,5,Left Center Back,TRUE,France,24,Ibrahima Konaté
+3857275,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3857275,Axel Disasi,2,Right Back,TRUE,France,3,Axel Disasi
+3857275,Aurélien Djani Tchouaméni,10,Center Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3857275,Montassar Omar Talbi,5,Left Center Back,TRUE,Tunisia,3,Montassar Talbi
+3857275,Aïssa Bilal Laïdouni,11,Left Defensive Midfield,TRUE,Tunisia,14,Aïssa Laïdouni
+3857275,Anis Ben Slimane,18,Right Attacking Midfield,TRUE,Tunisia,25,Anis Ben Slimane
+3857275,Mohamed Ali Ben Romdhane,20,Left Attacking Midfield,TRUE,Tunisia,15,Mohamed Ali Ben Romdhane
+3857275,Wahbi Khazri,23,Center Forward,TRUE,Tunisia,10,Wahbi Khazri
+3857275,Ali Maâloul,8,Left Wing Back,TRUE,Tunisia,12,Ali Maâloul
+3857275,Wajdi Kechrida,7,Right Wing Back,TRUE,Tunisia,21,Wajdi Kechrida
+3857275,Ellyes Joris Skhiri,9,Right Defensive Midfield,TRUE,Tunisia,17,Ellyes Skhiri
+3857276,Noussair Mazraoui,6,Left Back,TRUE,Morocco,3,Noussair Mazraoui
+3857276,Milan Borjan,1,Goalkeeper,TRUE,Canada,18,Milan Borjan
+3857276,Alistair Johnston,2,Right Back,TRUE,Canada,2,Alistair Johnston
+3857276,Hakim Ziyech,17,Right Wing,TRUE,Morocco,7,Hakim Ziyech
+3857276,Abdelhamid Sabiri,15,Left Center Midfield,TRUE,Morocco,11,Abdelhamid Sabiri
+3857276,Sofiane Boufal,21,Left Wing,TRUE,Morocco,17,Sofiane Boufal
+3857276,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3857276,Nayef Aguerd,3,Right Center Back,TRUE,Morocco,5,Nayef Aguerd
+3857276,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3857276,Jawad El Yamiq,3,Right Center Back,FALSE,Morocco,18,Jawad El Yamiq
+3857276,Abderrazak Hamdallah,23,Center Forward,FALSE,Morocco,9,Abderrazak Hamdallah
+3857276,David Wallace Wotherspoon,16,Left Midfield,FALSE,Canada,24,David Wotherspoon
+3857276,Yahya Jabrane,11,Left Defensive Midfield,FALSE,Morocco,26,Yahya Jabrane
+3857276,Richie Laryea,12,Right Midfield,FALSE,Canada,22,Richie Laryea
+3857276,Ismael Koné,9,Right Defensive Midfield,FALSE,Canada,15,Ismaël Koné
+3857276,Zakaria Aboukhlal,21,Left Wing,FALSE,Morocco,14,Zakaria Aboukhlal
+3857276,Atiba Hutchinson,11,Left Defensive Midfield,FALSE,Canada,13,Atiba Hutchinson
+3857276,Jonathan David,23,Center Forward,FALSE,Canada,20,Jonathan David
+3857276,Mark Anthony Kaye,11,Left Defensive Midfield,TRUE,Canada,14,Mark-Anthony Kaye
+3857276,Jonathan Osorio,9,Right Defensive Midfield,TRUE,Canada,21,Jonathan Osorio
+3857276,Sam Adekugbe,6,Left Back,TRUE,Canada,3,Sam Adekugbe
+3857276,Kamal Miller,5,Left Center Back,TRUE,Canada,4,Kamal Miller
+3857276,Steven de Sousa Vitoria,3,Right Center Back,TRUE,Canada,5,Steven Vitória
+3857276,Romain Saïss,5,Left Center Back,TRUE,Morocco,6,Romain Saïss
+3857276,Selim Amallah,15,Left Center Midfield,FALSE,Morocco,15,Selim Amallah
+3857276,Alphonso Davies,12,Right Midfield,TRUE,Canada,19,Alphonso Davies
+3857276,Azzedine Ounahi,13,Right Center Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3857276,Cyle Larin,23,Center Forward,TRUE,Canada,17,Cyle Larin
+3857276,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3857276,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3857276,Tajon Buchanan,16,Left Midfield,TRUE,Canada,11,Tajon Buchanan
+3857276,David Junior Hoilett,19,Center Attacking Midfield,TRUE,Canada,10,Junior Hoilett
+3857277,Abdessamad Ezzalzouli,16,Left Midfield,FALSE,Morocco,16,Abde Ezzalzouli
+3857277,Marko Livaja,23,Center Forward,FALSE,Croatia,14,Marko Livaja
+3857277,Borna Sosa,6,Left Back,TRUE,Croatia,19,Borna Sosa
+3857277,Abdelhamid Sabiri,13,Right Center Midfield,FALSE,Morocco,11,Abdelhamid Sabiri
+3857277,Mislav Oršić,21,Left Wing,FALSE,Croatia,18,Mislav Oršić
+3857277,Yahia Attiyat allah,6,Left Back,FALSE,Morocco,25,Yahia Attiyat Allah
+3857277,Mario Pašalić,17,Right Wing,FALSE,Croatia,15,Mario Pašalić
+3857277,Lovro Majer,15,Left Center Midfield,FALSE,Croatia,7,Lovro Majer
+3857277,Abderrazak Hamdallah,23,Center Forward,FALSE,Morocco,9,Abderrazak Hamdallah
+3857277,Noussair Mazraoui,6,Left Back,TRUE,Morocco,3,Noussair Mazraoui
+3857277,Azzedine Ounahi,13,Right Center Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3857277,Hakim Ziyech,12,Right Midfield,TRUE,Morocco,7,Hakim Ziyech
+3857277,Romain Saïss,5,Left Center Back,TRUE,Morocco,6,Romain Saïss
+3857277,Nayef Aguerd,3,Right Center Back,TRUE,Morocco,5,Nayef Aguerd
+3857277,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3857277,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3857277,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3857277,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3857277,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3857277,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3857277,Selim Amallah,15,Left Center Midfield,TRUE,Morocco,15,Selim Amallah
+3857277,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3857277,Nikola Vlašić,17,Right Wing,TRUE,Croatia,13,Nikola Vlašić
+3857277,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3857277,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3857277,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3857277,Sofiane Boufal,16,Left Midfield,TRUE,Morocco,17,Sofiane Boufal
+3857277,Andrej Kramarić,23,Center Forward,TRUE,Croatia,9,Andrej Kramarić
+3857277,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3857277,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3857278,Saeid Ezatolahi Afagh,11,Left Defensive Midfield,TRUE,Iran,6,Saeid Ezatolahi
+3857278,Ahmad Nourollahi,9,Right Defensive Midfield,TRUE,Iran,21,Ahmad Nourollahi
+3857278,Morteza Pouraliganji,5,Left Center Back,TRUE,Iran,8,Morteza Pouraliganji
+3857278,Seyed Majid Hosseini,3,Right Center Back,TRUE,Iran,19,Majid Hosseini
+3857278,Kellyn Kai Perry-Acosta,11,Left Defensive Midfield,FALSE,United States,23,Kellyn Acosta
+3857278,Joshua Sargent,23,Center Forward,TRUE,United States,24,Josh Sargent
+3857278,Christian Pulisic,21,Left Wing,TRUE,United States,10,Christian Pulisic
+3857278,Milad Mohammadi,6,Left Back,TRUE,Iran,5,Milad Mohammadi
+3857278,Antonee Robinson,6,Left Back,TRUE,United States,5,Antonee Robinson
+3857278,Ramin Rezaeian,2,Right Back,TRUE,Iran,23,Ramin Rezaeian
+3857278,Saman Ghoddos,21,Left Wing,FALSE,Iran,14,Saman Ghoddos
+3857278,Ali Karimi,15,Left Center Midfield,FALSE,Iran,18,Ali Karimi
+3857278,Shaquell Moore,7,Right Wing Back,FALSE,United States,18,Shaq Moore
+3857278,Alireza Safar Beiranvand,1,Goalkeeper,TRUE,Iran,1,Alireza Beiranvand
+3857278,Timothy Weah,17,Right Wing,TRUE,United States,21,Timothy Weah
+3857278,Tyler Adams,10,Center Defensive Midfield,TRUE,United States,4,Tyler Adams 
+3857278,Ali Gholizadeh,12,Right Midfield,TRUE,Iran,17,Ali Gholizadeh
+3857278,Weston McKennie,15,Left Center Midfield,TRUE,United States,8,Weston McKennie
+3857278,Yunus Dimoara Musah,13,Right Center Midfield,TRUE,United States,6,Yunus Musah
+3857278,Sergino Dest,2,Right Back,TRUE,United States,2,Sergiño Dest
+3857278,Matthew Charles Turner,1,Goalkeeper,TRUE,United States,1,Matt Turner
+3857278,Mehdi Torabi,13,Right Center Midfield,FALSE,Iran,16,Mehdi Torabi
+3857278,Abolfazl Jalali,6,Left Back,FALSE,Iran,25,Abolfazl Jalali
+3857278,Haji Wright,23,Center Forward,FALSE,United States,19,Haji Wright
+3857278,Karim Ansarifard,22,Right Center Forward,FALSE,Iran,10,Karim Ansarifard
+3857278,Walker Zimmerman,4,Center Back,FALSE,United States,3,Walker Zimmerman
+3857278,Brenden Aaronson,21,Left Wing,FALSE,United States,11,Brenden Aaronson
+3857278,Ehsan Hajsafi,16,Left Midfield,TRUE,Iran,3,Ehsan Hajsafi
+3857278,Cameron Carter-Vickers,3,Right Center Back,TRUE,United States,20,Cameron Carter-Vickers
+3857278,Sardar Azmoun,23,Center Forward,TRUE,Iran,20,Sardar Azmoun
+3857278,Mehdi Taremi,19,Center Attacking Midfield,TRUE,Iran,9,Mehdi Taremi
+3857278,Tim Ream,5,Left Center Back,TRUE,United States,13,Tim Ream
+3857279,Marcus Thuram,23,Center Forward,FALSE,France,26,Marcus Thuram
+3857279,Jules Koundé,2,Right Back,FALSE,France,5,Jules Koundé
+3857279,Theo Bernard François Hernández,6,Left Back,FALSE,France,22,Théo Hernandez
+3857279,Miloš Degenek,2,Right Back,FALSE,Australia,2,Miloš Degenek
+3857279,Keanu Baccus,15,Left Center Midfield,FALSE,Australia,26,Keanu Baccus
+3857279,Garang Kuol,12,Right Midfield,FALSE,Australia,21,Garang Kuol
+3857279,Awer Denis Bul Mabil,16,Left Midfield,FALSE,Australia,11,Awer Mabil
+3857279,Youssouf Fofana,9,Right Defensive Midfield,FALSE,France,13,Youssouf Fofana
+3857279,Kingsley Coman,17,Right Wing,FALSE,France,20,Kingsley Coman
+3857279,Jason Cummings,23,Center Forward,FALSE,Australia,25,Jason Cummings
+3857279,Mitchell Thomas Duke,23,Center Forward,TRUE,Australia,15,Mitchell Duke
+3857279,Aaron Mooy,10,Center Defensive Midfield,TRUE,Australia,13,Aaron Mooy
+3857279,Riley McGree,15,Left Center Midfield,TRUE,Australia,14,Riley McGree
+3857279,Jackson Irvine,13,Right Center Midfield,TRUE,Australia,22,Jackson Irvine
+3857279,Mathew Leckie,12,Right Midfield,TRUE,Australia,7,Mathew Leckie
+3857279,Craig Goodwin,16,Left Midfield,TRUE,Australia,23,Craig Goodwin
+3857279,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3857279,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3857279,Adrien Rabiot,11,Left Defensive Midfield,TRUE,France,14,Adrien Rabiot
+3857279,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3857279,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3857279,Mathew Ryan,1,Goalkeeper,TRUE,Australia,1,Mathew Ryan
+3857279,Nathaniel Atkinson,2,Right Back,TRUE,Australia,3,Nathaniel Atkinson
+3857279,Harry Souttar,3,Right Center Back,TRUE,Australia,19,Harry Soutta
+3857279,Kye Rowles,5,Left Center Back,TRUE,Australia,4,Kye Rowles
+3857279,Aziz Eraltay Behich,6,Left Back,TRUE,Australia,16,Aziz Behich
+3857279,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3857279,Benjamin Pavard,2,Right Back,TRUE,France,2,Benjamin Pavard
+3857279,Ibrahima Konaté,3,Right Center Back,TRUE,France,24,Ibrahima Konaté
+3857279,Dayotchanculle Upamecano,5,Left Center Back,TRUE,France,18,Dayot Upamecano
+3857279,Lucas Hernández Pi,6,Left Back,TRUE,France,21,Lucas Hernandez
+3857279,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3857280,Christopher Wooh,3,Right Center Back,TRUE,Cameroon,4,Christopher Wooh
+3857280,Gabriel Fernando de Jesus,23,Center Forward,TRUE,Brazil,18,Gabriel Jesus
+3857280,Frederico Rodrigues Santos,9,Right Defensive Midfield,TRUE,Brazil,8,Fred
+3857280,Fábio Henrique Tavares,11,Left Defensive Midfield,TRUE,Brazil,15,Fabinho
+3857280,Devis Rogers Epassy Mboka,1,Goalkeeper,TRUE,Cameroon,16,Devis Epassy
+3857280,Éder Gabriel Militão,3,Right Center Back,TRUE,Brazil,14,Éder Militão
+3857280,Daniel Alves da Silva,2,Right Back,TRUE,Brazil,13,Dani Alves
+3857280,Ederson Santana de Moraes,1,Goalkeeper,TRUE,Brazil,23,Ederson
+3857280,Jean-Eric Maxim Choupo-Moting,24,Left Center Forward,TRUE,Cameroon,13,Eric Maxim Choupo-Moting
+3857280,Vincent Paté Aboubakar,22,Right Center Forward,TRUE,Cameroon,10,Vincent Aboubakar
+3857280,Nicolas Moumi Ngamaleu,16,Left Midfield,TRUE,Cameroon,6,Moumi Ngamaleu
+3857280,Alex Nicolao Telles,6,Left Back,TRUE,Brazil,16,Alex Telles
+3857280,Gleison Bremer Silva Nascimento,5,Left Center Back,TRUE,Brazil,24,Bremer
+3857280,Pierre Kunde Malong,9,Right Defensive Midfield,TRUE,Cameroon,15,Pierre Kunde
+3857280,Nouhou Tolo,6,Left Back,TRUE,Cameroon,25,Nouhou Tolo
+3857280,Enzo Ebosse,5,Left Center Back,TRUE,Cameroon,24,Enzo Ebosse
+3857280,Pedro Guilherme Abreu dos Santos,23,Center Forward,FALSE,Brazil,25,Pedro
+3857280,Karl Brillant Toko Ekambi,16,Left Midfield,FALSE,Cameroon,12,Karl Toko Ekambi
+3857280,Gabriel Teodoro Martinelli Silva,21,Left Wing,TRUE,Brazil,26,Gabriel Martinelli
+3857280,Rodrygo Silva de Goes,19,Center Attacking Midfield,TRUE,Brazil,21,Rodrygo
+3857280,Antony Matheus dos Santos,17,Right Wing,TRUE,Brazil,19,Antony
+3857280,Jerome Ngom Mbekeli,12,Right Midfield,FALSE,Cameroon,2,Jerome Ngom Mbekeli
+3857280,Raphael Dias Belloli,17,Right Wing,FALSE,Brazil,11,Raphinha
+3857280,Jules Olivier Ntcham,9,Right Defensive Midfield,FALSE,Cameroon,22,Olivier Ntcham
+3857280,André-Frank Zambo Anguissa,11,Left Defensive Midfield,TRUE,Cameroon,8,André-Frank Zambo Anguissa
+3857280,Ngoran Suiru Fai Collins,2,Right Back,TRUE,Cameroon,19,Collins Fai
+3857280,Éverton Augusto de Barros Ribeiro,19,Center Attacking Midfield,FALSE,Brazil,22,Éverton Ribeiro
+3857280,Bryan Mbeumo,12,Right Midfield,TRUE,Cameroon,20,Bryan Mbeumo
+3857280,Bruno Guimarães Rodriguez Moura,9,Right Defensive Midfield,FALSE,Brazil,17,Bruno Guimarães
+3857280,Marcos Aoás Corrêa,6,Left Back,FALSE,Brazil,4,Marquinhos
+3857281,Ismael Koné,15,Left Center Midfield,FALSE,Canada,15,Ismaël Koné
+3857281,Jonathan Osorio,13,Right Center Midfield,FALSE,Canada,21,Jonathan Osorio
+3857281,Alistair Johnston,2,Right Back,TRUE,Canada,2,Alistair Johnston
+3857281,Kamal Miller,5,Left Center Back,TRUE,Canada,4,Kamal Miller
+3857281,Nikola Vlašić,17,Right Wing,FALSE,Croatia,13,Nikola Vlašić
+3857281,David Junior Hoilett,7,Right Wing Back,FALSE,Canada,10,Junior Hoilett
+3857281,Bruno Petković,23,Center Forward,FALSE,Croatia,16,Bruno Petković
+3857281,Lovro Majer,13,Right Center Midfield,FALSE,Croatia,7,Lovro Majer
+3857281,Mislav Oršić,21,Left Wing,FALSE,Croatia,18,Mislav Oršić
+3857281,Mario Pašalić,15,Left Center Midfield,FALSE,Croatia,15,Mario Pašalić
+3857281,Sam Adekugbe,8,Left Wing Back,FALSE,Canada,3,Sam Adekugbe
+3857281,Lucas Daniel Cavallini,24,Left Center Forward,FALSE,Canada,9,Lucas Cavallini
+3857281,Cyle Larin,22,Right Center Forward,TRUE,Canada,17,Cyle Larin
+3857281,Alphonso Davies,16,Left Midfield,TRUE,Canada,19,Alphonso Davies
+3857281,Tajon Buchanan,12,Right Midfield,TRUE,Canada,11,Tajon Buchanan
+3857281,Jonathan David,24,Left Center Forward,TRUE,Canada,20,Jonathan David
+3857281,Atiba Hutchinson,9,Right Defensive Midfield,TRUE,Canada,13,Atiba Hutchinson
+3857281,Stephen Antunes Eustáquio,11,Left Defensive Midfield,TRUE,Canada,7,Stephen Eustáquio
+3857281,Marko Livaja,23,Center Forward,TRUE,Croatia,14,Marko Livaja
+3857281,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3857281,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3857281,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3857281,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3857281,Richie Laryea,6,Left Back,TRUE,Canada,22,Richie Laryea
+3857281,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3857281,Steven de Sousa Vitoria,3,Right Center Back,TRUE,Canada,5,Steven Vitória
+3857281,Andrej Kramarić,17,Right Wing,TRUE,Croatia,9,Andrej Kramarić
+3857281,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3857281,Borna Sosa,6,Left Back,TRUE,Croatia,19,Borna Sosa
+3857281,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3857281,Milan Borjan,1,Goalkeeper,TRUE,Canada,18,Milan Borjan
+3857281,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3857282,Jordan Morris,17,Right Wing,FALSE,United States,16,Jordan Morris
+3857282,Sorba Thomas,16,Left Midfield,FALSE,Wales,22,Sorba Thomas
+3857282,Connor Roberts,7,Right Wing Back,TRUE,Wales,14,Connor Roberts
+3857282,Aaron Ramsey,13,Right Center Midfield,TRUE,Wales,10,Aaron Ramsey
+3857282,Brennan Johnson,12,Right Midfield,FALSE,Wales,9,Brennan Johnson
+3857282,Harry Wilson,15,Left Center Midfield,TRUE,Wales,8,Harry Wilson
+3857282,Ethan Ampadu,10,Center Defensive Midfield,TRUE,Wales,15,Ethan Ampadu
+3857282,Tim Ream,5,Left Center Back,TRUE,United States,13,Tim Ream
+3857282,Weston McKennie,13,Right Center Midfield,TRUE,United States,8,Weston McKennie
+3857282,Yunus Dimoara Musah,15,Left Center Midfield,TRUE,United States,6,Yunus Musah
+3857282,Tyler Adams,10,Center Defensive Midfield,TRUE,United States,4,Tyler Adams 
+3857282,Antonee Robinson,6,Left Back,TRUE,United States,5,Antonee Robinson
+3857282,Matthew Charles Turner,1,Goalkeeper,TRUE,United States,1,Matt Turner
+3857282,Sergino Dest,2,Right Back,TRUE,United States,2,Sergiño Dest
+3857282,Walker Zimmerman,3,Right Center Back,TRUE,United States,3,Walker Zimmerman
+3857282,Wayne Hennessey,1,Goalkeeper,TRUE,Wales,1,Wayne Hennessey
+3857282,Joshua Sargent,23,Center Forward,TRUE,United States,24,Josh Sargent
+3857282,Chris Mepham,3,Right Center Back,TRUE,Wales,5,Chris Mepham
+3857282,Joe Rodon,4,Center Back,TRUE,Wales,6,Joe Rodon
+3857282,Ben Davies,5,Left Center Back,TRUE,Wales,4,Ben Davies
+3857282,Haji Wright,23,Center Forward,FALSE,United States,19,Haji Wright
+3857282,Brenden Aaronson,13,Right Center Midfield,FALSE,United States,11,Brenden Aaronson
+3857282,DeAndre Yedlin,2,Right Back,FALSE,United States,22,DeAndre Yedlin
+3857282,Christian Pulisic,21,Left Wing,TRUE,United States,10,Christian Pulisic
+3857282,Daniel James,24,Left Center Forward,TRUE,Wales,20,Daniel James
+3857282,Timothy Weah,17,Right Wing,TRUE,United States,21,Timothy Weah
+3857282,Neco Williams,8,Left Wing Back,TRUE,Wales,3,Neco Williams
+3857282,Gareth Frank Bale,22,Right Center Forward,TRUE,Wales,11,Gareth Bale
+3857282,Kellyn Kai Perry-Acosta,15,Left Center Midfield,FALSE,United States,23,Kellyn Acosta
+3857282,Kieffer Roberto Francisco Moore,24,Left Center Forward,FALSE,Wales,13,Kieffer Moore
+3857282,Joseff Morrell,11,Left Defensive Midfield,FALSE,Wales,16,Joe Morrell
+3857283,Michy Batshuayi Tunga,23,Center Forward,TRUE,Belgium,23,Michy Batshuayi
+3857283,Axel Witsel,11,Left Defensive Midfield,TRUE,Belgium,6,Axel Witsel
+3857283,Kevin De Bruyne,17,Right Wing,TRUE,Belgium,7,Kevin De Bruyne
+3857283,Timothy Castagne,6,Left Back,TRUE,Belgium,21,Timothy Castagne
+3857283,Jan Vertonghen,5,Left Center Back,TRUE,Belgium,5,Jan Vertonghen
+3857283,Eden Hazard,19,Center Attacking Midfield,TRUE,Belgium,10,Eden Hazard
+3857283,Zakaria Aboukhlal,21,Left Wing,FALSE,Morocco,14,Zakaria Aboukhlal
+3857283,Youri Tielemans,9,Right Defensive Midfield,FALSE,Belgium,8,Youri Tielemans
+3857283,Munir Mohand Mohamedi,1,Goalkeeper,TRUE,Morocco,12,Munir Mohamedi
+3857283,Nayef Aguerd,3,Right Center Back,TRUE,Morocco,5,Nayef Aguerd
+3857283,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3857283,Azzedine Ounahi,15,Left Center Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3857283,Selim Amallah,13,Right Center Midfield,TRUE,Morocco,15,Selim Amallah
+3857283,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3857283,Noussair Mazraoui,6,Left Back,TRUE,Morocco,3,Noussair Mazraoui
+3857283,Romain Saïss,5,Left Center Back,TRUE,Morocco,6,Romain Saïss
+3857283,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3857283,Hakim Ziyech,17,Right Wing,TRUE,Morocco,7,Hakim Ziyech
+3857283,Amadou Onana,9,Right Defensive Midfield,TRUE,Belgium,18,Amadou Onana
+3857283,Sofiane Boufal,21,Left Wing,TRUE,Morocco,17,Sofiane Boufal
+3857283,Thorgan Hazard,21,Left Wing,TRUE,Belgium,16,Thorgan Hazard
+3857283,Romelu Lukaku Menama,23,Center Forward,FALSE,Belgium,9,Romelu Lukaku
+3857283,Leandro Trossard,21,Left Wing,FALSE,Belgium,17,Leandro Trossard
+3857283,Abderrazak Hamdallah,23,Center Forward,FALSE,Morocco,9,Abderrazak Hamdallah
+3857283,Yahia Attiyat allah,13,Right Center Midfield,FALSE,Morocco,25,Yahia Attiyat Allah
+3857283,Abdelhamid Sabiri,2,Right Back,FALSE,Morocco,11,Abdelhamid Sabiri
+3857283,Dries Mertens,19,Center Attacking Midfield,FALSE,Belgium,14,Dries Mertens
+3857283,Charles De Ketelaere,17,Right Wing,FALSE,Belgium,22,Charles De Ketelaere
+3857283,Jawad El Yamiq,3,Right Center Back,FALSE,Morocco,18,Jawad El Yamiq
+3857283,Thomas Meunier,2,Right Back,TRUE,Belgium,15,Thomas Meunier
+3857283,Toby Alderweireld,3,Right Center Back,TRUE,Belgium,2,Toby Alderweireld
+3857283,Thibaut Courtois,1,Goalkeeper,TRUE,Belgium,1,Thibaut Courtois
+3857284,Takuma Asano,23,Center Forward,FALSE,Japan,18,Takuma Asano
+3857284,Kaoru Mitoma,8,Left Wing Back,FALSE,Japan,9,Kaoru Mitoma
+3857284,Takehiro Tomiyasu,5,Left Center Back,FALSE,Japan,16,Takehiro Tomiyasu
+3857284,Takefusa Kubo,21,Left Wing,TRUE,Japan,11,Takefusa Kubo
+3857284,Daichi Kamada,19,Center Attacking Midfield,TRUE,Japan,15,Daichi Kamada
+3857284,Junya Ito,17,Right Wing,TRUE,Japan,14,Junya Itō
+3857284,Ao Tanaka,11,Left Defensive Midfield,TRUE,Japan,17,Ao Tanaka
+3857284,Wataru Endo,9,Right Defensive Midfield,TRUE,Japan,6,Wataru Endo
+3857284,Yuto Nagatomo,6,Left Back,TRUE,Japan,5,Yūto Nagatomo
+3857284,Maya Yoshida,5,Left Center Back,TRUE,Japan,22,Maya Yoshida
+3857284,Ko Itakura,3,Right Center Back,TRUE,Japan,4,Kō Itakura
+3857284,Ritsu Doan,17,Right Wing,FALSE,Japan,8,Ritsu Dōan
+3857284,Takumi Minamino,21,Left Wing,FALSE,Japan,10,Takumi Minamino
+3857284,Mario Götze,19,Center Attacking Midfield,FALSE,Germany,11,Mario Götze
+3857284,Niclas Füllkrug,23,Center Forward,FALSE,Germany,9,Niclas Füllkrug
+3857284,Youssoufa Moukoko,22,Right Center Forward,FALSE,Germany,26,Youssoufa Moukoko
+3857284,Jonas Hofmann,17,Right Wing,FALSE,Germany,18,Jonas Hofmann
+3857284,Leon Goretzka,11,Left Defensive Midfield,FALSE,Germany,8,Leon Goretzka
+3857284,Daizen Maeda,23,Center Forward,TRUE,Japan,25,Daizen Maeda
+3857284,Hiroki Sakai,2,Right Back,TRUE,Japan,19,Hiroki Sakai
+3857284,Shūichi Gonda,1,Goalkeeper,TRUE,Japan,12,Shūichi Gonda
+3857284,Kai Havertz,23,Center Forward,TRUE,Germany,7,Kai Havertz
+3857284,Jamal Musiala,21,Left Wing,TRUE,Germany,14,Jamal Musiala
+3857284,Thomas Müller,19,Center Attacking Midfield,TRUE,Germany,13,Thomas Müller
+3857284,Serge Gnabry,17,Right Wing,TRUE,Germany,10,Serge Gnabry
+3857284,İlkay Gündoğan,11,Left Defensive Midfield,TRUE,Germany,21,İlkay Gündoğan
+3857284,Joshua Kimmich,9,Right Defensive Midfield,TRUE,Germany,6,Joshua Kimmich
+3857284,David Raum,6,Left Back,TRUE,Germany,3,David Raum
+3857284,Nico Schlotterbeck,5,Left Center Back,TRUE,Germany,23,Nico Schlotterbeck
+3857284,Antonio Rüdiger,3,Right Center Back,TRUE,Germany,2,Antonio Rüdiger
+3857284,Manuel Neuer,1,Goalkeeper,TRUE,Germany,1,Manuel Neuer
+3857284,Niklas Süle,2,Right Back,TRUE,Germany,15,Niklas Süle
+3857285,Cheikh Ahmadou Bamba Mbacke Dieng,23,Center Forward,FALSE,Senegal,20,Bamba Dieng
+3857285,Ismail Jakobs,6,Left Back,FALSE,Senegal,14,Ismail Jakobs
+3857285,Davy Klaassen,19,Center Attacking Midfield,FALSE,Netherlands,14,Davy Klaassen
+3857285,Cheikhou Kouyaté,9,Right Defensive Midfield,TRUE,Senegal,8,Cheikhou Kouyaté
+3857285,Edouard Mendy,1,Goalkeeper,TRUE,Senegal,16,Édouard Mendy
+3857285,Kalidou Koulibaly,3,Right Center Back,TRUE,Senegal,3,Kalidou Koulibaly
+3857285,Youssouf Sabaly,2,Right Back,TRUE,Senegal,21,Youssouf Sabaly
+3857285,Nampalys Mendy,11,Left Defensive Midfield,TRUE,Senegal,6,Nampalys Mendy
+3857285,Abdou Diallo,6,Left Back,TRUE,Senegal,22,Abdou Diallo
+3857285,Pape Abou Cissé,5,Left Center Back,TRUE,Senegal,4,Pape Abou Cissé
+3857285,Denzel Dumfries,7,Right Wing Back,TRUE,Netherlands,22,Denzel Dumfries
+3857285,Nathan Aké,5,Left Center Back,TRUE,Netherlands,5,Nathan Aké
+3857285,Virgil van Dijk,4,Center Back,TRUE,Netherlands,4,Virgil van Dijk
+3857285,Matthijs de Ligt,3,Right Center Back,TRUE,Netherlands,3,Matthijs de Ligt
+3857285,Andries Noppert,1,Goalkeeper,TRUE,Netherlands,23,Andries Noppert
+3857285,Boulaye Dia,23,Center Forward,TRUE,Senegal,9,Boulaye Dia
+3857285,Ismaïla Sarr,21,Left Wing,TRUE,Senegal,18,Ismaïla Sarr
+3857285,Idrissa Gana Gueye,19,Center Attacking Midfield,TRUE,Senegal,5,Idrissa Gueye
+3857285,Krépin Diatta,17,Right Wing,TRUE,Senegal,15,Krépin Diatta
+3857285,Frenkie de Jong,11,Left Defensive Midfield,TRUE,Netherlands,21,Frenkie de Jong
+3857285,Steven Bergwijn,24,Left Center Forward,TRUE,Netherlands,7,Steven Bergwijn
+3857285,Vincent Janssen,22,Right Center Forward,TRUE,Netherlands,18,Vincent Janssen
+3857285,Cody Mathès Gakpo,19,Center Attacking Midfield,TRUE,Netherlands,8,Cody Gakpo
+3857285,Daley Blind,8,Left Wing Back,TRUE,Netherlands,17,Daley Blind
+3857285,Steven Berghuis,9,Right Defensive Midfield,TRUE,Netherlands,11,Steven Berghuis
+3857285,Memphis Depay,24,Left Center Forward,FALSE,Netherlands,10,Memphis Depay
+3857285,Marten de Roon,9,Right Defensive Midfield,FALSE,Netherlands,15,Marten de Roon
+3857285,Pape Gueye,13,Right Center Midfield,FALSE,Senegal,26,Pape Gueye
+3857285,Teun Koopmeiners,9,Right Defensive Midfield,FALSE,Netherlands,20,Teun Koopmeiners
+3857285,Nicolas Jackson,17,Right Wing,FALSE,Senegal,7,Nicolas Jackson
+3857286,Jhegson Sebastián Méndez Carabalí,9,Right Defensive Midfield,TRUE,Ecuador,20,Sebas Méndez
+3857286,Romario Andrés Ibarra Mina,16,Left Midfield,TRUE,Ecuador,10,Romario Ibarra
+3857286,Saad Abdullah Al Sheeb,1,Goalkeeper,TRUE,Qatar,1,Saad Al-Sheeb
+3857286,Boualem Khoukhi,4,Center Back,TRUE,Qatar,16,Boualem Khoukhi
+3857286,Abdelkarim Hassan Al Haj Fadlalla,5,Left Center Back,TRUE,Qatar,3,Abdelkarim Hassan
+3857286,Bassam Hisham Al Rawi,3,Right Center Back,TRUE,Qatar,15,Bassam Al-Rawi
+3857286,Pedro Miguel Correia,7,Right Wing Back,TRUE,Qatar,2,Pedro Miguel
+3857286,Almoez Ali Zainalabiddin Abdulla,22,Right Center Forward,TRUE,Qatar,19,Almoez Ali
+3857286,Alan Steven Franco Palma,11,Left Defensive Midfield,FALSE,Ecuador,21,Alan Franco
+3857286,Moisés Isaac Caicedo Corozo,11,Left Defensive Midfield,TRUE,Ecuador,23,Moisés Caicedo
+3857286,Gonzalo Jordy Plata Jiménez,12,Right Midfield,TRUE,Ecuador,19,Gonzalo Plata
+3857286,Enner Remberto Valencia Lastra,22,Right Center Forward,TRUE,Ecuador,13,Enner Valencia
+3857286,Karim Boudiaf,10,Center Defensive Midfield,TRUE,Qatar,12,Karim Boudiaf
+3857286,Michael Steveen Estrada Martínez,24,Left Center Forward,TRUE,Ecuador,11,Michael Estrada
+3857286,Hassan Khalid Al Heidos,13,Right Center Midfield,TRUE,Qatar,10,Hassan Al-Haydos
+3857286,Pervis Josué Estupiñán Tenorio,6,Left Back,TRUE,Ecuador,7,Pervis Estupiñán
+3857286,Felix Eduardo Torres Caicedo,3,Right Center Back,TRUE,Ecuador,2,Félix Torres
+3857286,Piero Martín Hincapié Reyna,5,Left Center Back,TRUE,Ecuador,3,Piero Hincapié
+3857286,Homam Alamin Ahmed,8,Left Wing Back,TRUE,Qatar,14,Homam Ahmed
+3857286,Angelo Smit Preciado Quiñónez,2,Right Back,TRUE,Ecuador,17,Ángelo Preciado
+3857286,Abdulaziz Hatem Mohammed Abdullah,15,Left Center Midfield,TRUE,Qatar,6,Abdulaziz Hatem
+3857286,Hernán Ismael Galíndez,1,Goalkeeper,TRUE,Ecuador,1,Hernán Galíndez
+3857286,Akram Hassan Afif,24,Left Center Forward,TRUE,Qatar,11,Akram Afif
+3857286,Jeremy Leonel Sarmiento Morante,16,Left Midfield,FALSE,Ecuador,16,Jeremy Sarmiento
+3857286,Mohammed Waed Abdulwahhab Al Bayati,15,Left Center Midfield,FALSE,Qatar,4,Mohammed Waad
+3857286,Mohammed Muntari,22,Right Center Forward,FALSE,Qatar,9,Mohammed Muntari
+3857286,José Adoni Cifuentes Charcopa,19,Center Attacking Midfield,FALSE,Ecuador,5,José Cifuentes
+3857286,Kevin José Rodríguez Cortez,23,Center Forward,FALSE,Ecuador,26,Kevin Rodríguez
+3857287,Edinson Roberto Cavani Gómez,22,Right Center Forward,FALSE,Uruguay,21,Edinson Cavani
+3857287,Jae-Sung Lee,19,Center Attacking Midfield,TRUE,South Korea,10,Lee Jae-sung
+3857287,Heung-Min Son,21,Left Wing,TRUE,South Korea,7,Son Heung-min
+3857287,Ui-Jo Hwang,23,Center Forward,TRUE,South Korea,16,Hwang Ui-jo
+3857287,Young-Gwon Kim,5,Left Center Back,TRUE,South Korea,19,Kim Young-gwon
+3857287,Min Jae Kim,3,Right Center Back,TRUE,South Korea,4,Kim Min-jae
+3857287,Moon-Hwan Kim,2,Right Back,TRUE,South Korea,15,Kim Moon-hwan
+3857287,Seung-Gyu Kim,1,Goalkeeper,TRUE,South Korea,1,Kim Seung-gyu
+3857287,Luis Alberto Suárez Díaz,23,Center Forward,TRUE,Uruguay,9,Luis Suárez
+3857287,Guillermo Varela Olivera,12,Right Midfield,FALSE,Uruguay,13,Guillermo Varela
+3857287,José Martín Cáceres Silva,2,Right Back,TRUE,Uruguay,22,Martín Cáceres
+3857287,Sergio Rochet Álvarez,1,Goalkeeper,TRUE,Uruguay,23,Sergio Rochet
+3857287,Facundo Pellistri Rebollo,17,Right Wing,TRUE,Uruguay,8,Facundo Pellistri
+3857287,Matías Vecino Falero,15,Left Center Midfield,TRUE,Uruguay,5,Matías Vecino
+3857287,Federico Santiago Valverde Dipetta,13,Right Center Midfield,TRUE,Uruguay,15,Federico Valverde
+3857287,Rodrigo Bentancur Colmán,10,Center Defensive Midfield,TRUE,Uruguay,6,Rodrigo Bentancur
+3857287,Mathías Olivera Miramontes,6,Left Back,TRUE,Uruguay,16,Mathías Olivera
+3857287,José María Giménez de Vargas,5,Left Center Back,TRUE,Uruguay,2,Kosé Giménez
+3857287,Diego Roberto Godín Leal,3,Right Center Back,TRUE,Uruguay,3,Diego Godín
+3857287,Matías Nicolás Viña Susperreguy,6,Left Back,FALSE,Uruguay,17,Matías Viña
+3857287,Sang-Ho Na,17,Right Wing,TRUE,South Korea,17,Na Sang-ho
+3857287,Jun-Ho Son,19,Center Attacking Midfield,FALSE,South Korea,13,Son Jun-ho
+3857287,Kang-In Lee,17,Right Wing,FALSE,South Korea,18,Lee Kang-in
+3857287,Diego Nicolás De La Cruz Arcosa,16,Left Midfield,FALSE,Uruguay,7,Nicolás de la Cruz
+3857287,Gue-Sung Cho,23,Center Forward,FALSE,South Korea,9,Cho Gue-sung
+3857287,Jin-Su Kim,6,Left Back,TRUE,South Korea,3,Kim Jin-su
+3857287,In-Beom Hwang,9,Right Defensive Midfield,TRUE,South Korea,6,Hwang In-beom
+3857287,Darwin Gabriel Núñez Ribeiro,21,Left Wing,TRUE,Uruguay,11,Darwin Núñez
+3857287,Woo-Young Jung,11,Left Defensive Midfield,TRUE,South Korea,5,Jung Woo-young
+3857288,Naïm Sliti,18,Right Attacking Midfield,TRUE,Tunisia,23,Naïm Sliti
+3857288,Youssef Msakni,20,Left Attacking Midfield,TRUE,Tunisia,7,Youssef Msakni
+3857288,Issam Jebali,23,Center Forward,TRUE,Tunisia,9,Issam Jebali
+3857288,Fran Karačić,2,Right Back,TRUE,Australia,5,Fran Karačić
+3857288,Mathew Ryan,1,Goalkeeper,TRUE,Australia,1,Mathew Ryan
+3857288,Ellyes Joris Skhiri,9,Right Defensive Midfield,TRUE,Tunisia,17,Ellyes Skhiri
+3857288,Mathew Leckie,12,Right Midfield,TRUE,Australia,7,Mathew Leckie
+3857288,Craig Goodwin,16,Left Midfield,TRUE,Australia,23,Craig Goodwin
+3857288,Aziz Eraltay Behich,6,Left Back,TRUE,Australia,16,Aziz Behich
+3857288,Kye Rowles,5,Left Center Back,TRUE,Australia,4,Kye Rowles
+3857288,Harry Souttar,3,Right Center Back,TRUE,Australia,19,Harry Soutta
+3857288,Mohamed Dräger,7,Right Wing Back,TRUE,Tunisia,20,Mohamed Dräger
+3857288,Jackson Irvine,9,Right Defensive Midfield,TRUE,Australia,22,Jackson Irvine
+3857288,Aaron Mooy,11,Left Defensive Midfield,TRUE,Australia,13,Aaron Mooy
+3857288,Riley McGree,24,Left Center Forward,TRUE,Australia,14,Riley McGree
+3857288,Mitchell Thomas Duke,22,Right Center Forward,TRUE,Australia,15,Mitchell Duke
+3857288,Aïssa Bilal Laïdouni,11,Left Defensive Midfield,TRUE,Tunisia,14,Aïssa Laïdouni
+3857288,Ali Abdi,8,Left Wing Back,TRUE,Tunisia,24,Ali Abdi
+3857288,Montassar Omar Talbi,5,Left Center Back,TRUE,Tunisia,3,Montassar Talbi
+3857288,Yassine Meriah,4,Center Back,TRUE,Tunisia,4,Yassine Meriah
+3857288,Dylan Daniel Mahmoud Bronn,3,Right Center Back,TRUE,Tunisia,6,Dylan Bronn
+3857288,Aymen Dahmen,1,Goalkeeper,TRUE,Tunisia,16,Aymen Dahmen
+3857288,Jamie MacLaren,24,Left Center Forward,FALSE,Australia,9,Jamie Maclaren
+3857288,Wahbi Khazri,19,Center Attacking Midfield,FALSE,Tunisia,10,Wahbi Khazri
+3857288,Keanu Baccus,12,Right Midfield,FALSE,Australia,26,Keanu Baccus
+3857288,Awer Denis Bul Mabil,16,Left Midfield,FALSE,Australia,11,Awer Mabil
+3857288,Wajdi Kechrida,2,Right Back,FALSE,Tunisia,21,Wajdi Kechrida
+3857288,Miloš Degenek,2,Right Back,FALSE,Australia,2,Miloš Degenek
+3857288,Taha Yassine Khenissi,23,Center Forward,FALSE,Tunisia,11,Taha Yassine Khenissi
+3857288,Ferjani Sassi,13,Right Center Midfield,FALSE,Tunisia,13,Ferjani Sassi
+3857288,Ajdin Hrustic,22,Right Center Forward,FALSE,Australia,10,Ajdin Hrustic
+3857289,Gonzalo Ariel Montiel,2,Right Back,TRUE,Argentina,4,Gonzalo Montiel
+3857289,Ángel Fabián Di María Hernández,12,Right Midfield,TRUE,Argentina,11,Ángel Di María
+3857289,Guido Rodríguez,11,Left Defensive Midfield,TRUE,Argentina,18,Guido Rodríguez
+3857289,César Jasib Montes Castro,4,Center Back,TRUE,Mexico,3,César Montes
+3857289,Néstor Alejandro Araújo Razo,3,Right Center Back,TRUE,Mexico,2,Néstor Araujo
+3857289,Lionel Andrés Messi Cuccittini,22,Right Center Forward,TRUE,Argentina,10,Lionel Messi
+3857289,Alexis Mac Allister,16,Left Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3857289,Marcos Javier Acuña,6,Left Back,TRUE,Argentina,8,Marcos Acuña
+3857289,Rodrigo Javier De Paul,9,Right Defensive Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3857289,Lisandro Martínez,5,Left Center Back,TRUE,Argentina,25,Lisandro Martínez
+3857289,Nicolás Hernán Otamendi,3,Right Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3857289,Kevin Nahin Álvarez Campos,7,Right Wing Back,TRUE,Mexico,26,Kevin Álvarez
+3857289,Héctor Alfredo Moreno Herrera,5,Left Center Back,TRUE,Mexico,15,Héctor Moreno
+3857289,Hirving Rodrigo Lozano Bahena,22,Right Center Forward,TRUE,Mexico,22,Hirving Lozano
+3857289,Ernesto Alexis Vega Rojas,24,Left Center Forward,TRUE,Mexico,10,Alexis Vega
+3857289,Érick Gabriel Gutiérrez Galaviz,15,Left Center Midfield,FALSE,Mexico,14,Érick Gutiérrez
+3857289,Enzo Fernandez,11,Left Defensive Midfield,FALSE,Argentina,24,Enzo Fernández
+3857289,Exequiel Alejandro Palacios,15,Left Center Midfield,FALSE,Argentina,14,Exequiel Palacios
+3857289,Cristian Gabriel Romero,4,Center Back,FALSE,Argentina,13,Cristian Romero
+3857289,Raúl Alonso Jiménez Rodríguez,23,Center Forward,FALSE,Mexico,9,Raúl Jiménez
+3857289,Carlos Uriel Antuna Romero,17,Right Wing,FALSE,Mexico,21,Uriel Antuna
+3857289,Roberto Carlos Alvarado Hernández,21,Left Wing,FALSE,Mexico,25,Roberto Alvarado
+3857289,Nahuel Molina Lucero,2,Right Back,FALSE,Argentina,26,Nahuel Molina
+3857289,Julián Álvarez,24,Left Center Forward,FALSE,Argentina,9,Julián Alvarez
+3857289,Francisco Guillermo Ochoa Magaña,1,Goalkeeper,TRUE,Mexico,13,Guillermo Ochoa
+3857289,Héctor Miguel Herrera López,10,Center Defensive Midfield,TRUE,Mexico,16,Héctor Herrera
+3857289,Jesús Daniel Gallardo Vasconcelos,8,Left Wing Back,TRUE,Mexico,23,Jesús Gallardo
+3857289,José Andrés Guardado Hernández,15,Left Center Midfield,TRUE,Mexico,18,Andrés Guardado
+3857289,Luis Gerardo Chávez Magallón,13,Right Center Midfield,TRUE,Mexico,24,Luis Chávez
+3857289,Lautaro Javier Martínez,24,Left Center Forward,TRUE,Argentina,22,Lautaro Martínez
+3857289,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3857290,Noah Okafor,17,Right Wing,FALSE,Switzerland,19,Noah Okafor
+3857290,Fabian Frei,19,Center Attacking Midfield,FALSE,Switzerland,20,Fabian Frei
+3857290,Breel-Donald Embolo,23,Center Forward,TRUE,Switzerland,7,Breel Embolo
+3857290,André Onana,1,Goalkeeper,TRUE,Cameroon,23,André Onana
+3857290,Silvan Widmer,2,Right Back,TRUE,Switzerland,3,Silvan Widmer
+3857290,Manuel Obafemi Akanji,3,Right Center Back,TRUE,Switzerland,5,Manuel Akanji
+3857290,Nico Elvedi,5,Left Center Back,TRUE,Switzerland,4,Nico Elvedi
+3857290,Ricardo Iván Rodríguez Araya,6,Left Back,TRUE,Switzerland,13,Ricardo Rodriguez
+3857290,Remo Freuler,9,Right Defensive Midfield,TRUE,Switzerland,8,Remo Freuler
+3857290,Granit Xhaka,11,Left Defensive Midfield,TRUE,Switzerland,10,Granit Xhaka
+3857290,Bryan Mbeumo,17,Right Wing,TRUE,Cameroon,20,Bryan Mbeumo
+3857290,Ruben Vargas,21,Left Wing,TRUE,Switzerland,17,Rubén Vargas
+3857290,Ngoran Suiru Fai Collins,2,Right Back,TRUE,Cameroon,19,Collins Fai
+3857290,Martin Hongla Yma II,15,Left Center Midfield,TRUE,Cameroon,18,Martin Hongla
+3857290,Haris Seferović,23,Center Forward,FALSE,Switzerland,9,Haris Seferovic
+3857290,Gaël Ondoua,15,Left Center Midfield,FALSE,Cameroon,5,Gaël Ondoua
+3857290,Nouhou Tolo,6,Left Back,TRUE,Cameroon,25,Nouhou Tolo
+3857290,Yann Sommer,1,Goalkeeper,TRUE,Switzerland,1,Yann Sommer
+3857290,Eray Ervin Cömert,6,Left Back,FALSE,Switzerland,18,Eray Cömert
+3857290,Jean-Eric Maxim Choupo-Moting,23,Center Forward,TRUE,Cameroon,13,Eric Maxim Choupo-Moting
+3857290,Xherdan Shaqiri,17,Right Wing,TRUE,Switzerland,23,Xherdan Shaqiri
+3857290,Djibril Sow,19,Center Attacking Midfield,TRUE,Switzerland,15,Djibril Sow
+3857290,Georges-Kévin Nkoudou Mbida,21,Left Wing,FALSE,Cameroon,7,Georges-Kévin Nkoudou
+3857290,Nicolas Moumi Ngamaleu,17,Right Wing,FALSE,Cameroon,6,Moumi Ngamaleu
+3857290,Fabian Rieder,21,Left Wing,FALSE,Switzerland,25,Fabian Rieder
+3857290,Vincent Paté Aboubakar,23,Center Forward,FALSE,Cameroon,10,Vincent Aboubakar
+3857290,Jean-Charles Castelletto,3,Right Center Back,TRUE,Cameroon,21,Jean-Charles Castelletto
+3857290,Karl Brillant Toko Ekambi,21,Left Wing,TRUE,Cameroon,12,Karl Toko Ekambi
+3857290,André-Frank Zambo Anguissa,13,Right Center Midfield,TRUE,Cameroon,8,André-Frank Zambo Anguissa
+3857290,Nicolas Alexis Julio N'Koulou Ndoubena,5,Left Center Back,TRUE,Cameroon,3,Nicolas Nkoulou
+3857290,Samuel Yves Oum Gwet,10,Center Defensive Midfield,TRUE,Cameroon,14,Samuel Gouet
+3857291,Óscar Esau Duarte Gaitán,3,Right Center Back,TRUE,Costa Rica,6,Óscar Duarte
+3857291,Unai Simón Mendibil,1,Goalkeeper,TRUE,Spain,23,Unai Simón
+3857291,César Azpilicueta Tanco,2,Right Back,TRUE,Spain,2,César Azpilicueta
+3857291,Daniel Olmo Carvajal,21,Left Wing,TRUE,Spain,21,Dani Olmo
+3857291,Ferrán Torres García,17,Right Wing,TRUE,Spain,11,Ferran Torres
+3857291,Pedro González López,15,Left Center Midfield,TRUE,Spain,26,Pedri
+3857291,Marco Asensio Willemsen,23,Center Forward,TRUE,Spain,10,Marco Asensio
+3857291,Pablo Martín Páez Gavira,13,Right Center Midfield,TRUE,Spain,9,Gavi
+3857291,Carlos Manuel Martínez Castro,2,Right Back,TRUE,Costa Rica,16,Carlos Martínez
+3857291,Keylor Navas Gamboa,1,Goalkeeper,TRUE,Costa Rica,1,Keylor Navas
+3857291,Nicholas Williams Arthuer,17,Right Wing,FALSE,Spain,12,Nico Williams
+3857291,Francisco Javier Calvo Quesada,5,Left Center Back,TRUE,Costa Rica,15,Francisco Calvo
+3857291,Bryan Oviedo,6,Left Back,TRUE,Costa Rica,8,Bryan Oviedo
+3857291,Keysher Fuller Spence,12,Right Midfield,TRUE,Costa Rica,4,Keysher Fuller
+3857291,Yeltsin Ignacio Tejeda Valverde,11,Left Defensive Midfield,TRUE,Costa Rica,17,Yeltsin Tejeda
+3857291,Celso Borges Mora,9,Right Defensive Midfield,TRUE,Costa Rica,5,Celso Borges
+3857291,Aymeric Laporte,5,Left Center Back,TRUE,Spain,24,Aymeric Laporte
+3857291,Ronald Alberto Matarrita Ulate,8,Left Wing Back,FALSE,Costa Rica,22,Rónald Matarrita
+3857291,Brandon Aguilera Zamora,13,Right Center Midfield,FALSE,Costa Rica,20,Brandon Aguilera
+3857291,Kendall Jamaal Waston Manley,3,Right Center Back,FALSE,Costa Rica,19,Kendall Waston
+3857291,Sergio Busquets i Burgos,10,Center Defensive Midfield,TRUE,Spain,5,Sergio Busquets
+3857291,Jewison Bennette,16,Left Midfield,TRUE,Costa Rica,9,Jewison Bennette
+3857291,Rodrigo Hernández Cascante,3,Right Center Back,TRUE,Spain,16,Rodri
+3857291,Álvaro José Zamora Mata,17,Right Wing,FALSE,Costa Rica,26,Álvaro Zamora
+3857291,Álvaro Borja Morata Martín,23,Center Forward,FALSE,Spain,7,Álvaro Morata
+3857291,Bryan Ruiz González,21,Left Wing,FALSE,Costa Rica,10,Bryan Ruiz
+3857291,Alejandro Balde Martínez,6,Left Back,FALSE,Spain,14,Alejandro Balde
+3857291,Jordi Alba Ramos,6,Left Back,TRUE,Spain,18,Jordi Alba
+3857291,Anthony Daniel Contreras Enríquez,24,Left Center Forward,TRUE,Costa Rica,7,Anthony Contreras
+3857291,Carlos Soler Barragán,15,Left Center Midfield,FALSE,Spain,19,Carlos Soler
+3857291,Joel Nathaniel Campbell Samuels,22,Right Center Forward,TRUE,Costa Rica,12,Joel Campbell
+3857291,Jorge Resurrección Merodio,10,Center Defensive Midfield,FALSE,Spain,8,Koke
+3857292,Antonio Rüdiger,5,Left Center Back,TRUE,Germany,2,Antonio Rüdiger
+3857292,Óscar Esau Duarte Gaitán,4,Center Back,TRUE,Costa Rica,6,Óscar Duarte
+3857292,Juan Pablo Vargas Campos,5,Left Center Back,TRUE,Costa Rica,3,Juan Pablo Vargas
+3857292,Kai Havertz,24,Left Center Forward,FALSE,Germany,7,Kai Havertz
+3857292,Mario Götze,13,Right Center Midfield,FALSE,Germany,11,Mario Götze
+3857292,Ronald Alberto Matarrita Ulate,21,Left Wing,FALSE,Costa Rica,22,Rónald Matarrita
+3857292,Serge Gnabry,21,Left Wing,TRUE,Germany,10,Serge Gnabry
+3857292,Thomas Müller,23,Center Forward,TRUE,Germany,13,Thomas Müller
+3857292,Keylor Navas Gamboa,1,Goalkeeper,TRUE,Costa Rica,1,Keylor Navas
+3857292,Leon Goretzka,9,Right Defensive Midfield,TRUE,Germany,8,Leon Goretzka
+3857292,Kendall Jamaal Waston Manley,3,Right Center Back,TRUE,Costa Rica,19,Kendall Waston
+3857292,İlkay Gündoğan,11,Left Defensive Midfield,TRUE,Germany,21,İlkay Gündoğan
+3857292,Leroy Sané,17,Right Wing,TRUE,Germany,19,Leroy Sané
+3857292,Jamal Musiala,19,Center Attacking Midfield,TRUE,Germany,14,Jamal Musiala
+3857292,David Raum,6,Left Back,TRUE,Germany,3,David Raum
+3857292,Manuel Neuer,1,Goalkeeper,TRUE,Germany,1,Manuel Neuer
+3857292,Joshua Kimmich,2,Right Back,TRUE,Germany,6,Joshua Kimmich
+3857292,Niklas Süle,3,Right Center Back,TRUE,Germany,15,Niklas Süle
+3857292,Lukas Klostermann,2,Right Back,FALSE,Germany,16,Lukas Klostermann
+3857292,Youstin Delfin Salas Gómez,7,Right Wing Back,FALSE,Costa Rica,14,Youstin Salas
+3857292,Niclas Füllkrug,22,Right Center Forward,FALSE,Germany,9,Niclas Füllkrug
+3857292,Bryan Oviedo,8,Left Wing Back,TRUE,Costa Rica,8,Bryan Oviedo
+3857292,Joel Nathaniel Campbell Samuels,17,Right Wing,TRUE,Costa Rica,12,Joel Campbell
+3857292,Brandon Aguilera Zamora,21,Left Wing,TRUE,Costa Rica,20,Brandon Aguilera
+3857292,Celso Borges Mora,9,Right Defensive Midfield,TRUE,Costa Rica,5,Celso Borges
+3857292,Yeltsin Ignacio Tejeda Valverde,11,Left Defensive Midfield,TRUE,Costa Rica,17,Yeltsin Tejeda
+3857292,Keysher Fuller Spence,7,Right Wing Back,TRUE,Costa Rica,4,Keysher Fuller
+3857292,Jewison Bennette,17,Right Wing,FALSE,Costa Rica,9,Jewison Bennette
+3857292,Johan Alberto Venegas Ulloa,23,Center Forward,TRUE,Costa Rica,11,Johan Venegas
+3857292,Roan Roberto Wilson Gordon,11,Left Defensive Midfield,FALSE,Costa Rica,24,Roan Wilson
+3857292,Anthony Daniel Contreras Enríquez,21,Left Wing,FALSE,Costa Rica,7,Anthony Contreras
+3857292,Matthias Ginter,4,Center Back,FALSE,Germany,4,Matthias Ginter
+3857293,Agustín Canobbio Graviz,12,Right Midfield,FALSE,Uruguay,24,Agustín Canobbio
+3857293,Daniel-Kofi Kyereh,11,Left Defensive Midfield,FALSE,Ghana,8,Daniel-Kofi Kyereh
+3857293,Antoine Semenyo,23,Center Forward,FALSE,Ghana,25,Antoine Semenyo
+3857293,Mohammed Kudus,23,Center Forward,TRUE,Ghana,20,Mohammed Kudus
+3857293,Sergio Rochet Álvarez,1,Goalkeeper,TRUE,Uruguay,23,Sergio Rochet
+3857293,Darwin Gabriel Núñez Ribeiro,24,Left Center Forward,TRUE,Uruguay,11,Darwin Núñez
+3857293,Luis Alberto Suárez Díaz,22,Right Center Forward,TRUE,Uruguay,9,Luis Suárez
+3857293,Alidu Seidu,2,Right Back,TRUE,Ghana,26,Alidu Seidu
+3857293,Lawrence Ati-Zigi,1,Goalkeeper,TRUE,Ghana,1,Lawrence Ati-Zigi
+3857293,Mohamed Salisu,5,Left Center Back,TRUE,Ghana,4,Mohammed Salisu
+3857293,Daniel Amartey,3,Right Center Back,TRUE,Ghana,18,Daniel Amartey
+3857293,Abdul Rahman Baba,6,Left Back,TRUE,Ghana,17,Baba Rahman
+3857293,Thomas Teye Partey,9,Right Defensive Midfield,TRUE,Ghana,5,Thomas Partey
+3857293,André Ayew Pelé,19,Center Attacking Midfield,TRUE,Ghana,10,André Ayew
+3857293,Jordan Ayew,21,Left Wing,TRUE,Ghana,9,Jordan Ayew
+3857293,Iñaki Williams Arthuer,17,Right Wing,TRUE,Ghana,19,Iñaki Williams
+3857293,Salis Abdul Samed,11,Left Defensive Midfield,TRUE,Ghana,21,Salis Abdul Samed
+3857293,Edinson Roberto Cavani Gómez,22,Right Center Forward,FALSE,Uruguay,21,Edinson Cavani
+3857293,Facundo Pellistri Rebollo,12,Right Midfield,TRUE,Uruguay,8,Facundo Pellistri
+3857293,Diego Nicolás De La Cruz Arcosa,12,Right Midfield,FALSE,Uruguay,7,Nicolás de la Cruz
+3857293,Matías Vecino Falero,11,Left Defensive Midfield,FALSE,Uruguay,5,Matías Vecino
+3857293,José María Giménez de Vargas,3,Right Center Back,TRUE,Uruguay,2,Kosé Giménez
+3857293,Guillermo Varela Olivera,2,Right Back,TRUE,Uruguay,13,Guillermo Varela
+3857293,Federico Santiago Valverde Dipetta,9,Right Defensive Midfield,TRUE,Uruguay,15,Federico Valverde
+3857293,Rodrigo Bentancur Colmán,11,Left Defensive Midfield,TRUE,Uruguay,6,Rodrigo Bentancur
+3857293,Mathías Olivera Miramontes,6,Left Back,TRUE,Uruguay,16,Mathías Olivera
+3857293,Sebastián Coates Nión,5,Left Center Back,TRUE,Uruguay,19,Sebastián Coates
+3857293,Maximiliano Gómez González,24,Left Center Forward,FALSE,Uruguay,18,Maxi Gómez
+3857293,Abdul Fatawu Issahaku,17,Right Wing,FALSE,Ghana,7,Abdul Fatawu Issahaku
+3857293,Kamaldeen Sulemana,21,Left Wing,FALSE,Ghana,22,Kamaldeen Sulemana
+3857293,Osman Bukari,17,Right Wing,FALSE,Ghana,11,Osman Bukari
+3857293,Giorgian Daniel De Arrascaeta Benedetti,16,Left Midfield,TRUE,Uruguay,10,Giorgian de Arrascaeta
+3857294,Meshaal Aissa Barsham,1,Goalkeeper,TRUE,Qatar,22,Meshaal Barsham
+3857294,Pedro Miguel Correia,3,Right Center Back,TRUE,Qatar,2,Pedro Miguel
+3857294,Marten de Roon,9,Right Defensive Midfield,TRUE,Netherlands,15,Marten de Roon
+3857294,Abdulaziz Hatem Mohammed Abdullah,15,Left Center Midfield,TRUE,Qatar,6,Abdulaziz Hatem
+3857294,Almoez Ali Zainalabiddin Abdulla,22,Right Center Forward,TRUE,Qatar,19,Almoez Ali
+3857294,Daley Blind,8,Left Wing Back,TRUE,Netherlands,17,Daley Blind
+3857294,Denzel Dumfries,7,Right Wing Back,TRUE,Netherlands,22,Denzel Dumfries
+3857294,Nathan Aké,5,Left Center Back,TRUE,Netherlands,5,Nathan Aké
+3857294,Virgil van Dijk,4,Center Back,TRUE,Netherlands,4,Virgil van Dijk
+3857294,Jurriën David Norman Timber,3,Right Center Back,TRUE,Netherlands,2,Jurriën Timber
+3857294,Andries Noppert,1,Goalkeeper,TRUE,Netherlands,23,Andries Noppert
+3857294,Boualem Khoukhi,4,Center Back,TRUE,Qatar,16,Boualem Khoukhi
+3857294,Abdelkarim Hassan Al Haj Fadlalla,5,Left Center Back,TRUE,Qatar,3,Abdelkarim Hassan
+3857294,Ismaeel Mohammad Mohammad,7,Right Wing Back,TRUE,Qatar,17,Ismaeel Mohammad
+3857294,Homam Alamin Ahmed,8,Left Wing Back,TRUE,Qatar,14,Homam Ahmed
+3857294,Assim Omer Al Haj Madibo,10,Center Defensive Midfield,TRUE,Qatar,23,Assim Madibo
+3857294,Hassan Khalid Al Heidos,13,Right Center Midfield,TRUE,Qatar,10,Hassan Al-Haydos
+3857294,Frenkie de Jong,11,Left Defensive Midfield,TRUE,Netherlands,21,Frenkie de Jong
+3857294,Vincent Janssen,24,Left Center Forward,FALSE,Netherlands,18,Vincent Janssen
+3857294,Karim Boudiaf,10,Center Defensive Midfield,FALSE,Qatar,12,Karim Boudiaf
+3857294,Akram Hassan Afif,24,Left Center Forward,TRUE,Qatar,11,Akram Afif
+3857294,Ali Assadalla Thaimn Qambar,15,Left Center Midfield,FALSE,Qatar,8,Ali Assadalla
+3857294,Mohammed Muntari,22,Right Center Forward,FALSE,Qatar,9,Mohammed Muntari
+3857294,Mosaab Khoder Jibril,7,Right Wing Back,FALSE,Qatar,13,Musab Kheder
+3857294,Ahmed Alaa Eldin Abdelmotaal,24,Left Center Forward,FALSE,Qatar,7,Ahmed Alaaeldin
+3857294,Teun Koopmeiners,9,Right Defensive Midfield,FALSE,Netherlands,20,Teun Koopmeiners
+3857294,Wout Weghorst,22,Right Center Forward,FALSE,Netherlands,19,Wout Weghorst
+3857294,Steven Berghuis,19,Center Attacking Midfield,FALSE,Netherlands,11,Steven Berghuis
+3857294,Kenneth Taylor,11,Left Defensive Midfield,FALSE,Netherlands,24,Kenneth Taylor
+3857294,Memphis Depay,24,Left Center Forward,TRUE,Netherlands,10,Memphis Depay
+3857294,Cody Mathès Gakpo,22,Right Center Forward,TRUE,Netherlands,8,Cody Gakpo
+3857294,Davy Klaassen,19,Center Attacking Midfield,TRUE,Netherlands,14,Davy Klaassen
+3857295,Ko Itakura,3,Right Center Back,TRUE,Japan,4,Kō Itakura
+3857295,Gerson Torres Barrantes,17,Right Wing,TRUE,Costa Rica,13,Gerson Torres
+3857295,Yeltsin Ignacio Tejeda Valverde,11,Left Defensive Midfield,TRUE,Costa Rica,17,Yeltsin Tejeda
+3857295,Celso Borges Mora,9,Right Defensive Midfield,TRUE,Costa Rica,5,Celso Borges
+3857295,Miki Yamane,2,Right Back,TRUE,Japan,2,Miki Yamane
+3857295,Bryan Oviedo,8,Left Wing Back,TRUE,Costa Rica,8,Bryan Oviedo
+3857295,Shūichi Gonda,1,Goalkeeper,TRUE,Japan,12,Shūichi Gonda
+3857295,Junya Ito,17,Right Wing,FALSE,Japan,14,Junya Itō
+3857295,Daniel Alonso Chacón Salas,11,Left Defensive Midfield,FALSE,Costa Rica,2,Daniel Chacón
+3857295,Youstin Delfin Salas Gómez,17,Right Wing,FALSE,Costa Rica,14,Youstin Salas
+3857295,Takumi Minamino,17,Right Wing,FALSE,Japan,10,Takumi Minamino
+3857295,Hiroki Ito,5,Left Center Back,FALSE,Japan,26,Hiroki Itō
+3857295,Brandon Aguilera Zamora,17,Right Wing,FALSE,Costa Rica,20,Brandon Aguilera
+3857295,Kaoru Mitoma,8,Left Wing Back,FALSE,Japan,9,Kaoru Mitoma
+3857295,Takuma Asano,23,Center Forward,FALSE,Japan,18,Takuma Asano
+3857295,Jewison Bennette,21,Left Wing,FALSE,Costa Rica,9,Jewison Bennette
+3857295,Joel Nathaniel Campbell Samuels,21,Left Wing,TRUE,Costa Rica,12,Joel Campbell
+3857295,Anthony Daniel Contreras Enríquez,23,Center Forward,TRUE,Costa Rica,7,Anthony Contreras
+3857295,Keylor Navas Gamboa,1,Goalkeeper,TRUE,Costa Rica,1,Keylor Navas
+3857295,Maya Yoshida,5,Left Center Back,TRUE,Japan,22,Maya Yoshida
+3857295,Wataru Endo,9,Right Defensive Midfield,TRUE,Japan,6,Wataru Endo
+3857295,Hidemasa Morita,11,Left Defensive Midfield,TRUE,Japan,13,Hidemasa Morita
+3857295,Ritsu Doan,12,Right Midfield,TRUE,Japan,8,Ritsu Dōan
+3857295,Yuto Nagatomo,6,Left Back,TRUE,Japan,5,Yūto Nagatomo
+3857295,Yuki Soma,16,Left Midfield,TRUE,Japan,24,Yūki Sōma
+3857295,Ayase Ueda,22,Right Center Forward,TRUE,Japan,21,Ayase Ueda
+3857295,Francisco Javier Calvo Quesada,5,Left Center Back,TRUE,Costa Rica,15,Francisco Calvo
+3857295,Daichi Kamada,24,Left Center Forward,TRUE,Japan,15,Daichi Kamada
+3857295,Óscar Esau Duarte Gaitán,3,Right Center Back,TRUE,Costa Rica,6,Óscar Duarte
+3857295,Kendall Jamaal Waston Manley,4,Center Back,TRUE,Costa Rica,19,Kendall Waston
+3857295,Keysher Fuller Spence,7,Right Wing Back,TRUE,Costa Rica,4,Keysher Fuller
+3857296,Leander Dendoncker,9,Right Defensive Midfield,TRUE,Belgium,19,Leander Dendoncker
+3857296,Thomas Meunier,2,Right Back,TRUE,Belgium,15,Thomas Meunier
+3857296,Toby Alderweireld,3,Right Center Back,TRUE,Belgium,2,Toby Alderweireld
+3857296,Jeremy Doku,21,Left Wing,FALSE,Belgium,25,Jérémy Doku
+3857296,Mario Pašalić,17,Right Wing,FALSE,Croatia,15,Mario Pašalić
+3857296,Jan Vertonghen,5,Left Center Back,TRUE,Belgium,5,Jan Vertonghen
+3857296,Dries Mertens,19,Center Attacking Midfield,TRUE,Belgium,14,Dries Mertens
+3857296,Axel Witsel,11,Left Defensive Midfield,TRUE,Belgium,6,Axel Witsel
+3857296,Thorgan Hazard,19,Center Attacking Midfield,FALSE,Belgium,16,Thorgan Hazard
+3857296,Romelu Lukaku Menama,23,Center Forward,FALSE,Belgium,9,Romelu Lukaku
+3857296,Lovro Majer,15,Left Center Midfield,FALSE,Croatia,7,Lovro Majer
+3857296,Bruno Petković,23,Center Forward,FALSE,Croatia,16,Bruno Petković
+3857296,Timothy Castagne,6,Left Back,TRUE,Belgium,21,Timothy Castagne
+3857296,Youri Tielemans,9,Right Defensive Midfield,FALSE,Belgium,8,Youri Tielemans
+3857296,Eden Hazard,17,Right Wing,FALSE,Belgium,10,Eden Hazard
+3857296,Thibaut Courtois,1,Goalkeeper,TRUE,Belgium,1,Thibaut Courtois
+3857296,Marko Livaja,23,Center Forward,TRUE,Croatia,14,Marko Livaja
+3857296,Kevin De Bruyne,17,Right Wing,TRUE,Belgium,7,Kevin De Bruyne
+3857296,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3857296,Borna Sosa,6,Left Back,TRUE,Croatia,19,Borna Sosa
+3857296,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3857296,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3857296,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3857296,Leandro Trossard,23,Center Forward,TRUE,Belgium,17,Leandro Trossard
+3857296,Yannick Ferreira Carrasco,21,Left Wing,TRUE,Belgium,11,Yannick Carrasco
+3857296,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3857296,Andrej Kramarić,17,Right Wing,TRUE,Croatia,9,Andrej Kramarić
+3857296,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3857296,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3857296,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3857297,Kamil Glik,3,Right Center Back,TRUE,Poland,15,Kamil Glik
+3857297,Bartosz Bereszyński,6,Left Back,TRUE,Poland,18,Bartosz Bereszyński
+3857297,Jakub Piotr Kiwior,5,Left Center Back,TRUE,Poland,14,Jakub Kiwior
+3857297,Jakub Kamiński,19,Center Attacking Midfield,FALSE,Poland,13,Jakub Kamiński
+3857297,Nasser Al Dawsari,11,Left Defensive Midfield,FALSE,Saudi Arabia,24,Nasser Al-Dawsari
+3857297,Hattan Babhir,24,Left Center Forward,FALSE,Saudi Arabia,19,Hattan Bahebri
+3857297,Sultan Abdullah Salim Al Ghannam,2,Right Back,FALSE,Saudi Arabia,2,Sultan Al-Ghannam
+3857297,Krzysztof Piątek,24,Left Center Forward,FALSE,Poland,23,Krzysztof Piątek
+3857297,Abdulrahman Al-Obood,17,Right Wing,FALSE,Saudi Arabia,20,Abdulrahman Al-Aboud
+3857297,Saleh Khalid Al Shehri,23,Center Forward,TRUE,Saudi Arabia,11,Saleh Al-Shehri
+3857297,Salem Mohammed Al Dawsari,21,Left Wing,TRUE,Saudi Arabia,10,Salem Al-Dawsari
+3857297,Wojciech Szczęsny,1,Goalkeeper,TRUE,Poland,1,Wojciech Szczęsny
+3857297,Matty Cash,2,Right Back,TRUE,Poland,2,Matty Cash
+3857297,Sami Khalil Al Naji,19,Center Attacking Midfield,TRUE,Saudi Arabia,16,Sami Al-Najei
+3857297,Grzegorz Krychowiak,11,Left Defensive Midfield,TRUE,Poland,10,Grzegorz Krychowiak
+3857297,Krystian Bielik,9,Right Defensive Midfield,TRUE,Poland,6,Krystian Bielik
+3857297,Nawaf Shaker Al Abid,19,Center Attacking Midfield,FALSE,Saudi Arabia,18,Nawaf Al-Abed
+3857297,Firas Tariq Nasser Al Albirakan,17,Right Wing,TRUE,Saudi Arabia,9,Firas Al-Buraikan
+3857297,Abdulelah Saad Hameed Al-Malki,11,Left Defensive Midfield,TRUE,Saudi Arabia,8,Abdulellah Al-Malki
+3857297,Mohammed Kanoo,9,Right Defensive Midfield,TRUE,Saudi Arabia,23,Mohamed Kanno
+3857297,Mohammed Al Burayk,6,Left Back,TRUE,Saudi Arabia,6,Mohammed Al-Breik
+3857297,Ali Albulayhi,5,Left Center Back,TRUE,Saudi Arabia,5,Ali Al-Bulaihi
+3857297,Abdulelah Al Amri,3,Right Center Back,TRUE,Saudi Arabia,4,Abdulelah Al-Amri
+3857297,Saud Abdullah Abdul Hamid,2,Right Back,TRUE,Saudi Arabia,12,Saud Abdulhamid
+3857297,Mohammed Khalil Al Owais,1,Goalkeeper,TRUE,Saudi Arabia,21,Mohammed Al-Owais
+3857297,Robert Lewandowski,24,Left Center Forward,TRUE,Poland,9,Robert Lewandowski
+3857297,Arkadiusz Milik,22,Right Center Forward,TRUE,Poland,7,Arkadiusz Milik
+3857297,Przemysław Frankowski,16,Left Midfield,TRUE,Poland,24,Przemysław Frankowski
+3857297,Piotr Zieliński,12,Right Midfield,TRUE,Poland,20,Piotr Zieliński
+3857298,William Silva de Carvalho,15,Left Center Midfield,FALSE,Portugal,14,William Carvalho
+3857298,Tariq Lamptey,7,Right Wing Back,FALSE,Ghana,2,Tariq Lamptey
+3857298,Osman Bukari,22,Right Center Forward,FALSE,Ghana,11,Osman Bukari
+3857298,Jordan Ayew,15,Left Center Midfield,FALSE,Ghana,9,Jordan Ayew
+3857298,Daniel-Kofi Kyereh,15,Left Center Midfield,FALSE,Ghana,8,Daniel-Kofi Kyereh
+3857298,Iñaki Williams Arthuer,24,Left Center Forward,TRUE,Ghana,19,Iñaki Williams
+3857298,Lawrence Ati-Zigi,1,Goalkeeper,TRUE,Ghana,1,Lawrence Ati-Zigi
+3857298,Rúben Diogo Da Silva Neves,10,Center Defensive Midfield,TRUE,Portugal,18,Rúben Neves
+3857298,Bernardo Mota Veiga de Carvalho e Silva,13,Right Center Midfield,TRUE,Portugal,10,Bernardo Silva
+3857298,Otávio Edmilson da Silva Monteiro,15,Left Center Midfield,TRUE,Portugal,25,Otávio
+3857298,Alexander Djiku,4,Center Back,TRUE,Ghana,23,Alexander Djiku
+3857298,Daniel Amartey,3,Right Center Back,TRUE,Ghana,18,Daniel Amartey
+3857298,Abdul Rahman Baba,8,Left Wing Back,TRUE,Ghana,17,Baba Rahman
+3857298,Bruno Miguel Borges Fernandes,17,Right Wing,TRUE,Portugal,8,Bruno Fernandes
+3857298,João Félix Sequeira,21,Left Wing,TRUE,Portugal,11,João Félix
+3857298,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,TRUE,Portugal,7,Cristiano Ronaldo
+3857298,Thomas Teye Partey,13,Right Center Midfield,TRUE,Ghana,5,Thomas Partey
+3857298,Mohammed Kudus,15,Left Center Midfield,TRUE,Ghana,20,Mohammed Kudus
+3857298,André Ayew Pelé,22,Right Center Forward,TRUE,Ghana,10,André Ayew
+3857298,João Pedro Cavaco Cancelo,2,Right Back,TRUE,Portugal,20,João Cancelo
+3857298,Rúben Santos Gato Alves Dias,3,Right Center Back,TRUE,Portugal,4,Rúben Dias
+3857298,Danilo Luís Hélio Pereira,5,Left Center Back,TRUE,Portugal,13,Danilo Pereira
+3857298,Raphaël Adelino José Guerreiro,6,Left Back,TRUE,Portugal,5,Raphaël Guerreiro
+3857298,Mohamed Salisu,5,Left Center Back,TRUE,Ghana,4,Mohammed Salisu
+3857298,Alidu Seidu,7,Right Wing Back,TRUE,Ghana,26,Alidu Seidu
+3857298,Salis Abdul Samed,10,Center Defensive Midfield,TRUE,Ghana,21,Salis Abdul Samed
+3857298,Diogo Meireles Costa,1,Goalkeeper,TRUE,Portugal,22,Diogo Costa
+3857298,João Mário Naval da Costa Eduardo,17,Right Wing,FALSE,Portugal,17,João Mário
+3857298,João Maria Lobo Alves Palhinha Gonçalves,11,Left Defensive Midfield,FALSE,Portugal,6,João Palhinha
+3857298,Antoine Semenyo,19,Center Attacking Midfield,FALSE,Ghana,25,Antoine Semenyo
+3857298,Gonçalo Matias Ramos,23,Center Forward,FALSE,Portugal,26,Gonçalo Ramos
+3857298,Rafael Alexandre Conceição Leão,21,Left Wing,FALSE,Portugal,15,Rafael Leão
+3857299,Woo-Young Jung,9,Right Defensive Midfield,TRUE,South Korea,5,Jung Woo-young
+3857299,Jin-Su Kim,6,Left Back,TRUE,South Korea,3,Kim Jin-su
+3857299,Gue-Sung Cho,23,Center Forward,TRUE,South Korea,9,Cho Gue-sung
+3857299,Seung-Gyu Kim,1,Goalkeeper,TRUE,South Korea,1,Kim Seung-gyu
+3857299,Tariq Lamptey,2,Right Back,TRUE,Ghana,2,Tariq Lamptey
+3857299,Salis Abdul Samed,11,Left Defensive Midfield,TRUE,Ghana,21,Salis Abdul Samed
+3857299,Mohamed Salisu,5,Left Center Back,TRUE,Ghana,4,Mohammed Salisu
+3857299,Gideon Mensah,6,Left Back,TRUE,Ghana,14,Gideon Mensah
+3857299,Thomas Teye Partey,9,Right Defensive Midfield,TRUE,Ghana,5,Thomas Partey
+3857299,André Ayew Pelé,19,Center Attacking Midfield,TRUE,Ghana,10,André Ayew
+3857299,Mohammed Kudus,17,Right Wing,TRUE,Ghana,20,Mohammed Kudus
+3857299,Iñaki Williams Arthuer,23,Center Forward,TRUE,Ghana,19,Iñaki Williams
+3857299,Jordan Ayew,21,Left Wing,TRUE,Ghana,9,Jordan Ayew
+3857299,Heung-Min Son,21,Left Wing,TRUE,South Korea,7,Son Heung-min
+3857299,Abdul Rahman Baba,8,Left Wing Back,FALSE,Ghana,17,Baba Rahman
+3857299,Kyung-Won Kwon,3,Right Center Back,FALSE,South Korea,20,Kwon Kyung-won
+3857299,Kang-In Lee,19,Center Attacking Midfield,FALSE,South Korea,18,Lee Kang-in
+3857299,Sang-Ho Na,17,Right Wing,FALSE,South Korea,17,Na Sang-ho
+3857299,Denis Odoi,2,Right Back,FALSE,Ghana,3,Denis Odoi
+3857299,Daniel-Kofi Kyereh,19,Center Attacking Midfield,FALSE,Ghana,8,Daniel-Kofi Kyereh
+3857299,Ui-Jo Hwang,19,Center Attacking Midfield,FALSE,South Korea,16,Hwang Ui-jo
+3857299,Alexander Djiku,4,Center Back,FALSE,Ghana,23,Alexander Djiku
+3857299,Kamaldeen Sulemana,21,Left Wing,FALSE,Ghana,22,Kamaldeen Sulemana
+3857299,Young-Gwon Kim,5,Left Center Back,TRUE,South Korea,19,Kim Young-gwon
+3857299,Min Jae Kim,3,Right Center Back,TRUE,South Korea,4,Kim Min-jae
+3857299,Moon-Hwan Kim,2,Right Back,TRUE,South Korea,15,Kim Moon-hwan
+3857299,Woo-Yeong Jeong,19,Center Attacking Midfield,TRUE,South Korea,25,Jeong Woo-yeong
+3857299,Daniel Amartey,3,Right Center Back,TRUE,Ghana,18,Daniel Amartey
+3857299,Lawrence Ati-Zigi,1,Goalkeeper,TRUE,Ghana,1,Lawrence Ati-Zigi
+3857299,Chang-Hoon Kwon,17,Right Wing,TRUE,South Korea,22,Kwon Chang-hoon
+3857299,In-Beom Hwang,11,Left Defensive Midfield,TRUE,South Korea,6,Hwang In-beom
+3857300,Alejandro Darío Gómez,16,Left Midfield,TRUE,Argentina,17,Papu Gómez
+3857300,Nawaf Shaker Al Abid,19,Center Attacking Midfield,FALSE,Saudi Arabia,18,Nawaf Al-Abed
+3857300,Julián Álvarez,16,Left Midfield,FALSE,Argentina,9,Julián Alvarez
+3857300,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3857300,Enzo Fernandez,11,Left Defensive Midfield,FALSE,Argentina,24,Enzo Fernández
+3857300,Marcos Javier Acuña,6,Left Back,FALSE,Argentina,8,Marcos Acuña
+3857300,Yasir Gharsan Al Shahrani,6,Left Back,TRUE,Saudi Arabia,13,Yasser Al-Shahrani
+3857300,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3857300,Mohammed Kanoo,15,Left Center Midfield,TRUE,Saudi Arabia,23,Mohamed Kanno
+3857300,Saleh Khalid Al Shehri,23,Center Forward,TRUE,Saudi Arabia,11,Saleh Al-Shehri
+3857300,Salem Mohammed Al Dawsari,16,Left Midfield,TRUE,Saudi Arabia,10,Salem Al-Dawsari
+3857300,Mohammed Al Burayk,16,Left Midfield,FALSE,Saudi Arabia,6,Mohammed Al-Breik
+3857300,Haitham Mohammed Asiri,23,Center Forward,FALSE,Saudi Arabia,25,Haitham Asiri
+3857300,Abdulelah Al Amri,5,Left Center Back,FALSE,Saudi Arabia,4,Abdulelah Al-Amri
+3857300,Sultan Abdullah Salim Al Ghannam,12,Right Midfield,FALSE,Saudi Arabia,2,Sultan Al-Ghannam
+3857300,Lautaro Javier Martínez,24,Left Center Forward,TRUE,Argentina,22,Lautaro Martínez
+3857300,Ángel Fabián Di María Hernández,12,Right Midfield,TRUE,Argentina,11,Ángel Di María
+3857300,Nahuel Molina Lucero,2,Right Back,TRUE,Argentina,26,Nahuel Molina
+3857300,Hassan Mohammed Al-Tambakti,3,Right Center Back,TRUE,Saudi Arabia,17,Hassan Al-Tambakti
+3857300,Saud Abdullah Abdul Hamid,2,Right Back,TRUE,Saudi Arabia,12,Saud Abdulhamid
+3857300,Mohammed Khalil Al Owais,1,Goalkeeper,TRUE,Saudi Arabia,21,Mohammed Al-Owais
+3857300,Ali Albulayhi,5,Left Center Back,TRUE,Saudi Arabia,5,Ali Al-Bulaihi
+3857300,Salman Mohammed Al Faraj,13,Right Center Midfield,TRUE,Saudi Arabia,7,Salman Al-Faraj
+3857300,Rodrigo Javier De Paul,9,Right Defensive Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3857300,Lisandro Martínez,5,Left Center Back,FALSE,Argentina,25,Lisandro Martínez
+3857300,Nicolás Alejandro Tagliafico,6,Left Back,TRUE,Argentina,3,Nicolás Tagliafico
+3857300,Nicolás Hernán Otamendi,5,Left Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3857300,Leandro Daniel Paredes,11,Left Defensive Midfield,TRUE,Argentina,5,Leandro Paredes
+3857300,Abdulelah Saad Hameed Al-Malki,10,Center Defensive Midfield,TRUE,Saudi Arabia,8,Abdulellah Al-Malki
+3857300,Firas Tariq Nasser Al Albirakan,12,Right Midfield,TRUE,Saudi Arabia,9,Firas Al-Buraikan
+3857300,Lionel Andrés Messi Cuccittini,22,Right Center Forward,TRUE,Argentina,10,Lionel Messi
+3857301,Mohammed Muntari,24,Left Center Forward,FALSE,Qatar,9,Mohammed Muntari
+3857301,Abdou Diallo,5,Left Center Back,TRUE,Senegal,22,Abdou Diallo
+3857301,Nampalys Mendy,9,Right Defensive Midfield,TRUE,Senegal,6,Nampalys Mendy
+3857301,Ismaïla Sarr,17,Right Wing,TRUE,Senegal,18,Ismaïla Sarr
+3857301,Abdelkarim Hassan Al Haj Fadlalla,5,Left Center Back,TRUE,Qatar,3,Abdelkarim Hassan
+3857301,Boulaye Dia,19,Center Attacking Midfield,TRUE,Senegal,9,Boulaye Dia
+3857301,Idrissa Gana Gueye,11,Left Defensive Midfield,TRUE,Senegal,5,Idrissa Gueye
+3857301,Ismaeel Mohammad Mohammad,7,Right Wing Back,TRUE,Qatar,17,Ismaeel Mohammad
+3857301,Boualem Khoukhi,4,Center Back,TRUE,Qatar,16,Boualem Khoukhi
+3857301,Iliman Ndiaye,17,Right Wing,FALSE,Senegal,13,Iliman Ndiaye
+3857301,Mohammed Waed Abdulwahhab Al Bayati,5,Left Center Back,FALSE,Qatar,4,Mohammed Waad
+3857301,Ismail Jakobs,6,Left Back,TRUE,Senegal,14,Ismail Jakobs
+3857301,Cheikh Ahmadou Bamba Mbacke Dieng,23,Center Forward,FALSE,Senegal,20,Bamba Dieng
+3857301,Pape Matar Sarr,13,Right Center Midfield,FALSE,Senegal,17,Pape Matar Sarr
+3857301,Tarek Salman Salman,8,Left Wing Back,FALSE,Qatar,5,Tarek Salman
+3857301,Pape Abou Cissé,5,Left Center Back,FALSE,Senegal,4,Pape Abou Cissé
+3857301,Abdulaziz Hatem Mohammed Abdullah,13,Right Center Midfield,FALSE,Qatar,6,Abdulaziz Hatem
+3857301,Pathé Ismaël Ciss,10,Center Defensive Midfield,FALSE,Senegal,11,Pathé Ciss
+3857301,Kalidou Koulibaly,3,Right Center Back,TRUE,Senegal,3,Kalidou Koulibaly
+3857301,Akram Hassan Afif,24,Left Center Forward,TRUE,Qatar,11,Akram Afif
+3857301,Edouard Mendy,1,Goalkeeper,TRUE,Senegal,16,Édouard Mendy
+3857301,Homam Alamin Ahmed,8,Left Wing Back,TRUE,Qatar,14,Homam Ahmed
+3857301,Hassan Khalid Al Heidos,15,Left Center Midfield,TRUE,Qatar,10,Hassan Al-Haydos
+3857301,Assim Omer Al Haj Madibo,10,Center Defensive Midfield,TRUE,Qatar,23,Assim Madibo
+3857301,Almoez Ali Zainalabiddin Abdulla,22,Right Center Forward,TRUE,Qatar,19,Almoez Ali
+3857301,Pedro Miguel Correia,3,Right Center Back,TRUE,Qatar,2,Pedro Miguel
+3857301,Meshaal Aissa Barsham,1,Goalkeeper,TRUE,Qatar,22,Meshaal Barsham
+3857301,Krépin Diatta,21,Left Wing,TRUE,Senegal,15,Krépin Diatta
+3857301,Famara Diedhiou,23,Center Forward,TRUE,Senegal,19,Famara Diédhiou
+3857301,Youssouf Sabaly,2,Right Back,TRUE,Senegal,21,Youssouf Sabaly
+3857301,Karim Boudiaf,13,Right Center Midfield,TRUE,Qatar,12,Karim Boudiaf
+3869117,Timothy Weah,17,Right Wing,TRUE,United States,21,Timothy Weah
+3869117,Wout Weghorst,24,Left Center Forward,FALSE,Netherlands,19,Wout Weghorst
+3869117,Weston McKennie,15,Left Center Midfield,TRUE,United States,8,Weston McKennie
+3869117,Yunus Dimoara Musah,13,Right Center Midfield,TRUE,United States,6,Yunus Musah
+3869117,Tyler Adams,10,Center Defensive Midfield,TRUE,United States,4,Tyler Adams 
+3869117,Haji Wright,23,Center Forward,FALSE,United States,19,Haji Wright
+3869117,Jurriën David Norman Timber,3,Right Center Back,TRUE,Netherlands,2,Jurriën Timber
+3869117,Xavi Simons,24,Left Center Forward,FALSE,Netherlands,25,Xavi Simons
+3869117,Jordan Morris,2,Right Back,FALSE,United States,16,Jordan Morris
+3869117,Matthijs de Ligt,5,Left Center Back,FALSE,Netherlands,3,Matthijs de Ligt
+3869117,Christian Pulisic,21,Left Wing,TRUE,United States,10,Christian Pulisic
+3869117,Jesus Ferreira,23,Center Forward,TRUE,United States,9,Jesús Ferreira
+3869117,Steven Bergwijn,22,Right Center Forward,FALSE,Netherlands,7,Steven Bergwijn
+3869117,Teun Koopmeiners,9,Right Defensive Midfield,FALSE,Netherlands,20,Teun Koopmeiners
+3869117,Andries Noppert,1,Goalkeeper,TRUE,Netherlands,23,Andries Noppert
+3869117,DeAndre Yedlin,2,Right Back,FALSE,United States,22,DeAndre Yedlin
+3869117,Sergino Dest,2,Right Back,TRUE,United States,2,Sergiño Dest
+3869117,Walker Zimmerman,3,Right Center Back,TRUE,United States,3,Walker Zimmerman
+3869117,Memphis Depay,24,Left Center Forward,TRUE,Netherlands,10,Memphis Depay
+3869117,Matthew Charles Turner,1,Goalkeeper,TRUE,United States,1,Matt Turner
+3869117,Frenkie de Jong,11,Left Defensive Midfield,TRUE,Netherlands,21,Frenkie de Jong
+3869117,Davy Klaassen,19,Center Attacking Midfield,TRUE,Netherlands,14,Davy Klaassen
+3869117,Cody Mathès Gakpo,22,Right Center Forward,TRUE,Netherlands,8,Cody Gakpo
+3869117,Antonee Robinson,6,Left Back,TRUE,United States,5,Antonee Robinson
+3869117,Daley Blind,8,Left Wing Back,TRUE,Netherlands,17,Daley Blind
+3869117,Marten de Roon,9,Right Defensive Midfield,TRUE,Netherlands,15,Marten de Roon
+3869117,Tim Ream,5,Left Center Back,TRUE,United States,13,Tim Ream
+3869117,Denzel Dumfries,7,Right Wing Back,TRUE,Netherlands,22,Denzel Dumfries
+3869117,Virgil van Dijk,4,Center Back,TRUE,Netherlands,4,Virgil van Dijk
+3869117,Nathan Aké,5,Left Center Back,TRUE,Netherlands,5,Nathan Aké
+3869117,Brenden Aaronson,15,Left Center Midfield,FALSE,United States,11,Brenden Aaronson
+3869117,Giovanni Reyna,23,Center Forward,FALSE,United States,7,Giovanni Reyna
+3869118,Famara Diedhiou,23,Center Forward,FALSE,Senegal,19,Famara Diédhiou
+3869118,Mason Mount,15,Left Center Midfield,FALSE,England,19,Mason Mount
+3869118,Edouard Mendy,1,Goalkeeper,TRUE,Senegal,16,Édouard Mendy
+3869118,Kalvin Phillips,9,Right Defensive Midfield,FALSE,England,14,Kalvin Phillips
+3869118,Fodé Ballo Touré,6,Left Back,FALSE,Senegal,12,Fodé Ballo-Touré
+3869118,Marcus Rashford,17,Right Wing,FALSE,England,11,Marcus Rashford
+3869118,Jack Grealish,21,Left Wing,FALSE,England,7,Jack Grealish
+3869118,Pape Gueye,9,Right Defensive Midfield,FALSE,Senegal,26,Pape Gueye
+3869118,John Stones,3,Right Center Back,TRUE,England,5,John Stones
+3869118,Kalidou Koulibaly,3,Right Center Back,TRUE,Senegal,3,Kalidou Koulibaly
+3869118,Pape Matar Sarr,19,Center Attacking Midfield,FALSE,Senegal,17,Pape Matar Sarr
+3869118,Philip Foden,21,Left Wing,TRUE,England,20,Phil Foden
+3869118,Kyle Walker,2,Right Back,TRUE,England,2,Kyle Walker
+3869118,Jordan Pickford,1,Goalkeeper,TRUE,England,1,Jordan Pickford
+3869118,Nampalys Mendy,11,Left Defensive Midfield,TRUE,Senegal,6,Nampalys Mendy
+3869118,Krépin Diatta,17,Right Wing,TRUE,Senegal,15,Krépin Diatta
+3869118,Iliman Ndiaye,19,Center Attacking Midfield,TRUE,Senegal,13,Iliman Ndiaye
+3869118,Ismaïla Sarr,21,Left Wing,TRUE,Senegal,18,Ismaïla Sarr
+3869118,Boulaye Dia,23,Center Forward,TRUE,Senegal,9,Boulaye Dia
+3869118,Jude Bellingham,15,Left Center Midfield,TRUE,England,22,Jude Bellingham
+3869118,Jordan Brian Henderson,13,Right Center Midfield,TRUE,England,8,Jordan Henderson
+3869118,Declan Rice,10,Center Defensive Midfield,TRUE,England,4,Declan Rice
+3869118,Luke Shaw,6,Left Back,TRUE,England,3,Luke Shaw
+3869118,Harry Maguire,5,Left Center Back,TRUE,England,6,Harry Maguire
+3869118,Youssouf Sabaly,2,Right Back,TRUE,Senegal,21,Youssouf Sabaly
+3869118,Pathé Ismaël Ciss,9,Right Defensive Midfield,TRUE,Senegal,11,Pathé Ciss
+3869118,Ismail Jakobs,6,Left Back,TRUE,Senegal,14,Ismail Jakobs
+3869118,Abdou Diallo,5,Left Center Back,TRUE,Senegal,22,Abdou Diallo
+3869118,Bukayo Saka,17,Right Wing,TRUE,England,17,Bukayo Saka
+3869118,Harry Kane,23,Center Forward,TRUE,England,9,Harry Kane
+3869118,Cheikh Ahmadou Bamba Mbacke Dieng,23,Center Forward,FALSE,Senegal,20,Bamba Dieng
+3869118,Eric Dier,3,Right Center Back,FALSE,England,15,Eric Dier
+3869151,Marcos Javier Acuña,6,Left Back,TRUE,Argentina,8,Marcos Acuña
+3869151,Enzo Fernandez,10,Center Defensive Midfield,TRUE,Argentina,24,Enzo Fernández
+3869151,Rodrigo Javier De Paul,13,Right Center Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3869151,Alexis Mac Allister,15,Left Center Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3869151,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3869151,Nahuel Molina Lucero,2,Right Back,TRUE,Argentina,26,Nahuel Molina
+3869151,Alejandro Darío Gómez,21,Left Wing,TRUE,Argentina,17,Papu Gómez
+3869151,Julián Álvarez,17,Right Wing,TRUE,Argentina,9,Julián Alvarez
+3869151,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3869151,Nicolás Hernán Otamendi,5,Left Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3869151,Kye Rowles,5,Left Center Back,TRUE,Australia,4,Kye Rowles
+3869151,Harry Souttar,3,Right Center Back,TRUE,Australia,19,Harry Soutta
+3869151,Miloš Degenek,2,Right Back,TRUE,Australia,2,Miloš Degenek
+3869151,Lautaro Javier Martínez,24,Left Center Forward,FALSE,Argentina,22,Lautaro Martínez
+3869151,Lionel Andrés Messi Cuccittini,23,Center Forward,TRUE,Argentina,10,Lionel Messi
+3869151,Mathew Ryan,1,Goalkeeper,TRUE,Australia,1,Mathew Ryan
+3869151,Craig Goodwin,16,Left Midfield,FALSE,Australia,23,Craig Goodwin
+3869151,Ajdin Hrustic,12,Right Midfield,FALSE,Australia,10,Ajdin Hrustic
+3869151,Lisandro Martínez,12,Right Midfield,FALSE,Argentina,25,Lisandro Martínez
+3869151,Fran Karačić,2,Right Back,FALSE,Australia,5,Fran Karačić
+3869151,Garang Kuol,24,Left Center Forward,FALSE,Australia,21,Garang Kuol
+3869151,Jamie MacLaren,22,Right Center Forward,FALSE,Australia,9,Jamie Maclaren
+3869151,Nicolás Alejandro Tagliafico,8,Left Wing Back,FALSE,Argentina,3,Nicolás Tagliafico
+3869151,Jackson Irvine,24,Left Center Forward,TRUE,Australia,22,Jackson Irvine
+3869151,Mitchell Thomas Duke,22,Right Center Forward,TRUE,Australia,15,Mitchell Duke
+3869151,Riley McGree,16,Left Midfield,TRUE,Australia,14,Riley McGree
+3869151,Aaron Mooy,11,Left Defensive Midfield,TRUE,Australia,13,Aaron Mooy
+3869151,Mathew Leckie,12,Right Midfield,TRUE,Australia,7,Mathew Leckie
+3869151,Keanu Baccus,9,Right Defensive Midfield,TRUE,Australia,26,Keanu Baccus
+3869151,Aziz Eraltay Behich,6,Left Back,TRUE,Australia,16,Aziz Behich
+3869151,Gonzalo Ariel Montiel,7,Right Wing Back,FALSE,Argentina,4,Gonzalo Montiel
+3869151,Exequiel Alejandro Palacios,15,Left Center Midfield,FALSE,Argentina,14,Exequiel Palacios
+3869152,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3869152,Arkadiusz Milik,19,Center Attacking Midfield,FALSE,Poland,7,Arkadiusz Milik
+3869152,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3869152,Kingsley Coman,17,Right Wing,FALSE,France,20,Kingsley Coman
+3869152,Jakub Kamiński,12,Right Midfield,TRUE,Poland,13,Jakub Kamiński
+3869152,Piotr Zieliński,13,Right Center Midfield,TRUE,Poland,20,Piotr Zieliński
+3869152,Nicola Zalewski,17,Right Wing,FALSE,Poland,21,Nicola Zalewski
+3869152,Krystian Bielik,11,Left Defensive Midfield,FALSE,Poland,6,Krystian Bielik
+3869152,Youssouf Fofana,9,Right Defensive Midfield,FALSE,France,13,Youssouf Fofana
+3869152,Jules Koundé,2,Right Back,TRUE,France,5,Jules Koundé
+3869152,Kamil Grosicki,21,Left Wing,FALSE,Poland,11,Kamil Grosicki
+3869152,Dayotchanculle Upamecano,5,Left Center Back,TRUE,France,18,Dayot Upamecano
+3869152,Axel Disasi,2,Right Back,FALSE,France,3,Axel Disasi
+3869152,Marcus Thuram,21,Left Wing,FALSE,France,26,Marcus Thuram
+3869152,Bartosz Bereszyński,6,Left Back,TRUE,Poland,18,Bartosz Bereszyński
+3869152,Grzegorz Krychowiak,10,Center Defensive Midfield,TRUE,Poland,10,Grzegorz Krychowiak
+3869152,Jakub Piotr Kiwior,5,Left Center Back,TRUE,Poland,14,Jakub Kiwior
+3869152,Kamil Glik,3,Right Center Back,TRUE,Poland,15,Kamil Glik
+3869152,Wojciech Szczęsny,1,Goalkeeper,TRUE,Poland,1,Wojciech Szczęsny
+3869152,Matty Cash,2,Right Back,TRUE,Poland,2,Matty Cash
+3869152,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3869152,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3869152,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3869152,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3869152,Adrien Rabiot,11,Left Defensive Midfield,TRUE,France,14,Adrien Rabiot
+3869152,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3869152,Robert Lewandowski,23,Center Forward,TRUE,Poland,9,Robert Lewandowski
+3869152,Theo Bernard François Hernández,6,Left Back,TRUE,France,22,Théo Hernandez
+3869152,Przemysław Frankowski,16,Left Midfield,TRUE,Poland,24,Przemysław Frankowski
+3869152,Sebastian Szymański,15,Left Center Midfield,TRUE,Poland,19,Sebastian Szymański
+3869152,Jan Bednarek,5,Left Center Back,FALSE,Poland,5,Jan Bednarek
+3869219,Takuma Asano,23,Center Forward,FALSE,Japan,18,Takuma Asano
+3869219,Mario Pašalić,17,Right Wing,FALSE,Croatia,15,Mario Pašalić
+3869219,Kaoru Mitoma,8,Left Wing Back,FALSE,Japan,9,Kaoru Mitoma
+3869219,Shūichi Gonda,1,Goalkeeper,TRUE,Japan,12,Shūichi Gonda
+3869219,Takehiro Tomiyasu,3,Right Center Back,TRUE,Japan,16,Takehiro Tomiyasu
+3869219,Mislav Oršić,21,Left Wing,FALSE,Croatia,18,Mislav Oršić
+3869219,Nikola Vlašić,15,Left Center Midfield,FALSE,Croatia,13,Nikola Vlašić
+3869219,Takumi Minamino,21,Left Wing,FALSE,Japan,10,Takumi Minamino
+3869219,Hiroki Sakai,7,Right Wing Back,FALSE,Japan,19,Hiroki Sakai
+3869219,Ao Tanaka,11,Left Defensive Midfield,FALSE,Japan,17,Ao Tanaka
+3869219,Ante Budimir,23,Center Forward,FALSE,Croatia,17,Ante Budimir
+3869219,Lovro Majer,13,Right Center Midfield,FALSE,Croatia,7,Lovro Majer
+3869219,Marko Livaja,23,Center Forward,FALSE,Croatia,14,Marko Livaja
+3869219,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3869219,Andrej Kramarić,17,Right Wing,TRUE,Croatia,9,Andrej Kramarić
+3869219,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3869219,Bruno Petković,23,Center Forward,TRUE,Croatia,16,Bruno Petković
+3869219,Shogo Taniguchi,5,Left Center Back,TRUE,Japan,3,Shōgo Taniguchi
+3869219,Maya Yoshida,4,Center Back,TRUE,Japan,22,Maya Yoshida
+3869219,Yuto Nagatomo,8,Left Wing Back,TRUE,Japan,5,Yūto Nagatomo
+3869219,Junya Ito,7,Right Wing Back,TRUE,Japan,14,Junya Itō
+3869219,Wataru Endo,9,Right Defensive Midfield,TRUE,Japan,6,Wataru Endo
+3869219,Hidemasa Morita,11,Left Defensive Midfield,TRUE,Japan,13,Hidemasa Morita
+3869219,Ritsu Doan,17,Right Wing,TRUE,Japan,8,Ritsu Dōan
+3869219,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3869219,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3869219,Borna Barišić,6,Left Back,TRUE,Croatia,3,Borna Barišić
+3869219,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3869219,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3869219,Daizen Maeda,23,Center Forward,TRUE,Japan,25,Daizen Maeda
+3869219,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3869219,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3869219,Daichi Kamada,21,Left Wing,TRUE,Japan,15,Daichi Kamada
+3869220,Marco Asensio Willemsen,23,Center Forward,TRUE,Spain,10,Marco Asensio
+3869220,Azzedine Ounahi,13,Right Center Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3869220,Unai Simón Mendibil,1,Goalkeeper,TRUE,Spain,23,Unai Simón
+3869220,Selim Amallah,15,Left Center Midfield,TRUE,Morocco,15,Selim Amallah
+3869220,Rodrigo Hernández Cascante,3,Right Center Back,TRUE,Spain,16,Rodri
+3869220,Aymeric Laporte,5,Left Center Back,TRUE,Spain,24,Aymeric Laporte
+3869220,Jordi Alba Ramos,6,Left Back,TRUE,Spain,18,Jordi Alba
+3869220,Sergio Busquets i Burgos,10,Center Defensive Midfield,TRUE,Spain,5,Sergio Busquets
+3869220,Marcos Llorente Moreno,2,Right Back,TRUE,Spain,6,Marcos Llorente
+3869220,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3869220,Hakim Ziyech,17,Right Wing,TRUE,Morocco,7,Hakim Ziyech
+3869220,Sofiane Boufal,21,Left Wing,TRUE,Morocco,17,Sofiane Boufal
+3869220,Carlos Soler Barragán,15,Left Center Midfield,FALSE,Spain,19,Carlos Soler
+3869220,Álvaro Borja Morata Martín,23,Center Forward,FALSE,Spain,7,Álvaro Morata
+3869220,Abdessamad Ezzalzouli,21,Left Wing,FALSE,Morocco,16,Abde Ezzalzouli
+3869220,Nicholas Williams Arthuer,17,Right Wing,FALSE,Spain,12,Nico Williams
+3869220,Jawad El Yamiq,3,Right Center Back,FALSE,Morocco,18,Jawad El Yamiq
+3869220,Badr Banoun,5,Left Center Back,FALSE,Morocco,24,Badr Benoun
+3869220,Pablo Sarabia García,17,Right Wing,FALSE,Spain,22,Pablo Sarabia
+3869220,Alejandro Balde Martínez,6,Left Back,FALSE,Spain,14,Alejandro Balde
+3869220,Abdelhamid Sabiri,15,Left Center Midfield,FALSE,Morocco,11,Abdelhamid Sabiri
+3869220,Anssumane Fati,21,Left Wing,FALSE,Spain,25,Ansu Fati
+3869220,Yahia Attiyat allah,6,Left Back,FALSE,Morocco,25,Yahia Attiyat Allah
+3869220,Walid Cheddira,23,Center Forward,FALSE,Morocco,21,Walid Cheddira
+3869220,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3869220,Nayef Aguerd,3,Right Center Back,TRUE,Morocco,5,Nayef Aguerd
+3869220,Romain Saïss,5,Left Center Back,TRUE,Morocco,6,Romain Saïss
+3869220,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3869220,Pablo Martín Páez Gavira,13,Right Center Midfield,TRUE,Spain,9,Gavi
+3869220,Pedro González López,15,Left Center Midfield,TRUE,Spain,26,Pedri
+3869220,Ferrán Torres García,17,Right Wing,TRUE,Spain,11,Ferran Torres
+3869220,Daniel Olmo Carvajal,21,Left Wing,TRUE,Spain,21,Dani Olmo
+3869220,Noussair Mazraoui,6,Left Back,TRUE,Morocco,3,Noussair Mazraoui
+3869220,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3869253,Gabriel Teodoro Martinelli Silva,21,Left Wing,FALSE,Brazil,26,Gabriel Martinelli
+3869253,Gleison Bremer Silva Nascimento,6,Left Back,FALSE,Brazil,24,Bremer
+3869253,Daniel Alves da Silva,2,Right Back,FALSE,Brazil,13,Dani Alves
+3869253,Seung-Ho Paik,13,Right Center Midfield,FALSE,South Korea,8,Paik Seung-ho
+3869253,Jun-Ho Son,10,Center Defensive Midfield,FALSE,South Korea,13,Son Jun-ho
+3869253,Chul Hong,6,Left Back,FALSE,South Korea,14,Hong Chul
+3869253,Kang-In Lee,15,Left Center Midfield,FALSE,South Korea,18,Lee Kang-in
+3869253,Ui-Jo Hwang,23,Center Forward,FALSE,South Korea,16,Hwang Ui-jo
+3869253,Moon-Hwan Kim,2,Right Back,TRUE,South Korea,15,Kim Moon-hwan
+3869253,Danilo Luiz da Silva,6,Left Back,TRUE,Brazil,2,Danilo
+3869253,Neymar da Silva Santos Junior,19,Center Attacking Midfield,TRUE,Brazil,10,Neymar
+3869253,Lucas Tolentino Coelho de Lima,9,Right Defensive Midfield,TRUE,Brazil,7,Lucas Paquetá
+3869253,Carlos Henrique Casimiro,11,Left Defensive Midfield,TRUE,Brazil,5,Casemiro
+3869253,Min Jae Kim,3,Right Center Back,TRUE,South Korea,4,Kim Min-jae
+3869253,Young-Gwon Kim,5,Left Center Back,TRUE,South Korea,19,Kim Young-gwon
+3869253,Vinícius José Paixão de Oliveira Júnior,21,Left Wing,TRUE,Brazil,20,Vinícius Júnior
+3869253,Thiago Emiliano da Silva,5,Left Center Back,TRUE,Brazil,3,Thiago Silva
+3869253,Marcos Aoás Corrêa,3,Right Center Back,TRUE,Brazil,4,Marquinhos
+3869253,Gue-Sung Cho,22,Right Center Forward,TRUE,South Korea,9,Cho Gue-sung
+3869253,Heung-Min Son,24,Left Center Forward,TRUE,South Korea,7,Son Heung-min
+3869253,Éder Gabriel Militão,2,Right Back,TRUE,Brazil,14,Éder Militão
+3869253,Alisson Ramsés Becker,1,Goalkeeper,TRUE,Brazil,1,Alisson
+3869253,Jin-Su Kim,6,Left Back,TRUE,South Korea,3,Kim Jin-su
+3869253,Woo-Young Jung,9,Right Defensive Midfield,TRUE,South Korea,5,Jung Woo-young
+3869253,In-Beom Hwang,11,Left Defensive Midfield,TRUE,South Korea,6,Hwang In-beom
+3869253,Raphael Dias Belloli,17,Right Wing,TRUE,Brazil,11,Raphinha
+3869253,Weverton Pereira da Silva,1,Goalkeeper,FALSE,Brazil,12,Weverton
+3869253,Rodrygo Silva de Goes,19,Center Attacking Midfield,FALSE,Brazil,21,Rodrygo
+3869253,Jae-Sung Lee,12,Right Midfield,TRUE,South Korea,10,Lee Jae-sung
+3869253,Hee-Chan Hwang,16,Left Midfield,TRUE,South Korea,11,Hwang Hee-chan
+3869253,Richarlison de Andrade,23,Center Forward,TRUE,Brazil,9,Richarlison
+3869253,Seung-Gyu Kim,1,Goalkeeper,TRUE,South Korea,1,Kim Seung-gyu
+3869254,Djibril Sow,13,Right Center Midfield,TRUE,Switzerland,15,Djibril Sow
+3869254,Granit Xhaka,10,Center Defensive Midfield,TRUE,Switzerland,10,Granit Xhaka
+3869254,Breel-Donald Embolo,22,Right Center Forward,TRUE,Switzerland,7,Breel Embolo
+3869254,Diogo Meireles Costa,1,Goalkeeper,TRUE,Portugal,22,Diogo Costa
+3869254,Manuel Obafemi Akanji,3,Right Center Back,TRUE,Switzerland,5,Manuel Akanji
+3869254,Edimilson Fernandes,7,Right Wing Back,TRUE,Switzerland,2,Edimilson Fernandes
+3869254,Denis Lemi Zakaria Lako Lado,15,Left Center Midfield,FALSE,Switzerland,6,Denis Zakaria
+3869254,Eray Ervin Cömert,4,Center Back,FALSE,Switzerland,18,Eray Cömert
+3869254,Rafael Alexandre Conceição Leão,17,Right Wing,FALSE,Portugal,15,Rafael Leão
+3869254,Noah Okafor,16,Left Midfield,FALSE,Switzerland,19,Noah Okafor
+3869254,Haris Seferović,13,Right Center Midfield,FALSE,Switzerland,9,Haris Seferovic
+3869254,Ricardo Jorge Luz Horta,21,Left Wing,FALSE,Portugal,21,Ricardo Horta
+3869254,Cristiano Ronaldo dos Santos Aveiro,21,Left Wing,FALSE,Portugal,7,Cristiano Ronaldo
+3869254,Ardon Jashari,24,Left Center Forward,FALSE,Switzerland,26,Ardon Jashari
+3869254,Vitor Machado Ferreira,15,Left Center Midfield,FALSE,Portugal,16,Vitinha
+3869254,Rúben Diogo Da Silva Neves,10,Center Defensive Midfield,FALSE,Portugal,18,Rúben Neves
+3869254,Xherdan Shaqiri,24,Left Center Forward,TRUE,Switzerland,23,Xherdan Shaqiri
+3869254,Remo Freuler,15,Left Center Midfield,TRUE,Switzerland,8,Remo Freuler
+3869254,Bruno Miguel Borges Fernandes,17,Right Wing,TRUE,Portugal,8,Bruno Fernandes
+3869254,Rúben Santos Gato Alves Dias,5,Left Center Back,TRUE,Portugal,4,Rúben Dias
+3869254,William Silva de Carvalho,10,Center Defensive Midfield,TRUE,Portugal,14,William Carvalho
+3869254,Bernardo Mota Veiga de Carvalho e Silva,13,Right Center Midfield,TRUE,Portugal,10,Bernardo Silva
+3869254,Yann Sommer,1,Goalkeeper,TRUE,Switzerland,1,Yann Sommer
+3869254,Gonçalo Matias Ramos,23,Center Forward,TRUE,Portugal,26,Gonçalo Ramos
+3869254,Fabian Lukas Schär,4,Center Back,TRUE,Switzerland,22,Fabian Schär
+3869254,Ricardo Iván Rodríguez Araya,5,Left Center Back,TRUE,Switzerland,13,Ricardo Rodriguez
+3869254,Ruben Vargas,8,Left Wing Back,TRUE,Switzerland,17,Rubén Vargas
+3869254,Raphaël Adelino José Guerreiro,6,Left Back,TRUE,Portugal,5,Raphaël Guerreiro
+3869254,Otávio Edmilson da Silva Monteiro,15,Left Center Midfield,TRUE,Portugal,25,Otávio
+3869254,João Félix Sequeira,21,Left Wing,TRUE,Portugal,11,João Félix
+3869254,José Diogo Dalot Teixeira,2,Right Back,TRUE,Portugal,2,Diogo Dalot
+3869254,Kléper Laveran Lima Ferreira,3,Right Center Back,TRUE,Portugal,3,Pepe
+3869321,Ángel Fabián Di María Hernández,17,Right Wing,FALSE,Argentina,11,Ángel Di María
+3869321,Leandro Daniel Paredes,10,Center Defensive Midfield,FALSE,Argentina,5,Leandro Paredes
+3869321,Nicolás Alejandro Tagliafico,8,Left Wing Back,FALSE,Argentina,3,Nicolás Tagliafico
+3869321,Germán Alejandro Pezzella,3,Right Center Back,FALSE,Argentina,6,Germán Pezzella
+3869321,Wout Weghorst,22,Right Center Forward,FALSE,Netherlands,19,Wout Weghorst
+3869321,Lautaro Javier Martínez,24,Left Center Forward,FALSE,Argentina,22,Lautaro Martínez
+3869321,Gonzalo Ariel Montiel,7,Right Wing Back,FALSE,Argentina,4,Gonzalo Montiel
+3869321,Noa Lang,16,Left Midfield,FALSE,Netherlands,12,Noa Lang
+3869321,Nahuel Molina Lucero,7,Right Wing Back,TRUE,Argentina,26,Nahuel Molina
+3869321,Cody Mathès Gakpo,19,Center Attacking Midfield,TRUE,Netherlands,8,Cody Gakpo
+3869321,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3869321,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3869321,Steven Bergwijn,22,Right Center Forward,TRUE,Netherlands,7,Steven Bergwijn
+3869321,Memphis Depay,24,Left Center Forward,TRUE,Netherlands,10,Memphis Depay
+3869321,Marcos Javier Acuña,8,Left Wing Back,TRUE,Argentina,8,Marcos Acuña
+3869321,Alexis Mac Allister,15,Left Center Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3869321,Lionel Andrés Messi Cuccittini,22,Right Center Forward,TRUE,Argentina,10,Lionel Messi
+3869321,Enzo Fernandez,10,Center Defensive Midfield,TRUE,Argentina,24,Enzo Fernández
+3869321,Rodrigo Javier De Paul,13,Right Center Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3869321,Julián Álvarez,24,Left Center Forward,TRUE,Argentina,9,Julián Alvarez
+3869321,Nicolás Hernán Otamendi,4,Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3869321,Lisandro Martínez,5,Left Center Back,TRUE,Argentina,25,Lisandro Martínez
+3869321,Frenkie de Jong,11,Left Defensive Midfield,TRUE,Netherlands,21,Frenkie de Jong
+3869321,Andries Noppert,1,Goalkeeper,TRUE,Netherlands,23,Andries Noppert
+3869321,Jurriën David Norman Timber,3,Right Center Back,TRUE,Netherlands,2,Jurriën Timber
+3869321,Virgil van Dijk,4,Center Back,TRUE,Netherlands,4,Virgil van Dijk
+3869321,Nathan Aké,5,Left Center Back,TRUE,Netherlands,5,Nathan Aké
+3869321,Denzel Dumfries,7,Right Wing Back,TRUE,Netherlands,22,Denzel Dumfries
+3869321,Daley Blind,8,Left Wing Back,TRUE,Netherlands,17,Daley Blind
+3869321,Marten de Roon,9,Right Defensive Midfield,TRUE,Netherlands,15,Marten de Roon
+3869321,Steven Berghuis,19,Center Attacking Midfield,FALSE,Netherlands,11,Steven Berghuis
+3869321,Teun Koopmeiners,9,Right Defensive Midfield,FALSE,Netherlands,20,Teun Koopmeiners
+3869321,Luuk de Jong,24,Left Center Forward,FALSE,Netherlands,9,Luuk de Jong
+3869354,Jack Grealish,15,Left Center Midfield,FALSE,England,7,Jack Grealish
+3869354,Kingsley Coman,17,Right Wing,FALSE,France,20,Kingsley Coman
+3869354,Raheem Sterling,17,Right Wing,FALSE,England,10,Raheem Sterling
+3869354,Marcus Rashford,21,Left Wing,FALSE,England,11,Marcus Rashford
+3869354,Mason Mount,13,Right Center Midfield,FALSE,England,19,Mason Mount
+3869354,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3869354,John Stones,3,Right Center Back,TRUE,England,5,John Stones
+3869354,Declan Rice,10,Center Defensive Midfield,TRUE,England,4,Declan Rice
+3869354,Jules Koundé,2,Right Back,TRUE,France,5,Jules Koundé
+3869354,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3869354,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3869354,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3869354,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3869354,Theo Bernard François Hernández,6,Left Back,TRUE,France,22,Théo Hernandez
+3869354,Dayotchanculle Upamecano,5,Left Center Back,TRUE,France,18,Dayot Upamecano
+3869354,Adrien Rabiot,11,Left Defensive Midfield,TRUE,France,14,Adrien Rabiot
+3869354,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3869354,Harry Maguire,5,Left Center Back,TRUE,England,6,Harry Maguire
+3869354,Luke Shaw,6,Left Back,TRUE,England,3,Luke Shaw
+3869354,Kyle Walker,2,Right Back,TRUE,England,2,Kyle Walker
+3869354,Jordan Pickford,1,Goalkeeper,TRUE,England,1,Jordan Pickford
+3869354,Jude Bellingham,15,Left Center Midfield,TRUE,England,22,Jude Bellingham
+3869354,Jordan Brian Henderson,13,Right Center Midfield,TRUE,England,8,Jordan Henderson
+3869354,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3869354,Bukayo Saka,17,Right Wing,TRUE,England,17,Bukayo Saka
+3869354,Philip Foden,21,Left Wing,TRUE,England,20,Phil Foden
+3869354,Harry Kane,23,Center Forward,TRUE,England,9,Harry Kane
+3869420,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3869420,Richarlison de Andrade,23,Center Forward,TRUE,Brazil,9,Richarlison
+3869420,Mario Pašalić,17,Right Wing,TRUE,Croatia,15,Mario Pašalić
+3869420,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3869420,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3869420,Lucas Tolentino Coelho de Lima,9,Right Defensive Midfield,TRUE,Brazil,7,Lucas Paquetá
+3869420,Danilo Luiz da Silva,6,Left Back,TRUE,Brazil,2,Danilo
+3869420,Thiago Emiliano da Silva,5,Left Center Back,TRUE,Brazil,3,Thiago Silva
+3869420,Marcos Aoás Corrêa,3,Right Center Back,TRUE,Brazil,4,Marquinhos
+3869420,Neymar da Silva Santos Junior,19,Center Attacking Midfield,TRUE,Brazil,10,Neymar
+3869420,Vinícius José Paixão de Oliveira Júnior,16,Left Midfield,TRUE,Brazil,20,Vinícius Júnior
+3869420,Raphael Dias Belloli,12,Right Midfield,TRUE,Brazil,11,Raphinha
+3869420,Carlos Henrique Casimiro,11,Left Defensive Midfield,TRUE,Brazil,5,Casemiro
+3869420,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3869420,Borna Sosa,6,Left Back,TRUE,Croatia,19,Borna Sosa
+3869420,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3869420,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3869420,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3869420,Andrej Kramarić,23,Center Forward,TRUE,Croatia,9,Andrej Kramarić
+3869420,Alisson Ramsés Becker,1,Goalkeeper,TRUE,Brazil,1,Alisson
+3869420,Éder Gabriel Militão,2,Right Back,TRUE,Brazil,14,Éder Militão
+3869420,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3869420,Antony Matheus dos Santos,12,Right Midfield,FALSE,Brazil,19,Antony
+3869420,Nikola Vlašić,17,Right Wing,FALSE,Croatia,13,Nikola Vlašić
+3869420,Pedro Guilherme Abreu dos Santos,23,Center Forward,FALSE,Brazil,25,Pedro
+3869420,Ante Budimir,24,Left Center Forward,FALSE,Croatia,17,Ante Budimir
+3869420,Bruno Petković,23,Center Forward,FALSE,Croatia,16,Bruno Petković
+3869420,Lovro Majer,15,Left Center Midfield,FALSE,Croatia,7,Lovro Majer
+3869420,Alex Sandro Lobo Silva,6,Left Back,FALSE,Brazil,6,Alex Sandro
+3869420,Frederico Rodrigues Santos,9,Right Defensive Midfield,FALSE,Brazil,8,Fred
+3869420,Rodrygo Silva de Goes,16,Left Midfield,FALSE,Brazil,21,Rodrygo
+3869420,Mislav Oršić,16,Left Midfield,FALSE,Croatia,18,Mislav Oršić
+3869486,Bernardo Mota Veiga de Carvalho e Silva,13,Right Center Midfield,TRUE,Portugal,10,Bernardo Silva
+3869486,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3869486,Jawad El Yamiq,3,Right Center Back,TRUE,Morocco,18,Jawad El Yamiq
+3869486,Otávio Edmilson da Silva Monteiro,15,Left Center Midfield,TRUE,Portugal,25,Otávio
+3869486,Raphaël Adelino José Guerreiro,6,Left Back,TRUE,Portugal,5,Raphaël Guerreiro
+3869486,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3869486,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3869486,Selim Amallah,15,Left Center Midfield,TRUE,Morocco,15,Selim Amallah
+3869486,Sofiane Boufal,16,Left Midfield,TRUE,Morocco,17,Sofiane Boufal
+3869486,Diogo Meireles Costa,1,Goalkeeper,TRUE,Portugal,22,Diogo Costa
+3869486,José Diogo Dalot Teixeira,2,Right Back,TRUE,Portugal,2,Diogo Dalot
+3869486,Azzedine Ounahi,13,Right Center Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3869486,Gonçalo Matias Ramos,23,Center Forward,TRUE,Portugal,26,Gonçalo Ramos
+3869486,João Félix Sequeira,21,Left Wing,TRUE,Portugal,11,João Félix
+3869486,Hakim Ziyech,12,Right Midfield,TRUE,Morocco,7,Hakim Ziyech
+3869486,Yahia Attiyat allah,6,Left Back,TRUE,Morocco,25,Yahia Attiyat Allah
+3869486,Ricardo Jorge Luz Horta,17,Right Wing,FALSE,Portugal,21,Ricardo Horta
+3869486,Romain Saïss,5,Left Center Back,TRUE,Morocco,6,Romain Saïss
+3869486,Vitor Machado Ferreira,9,Right Defensive Midfield,FALSE,Portugal,16,Vitinha
+3869486,Yahya Jabrane,9,Right Defensive Midfield,FALSE,Morocco,26,Yahya Jabrane
+3869486,Zakaria Aboukhlal,23,Center Forward,FALSE,Morocco,14,Zakaria Aboukhlal
+3869486,Rafael Alexandre Conceição Leão,21,Left Wing,FALSE,Portugal,15,Rafael Leão
+3869486,Walid Cheddira,23,Center Forward,FALSE,Morocco,21,Walid Cheddira
+3869486,João Pedro Cavaco Cancelo,6,Left Back,FALSE,Portugal,20,João Cancelo
+3869486,Achraf Dari,3,Right Center Back,FALSE,Morocco,20,Achraf Dari
+3869486,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,FALSE,Portugal,7,Cristiano Ronaldo
+3869486,Badr Banoun,4,Center Back,FALSE,Morocco,24,Badr Benoun
+3869486,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3869486,Bruno Miguel Borges Fernandes,17,Right Wing,TRUE,Portugal,8,Bruno Fernandes
+3869486,Rúben Santos Gato Alves Dias,5,Left Center Back,TRUE,Portugal,4,Rúben Dias
+3869486,Kléper Laveran Lima Ferreira,3,Right Center Back,TRUE,Portugal,3,Pepe
+3869486,Rúben Diogo Da Silva Neves,10,Center Defensive Midfield,TRUE,Portugal,18,Rúben Neves
+3869519,Nicolás Hernán Otamendi,5,Left Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3869519,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3869519,Nahuel Molina Lucero,2,Right Back,TRUE,Argentina,26,Nahuel Molina
+3869519,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3869519,Exequiel Alejandro Palacios,13,Right Center Midfield,FALSE,Argentina,14,Exequiel Palacios
+3869519,Julián Álvarez,24,Left Center Forward,TRUE,Argentina,9,Julián Alvarez
+3869519,Lionel Andrés Messi Cuccittini,22,Right Center Forward,TRUE,Argentina,10,Lionel Messi
+3869519,Josip Juranović,2,Right Back,TRUE,Croatia,22,Josip Juranović
+3869519,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3869519,Alexis Mac Allister,16,Left Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3869519,Luka Modrić,13,Right Center Midfield,TRUE,Croatia,10,Luka Modrić
+3869519,Dejan Lovren,3,Right Center Back,TRUE,Croatia,6,Dejan Lovren
+3869519,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3869519,Borna Sosa,6,Left Back,TRUE,Croatia,19,Borna Sosa
+3869519,Ivan Perišić,21,Left Wing,TRUE,Croatia,4,Ivan Perišić
+3869519,Mario Pašalić,17,Right Wing,TRUE,Croatia,15,Mario Pašalić
+3869519,Mateo Kovačić,15,Left Center Midfield,TRUE,Croatia,8,Mateo Kovačić
+3869519,Lisandro Martínez,5,Left Center Back,FALSE,Argentina,25,Lisandro Martínez
+3869519,Bruno Petković,23,Center Forward,FALSE,Croatia,16,Bruno Petković
+3869519,Juan Marcos Foyth,7,Right Wing Back,FALSE,Argentina,2,Juan Foyth
+3869519,Ángel Martín Correa,15,Left Center Midfield,FALSE,Argentina,15,Ángel Correa
+3869519,Mislav Oršić,21,Left Wing,FALSE,Croatia,18,Mislav Oršić
+3869519,Nikola Vlašić,17,Right Wing,FALSE,Croatia,13,Nikola Vlašić
+3869519,Marko Livaja,19,Center Attacking Midfield,FALSE,Croatia,14,Marko Livaja
+3869519,Paulo Bruno Exequiel Dybala,24,Left Center Forward,FALSE,Argentina,21,Paulo Dybala
+3869519,Leandro Daniel Paredes,9,Right Defensive Midfield,TRUE,Argentina,5,Leandro Paredes
+3869519,Nicolás Alejandro Tagliafico,6,Left Back,TRUE,Argentina,3,Nicolás Tagliafico
+3869519,Enzo Fernandez,11,Left Defensive Midfield,TRUE,Argentina,24,Enzo Fernández
+3869519,Andrej Kramarić,23,Center Forward,TRUE,Croatia,9,Andrej Kramarić
+3869519,Marcelo Brozović,10,Center Defensive Midfield,TRUE,Croatia,11,Marcelo Brozović
+3869519,Rodrigo Javier De Paul,12,Right Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3869519,Lovro Majer,9,Right Defensive Midfield,FALSE,Croatia,7,Lovro Majer
+3869552,Abdessamad Ezzalzouli,16,Left Midfield,FALSE,Morocco,16,Abde Ezzalzouli
+3869552,Abderrazak Hamdallah,23,Center Forward,FALSE,Morocco,9,Abderrazak Hamdallah
+3869552,Jules Koundé,2,Right Back,TRUE,France,5,Jules Koundé
+3869552,Randal Kolo Muani,17,Right Wing,FALSE,France,12,Randal Kolo Muani
+3869552,Zakaria Aboukhlal,21,Left Wing,FALSE,Morocco,14,Zakaria Aboukhlal
+3869552,Marcus Thuram,21,Left Wing,FALSE,France,26,Marcus Thuram
+3869552,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3869552,Azzedine Ounahi,11,Left Defensive Midfield,TRUE,Morocco,8,Azzedine Ounahi
+3869552,Hakim Ziyech,17,Right Wing,TRUE,Morocco,7,Hakim Ziyech
+3869552,Sofiane Boufal,21,Left Wing,TRUE,Morocco,17,Sofiane Boufal
+3869552,Ibrahima Konaté,5,Left Center Back,TRUE,France,24,Ibrahima Konaté
+3869552,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3869552,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3869552,Sofyan Amrabat,9,Right Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3869552,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3869552,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3869552,Achraf Dari,3,Right Center Back,TRUE,Morocco,20,Achraf Dari
+3869552,Romain Saïss,4,Center Back,TRUE,Morocco,6,Romain Saïss
+3869552,Jawad El Yamiq,5,Left Center Back,TRUE,Morocco,18,Jawad El Yamiq
+3869552,Achraf Hakimi Mouh,7,Right Wing Back,TRUE,Morocco,2,Achraf Hakimi
+3869552,Noussair Mazraoui,8,Left Wing Back,TRUE,Morocco,3,Noussair Mazraoui
+3869552,Theo Bernard François Hernández,6,Left Back,TRUE,France,22,Théo Hernandez
+3869552,Selim Amallah,13,Right Center Midfield,FALSE,Morocco,15,Selim Amallah
+3869552,Yahia Attiyat allah,6,Left Back,FALSE,Morocco,25,Yahia Attiyat Allah
+3869552,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3869552,Youssouf Fofana,11,Left Defensive Midfield,TRUE,France,13,Youssouf Fofana
+3869552,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3869552,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3869552,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3869684,Yahia Attiyat allah,6,Left Back,TRUE,Morocco,25,Yahia Attiyat Allah
+3869684,Achraf Hakimi Mouh,2,Right Back,TRUE,Morocco,2,Achraf Hakimi
+3869684,Jawad El Yamiq,3,Right Center Back,TRUE,Morocco,18,Jawad El Yamiq
+3869684,Achraf Dari,5,Left Center Back,TRUE,Morocco,20,Achraf Dari
+3869684,Mateo Kovačić,11,Left Defensive Midfield,TRUE,Croatia,8,Mateo Kovačić
+3869684,Abdelhamid Sabiri,15,Left Center Midfield,TRUE,Morocco,11,Abdelhamid Sabiri
+3869684,Ilias Chair,17,Right Wing,FALSE,Morocco,13,Ilias Chair
+3869684,Joško Gvardiol,5,Left Center Back,TRUE,Croatia,20,Joško Gvardiol
+3869684,Bruno Petković,23,Center Forward,FALSE,Croatia,16,Bruno Petković
+3869684,Kristijan Jakić,,,FALSE,,26,Kristijan Jakić
+3869684,Mario Pašalić,19,Center Attacking Midfield,FALSE,Croatia,15,Mario Pašalić
+3869684,Selim Amallah,15,Left Center Midfield,FALSE,Morocco,15,Selim Amallah
+3869684,Nikola Vlašić,17,Right Wing,FALSE,Croatia,13,Nikola Vlašić
+3869684,Azzedine Ounahi,15,Left Center Midfield,FALSE,Morocco,8,Azzedine Ounahi
+3869684,Hakim Ziyech,17,Right Wing,TRUE,Morocco,7,Hakim Ziyech
+3869684,Youssef En-Nesyri,23,Center Forward,TRUE,Morocco,19,Youssef En-Nesyri
+3869684,Sofiane Boufal,21,Left Wing,TRUE,Morocco,17,Sofiane Boufal
+3869684,Josip Šutalo,3,Right Center Back,TRUE,Croatia,24,Josip Šutalo
+3869684,Josip Stanišić,2,Right Back,TRUE,Croatia,2,Josip Stanišić
+3869684,Dominik Livaković,1,Goalkeeper,TRUE,Croatia,1,Dominik Livaković
+3869684,Sofyan Amrabat,10,Center Defensive Midfield,TRUE,Morocco,4,Sofyan Amrabat
+3869684,Bilal El Khannous,13,Right Center Midfield,TRUE,Morocco,23,Bilal El Khannous
+3869684,Andrej Kramarić,19,Center Attacking Midfield,TRUE,Croatia,9,Andrej Kramarić
+3869684,Yassine Bounou,1,Goalkeeper,TRUE,Morocco,1,Yassine Bounou
+3869684,Marko Livaja,23,Center Forward,TRUE,Croatia,14,Marko Livaja
+3869684,Ivan Perišić,6,Left Back,TRUE,Croatia,4,Ivan Perišić
+3869684,Luka Modrić,9,Right Defensive Midfield,TRUE,Croatia,10,Luka Modrić
+3869684,Lovro Majer,17,Right Wing,TRUE,Croatia,7,Lovro Majer
+3869684,Mislav Oršić,21,Left Wing,TRUE,Croatia,18,Mislav Oršić
+3869684,Badr Banoun,5,Left Center Back,FALSE,Morocco,24,Badr Benoun
+3869684,Anass Zaroury,21,Left Wing,FALSE,Morocco,10,Anass Zaroury
+3869685,Lautaro Javier Martínez,23,Center Forward,FALSE,Argentina,22,Lautaro Martínez
+3869685,Eduardo Camavinga,6,Left Back,FALSE,France,25,Eduardo Camavinga
+3869685,Kingsley Coman,12,Right Midfield,FALSE,France,20,Kingsley Coman
+3869685,Gonzalo Ariel Montiel,2,Right Back,FALSE,Argentina,4,Gonzalo Montiel
+3869685,Youssouf Fofana,11,Left Defensive Midfield,FALSE,France,13,Youssouf Fofana
+3869685,Leandro Daniel Paredes,10,Center Defensive Midfield,FALSE,Argentina,5,Leandro Paredes
+3869685,Damián Emiliano Martínez,1,Goalkeeper,TRUE,Argentina,23,Emiliano Martínez
+3869685,Nicolás Alejandro Tagliafico,6,Left Back,TRUE,Argentina,3,Nicolás Tagliafico
+3869685,Enzo Fernandez,10,Center Defensive Midfield,TRUE,Argentina,24,Enzo Fernández
+3869685,Julián Álvarez,23,Center Forward,TRUE,Argentina,9,Julián Alvarez
+3869685,Hugo Lloris,1,Goalkeeper,TRUE,France,1,Hugo Lloris
+3869685,Jules Koundé,2,Right Back,TRUE,France,5,Jules Koundé
+3869685,Adrien Rabiot,11,Left Defensive Midfield,TRUE,France,14,Adrien Rabiot
+3869685,Aurélien Djani Tchouaméni,9,Right Defensive Midfield,TRUE,France,8,Aurélien Tchouaméni
+3869685,Theo Bernard François Hernández,6,Left Back,TRUE,France,22,Théo Hernandez
+3869685,Dayotchanculle Upamecano,5,Left Center Back,TRUE,France,18,Dayot Upamecano
+3869685,Olivier Giroud,23,Center Forward,TRUE,France,9,Olivier Giroud
+3869685,Kylian Mbappé Lottin,21,Left Wing,TRUE,France,10,Kylian Mbappé
+3869685,Antoine Griezmann,19,Center Attacking Midfield,TRUE,France,7,Antoine Griezmann
+3869685,Ousmane Dembélé,17,Right Wing,TRUE,France,11,Ousmane Dembélé
+3869685,Raphaël Varane,3,Right Center Back,TRUE,France,4,Raphaël Varane
+3869685,Nahuel Molina Lucero,2,Right Back,TRUE,Argentina,26,Nahuel Molina
+3869685,Cristian Gabriel Romero,3,Right Center Back,TRUE,Argentina,13,Cristian Romero
+3869685,Nicolás Hernán Otamendi,5,Left Center Back,TRUE,Argentina,19,Nicolás Otamendi
+3869685,Germán Alejandro Pezzella,4,Center Back,FALSE,Argentina,6,Germán Pezzella
+3869685,Rodrigo Javier De Paul,13,Right Center Midfield,TRUE,Argentina,7,Rodrigo De Paul
+3869685,Alexis Mac Allister,15,Left Center Midfield,TRUE,Argentina,20,Alexis Mac Allister
+3869685,Lionel Andrés Messi Cuccittini,17,Right Wing,TRUE,Argentina,10,Lionel Messi
+3869685,Ángel Fabián Di María Hernández,21,Left Wing,TRUE,Argentina,11,Ángel Di María
+3869685,Marcos Javier Acuña,21,Left Wing,FALSE,Argentina,8,Marcos Acuña
+3869685,Axel Disasi,2,Right Back,FALSE,France,3,Axel Disasi
+3869685,Paulo Bruno Exequiel Dybala,15,Left Center Midfield,FALSE,Argentina,21,Paulo Dybala
+3869685,Randal Kolo Muani,17,Right Wing,FALSE,France,12,Randal Kolo Muani
+3869685,Marcus Thuram,21,Left Wing,FALSE,France,26,Marcus Thuram
+3869685,Ibrahima Konaté,3,Right Center Back,FALSE,France,24,Ibrahima Konaté
