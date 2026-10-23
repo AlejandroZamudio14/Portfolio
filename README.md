@@ -60,3 +60,9 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Description:** Using publicly available schedule and stadium data from FBRef and Wikipedia, I perform an analysis on MLS Attendance and Capacity utilization. I attempt to find patterns or consistent trends at the team and league level while providing recommendations for future analysis. This project also includes a public Tableau dashboard that allows users to look at attendance on the team and league level.
 
 **Technologies:** SQL · PostgreSQL · Tableau
+
+
+### [World Cup Analysis Dashboard (In Progress)](./WCAnalysisDashboard)
+**Date:** September 2026 - Present
+
+**Description:** Using publicly available data from the 2022 World Cup via Statsbomb and Wikipedia, I aim to create a dashboard to visualize and display stats for Match Analysis, Team Analysis and Individual Player Analysis. The repository contains a functioning Shiny App to display the dashboard and contains a notebook used to develop the idea. The project is still in progress and current Shiny App only displays the Match Analysis aspect. The Team and Player Analysis tabs are currently in development. 
