@@ -9,8 +9,6 @@ In this project, I perform analysis of fourth down data for the 2021 to 2025 NFL
 The folder contains the RMarkdown file and resulting PDF file that serve as a "Report" to document the steps taken to train the model and perform analysis, the files for the ML Models, and the app and manifest file used in the resulting shiny app. 
 
 ## **Project Shiny App**
-For this project, a Shiny App was created to serve as a visual and interactive use of the models. The app allows you to choose the specific model and insert variable values to generate the probability of converting. For this app, I use a prediction cutoff of 0.55 to display text stating to "Go For It" or "Kick / FG Attempt". This cutoff was chosen as a personal cutoff. The shiny app is accessible below:
-
-**ShinyApp URL:** https://019e8a4b-6786-3a48-10bb-f297f17abb36.share.connect.posit.cloud
+For this project, a Shiny App was created to serve as a visual and interactive use of the models. The app allows you to choose the specific model and insert variable values to generate the probability of converting. For this app, I use a prediction cutoff of 0.55 to display text stating to "Go For It" or "Kick / FG Attempt". This cutoff was chosen as a personal cutoff. The shiny app is no longer active as of 10/22/26
 
 
