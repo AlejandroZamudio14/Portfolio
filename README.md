@@ -58,3 +58,5 @@ I am a Statistics and Data Science graduate from the University of Texas at Aust
 **Date:** September 2026 - Present
 
 **Description:** Using publicly available data from the 2022 World Cup via Statsbomb and Wikipedia, I aim to create a dashboard to visualize and display stats for Match Analysis, Team Analysis and Individual Player Analysis. The repository contains a functioning Shiny App to display the dashboard and contains a notebook used to develop the idea. The project is still in progress and current Shiny App only displays the Match Analysis aspect. The Team and Player Analysis tabs are currently in development. 
+
+**Technologies:** Python · Shiny
