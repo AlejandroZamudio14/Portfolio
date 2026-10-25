@@ -968,6 +968,7 @@ app_ui = ui.page_fluid(
                     ui.output_ui("blocks_comparison"),
                     ui.output_ui("clearances_comparison"),
                     ui.output_ui("aerial_wins_comparison"),
+                    ui.output_ui("own_goal_comparison"),
                     class_="stat-category"
                 ),
 
@@ -1503,6 +1504,14 @@ def server(input, output, session):
         return create_stat_comparison(
             "Red Card",
             "Red Cards",
+            decimals=0
+        )
+
+    @render.ui
+    def own_goal_comparison():
+        return create_stat_comparison(
+            "Own Goals",
+            "Own Goals",
             decimals=0
         )
 
@@ -2079,28 +2088,28 @@ def server(input, output, session):
                 [
                     "Player", "Position", "Minutes", "Team",
                     "Goals", "xG", "Shots", "Shots on Target",
-                    "Assists", "Successful Dribbles",
-                    "Dispossessed", "Miscontrols",
-                    "Fouls", "Yellow Cards", "Red Cards"
+                    "Assists", "Penalties Won",
+                    "Final Third Entries"
                 ]
             ),
             "Midfield": (
                 midfielder_stats,
                 [
                     "Player", "Position", "Minutes", "Team",
-                    "Goals", "Shots", "Passes", "Assists",
-                    "Successful Dribbles", "Tackles",
-                    "Interceptions", "Dispossessed", "Miscontrols",
-                    "Fouls", "Yellow Cards", "Red Cards"
+                    "Passes", "Key Passes", "Crosses",
+                    "Successful Dribbles", "Free Kicks", 
+                    "Dispossessed", "Miscontrols",
+                    "Aerial Wins"
                 ]
             ),
             "Defending": (
                 defender_stats,
                 [
                     "Player", "Position", "Minutes", "Team",
-                    "Goals", "Shots", "Passes", "Tackles",
-                    "Interceptions", "Blocks", "Fouls",
-                    "Yellow Cards", "Red Cards"
+                    "Tackles", "Interceptions", "Blocks",
+                    "Clearances", "Fouls", "Own Goals",
+                    "Yellow Cards", "Red Cards",
+                    "Penalty Conceded"
                 ]
             )
         }
@@ -2359,6 +2368,62 @@ def server(input, output, session):
         else:
             final_text = match["Final"]
 
+        match_id = match["match_id"]
+        match_events = visual_data[
+            (visual_data["match_id"] == match_id) &
+            (visual_data["period"] != 5)
+        ]
+
+        # Regular goals
+        goals = match_events[
+            (match_events["type"] == "Shot") &
+            (match_events["shot_outcome"] == "Goal")
+        ]
+
+        # Own goals: use the team that benefited from the own goal
+        own_goals = match_events[
+            match_events["type"] == "Own Goal Against"
+        ]
+
+        home_scorers = []
+        away_scorers = []
+
+        for _, goal in goals.iterrows():
+            scorer = goal["player"]
+            minute = int(goal["minute"])
+            team = goal["team"]
+
+            entry = f"{scorer} {minute}'"
+
+            if team == match["home_team"]:
+                home_scorers.append((minute, entry))
+            elif team == match["away_team"]:
+                away_scorers.append((minute, entry))
+
+        for _, goal in own_goals.iterrows():
+            scorer = goal["player"]
+            minute = int(goal["minute"])
+            scoring_team = goal["team"]
+
+            entry = f"{scorer} (OG) {minute}'"
+
+            if scoring_team == match["home_team"]:
+                away_scorers.append((minute, entry))
+            elif scoring_team == match["away_team"]:
+                home_scorers.append((minute, entry))
+
+        home_scorers.sort(key=lambda x: x[0])
+        away_scorers.sort(key=lambda x: x[0])
+
+        home_scorer_text = "\n".join(
+            entry for _, entry in home_scorers
+        ) or " "
+
+        away_scorer_text = "\n".join(
+            entry for _, entry in away_scorers
+        ) or " "
+
+
         return ui.div(
 
             ui.p(
@@ -2396,6 +2461,20 @@ def server(input, output, session):
                 f"{match['match_date']} • {match['stadium']}",
                 style="font-size: 14px; color: #666; margin-top: 6px;font-weight: 700;"
             ),
+
+            ui.div(
+                ui.div(
+                    home_scorer_text,
+                    style="font-size: 14px; text-align: right; padding-right: 25px; white-space: pre-line;"
+                ),
+                ui.div(""),
+                ui.div(
+                    away_scorer_text,
+                    style="font-size: 14px; text-align: left; padding-left: 25px; white-space: pre-line;"
+                ),
+                style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: start;"
+            ),
+
             style="""
                 max-width: 1300px;
                 width: 100%;
