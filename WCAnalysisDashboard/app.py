@@ -1012,7 +1012,7 @@ app_ui = ui.page_fluid(
                         choices={
                             "Standard": "Standard",
                             "Attacking": "Attacking",
-                            "Midfield": "Midfield",
+                            "Possession & Distribution": "Midfield",
                             "Defending": "Defending"
                         },
                         selected="Standard",
