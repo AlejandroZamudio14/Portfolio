@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import matplotlib.patheffects as path_effects
+from scipy.ndimage import gaussian_filter
 from scipy.ndimage import gaussian_filter1d
 
 from mplsoccer import Pitch
@@ -32,6 +33,7 @@ defender_stats = pd.read_csv("Data/2022WorldCup_DefenderData.csv")
 keeper_stats = pd.read_csv("Data/2022WorldCup_KeeperData.csv")
 visual_data = pd.read_csv("Data/2022WorldCup_VisualizationData.csv")
 penalty_data = pd.read_csv("Data/2022WorldCup_PenaltyData.csv")
+similar_performances_df = pd.read_csv("Data/2022WorldCup_KNN_Players.csv")
 
 
 xT_grid = pd.read_csv("Data/xT_Grid_Values.csv", header=None, skiprows=1).to_numpy()
@@ -135,6 +137,48 @@ pitch_order = {
     23: 3,  # Center Forward
     24: 4,  # Left Center Forward
     25: 3   # Secondary Striker
+}
+
+team_finishes = {
+    # Champions and medal positions
+    "Argentina": "Champions",
+    "France": "Runner-up",
+    "Croatia": "3rd Place",
+    "Morocco": "4th Place",
+
+    # Quarter-final exits
+    "Netherlands": "Quarter-finals",
+    "Brazil": "Quarter-finals",
+    "England": "Quarter-finals",
+    "Portugal": "Quarter-finals",
+
+    # Round of 16 exits
+    "United States": "Round of 16",
+    "Senegal": "Round of 16",
+    "Australia": "Round of 16",
+    "Poland": "Round of 16",
+    "Japan": "Round of 16",
+    "Spain": "Round of 16",
+    "Switzerland": "Round of 16",
+    "South Korea": "Round of 16",
+
+    # Group-stage exits
+    "Qatar": "Group Stage",
+    "Ecuador": "Group Stage",
+    "Wales": "Group Stage",
+    "Iran": "Group Stage",
+    "Mexico": "Group Stage",
+    "Saudi Arabia": "Group Stage",
+    "Tunisia": "Group Stage",
+    "Denmark": "Group Stage",
+    "Germany": "Group Stage",
+    "Costa Rica": "Group Stage",
+    "Belgium": "Group Stage",
+    "Canada": "Group Stage",
+    "Serbia": "Group Stage",
+    "Cameroon": "Group Stage",
+    "Uruguay": "Group Stage",
+    "Ghana": "Group Stage"
 }
 
 def calculate_xt(events):
@@ -623,6 +667,236 @@ def plot_shot_map(events, home_team, away_team):
     fig.tight_layout(pad=2)
     return fig
 
+def plot_player_pass_map(events, team_color):
+    # Keep only pass events.
+    passes = events[
+        events["type"] == "Pass"
+    ].copy()
+
+    # Remove missing locations.
+    passes = passes.dropna(
+        subset=["location", "pass_end_location"]
+    )
+
+    # Keep valid coordinate pairs.
+    passes = passes[
+        passes["location"].apply(
+            lambda loc: isinstance(loc, (list, tuple, np.ndarray))
+            and len(loc) >= 2
+        )
+        &
+        passes["pass_end_location"].apply(
+            lambda loc: isinstance(loc, (list, tuple, np.ndarray))
+            and len(loc) >= 2
+        )
+    ].copy()
+
+    if passes.empty:
+        return None
+
+    # Create pitch.
+    pitch = Pitch(
+        pitch_type="statsbomb",
+        line_color="#444444",
+        pitch_color="white"
+    )
+
+    fig, ax = pitch.draw(figsize=(10, 7))
+
+    # Plot passes as thin, transparent arrows.
+    for _, row in passes.iterrows():
+        start_x, start_y = row["location"][:2]
+        end_x, end_y = row["pass_end_location"][:2]
+
+        ax.annotate(
+            "",
+            xy=(end_x, end_y),
+            xytext=(start_x, start_y),
+            arrowprops=dict(
+                arrowstyle="->",
+                color=team_color,
+                linewidth=0.8,
+                alpha=0.4,
+                mutation_scale=8
+            ),
+            zorder=2
+        )
+
+    return fig
+
+def plot_player_heat_map(events):
+    # Keep events with valid location coordinates
+    events = events.dropna(subset=["location"]).copy()
+
+    events = events[
+        events["location"].apply(
+            lambda loc: isinstance(loc, (list, tuple, np.ndarray))
+            and len(loc) >= 2
+        )
+    ]
+
+    if events.empty:
+        return None
+
+    # Extract x and y coordinates
+    x = events["location"].apply(lambda loc: loc[0]).to_numpy(dtype=float)
+    y = events["location"].apply(lambda loc: loc[1]).to_numpy(dtype=float)
+
+    # Remove invalid coordinates
+    valid = (
+        np.isfinite(x) & np.isfinite(y)
+        & (x >= 0) & (x <= 120)
+        & (y >= 0) & (y <= 80)
+    )
+
+    x = x[valid]
+    y = y[valid]
+
+    if len(x) == 0:
+        return None
+
+    # Create a 2D event density grid
+    heatmap, xedges, yedges = np.histogram2d(
+        x,
+        y,
+        bins=[40, 27],
+        range=[[0, 120], [0, 80]]
+    )
+
+    # Apply Gaussian smoothing
+    heatmap = gaussian_filter(heatmap, sigma=2)
+
+
+    # Draw the pitch
+    pitch = Pitch(
+        pitch_type="statsbomb",
+        line_color="#444444",
+        pitch_color="white"
+    )
+
+    fig, ax = pitch.draw(figsize=(10, 7))
+
+    # Overlay the smoothed heat map
+    ax.imshow(
+        heatmap.T,
+        extent=[0, 120, 0, 80],
+        origin="lower",
+        cmap="Reds",
+        alpha=0.7,
+        aspect="auto",
+        interpolation="bilinear"
+    )
+
+    # Attacking direction label
+    ax.text(
+        0.5, 1.12,
+        "ATTACKING DIRECTION",
+        transform=ax.transAxes,
+        ha="center",
+        va="center",
+        fontsize=11,
+        fontweight="bold",
+        color="black"
+    )
+
+    # Centered arrow pointing right
+    ax.annotate(
+        "",
+        xy=(0.58, 1.06),
+        xytext=(0.42, 1.06),
+        xycoords="axes fraction",
+        arrowprops=dict(
+            arrowstyle="->",
+            color="black",
+            linewidth=2
+        ),
+        annotation_clip=False
+    )
+
+    return fig
+
+
+def plot_player_shot_map(events):
+    # Keep only shot events
+    shots = events[events["type"] == "Shot"].copy()
+
+    shots = shots.dropna(subset=["location"])
+
+    shots = shots[
+        shots["location"].apply(
+            lambda loc: isinstance(loc, (list, tuple, np.ndarray))
+            and len(loc) >= 2
+        )
+    ].copy()
+
+    if shots.empty:
+        return None
+
+    # Extract shot coordinates
+    x = shots["location"].apply(lambda loc: loc[0]).to_numpy(dtype=float)
+    y = shots["location"].apply(lambda loc: loc[1]).to_numpy(dtype=float)
+
+    # Extract xG and shot outcomes
+    xg = pd.to_numeric(
+        shots["shot_statsbomb_xg"], errors="coerce"
+    ).fillna(0).to_numpy()
+
+    outcomes = shots["shot_outcome"].fillna("Unknown")
+
+    # Draw full pitch
+    pitch = Pitch(
+        pitch_type="statsbomb",
+        line_color="#444444",
+        pitch_color="white"
+    )
+
+    fig, ax = pitch.draw(figsize=(10, 7))
+
+    # Shot outcome colors
+    outcome_colors = {
+        "Goal": "#2E8B57",
+        "Saved": "#2878B5",
+        "Blocked": "#E69F00",
+        "Off T": "#888888",
+        "Wayward": "#888888",
+        "Post": "#9B59B6",
+        "Saved to Post": "#2878B5",
+        "Saved Off Target": "#2878B5",
+        "Deflected": "#888888",
+        "Unknown": "#888888"
+    }
+
+    # Plot shots individually
+    for outcome, color in outcome_colors.items():
+        mask = outcomes == outcome
+
+        if not mask.any():
+            continue
+
+        ax.scatter(
+            x[mask],
+            y[mask],
+            s=40 + (xg[mask] * 500),
+            c=color,
+            edgecolors="black",
+            linewidths=0.7,
+            alpha=0.85,
+            label=outcome,
+            zorder=3
+        )
+
+    # Legend
+    ax.legend(
+        loc="upper center",
+        bbox_to_anchor=(0.5, -0.05),
+        ncol=4,
+        frameon=False,
+        fontsize=9
+    )
+
+    return fig
+
+
 def draw_goal(ax):
     post_color="black"
     x1=[44,44]
@@ -779,6 +1053,120 @@ def plot_penalty_visual(data, home_team, away_team, penalty_type):
     return fig
 
 
+def plot_goalkeeper_shots_faced(events):
+    # Keep only shots.
+    shots = events[
+        events["type"] == "Shot"
+    ].copy()
+
+    # Parse shot-end coordinates.
+    shots["end_location"] = shots["shot_end_location"].apply(
+        parse_location
+    )
+
+    shots = shots.dropna(
+        subset=["end_location"]
+    ).copy()
+
+    # Keep valid goalmouth coordinates.
+    shots = shots[
+        shots["end_location"].apply(
+            lambda loc: isinstance(loc, (list, tuple, np.ndarray))
+            and len(loc) >= 3
+        )
+    ].copy()
+
+    if shots.empty:
+        return None
+
+    # Extract goalmouth coordinates.
+    shots["end_y"] = shots["end_location"].apply(
+        lambda loc: loc[1]
+    )
+
+    shots["end_z"] = shots["end_location"].apply(
+        lambda loc: loc[2]
+    )
+
+    outcomes = shots["shot_outcome"].fillna("Unknown")
+
+    # Create figure.
+    fig, ax = plt.subplots(figsize=(9, 4.5))
+
+    fig.patch.set_facecolor("white")
+    ax.set_facecolor("white")
+
+    draw_goal(ax)
+
+    # Shot outcome colors.
+    outcome_colors = {
+        "Goal": "#2E8B57",
+        "Saved": "#2878B5",
+        "Blocked": "#E69F00",
+        "Off T": "#888888",
+        "Wayward": "#888888",
+        "Post": "#9B59B6",
+        "Saved to Post": "#2878B5",
+        "Saved Off Target": "#2878B5",
+        "Deflected": "#888888",
+        "Unknown": "#888888"
+    }
+
+    # Plot shots individually.
+    for outcome, color in outcome_colors.items():
+        mask = outcomes == outcome
+
+        if not mask.any():
+            continue
+
+        ax.scatter(
+            shots.loc[mask, "end_y"],
+            shots.loc[mask, "end_z"],
+            s=180,
+            c=color,
+            edgecolors="black",
+            linewidths=0.7,
+            alpha=0.85,
+            label=outcome,
+            zorder=3
+        )
+
+    ax.set_xlim(34.5, 45.5)
+    ax.set_ylim(-0.25, 4.5)
+    ax.axis("off")
+
+    ax.legend(
+        loc="upper center",
+        bbox_to_anchor=(0.5, -0.02),
+        ncol=4,
+        frameon=False,
+        fontsize=9
+    )
+
+    fig.tight_layout()
+
+    return fig
+
+
+player_analysis = player_mapping_df.merge(
+    rosters_df,
+    left_on=['player_abbr', 'jersey_number', 'team'],
+    right_on=['Player', 'Number', 'Team'],
+    how='left'
+)
+
+player_analysis = player_analysis.rename(columns={
+    'player': 'statsbomb_player',
+    'player_abbr': 'player_name',
+    'Pos': 'position'
+})
+
+player_analysis = player_analysis[
+    ['statsbomb_player', 'player_name', 'jersey_number', 'team', 'position']
+].drop_duplicates()
+
+
+
 
 app_ui = ui.page_fluid(
     ui.head_content(
@@ -788,6 +1176,7 @@ app_ui = ui.page_fluid(
                 width: calc(100% - 48px);
                 margin: 40px auto;
             }
+            
 
             .stat-category {
                 background-color: #F7F5F6;
@@ -900,191 +1289,485 @@ app_ui = ui.page_fluid(
             .goalkeeper-stats-section .form-group {
                 margin-bottom: 14px;
             }
+
+            .tournament-stats-table-wrapper {
+                width: 100%;
+                max-width: 1300px;
+                margin: 0 auto;
+                overflow-x: auto;
+                box-sizing: border-box;
+                padding: 8px 0;
+            }
+
+            .tournament-stats-table {
+                width: 100%;
+                border-collapse: separate;
+                border-spacing: 0;
+                table-layout: auto;
+                white-space: nowrap;
+                text-align: center;
+                background: white;
+                border: 1px solid #E5E7EB;
+                border-radius: 10px;
+                overflow: hidden;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            }
+
+            .tournament-stats-table th {
+                background-color: var(--team-color);
+                color: white;
+                font-size: 13px;
+                font-weight: 600;
+                letter-spacing: 0.3px;
+                padding: 15px 18px;
+                border-bottom: 3px solid var(--team-color);
+            }
+
+            .tournament-stats-table td {
+                padding: 16px 18px;
+                font-size: 15px;
+                font-weight: 500;
+                color: #333333;
+                border-bottom: 1px solid #EEEEEE;
+            }
+
+            .tournament-stats-table tbody tr:last-child td {
+                border-bottom: none;
+            }
+
+            .tournament-stats-table tbody tr:hover {
+                background-color: color-mix(in srgb, var(--team-color) 10%, white);
+            }
+
+            .tournament-stats-table th:first-child {
+                border-top-left-radius: 9px;
+            }
+
+            .tournament-stats-table th:last-child {
+                border-top-right-radius: 9px;
+            }
+
+            .match-log-table-wrapper {
+                width: 100%;
+                max-width: 1300px;
+                margin: 0 auto;
+                overflow-x: auto;
+                box-sizing: border-box;
+                padding: 8px 0;
+            }
+
+            .match-log-table {
+                width: 100%;
+                border-collapse: separate;
+                border-spacing: 0;
+                table-layout: auto;
+                white-space: nowrap;
+                text-align: center;
+                background: white;
+                border: 1px solid #E5E7EB;
+                border-radius: 10px;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            }
+
+            .match-log-table th {
+                background-color: var(--team-color);
+                color: white;
+                font-size: 13px;
+                font-weight: 600;
+                letter-spacing: 0.3px;
+                padding: 15px 18px;
+                border-bottom: 3px solid var(--team-color);
+            }
+
+            .match-log-table td {
+                padding: 14px 18px;
+                font-size: 14px;
+                font-weight: 500;
+                color: #333333;
+                border-bottom: 1px solid #EEEEEE;
+            }
+
+            .match-log-table tbody tr:last-child td {
+                border-bottom: none;
+            }
+
+            .match-log-table tbody tr:nth-child(even) {
+                background-color: #F8F9FA;
+            }
+
+            .match-log-table tbody tr:hover {
+                background-color: color-mix(in srgb, var(--team-color) 10%, white);
+            }
+            
+            .match-player-table-wrapper {
+                width: 100%;
+                max-width: 1300px;
+                margin: 0 auto;
+                overflow-x: auto;
+                box-sizing: border-box;
+                padding: 8px 0;
+            }
+
+            .match-player-table {
+                width: 100%;
+                border-collapse: separate;
+                border-spacing: 0;
+                table-layout: auto;
+                white-space: nowrap;
+                text-align: center;
+                background: white;
+                border: 1px solid #E5E7EB;
+                border-radius: 10px;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            }
+
+            .match-player-table th {
+                background-color: var(--team-color);
+                color: white;
+                font-size: 13px;
+                font-weight: 600;
+                letter-spacing: 0.3px;
+                padding: 15px 18px;
+                border-bottom: 3px solid var(--team-color);
+            }
+
+            .match-player-table td {
+                padding: 14px 18px;
+                font-size: 14px;
+                font-weight: 500;
+                color: #333333;
+                border-bottom: 1px solid #EEEEEE;
+            }
+
+            .match-player-table tbody tr:last-child td {
+                border-bottom: none;
+            }
+
+            .match-player-table tbody tr:nth-child(even) {
+                background-color: #F8F9FA;
+            }
+
+            .match-player-table tbody tr:hover {
+                background-color: color-mix(in srgb, var(--team-color) 10%, white);
+            }
+
             
         """)
     ),
     ui.h1("2022 World Cup Dashboard"),
 
-    ui.div(
-        ui.div(
-            ui.input_select(
-                "stage",
-                "Tournament Stage",
-                choices=[]
-            ),
-            ui.input_select(
-                "match",
-                "Match",
-                choices=[]
-            ),
-            style="display: flex; gap: 20px; justify-content: center;"
-        ),
-        style="margin-bottom: 20px;"
-    ),
-
-    ui.output_ui("match_header"),
     ui.navset_tab(
-        # Team Stats tab
-        ui.nav_panel(
-            "Team Stats",
-
-            ui.div(
-                ui.h2(
-                    "Team Stats",
-                    style="""
-                        color: #56042C;
-                        font-size: 26px;
-                        font-weight: 700;
-                        margin-bottom: 24px;
-                        text-align: center;
-                    """
-                ),
-
-                # Attacking panel
-                ui.div(
-                    ui.h3("Attacking", class_="stat-category-title"),
-                    ui.output_ui("xg_comparison"),
-                    ui.output_ui("shots_comparison"),
-                    ui.output_ui("shots_on_target_comparison"),
-                    ui.output_ui("corners_comparison"),
-                    ui.output_ui("final_third_entries_comparison"),
-                    ui.output_ui("penalties_won_comparison"),
-                    class_="stat-category"
-                ),
-
-                # Ball Progression panel
-                ui.div(
-                    ui.h3("Ball Progression", class_="stat-category-title"),
-                    ui.output_ui("pass_completion_comparison"),
-                    ui.output_ui("field_tilt_comparison"),
-                    class_="stat-category"
-                ),
-
-                # Defending panel
-                ui.div(
-                    ui.h3("Defending", class_="stat-category-title"),
-                    ui.output_ui("tackles_comparison"),
-                    ui.output_ui("interceptions_comparison"),
-                    ui.output_ui("blocks_comparison"),
-                    ui.output_ui("clearances_comparison"),
-                    ui.output_ui("aerial_wins_comparison"),
-                    ui.output_ui("own_goal_comparison"),
-                    class_="stat-category"
-                ),
-
-                # Discipline panel
-                ui.div(
-                    ui.h3("Discipline", class_="stat-category-title"),
-                    ui.output_ui("fouls_comparison"),
-                    ui.output_ui("yellow_cards_comparison"),
-                    ui.output_ui("red_cards_comparison"),
-                    class_="stat-category"
-                ),
-
-                class_="team-stats-container"
-            )
-        ),
-
-        # Lineups tab — content comes next
-        ui.nav_panel(
-            "Lineups",
-            ui.div(
-                ui.h2(
-                    "Lineups",
-                    style="color: #56042C; text-align: center;"
-                ),
-                ui.output_ui("lineup_pitch"),
-                class_="team-stats-container"
-            )
-        ),
 
         ui.nav_panel(
-            "Player Stats",
+            "Match Analysis",
+
             ui.div(
-                ui.h2(
-                    "Outfield Player Stats",
-                    style="color: #56042C; text-align: center;"
-                ),
-                ui.div(
-                    ui.input_radio_buttons(
-                        "player_stats_type",
-                        "Stat Category",
-                        choices={
-                            "Standard": "Standard",
-                            "Attacking": "Attacking",
-                            "Midfield": "Possession & Distribution",
-                            "Defending": "Defending"
-                        },
-                        selected="Standard",
-                        inline=True
-                    ),
-                    class_="player-stats-selector"
-                ),
                 ui.div(
                     ui.input_select(
-                        "player_team_filter",
-                        "Filter by Team",
-                        choices={"All Teams": "All Teams"},
-                        selected="All Teams"
+                        "stage",
+                        "Tournament Stage",
+                        choices=[]
                     ),
-                    class_="player-team-filter"
+                    ui.input_select(
+                        "match",
+                        "Match",
+                        choices=[]
+                    ),
+                    style="display: flex; gap: 20px; justify-content: center;"
                 ),
-                ui.output_data_frame("standard_player_table"),
-                class_="player-stats-section"
+                style="margin-bottom: 20px;"
             ),
-            ui.div(
-                ui.h2(
-                    "Goalkeeper Stats",
-                    style="color: #56042C; text-align: center; margin-top: 30px;"
+
+            ui.output_ui("match_header"),
+            ui.navset_tab(
+                # Team Stats tab
+                ui.nav_panel(
+                    "Team Stats",
+
+                    ui.div(
+                        ui.h2(
+                            "Team Stats",
+                            style="""
+                                color: #56042C;
+                                font-size: 26px;
+                                font-weight: 700;
+                                margin-bottom: 24px;
+                                text-align: center;
+                            """
+                        ),
+
+                        # Attacking panel
+                        ui.div(
+                            ui.h3("Attacking", class_="stat-category-title"),
+                            ui.output_ui("xg_comparison"),
+                            ui.output_ui("shots_comparison"),
+                            ui.output_ui("shots_on_target_comparison"),
+                            ui.output_ui("corners_comparison"),
+                            ui.output_ui("final_third_entries_comparison"),
+                            ui.output_ui("penalties_won_comparison"),
+                            class_="stat-category"
+                        ),
+
+                        # Ball Progression panel
+                        ui.div(
+                            ui.h3("Ball Progression", class_="stat-category-title"),
+                            ui.output_ui("pass_completion_comparison"),
+                            ui.output_ui("field_tilt_comparison"),
+                            class_="stat-category"
+                        ),
+
+                        # Defending panel
+                        ui.div(
+                            ui.h3("Defending", class_="stat-category-title"),
+                            ui.output_ui("tackles_comparison"),
+                            ui.output_ui("interceptions_comparison"),
+                            ui.output_ui("blocks_comparison"),
+                            ui.output_ui("clearances_comparison"),
+                            ui.output_ui("aerial_wins_comparison"),
+                            ui.output_ui("own_goal_comparison"),
+                            class_="stat-category"
+                        ),
+
+                        # Discipline panel
+                        ui.div(
+                            ui.h3("Discipline", class_="stat-category-title"),
+                            ui.output_ui("fouls_comparison"),
+                            ui.output_ui("yellow_cards_comparison"),
+                            ui.output_ui("red_cards_comparison"),
+                            class_="stat-category"
+                        ),
+
+                        class_="team-stats-container"
+                    )
                 ),
-                ui.input_select(
-                    "keeper_team_filter",
-                    "Filter by Team",
-                    choices={"All Teams": "All Teams"},
-                    selected="All Teams"
+
+                # Lineups tab — content comes next
+                ui.nav_panel(
+                    "Lineups",
+                    ui.div(
+                        ui.h2(
+                            "Lineups",
+                            style="color: #56042C; text-align: center;"
+                        ),
+                        ui.output_ui("lineup_pitch"),
+                        class_="team-stats-container"
+                    )
                 ),
-                ui.output_data_frame("keeper_player_table"),
-                class_="team-stats-container"
+
+                ui.nav_panel(
+                    "Player Stats",
+                    ui.div(
+                        ui.h2(
+                            "Outfield Player Stats",
+                            style="color: #56042C; text-align: center;"
+                        ),
+                        ui.div(
+                            ui.input_radio_buttons(
+                                "player_stats_type",
+                                "Stat Category",
+                                choices={
+                                    "Standard": "Standard",
+                                    "Attacking": "Attacking",
+                                    "Midfield": "Possession & Distribution",
+                                    "Defending": "Defending"
+                                },
+                                selected="Standard",
+                                inline=True
+                            ),
+                            class_="player-stats-selector"
+                        ),
+                        ui.div(
+                            ui.input_select(
+                                "player_team_filter",
+                                "Filter by Team",
+                                choices={"All Teams": "All Teams"},
+                                selected="All Teams"
+                            ),
+                            class_="player-team-filter"
+                        ),
+                        ui.output_ui("standard_player_table"),
+                        class_="player-stats-section"
+                    ),
+                    ui.div(
+                        ui.h2(
+                            "Goalkeeper Stats",
+                            style="color: #56042C; text-align: center; margin-top: 30px;"
+                        ),
+                        ui.div(
+                            ui.input_select(
+                                "keeper_team_filter",
+                                "Filter by Team",
+                                choices={"All Teams": "All Teams"},
+                                selected="All Teams"
+                            ),
+                            class_="player-team-filter"
+                        ),
+                        ui.output_ui("keeper_player_table"),
+                        class_="team-stats-container"
+                    )
+                    
+                    
+                ),
+
+                ui.nav_panel(
+                    "Match Visuals",
+                    ui.card(
+                        ui.card_header("xT Momentum"),
+                        ui.output_ui("xt_momentum_chart"),
+                        padding = 2
+                    ),
+                    ui.card(
+                        ui.card_header("Cumulative xG"),
+                        ui.output_ui("cumulative_xg_chart"),
+                        padding=2
+                    ),
+                    ui.card(
+                        ui.card_header("Shot Map"),
+                        ui.output_ui("shot_map_chart"),
+                        padding=2
+                    ),
+                    ui.hr(),
+                    ui.h4("Penalty Analysis"),
+
+                    ui.input_select(
+                        "penalty_type",
+                        "Penalty Type",
+                        choices={
+                            "In-game": "In-game Penalties",
+                            "Shootout": "Penalty Shootouts",
+                        },
+                        selected="In-game",
+                    ),
+
+                    ui.output_ui("penalty_visual"),
+                    ui.output_ui("penalty_table"),
+                )
             )
-            
-            
         ),
 
         ui.nav_panel(
-            "Match Visuals",
-            ui.card(
-                ui.card_header("xT Momentum"),
-                ui.output_ui("xt_momentum_chart"),
-                padding = 2
-            ),
-            ui.card(
-                ui.card_header("Cumulative xG"),
-                ui.output_ui("cumulative_xg_chart"),
-                padding=2
-            ),
-            ui.card(
-                ui.card_header("Shot Map"),
-                ui.output_ui("shot_map_chart"),
-                padding=2
-            ),
-            ui.hr(),
-            ui.h4("Penalty Analysis"),
+            "Player Analysis",
 
-            ui.input_select(
-                "penalty_type",
-                "Penalty Type",
-                choices={
-                    "In-game": "In-game Penalties",
-                    "Shootout": "Penalty Shootouts",
-                },
-                selected="In-game",
+
+            # Shared player selection
+            ui.div(
+                ui.div(
+                    ui.input_select(
+                        "player_country",
+                        "Country",
+                        choices=[]
+                    ),
+                    ui.input_select(
+                        "player_name",
+                        "Player",
+                        choices=[]
+                    ),
+                    style="display: flex; gap: 20px; justify-content: center;"
+                ),
+                style="margin-bottom: 20px;"
             ),
 
-            ui.output_ui("penalty_visual"),
-            ui.output_ui("penalty_table"),
+            ui.output_ui("player_header"),
+            ui.output_ui("player_summary"),
+
+            # Player analysis tabs
+            ui.navset_tab(
+                ui.nav_panel(
+                    "Player Overview",
+
+                    # Existing player header and summary
+                
+
+                    ui.h2(
+                        "Tournament Statistics",
+                        style="color: #56042C; text-align: center; margin-top: 30px;"
+                    ),
+                    ui.output_ui("player_category_selector"),
+                    ui.div(
+                        ui.div(
+                            ui.output_ui("player_tournament_table"),
+                            class_="player-tournament-grid"
+                        ),
+                        class_="player-tournament-table-container"
+                    ),
+
+                    ui.h2(
+                        "Match-by-Match Performance",
+                        style="color: #56042C; text-align: center; margin-top: 40px;"
+                    ),
+
+                    ui.div(
+                        ui.div(
+                            ui.output_ui("player_match_log"),
+                            class_="player-match-grid"
+                        ),
+                        class_="player-match-log-container"
+                    ),
+                ),
+
+                ui.nav_panel(
+                    "Player Visualizations",
+
+                    ui.card(
+                        ui.card_header("Player Event Heat Map"),
+                        ui.output_ui("player_heat_map"),
+                        padding=2
+                    ),
+
+                    ui.card(
+                        ui.output_ui("player_visualization_header"),
+                        ui.output_ui("player_visualization_map"),
+                        padding=2
+                    ),
+
+                    ui.card(
+                        ui.card_header("Player Pass Map"),
+                        ui.output_ui("player_pass_map"),
+                        padding=2
+                    )
+                ),
+
+                ui.nav_panel(
+                    "Similar Performances",
+                    ui.card(
+                        ui.card_header("Similar Tournament Performances"),
+                        ui.output_ui("similar_performances"),
+                        padding=2
+                    )
+                )    
+            )
+        ),
+
+        ui.nav_panel(
+            "Team Analysis",
+            ui.h2(
+                "Team Analysis",
+                style="color: #56042C; text-align: center;"
+            ),
+            ui.div(
+                ui.div(
+                    ui.input_select(
+                        "team_country",
+                        "Country",
+                        choices=[]
+                    ),
+                    style="display: flex; gap: 20px; justify-content: center;"
+                ),
+                style="margin-bottom: 20px;"
+            ),
+
+            ui.output_ui("team_analysis_header"),
+
+            ui.navset_tab(
+                    ui.nav_panel("Roster"),
+                    ui.nav_panel("Matches"),
+                    ui.nav_panel("Leaderboards"),
+                    ui.nav_panel("Team Visualizations")
+                )          
+        
         )
+
     )
-    
 
 )
 
@@ -1139,6 +1822,41 @@ def server(input, output, session):
             "keeper_team_filter",
             choices=choices,
             selected="All Teams"
+        )
+
+    @reactive.effect
+    def update_player_countries():
+        countries = sorted(player_analysis['team'].unique())
+
+        ui.update_select(
+            "player_country",
+            choices=countries,
+            selected=countries[0]
+        )
+
+    @reactive.effect
+    def update_team_countries():
+        countries = sorted(team_stats["Team"].unique())
+
+        ui.update_select(
+            "team_country",
+            choices=countries,
+            selected=countries[0]
+        )
+
+    @reactive.effect
+    @reactive.event(input.player_country)
+    def update_player_choices():
+        country_players = player_analysis[
+            player_analysis['team'] == input.player_country()
+        ]
+
+        players = sorted(country_players['player_name'].unique())
+
+        ui.update_select(
+            "player_name",
+            choices=players,
+            selected=players[0]
         )
 
     @reactive.calc
@@ -1244,6 +1962,225 @@ def server(input, output, session):
             "home_formation": str(match["home_formation"]),
             "away_formation": str(match["away_formation"]),
         }
+
+    @reactive.calc
+    def selected_player():
+        player = input.player_name()
+        country = input.player_country()
+
+        if not player or not country:
+            return None
+
+        result = player_analysis[
+            (player_analysis['player_name'] == player) &
+            (player_analysis['team'] == country)
+        ]
+
+        if result.empty:
+            return None
+
+        return result.iloc[0]
+
+    @reactive.calc
+    def player_tournament_summary():
+        player = selected_player()
+
+        if player is None:
+            return None
+
+        statsbomb_name = player['statsbomb_player']
+
+        if player['position'] == 'GK':
+            player_stats = keeper_stats[
+                keeper_stats['Player'] == statsbomb_name
+            ]
+        else:
+            player_stats = standard_stats[
+                standard_stats['Player'] == statsbomb_name
+            ]
+
+        minutes = player_stats['Minutes'].sum()
+        appearances = player_stats['game_id'].nunique()
+
+        starts = starters_df[
+            (starters_df['player'] == statsbomb_name) &
+            (starters_df['Starter'] == True)
+        ]['match_id'].nunique()
+
+        return {
+            'minutes': minutes,
+            'appearances': appearances,
+            'starts': starts
+        }
+
+    @reactive.calc
+    def selected_player_stats():
+        player = selected_player()
+
+        if player is None:
+            return pd.DataFrame()
+
+        statsbomb_name = player['statsbomb_player']
+
+        if player['position'] == 'GK':
+            stats = keeper_stats
+        else:
+            category = input.player_tournament_type()
+
+            if category == "Standard":
+                stats = standard_stats
+            elif category == "Attacking":
+                stats = attacker_stats
+            elif category == "Midfield":
+                stats = midfielder_stats
+            else:
+                stats = defender_stats
+
+        player_stats = stats[
+            stats['Player'] == statsbomb_name
+        ]
+
+        # Remove columns that identify the player or individual match.
+        excluded_columns = [
+            'Unnamed: 0', 'Player', 'Position', 'Team', 'game_id'
+        ]
+
+        stat_columns = [
+            col for col in player_stats.columns
+            if col not in excluded_columns
+        ]
+
+        # Sum cumulative counting statistics.
+        totals = player_stats[stat_columns].sum().to_frame().T
+
+
+        # Calculate tournament-wide pass completion percentage.
+        if 'Pass Completion %' in totals.columns:
+            total_passes = player_stats['Passes'].sum()
+
+            totals['Pass Completion %'] = (
+                (
+                    player_stats['Pass Completion %'] *
+                    player_stats['Passes']
+                ).sum() / total_passes
+                if total_passes > 0 else 0
+            )
+
+        for col in ['Pass Completion %', 'xG']:
+            if col in totals.columns:
+                totals[col] = totals[col].round(2)
+
+        return totals.reset_index(drop=True)
+
+    @reactive.calc
+    def player_match_log_data():
+        player = selected_player()
+
+        if player is None:
+            return pd.DataFrame()
+
+        statsbomb_name = player['statsbomb_player']
+
+        # Select dataset and statistics based on player position/category.
+        if player['position'] == 'GK':
+            stats = keeper_stats
+            stat_columns = [
+                'Minutes',
+                'Shots Faced',
+                'Saves',
+                'Goals Conceded',
+                'Clearances'
+            ]
+        else:
+            category = input.player_tournament_type()
+
+            if category == "Standard":
+                stats = standard_stats
+                stat_columns = [
+                    'Minutes', 'Goals', 'Assists', 'Shots',
+                    'Shots on Target', 'Passes', 'Pass Completion %',
+                    'Fouls', 'Yellow Cards', 'Red Cards'
+                ]
+            elif category == "Attacking":
+                stats = attacker_stats
+                stat_columns = [
+                    'Minutes', 'Goals', 'xG', 'Shots',
+                    'Shots on Target', 'Assists',
+                    'Penalties Won', 'Final Third Entries'
+                ]
+            elif category == "Midfield":
+                stats = midfielder_stats
+                stat_columns = [
+                    'Minutes', 'Passes', 'Key Passes',
+                    'Successful Dribbles', 'Crosses', 'Free Kicks',
+                    'Dispossessed', 'Miscontrols', 'Aerial Wins'
+                ]
+            else:
+                stats = defender_stats
+                stat_columns = [
+                    'Minutes', 'Own Goals', 'Tackles',
+                    'Interceptions', 'Blocks', 'Clearances',
+                    'Fouls', 'Yellow Cards', 'Red Cards',
+                    'Penalty Conceded'
+                ]
+
+        # Filter selected player.
+        player_games = stats[
+            stats['Player'] == statsbomb_name
+        ].copy()
+
+        # Join schedule information.
+        game_log = player_games.merge(
+            schedule,
+            left_on='game_id',
+            right_on='match_id',
+            how='left'
+        )
+
+        # Determine opponent and result from player's perspective.
+        def match_details(row):
+            if row['Team'] == row['home_team']:
+                opponent = row['away_team']
+                team_score = row['home_score']
+                opponent_score = row['away_score']
+                venue = 'Home'
+            else:
+                opponent = row['home_team']
+                team_score = row['away_score']
+                opponent_score = row['home_score']
+                venue = 'Away'
+
+            if team_score > opponent_score:
+                result = 'W'
+            elif team_score < opponent_score:
+                result = 'L'
+            else:
+                result = 'D'
+
+            return pd.Series({
+                'Opponent': opponent,
+                'Venue': venue,
+                'Result': f"{result} {team_score}–{opponent_score}"
+            })
+
+        details = game_log.apply(match_details, axis=1)
+        game_log = pd.concat([game_log, details], axis=1)
+
+        # Convert date to datetime.
+        game_log['match_date'] = pd.to_datetime(game_log['match_date'])
+
+        # Sort chronologically before formatting.
+        game_log = game_log.sort_values('match_date')
+
+        # Format date for display.
+        game_log['Date'] = game_log['match_date'].dt.strftime('%b %d, %Y')
+
+        # Select displayed columns.
+        game_log = game_log[
+            ['Date', 'Opponent', 'Venue', 'Result'] + stat_columns
+        ]
+
+        return game_log.reset_index(drop=True)
     
     def create_stat_comparison(metric, label, decimals=0):
         stats = selected_team_stats()
@@ -1514,6 +2451,77 @@ def server(input, output, session):
             "Own Goals",
             decimals=0
         )
+
+    @render.ui
+    def player_visualization_header():
+        player = selected_player()
+
+        if player is None:
+            return ui.card_header("Player Shot Map")
+
+        if player["position"] == "GK":
+            return ui.card_header("Goalkeeper Shots Faced")
+
+        return ui.card_header("Player Shot Map")
+
+    @render.ui
+    def team_analysis_header():
+        country = input.team_country()
+
+        if not country:
+            return ui.div()
+
+        team_color = team_cols.loc[
+            team_cols['Country'] == country,
+            'primary_color_hex'
+        ].iloc[0]
+
+        finish = team_finishes.get(country, "Unknown")
+
+        return ui.div(
+            ui.p(
+                country,
+                style="""
+                    font-size: 45px;
+                    font-weight: 700;
+                    margin-bottom: 5px;
+                """
+            ),
+
+            ui.p(
+                finish,
+                style=f"""
+                    font-size: 20px;
+                    font-weight: 700;
+                    color: {team_color};
+                    margin-top: 0;
+                """
+            ),
+
+            style=f"""
+                    max-width: 1300px;
+                    width: 100%;
+                    box-sizing: border-box;
+                    margin: 30px auto;
+                    padding: 40px 50px;
+                    text-align: center;
+                    border: 4px solid {team_color};
+                    border-radius: 16px;
+                """
+        )
+
+
+    @render.ui
+    def player_visualization_map():
+        player = selected_player()
+
+        if player is None:
+            return ui.div()
+
+        if player["position"] == "GK":
+            return ui.output_ui("goalkeeper_shot_map")
+
+        return ui.output_ui("player_shot_map")
 
  
     @render.ui
@@ -2069,7 +3077,8 @@ def server(input, output, session):
 
 
 
-    @render.data_frame
+    
+    @render.ui
     def standard_player_table():
         match = selected_match()
 
@@ -2097,7 +3106,7 @@ def server(input, output, session):
                 [
                     "Player", "Position", "Minutes", "Team",
                     "Passes", "Key Passes", "Crosses",
-                    "Successful Dribbles", "Free Kicks", 
+                    "Successful Dribbles", "Free Kicks",
                     "Dispossessed", "Miscontrols",
                     "Aerial Wins"
                 ]
@@ -2118,15 +3127,12 @@ def server(input, output, session):
         data, columns = stats_datasets[stats_type]
 
         if match is None:
-            return render.DataGrid(
-                data.iloc[0:0][columns],
-                filters=False,
-                height="auto"
-            )
+            return ui.div()
 
         match_id = int(input.match())
 
         df = data[data["game_id"] == match_id].copy()
+
         if "xG" in df.columns:
             df["xG"] = df["xG"].round(2)
 
@@ -2135,13 +3141,47 @@ def server(input, output, session):
         if team_filter != "All Teams":
             df = df[df["Team"] == team_filter]
 
-        return render.DataGrid(
-            df[columns].sort_values(
-                ["Team", "Position", "Player"]
-            ),
-            filters=False,
-            height="auto"
+        df = df[columns].sort_values(
+            ["Team", "Position", "Player"]
         )
+
+        if df.empty:
+            return ui.p("No player statistics available.")
+
+        team_color = "#56042C"
+        
+
+        return ui.div(
+            ui.tags.table(
+                ui.tags.thead(
+                    ui.tags.tr(
+                        *[
+                            ui.tags.th(col)
+                            for col in df.columns
+                        ]
+                    )
+                ),
+                ui.tags.tbody(
+                    *[
+                        ui.tags.tr(
+                            *[
+                                ui.tags.td(
+                                    f"{value:,.2f}" if isinstance(value, (float, np.floating))
+                                    else f"{value:,.0f}" if isinstance(value, (int, np.integer))
+                                    else str(value)
+                                )
+                                for value in row
+                            ]
+                        )
+                        for row in df.itertuples(index=False, name=None)
+                    ]
+                ),
+                class_="match-player-table",
+                style=f"--team-color: {team_color};"
+            ),
+            class_="match-player-table-wrapper"
+        )
+
    
     @output
     @render.ui
@@ -2317,7 +3357,7 @@ def server(input, output, session):
             """
         )
 
-    @render.data_frame
+    @render.ui
     def keeper_player_table():
         columns = [
             "Player", "Position", "Minutes", "Team",
@@ -2328,11 +3368,7 @@ def server(input, output, session):
         match = selected_match()
 
         if match is None:
-            return render.DataGrid(
-                keeper_stats.iloc[0:0][columns],
-                filters=False,
-                height="auto"
-            )
+            return ui.div()
 
         match_id = int(input.match())
 
@@ -2345,12 +3381,254 @@ def server(input, output, session):
         if team_filter != "All Teams":
             df = df[df["Team"] == team_filter]
 
-        return render.DataGrid(
-            df[columns].sort_values(
-                ["Team", "Player"]
+        df = df[columns].sort_values(
+            ["Team", "Player"]
+        )
+
+        if df.empty:
+            return ui.p("No goalkeeper statistics available.")
+
+        return ui.div(
+            ui.tags.table(
+                ui.tags.thead(
+                    ui.tags.tr(
+                        *[
+                            ui.tags.th(col)
+                            for col in df.columns
+                        ]
+                    )
+                ),
+                ui.tags.tbody(
+                    *[
+                        ui.tags.tr(
+                            *[
+                                ui.tags.td(
+                                    f"{value:,.2f}" if isinstance(value, (float, np.floating))
+                                    else f"{value:,.0f}" if isinstance(value, (int, np.integer))
+                                    else str(value)
+                                )
+                                for value in row
+                            ]
+                        )
+                        for row in df.itertuples(index=False, name=None)
+                    ]
+                ),
+                class_="match-player-table",
+                style="--team-color: #56042C;"
             ),
-            filters=False,
-            height="auto"
+            class_="match-player-table-wrapper"
+        )
+
+
+    @reactive.calc
+    def goalkeeper_shots_faced():
+        player = selected_player()
+
+        if player is None or player["position"] != "GK":
+            return pd.DataFrame()
+
+        statsbomb_name = player["statsbomb_player"]
+        goalkeeper_team = player["team"]
+
+        # Find matches in which the goalkeeper appeared.
+        goalkeeper_matches = keeper_stats[
+            keeper_stats["Player"] == statsbomb_name
+        ]["game_id"].unique()
+
+        # Get the opponents in those matches.
+        match_teams = schedule[
+            schedule["match_id"].isin(goalkeeper_matches)
+        ][["match_id", "home_team", "away_team"]].copy()
+
+        match_teams["opponent"] = np.where(
+            match_teams["home_team"] == goalkeeper_team,
+            match_teams["away_team"],
+            match_teams["home_team"]
+        )
+
+        # Identify shots taken by those opponents.
+        opponent_shots = visual_data.merge(
+            match_teams[["match_id", "opponent"]],
+            on="match_id",
+            how="inner"
+        )
+
+        opponent_shots = opponent_shots[
+            (opponent_shots["team"] == opponent_shots["opponent"]) &
+            (opponent_shots["type"] == "Shot")
+        ].copy()
+
+        return opponent_shots
+
+    @render.ui
+    def goalkeeper_shot_map():
+        shots = goalkeeper_shots_faced()
+
+        if shots.empty:
+            return ui.p("No shots faced data available for this goalkeeper.")
+
+        fig = plot_goalkeeper_shots_faced(shots)
+
+        if fig is None:
+            return ui.p("No valid shot location data available.")
+
+        image_uri = fig_to_data_uri(fig)
+        plt.close(fig)
+
+        return ui.HTML(
+            f'<div style="width:100%; text-align:center;">'
+            f'<img src="{image_uri}" '
+            f'style="width:100%; max-width:900px; height:auto;">'
+            f'</div>'
+        )
+
+    @render.ui
+    def player_tournament_table():
+        stats = selected_player_stats()
+        player = selected_player()
+
+
+        if stats.empty:
+            return ui.div()
+
+        team_color = team_colors.get(
+            player['team'],
+            "#56042C"
+        )
+
+        return ui.div(
+            ui.tags.table(
+                ui.tags.thead(
+                    ui.tags.tr(
+                        *[
+                            ui.tags.th(col)
+                            for col in stats.columns
+                        ]
+                    )
+                ),
+                ui.tags.tbody(
+                    ui.tags.tr(
+                        *[
+                            ui.tags.td(
+                                f"{value:,.2f}" if isinstance(value, (float, np.floating))
+                                else f"{value:,.0f}" if isinstance(value, (int, np.integer))
+                                else str(value)
+                            )
+                            for value in stats.iloc[0]
+                        ]
+                    )
+                ),
+                class_="tournament-stats-table",
+                style=f"--team-color: {team_color};"
+            ),
+            class_="tournament-stats-table-wrapper"
+        )
+
+    @render.ui
+    def player_match_log():
+        game_log = player_match_log_data()
+        player = selected_player()
+
+        if game_log.empty or player is None:
+            return ui.div()
+
+        team_color = team_colors.get(
+            player['team'],
+            "#56042C"
+        )
+
+        # Build table headers.
+        headers = ui.tags.tr(
+            *[
+                ui.tags.th(col)
+                for col in game_log.columns
+            ]
+        )
+
+        # Build table rows.
+        rows = []
+
+        for _, row in game_log.iterrows():
+            cells = []
+
+            for col, value in row.items():
+                if pd.isna(value):
+                    display_value = ""
+                elif isinstance(value, (float, np.floating)):
+                    display_value = f"{value:,.2f}"
+                elif isinstance(value, (int, np.integer)):
+                    display_value = f"{value:,.0f}"
+                else:
+                    display_value = str(value)
+
+                cells.append(ui.tags.td(display_value))
+
+            rows.append(ui.tags.tr(*cells))
+
+        return ui.div(
+            ui.tags.table(
+                ui.tags.thead(headers),
+                ui.tags.tbody(*rows),
+                class_="match-log-table",
+                style=f"--team-color: {team_color};"
+            ),
+            class_="match-log-table-wrapper"
+        )
+
+    @render.ui
+    def player_heat_map():
+        player = selected_player()
+
+        if player is None:
+            return ui.p("Select a player to view their heat map.")
+
+        statsbomb_name = player['statsbomb_player']
+
+        player_events = visual_data[
+            visual_data['player'] == statsbomb_name
+        ].copy()
+
+        # Create heat map figure.
+        fig = plot_player_heat_map(player_events)
+        if fig is None:
+            return ui.p("No event locations available for this player.")
+
+        image_uri = fig_to_data_uri(fig)
+        plt.close(fig)
+
+        return ui.HTML(
+            f'<div style="width:100%; text-align:center;">'
+            f'<img src="{image_uri}" '
+            f'style="width:100%; max-width:900px; height:auto;">'
+            f'</div>'
+        )
+
+    @render.ui
+    def player_shot_map():
+        player = selected_player()
+
+        if player is None:
+            return ui.p("Select a player to view their shot map.")
+
+        statsbomb_name = player["statsbomb_player"]
+
+        player_events = visual_data[
+            visual_data["player"] == statsbomb_name
+        ].copy()
+
+        fig = plot_player_shot_map(player_events)
+
+        if fig is None:
+            return ui.p("No shot data available for this player.")
+
+        image_uri = fig_to_data_uri(fig)
+        plt.close(fig)
+
+        return ui.HTML(
+            f'<div style="width:100%; text-align:center;">'
+            f'<img src="{image_uri}" '
+            f'style="width:100%; max-width:900px; height:auto;">'
+            f'</div>'
         )
 
     @render.ui
@@ -2486,6 +3764,219 @@ def server(input, output, session):
                 border-radius: 16px;
             """
         )
+    
+    @render.ui
+    def player_header():
+        player = selected_player()
+
+        if player is None:
+            return ui.div()
+
+        country = player['team']
+
+        team_color = team_cols.loc[
+            team_cols['Country'] == country,
+            'primary_color_hex'
+        ].iloc[0]
+
+        return ui.div(
+
+            ui.p(
+                player['player_name'],
+                style="""
+                    font-size: 45px;
+                    font-weight: 700;
+                    margin-bottom: 15px;
+                """
+            ),
+
+            ui.p(
+                {
+                    'FW': 'Forward',
+                    'MF': 'Midfielder',
+                    'DF': 'Defender',
+                    'GK': 'Goalkeeper'
+                }.get(player['position'], player['position']),
+                style="font-size: 24px; font-weight: 700; margin-bottom: 10px;"
+            ),
+            ui.p(
+                f"{country} • #{player['jersey_number']}",
+                style="font-size: 18px; color: #666; font-weight: 600;"
+            ),
+
+            style=f"""
+                max-width: 1300px;
+                width: 100%;
+                box-sizing: border-box;
+                margin: 30px auto;
+                padding: 40px 50px;
+                text-align: center;
+                border: 4px solid {team_color};
+                border-radius: 16px;
+            """
+        )
+
+    @render.ui
+    def player_summary():
+        summary = player_tournament_summary()
+
+        if summary is None:
+            return ui.div()
+
+        metrics = [
+            ('Minutes', summary['minutes']),
+            ('Appearances', summary['appearances']),
+            ('Starts', summary['starts'])
+        ]
+
+        return ui.div(
+            *[
+                ui.div(
+                    ui.p(
+                        f"{value:,.0f}",
+                        style="""
+                            font-size: 36px;
+                            font-weight: 700;
+                            margin-bottom: 5px;
+                        """
+                    ),
+                    ui.p(
+                        label,
+                        style="""
+                            font-size: 16px;
+                            color: #666;
+                            font-weight: 600;
+                        """
+                    ),
+                    style="text-align: center; flex: 1;"
+                )
+                for label, value in metrics
+            ],
+            style="""
+                max-width: 900px;
+                width: 100%;
+                margin: 0 auto 35px auto;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+            """
+        )
+
+    @render.ui
+    def similar_performances():
+        player = selected_player()
+
+        if player is None:
+            return ui.p("Select a player to view similar performances.")
+
+        statsbomb_name = player["statsbomb_player"]
+
+        similar = similar_performances_df[
+            similar_performances_df["Player"] == statsbomb_name
+        ].copy()
+
+        if similar.empty:
+            return ui.p(
+                "Not enough tournament minutes to generate similar performances."
+            )
+
+        similar = similar.sort_values("Distance").head(3)
+
+        cards = []
+
+        for _, row in similar.iterrows():
+            cards.append(
+                ui.card(
+                    ui.card_header(row["Similar Player"]),
+                    ui.p(f"Team: {row['Team']}"),
+                    ui.p(f"Minutes: {row['Minutes']:.0f}"),
+                    ui.p(f"Similarity Index: {row['Similarity Score']:.1f}"),
+                    ui.p(f"Distance: {row['Distance']:.2f}"),
+                    padding=3
+                )
+            )
+
+        return ui.div(
+                    ui.div(
+                        *cards,
+                        style="""
+                            display: grid;
+                            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+                            gap: 15px;
+                        """
+                    ),
+                    ui.p(
+                        "Note: Similarity is based on statistical performances "
+                        "during the 2022 FIFA World Cup, not playing style or "
+                        "player archetype.",
+                        style="""
+                            color: #777777;
+                            font-size: 13px;
+                            text-align: center;
+                            margin-top: 15px;
+                        """
+                    )
+                )
+
+    @render.ui
+    def player_pass_map():
+        player = selected_player()
+
+        if player is None:
+            return ui.p("Select a player to view their pass map.")
+
+        statsbomb_name = player["statsbomb_player"]
+
+        team_color = team_colors.get(
+            player["team"],
+            "#56042C"
+        )
+
+        player_events = visual_data[
+            visual_data["player"] == statsbomb_name
+        ].copy()
+
+        fig = plot_player_pass_map(
+            player_events,
+            "#C62828"
+        )
+
+        if fig is None:
+            return ui.p("No pass data available for this player.")
+
+        image_uri = fig_to_data_uri(fig)
+        plt.close(fig)
+
+        return ui.HTML(
+            f'<div style="width:100%; text-align:center;">'
+            f'<img src="{image_uri}" '
+            f'style="width:100%; max-width:900px; height:auto;">'
+            f'</div>'
+        )
+
+    @render.ui
+    def player_category_selector():
+        player = selected_player()
+
+        if player is None or player['position'] == 'GK':
+            return ui.div()
+
+        return ui.div(
+            ui.input_radio_buttons(
+                "player_tournament_type",
+                "Stat Category",
+                choices={
+                    "Standard": "Standard",
+                    "Attacking": "Attacking",
+                    "Midfield": "Possession & Distribution",
+                    "Defending": "Defending"
+                },
+                selected="Standard",
+                inline=True
+            ),
+            class_="player-stats-selector"
+        )
 
 app = App(app_ui, server)
+
 
